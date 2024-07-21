@@ -1,0 +1,122 @@
+series:
+  from: 1
+  to: 28
+  status: complete
+
+episodes:
+  - number: "0"
+    tracks: 18
+    liked:
+      - ID
+
+  - number: 1
+    tracks: 19
+
+  - number: 2
+    tracks: 18
+
+  - number: 3
+    tracks: 19
+
+  - number: 4
+    tracks: 20
+
+  - number: 5
+    tracks: 23
+
+  - number: 6
+    tracks: 23
+    liked:
+      - Into The Night - 4 Strings
+      - The Legacy - Push
+
+  - number: 7
+    tracks: 22
+
+  - number: 8
+    tracks: 21
+
+  - number: 9
+    tracks: 22
+
+  - number: 10
+    tracks: 21
+
+  - number: 11
+    tracks: 18
+    liked:
+      - Ibeatza - Poison Club
+
+  - number: 12
+    tracks: 21
+
+  - number: 13
+    tracks: 21
+
+  - number: 14
+    tracks: 21
+
+  - number: 15
+    tracks: 20
+    liked:
+      - Above & Beyond pres. Tranquility Base - Razorfish (Above & Beyond Progressive Mix) [Tune Of The Week]
+
+  - number: 16
+    tracks: 21
+
+  - number: 17
+    tracks: 20
+    liked:
+      - iiO - Rapture (Armin van Buuren Remix)
+
+  - number: 18
+    tracks: 22
+    liked:
+      - iiO - Rapture (Armin van Buuren Remix)
+
+  - number: 19
+    tracks: 21
+    liked:
+      - OceanLab - Clear Blue Water (Ferry Corsten Remix)
+      - PPK - Resurection (Space Club Mix)
+
+  - number: 20
+    tracks: 9
+
+  - number: 21
+    tracks: 18
+    liked:
+      - OceanLab - Clear Blue Water (Ferry Corsten Remix)
+      - PPK - Resurection [Tune Of The Week]
+
+  - number: 22
+    tracks: 19
+
+  - number: 23
+    tracks: 20
+    liked:
+      - OceanLab - Clear Blue Water (Ferry Corsten Remix)
+      - PPK - Resurection (Space Club Mix)
+
+  - number: 24
+    tracks: 18
+
+  - number: 25
+    tracks: 20
+
+  - number: 26
+    tracks: 21
+    liked:
+      - Lange feat Skye - Drifting Away
+
+  - number: 27
+    tracks: 20
+    liked:
+      - Moon Project - Moments Are Forever
+
+  - number: 28
+    tracks: 20
+    liked:
+      - OceanLab - Clear Blue Water (Ferry Corsten Remix) [19th place]
+      - iiO - Rapture (Armin van Buuren Remix) [4th place]
+      - Perpetuous Dreamer - The Sound Of Goodbye (Armin's Tribal Feel) [3rd place]

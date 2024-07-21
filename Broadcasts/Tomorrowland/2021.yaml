@@ -1,0 +1,27 @@
+series:
+  status: incomplete
+  urls:
+    - https://music.apple.com/us/curator/tomorrowland-live-sets/1524337266
+
+episodes:
+  - title: Around the World 2021
+    parts:
+      - artist: Sam Feldt
+        rating: 7/10
+        tracks: 25
+
+      - artist: Koven
+        rating: 6/10
+        tracks: 29
+
+      - artist: Sound Rush
+        rating: 8/10
+        tracks: 16
+
+      - artist: Fox Stevenson
+        rating: 7/10
+        tracks: 33
+
+      - artist: Angerfist
+        rating: 8/10
+        tracks: 22

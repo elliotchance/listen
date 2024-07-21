@@ -1,0 +1,29 @@
+series:
+  status: incomplete
+  urls:
+    - https://music.apple.com/us/curator/tomorrowland-live-sets/1524337266
+
+episodes:
+  - title: "31.12.2020"
+    parts:
+      - artist: Netsky
+        tracks: 30
+        rating: 8/10
+
+  - title: "Around the World 2020"
+    parts:
+      - artist: Cellini
+        tracks: 10
+        rating: 5/10
+
+      - artist: Mr. E
+        tracks: 37
+        rating: 6/10
+
+      - artist: Netsky
+        tracks: 24
+        rating: 7/10
+
+      - artist: Robin Schulz
+        tracks: 28
+        rating: 6/10

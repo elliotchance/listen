@@ -1,0 +1,50 @@
+series:
+  status: incomplete
+  urls:
+    - https://music.apple.com/us/curator/tomorrowland-live-sets/1524337266
+
+episodes:
+  - title: "Winter 2022: Mainstage"
+    parts:
+      - artist: Armin van Buuren
+        rating: 6/10
+        rating: 19
+      - artist: Mike Williams
+        rating: 7/10
+        rating: 29
+
+  - title: "Winter 2022: Cage"
+    parts:
+      - artist: Netsky
+        rating: 8/10
+        rating: 44
+      - artist: Sub Zero Project
+        rating: 8/10
+        rating: 26
+
+  - title: "Winter 2022: Crystal Garden"
+    parts:
+      - artist: Netsky
+        rating: 7/10
+        rating: 41
+
+  - title: "2022: Mainstage, Weekend 2"
+    parts:
+      - artist: Armin van Buuren
+        rating: 4/10
+        rating: 24
+      - artist: Alan Walker
+        rating: 5/10
+        rating: 37
+
+  - title: "2022: Atmosphere, Weekend 1"
+    parts:
+      - artist: Charlotte de Witte
+        rating: 7/10
+        rating: 26
+        
+  - title: "2022: Library, Weekend 1"
+    parts:
+      - artist: Paris Hilton
+        rating: 6/10
+        rating: 20

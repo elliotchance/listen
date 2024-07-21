@@ -1,0 +1,139 @@
+series:
+  from: 1
+  to: 34
+  status: complete
+
+episodes:
+  - number: 1
+    tracks: 15
+    liked:
+      - Kyau & Albert - All Your Colours
+      - Armin van Buuren & W&W - D# Fat
+
+  - number: 2
+    tracks: 15
+    liked:
+      - Tritonal feat. Underdown - Bullet That Saved Me
+
+  - number: 3
+    tracks: 16
+
+  - number: 4
+    tracks: 15
+    liked:
+      - Tritonal feat. Underdown - Bullet That Saved Me
+
+  - number: 5
+    tracks: 15
+
+  - number: 6
+    tracks: 16
+    liked:
+      - Kyau & Albert - All Your Colours (Andrew Rayel Remix)
+
+  - number: 7
+    tracks: 14
+
+  - number: 8
+    tracks: 15
+    liked:
+      - Seven Lions - The Truth
+
+  - number: 9
+    tracks: 16
+    liked:
+      - -42:20
+      - -38:50
+
+  - number: 10
+    tracks: 15
+    liked:
+      - -13:40
+      - -3:15
+      - -2:00
+
+  - number: 11
+    tracks: 15
+    liked:
+      - 2:50
+
+  - number: 12
+    tracks: 15
+
+  - number: 13
+    tracks: 15
+
+  - number: 14
+    tracks: 16
+
+  - number: 15
+    tracks: 16
+
+  - number: 16
+    tracks: 16
+    liked:
+      - 5:50 [Dash Berlin - Steal You Away?]
+
+  - number: 17
+    tracks: 16
+
+  - number: 18
+    tracks: 16
+
+  - number: 19
+    tracks: 17
+    liked:
+      - 49:30
+
+  - number: 20
+    tracks: 18
+
+  - number: 21
+    tracks: 18
+
+  - number: 22
+    tracks: 16
+
+  - number: 23
+    tracks: 17
+
+  - number: 24
+    tracks: 16
+
+  - number: 25
+    tracks: 17
+    liked:
+      - 41:10
+
+  - number: 26
+    tracks: 18
+
+  - number: 27
+    tracks: 16
+
+  - number: 28
+    tracks: 16
+
+  - number: 29
+    tracks: 16
+    liked:
+      - 56:00
+
+  - number: 30
+    tracks: 16
+
+  - number: 31
+    tracks: 18
+
+  - number: 32
+    tracks: 19
+    liked:
+      - 9:00 [Fisherman and Hawkins?]
+
+  - number: 33
+    tracks: 17
+
+  - number: 34
+    tracks: 34
+    liked:
+      - 35:30 [Bruno Mars - Locked out of Heaven]

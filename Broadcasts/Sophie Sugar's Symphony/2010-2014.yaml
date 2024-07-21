@@ -1,0 +1,78 @@
+series:
+  from: 10
+  to: 27
+  status: complete
+
+episodes:
+  - number: 10
+    tracks: 13
+    liked:
+      - Lost Together (Armin van Buuren Mashup) - Sophie Sugar vs. Sunlounger feat. Zara
+      - Queensland (Arctic Moon Remix) [Symphony Track of The Month] - Dimension
+
+  - number: 12
+    title: 1 Year Episode
+    tracks: 14
+    liked:
+      - Listening (Philip El Sisi Remix) - Aly & Fila feat. Josie
+      - Inner Beauty (Angel Ace Remix) - Mike Danis
+      - Florescence - Andy Blueman
+
+  - number: 13
+    tracks: 14
+    liked:
+      - Perception - Markus Schulz feat. Justine Suissa
+
+  - number: 14
+    tracks: 13
+    liked:
+      - Sanctuary (Sean Tyas Remix) [Symphony Track of the Month] - Gareth Emery feat. Lucy Saunders
+      - Evoked Satellite [Symphony Timeless Track] - Deep Haze vs. OceanLab
+      - All For You - Sophie Sugar
+
+  - number: 15
+    tracks: 15
+
+  - number: 16
+    tracks: 17
+    liked:
+      - Never Enough - Jon O'Bir feat. Julie Harrington
+      - Synaesthesia (Alex M.O.R.P.H. Remix) [Symphony Timeless Track] - The Thrillseekers
+      - All For You - Sophie Sugar
+
+  - number: 18
+    tracks: 16
+    liked:
+      - Bullet That Saved Me - Tritonal feat. Underdown
+      - Aldo - Norin & Rad
+
+  - number: 19
+    tracks: 14
+    liked:
+      - Banshee [Symphony Track Of The Month] - Sean Tyas
+      - Talk To Me (Activa pres. Solar Movement Remix) - John O'Callaghan & Timmy & Tommy
+
+  - number: 23
+    tracks: 11
+
+  - number: 24
+    tracks: 14
+    liked:
+      - Silence In Your Heart (4 Strings Remix) - Dash Berlin feat. Chris Madin
+      - Constellation [Timeless Track] - Thomas Bronzwaer
+      - Starships Over Alice - Arctic Moon
+
+  - number: 25
+    tracks: 12
+    liked:
+      - Every Other Day - ReOrder
+      - Foolish Boy (John O'Callaghan Remix) - Emma Hewitt
+
+  - number: 26
+    tracks: 13
+    liked:
+      - Proteus - Thomas Bronzwaer
+      - Messing With The Fantasy - Ian Betts
+
+  - number: 27
+    tracks: 11

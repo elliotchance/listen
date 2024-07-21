@@ -1,0 +1,101 @@
+series:
+  from: 1
+  to: 20
+  status: complete
+
+episodes:
+  - number: 1
+    length: 1h
+    liked:
+      - "2:57"
+      - "5:50"
+      - "11:32"
+      - "32:21"
+      - "40:04"
+
+  - number: 2
+    length: 1h
+    liked:
+      - "24:00"
+
+  - number: 3
+    length: 1h
+    liked:
+      - "14:58"
+
+  - number: 4
+    length: 1h
+
+  - number: 5
+    length: 1h
+
+  - number: 6
+    length: 1h
+
+  - number: 7
+    length: 1h
+    liked:
+      - "47:04"
+
+  - number: 8
+    length: 1h
+    liked:
+      - "40:10"
+
+  - number: 9
+    length: 1h
+    liked:
+      - "25:51"
+
+  - number: 10
+    length: 1h
+    liked:
+      - "40:07"
+      - "43:54"
+
+  - number: 11
+    length: 1h
+    liked:
+      - "10:11"
+
+  - number: 12
+    length: 1h
+    liked:
+      - "8:31"
+      - "55:37"
+
+  - number: 13
+    length: 1h
+    liked:
+      - "30:07"
+
+  - number: 14
+    length: 1h
+    liked:
+      - "32:28"
+      - "38:52"
+
+  - number: 15
+    length: 1h
+
+  - number: 16
+    length: 1h
+
+  - number: 17
+    length: 1h
+    liked:
+      - "52:49"
+
+  - number: 18
+    length: 1h
+    liked:
+      - "29:48"
+      - "40:10"
+
+  - number: 19
+    length: 1h
+
+  - number: 20
+    length: 1h
+    liked:
+      - "48:15 [Rufus]"

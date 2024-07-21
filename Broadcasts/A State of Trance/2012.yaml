@@ -1,0 +1,137 @@
+series:
+  from: 542
+  to: 593
+  status: incomplete
+
+episodes:
+  - number: 550
+    title: "Day 1: Expocenter, Moscow, Russia"
+    parts:
+      - number: 2/9
+        artist: Ruben de Ronde
+        tracks: 11
+        liked:
+          - She's Already Gone - Ruben de Ronde feat. Aelyn
+      - number: 5/9
+        artist: ATB
+        tracks: 13
+        liked:
+          - Summerlives - Saint X feat. Sandel
+          - Enjoy the Silence (reinterpreted by Mike Shinoda) - Depeche Mode
+
+  - number: 550
+    title: "Day 2: Exhib Center, Kiev, Ukraine"
+    parts:
+      - number: 2/8
+        artist: Omnia
+        tracks: 13
+        liked:
+          - Tokyo - Gareth Emery
+      - number: 3/8
+        artist: tYdi
+        tracks: 12
+        liked:
+          - Talking to Myself (Maison & Dragon remix) - tyDi feat. DJ Rap
+          - Greater Heights ([unknown] remix) - tyDi feat. Jennifer Rene & Tenishia
+      - number: 7/8
+        artist: Markus Schulz
+        tracks: 16
+        liked:
+          - Cheesecake - 4 Strings
+
+  - number: 550
+    title: "Day 3: Beyond Wonderland, Los Angeles, USA"
+    parts:
+      - number: 6/9
+        artist: Aly & Fila
+        tracks: 15
+        liked:
+          - Need to Feel Loved (Adam K & Soha remix) - Reflekt feat. Delline Bass
+      - number: 8/9
+        artist: Gareth Emery
+        tracks: 18
+        liked:
+          - Spaceman Slam the Door (First State Bashup) - Hardwell vs. Zedd
+          - Together - Mark Eteson feat. Meredith Call
+          - World to Turn (Inner Me mix) - Ashley Wallbridge & Andy Moor feat. Gabriela
+
+  - number: 550
+    title: "Day 4: Ultra Music Festival, Miami, USA"
+    parts:
+      - number: 8/12
+        artist: Dash Berlin
+        tracks: 13
+        liked:
+          - Callisto - Dash Berlin & Shogun
+
+  - number: 550
+    title: "Day 5: Brabanthallen, Den Bosch, The Netherlands: A State of Yellow"
+    parts:
+      - number: 2/10
+        artist: Protoculture
+        tracks: 10
+        liked:
+          - Waking Up the Stars vs. Sun Gone Down (a cappella) (Protoculture Mashup) - Alex M.O.R.P.H. vs. Protoculture feat. Shannon Hurley
+          - J'Ai Envie de Toi (Protoculture remix) - Gaia
+          - Overthrow (Protoculture remix) - James Dymond
+          - Surrender (Protoculture remix) - Paul Oakenfold
+          - Full Moon Party (Thomas Datt remix) - Paul Oakenfold
+          - Ode to the Oceans - Protoculture
+      - number: 8/10
+        artist: Bobina
+        tracks: 14
+        liked:
+          - Quattro 372 - Bobina
+
+  - number: 550
+    title: "Brabanthallen, Den Bosch, The Netherlands: A State of Red"
+    parts:
+      - number: 2/9
+        artist: Mark Sixma
+        tracks: 16
+        liked:
+          - As the Quasar Comes (Tekno Mashup) - Hard Rock Sofa vs. Motorcycle
+      - number: 3/9
+        artist: The Blizzard
+        tracks: 15
+        liked:
+          - "[unknown] - [unknown]"
+          - "[5 stars] Kalopsia Pressure (The Blizzard Mashup) - Nadia Ali, Starkillers & Alex Kenji vs. Alesso vs. The Blizzard"
+          - Walking Alone (Arty remix) - Dirty South & Those Usual Suspects feat. Erik Hecht
+
+  - number: 550
+    title: "Brabanthallen, Den Bosch, The Netherlands: A State of Blue"
+    parts:
+      - number: 3/7
+        artist: Armin van Buuren
+        tracks: 16
+        liked:
+          - Epic Hyperfocus (Armin van Buuren Mashup) - Sandro Silva & Quintino vs. Mark Otten
+          - Kinetic - Abstract Vision & Elite Electronic
+          - Premonition - A.R.D.I.
+
+  - number: 578
+    tracks: 30
+
+  - number: 586
+    tracks: 28
+    liked:
+      - Whispers - Ana Criado & Beat Service
+      - Alchemy (Above & Beyond Club Mix) - Above & Beyond feat. Zoe Johnston
+
+  - number: 590
+    tracks: 27
+    liked:
+      - Ambrosia - Mike Danis & Johnny Yono
+      - Monday Morning Madness (Alexander Popov Remix) - Alex M.O.R.P.H feat. Shannon Hurley
+      - Rewind (Mikkas Remix) - Emma Hewitt
+      - Vision - Mike Koglin vs. 7 Skies
+      - Save The Moment (Matt Bukovski Dub) - C-Systems feat. Hanna Finsen
+      - At Dawn (Dima Krasnik Remix) - Fallen Skies & Pluton
+      - Vapourize - Aly & Fila vs. John O'Callaghan
+      - Dunes (Ahmed Romel Remix) [Future Favorite] - Aiera
+      - Alana - James Dymond
+      - Colours (Amir Hussain Remix) - Nymark & Dryden
+
+  - number: 593
+    title: Yearmix

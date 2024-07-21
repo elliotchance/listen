@@ -1,0 +1,10 @@
+series:
+  status: incomplete
+  urls:
+    - https://music.apple.com/us/search?term=boiler%20room%20streaming%20from%20isolation
+
+episodes:
+  - date: 2020-07-09
+    artist: Dito
+    rating: 6/10
+    tracks: 15

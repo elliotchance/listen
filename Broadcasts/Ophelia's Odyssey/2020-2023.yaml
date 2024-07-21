@@ -1,0 +1,240 @@
+series:
+  from: 1
+  to: 38
+  status: complete
+
+episodes:
+  - number: 1
+    artist: MitiS
+    tracks: 20
+    liked:
+      - Mercy - MitiS & glasscat
+      - Try (feat. RØRY) - MitiS
+      - Frameworks - MitiS
+      - Moments (feat. Adara) - MitiS
+
+  - number: 2
+    artist: Trivecta
+    tracks: 21
+    liked:
+      - Wasteland - Trivecta
+      - Alive (feat. RUNN) [Trivecta Remix] - Dabin
+
+  - number: 3
+    artist: Dimibo
+    tracks: 13
+    liked:
+      - Night Rider - Abraxis & Crystal Skies
+      - Sanctuary (feat. Lucy Saunders) [Dimibo Remix] - Gareth Emery
+      - Pranava (Ranji & Mind Spin Remix) - Ace Ventura & Astrix
+
+  - number: 4
+    artist: Inukshuk
+    tracks: 29
+    liked:
+      - Wasteland (Wooli Remix) - Trivecta
+
+  - number: 5
+    artist: Nurko
+    tracks: 18
+    liked:
+      - All I Got - Said The Sky & Kwesi
+      - Faith - NURKO & Dia Frampton
+      - Too Far Gone (feat. Anna Clendening) [Nurko Remix] - Lost Kings
+
+  - number: 6
+    artist: Crystal Skies
+    tracks: 30
+    liked:
+      - I.O.U. (Crystal Skies Remix) / Because of You - Jason Ross, Emilie Brandt, Da Tweekaz & Refuzion
+      - Tokyo (feat. XIRA) [Seven Lions Remix] - 3LAU
+      - Ultima / Casket - Pixel Terror & Marauda
+      - I Don't Deserve You (feat. Plumb) [Seven Lions Remix] - Paul van Dyk
+
+  - number: 7
+    artist: Last Heroes
+    tracks: 19
+
+  - number: 8
+    artist: Far Out
+    tracks: 17
+    liked:
+      - Tokyo (feat. XIRA) [Seven Lions Remix] - 3LAU
+      - I Swear (feat. ANIMA!) [Jason Ross Remix] - Dirty South
+      - Tidal Wave (feat. Nevve) - Far Out
+      - Adventure (feat. ALLY THORN) - Far Out
+
+  - number: 9
+    artist: Xavi
+    tracks: 24
+
+  - number: 10
+    artist: Gem & Tauri
+    tracks: 15
+    liked:
+      - Call Me Home (feat. HALIENE) - Gem & Tauri
+
+  - number: 11
+    artist: Outwild
+    tracks: 23
+    liked:
+      - Try (feat. RØRY) - MitiS
+
+  - number: 12
+    artist: Awakened
+    tracks: 26
+    liked:
+      - Gorgeous vs. All Together (feat. Bipolar Sunshine & OEKIIN) - Blanke & ILLENIUM
+      - Don't Leave (feat. Ellie Goulding) - Seven Lions
+      - Pulse - REAPER
+      - Follow Me (Blanke Remix) - Blanke & ShockOne
+
+  - number: 13
+    artist: AMIDY
+    tracks: 27
+    liked:
+      - Hollow (Remix) / After All [feat. Jinzo] [Kompany & Wooli Remix VIP] - Blanke, SLANDER & YOOKiE
+
+  - number: 14
+    artist: Jason Ross
+    tracks: 22
+    liked:
+      - Castles in the Sky - Kaimo K, Mariske Hekkenberg & Trance Classics
+      - Worlds Apart (feat. Kerli) [Seven Lions 1999 Remix] - Seven Lions
+      - Need to Feel Loved (feat. Zoe Durrant & Paul Meany) [Higher Love] - UnClubbed, Seven Lions & Jason Ross
+      - Power of Acid - Ranji
+
+  - number: 15
+    artist: Star Seed
+    tracks: 36
+    liked:
+      - Atrea - Heimanu
+
+  - number: 16
+    artist: Au5
+    tracks: 30
+    liked:
+      - "Satellite (Above & Beyond Remix) [Acapella] / ID3 (from Ophelia's Odyssey, Ep. 16: Au5) - OceanLab & ID"
+
+  - number: 17
+    artist: Blanke
+    title: Blanke's Melodic Mix
+    tracks: 23
+    liked:
+      - Gorgeous (Mixed) - ILLENIUM, Bipolar Sunshine & Blanke
+
+  - number: 18
+    artist: Alpha 9
+    tracks: 15
+    liked:
+      - Ghost Voices (ALPHA 9 Remix) - Virtual Self
+
+  - number: 19
+    artist: Xavi
+    tracks: 23
+
+  - number: 20
+    artist: RIOT
+    tracks: 27
+    liked:
+      - Jackknife / ID1 - RIOT & ID
+      - Juggernaut - RIOT
+      - Overkill - RIOT
+
+  - number: 21
+    artist: Codeko
+    tracks: 21
+    liked:
+      - Light Up The Sky - Wooli, Trivecta & Scott Stapp
+      - Tokyo (feat. Xira) - 3LAU
+      - Back To You (feat. Kiiara) [Codeko Remix] - Ekali
+
+  - number: 22
+    artist: Blosso
+    tracks: 24
+    liked:
+      - Marea (We've Lost Dancing) - Fred again.. & The Blessed Madonna
+      - Rush over Me (feat. HALIENE) [Seven Lions 1999 Remix] - Seven Lions
+      - Tell Me / Horizon / Tell Me (Rudebrat Refix) - RL Grime, What So Not, Slippy, Blosso & GLNNA
+      - ID3 - ID
+      - Down Under (feat. Colin Hay) - Luude
+
+  - number: 23
+    artist: Kepik
+    tracks: 20
+    liked:
+      - Jar of Hearts - KEPIK & Sarah West
+      - Worth My Time - KEPIK & Exede
+      - We Fall Down (feat. Shaley Scott) - KEPIK
+
+  - number: 24
+    artist: Quackson
+    tracks: 32
+
+  - number: 25
+    artist: Man Cub
+    tracks: 25
+    liked:
+      - In Too Deep - Man Cub, TRØVES & Awakend
+      - Higher Love (feat. Paul Meany) [Seven Lions & Jason Ross 1999 Remix] - Seven Lions & Jason Ross
+
+  - number: 26
+    artist: Mazare
+    tracks: 31
+    liked:
+      - Wake Up - Mazare & Bloodhounds
+
+  - number: 27
+    artist: Ace Aura
+    tracks: 41
+
+  - number: 28
+    artist: ROY KNOX
+    tracks: 33
+
+  - number: 29
+    artist: yetep & SABAI
+    tracks: 28
+
+  - number: 30
+    artist: Advent Volume 6 Showcase
+    tracks: 56
+    liked:
+      - Story Of My Life (feat. Sueco and Trippie Redd) [RIOT Remix] - ILLENIUM
+      - Consciousness - ZOA & PRIYANX
+
+  - number: 31
+    artist: Ironheart
+    tracks: 22
+    liked:
+      - Castrum Mortis (feat. Celestial Void) - Ironheart
+      - Aerials - Sarah de Warren & Shadow Cliq
+      - Sanjar - Ironheart
+
+  - number: 32
+    artist: Gem & Tauri
+    tracks: 17
+
+  - number: 33
+    title: Advent Volume 7 Showcase
+    tracks: 29
+
+  - number: 34
+    artist: Feed Me
+    tracks: 23
+
+  - number: 35
+    artist: Caster
+    tracks: 22
+
+  - number: 36
+    artist: Blastoys
+    tracks: 11
+
+  - number: 37
+    artist: Au5
+    tracks: 33
+
+  - number: 38
+    artist: Rival
+    tracks: 51

@@ -1,0 +1,84 @@
+series:
+  status: complete
+
+episodes:
+  - artist: CamelPhat
+    tracks: 15
+    liked:
+      - ID - ID
+
+  - artist: Channel Tres
+    tracks: 18
+    liked:
+      - Controller (Walker & Royce Remix) - Channel Tres
+
+  - artist: Chris Lake
+    tracks: 25
+
+  - artist: Disclosure
+    tracks: 18
+
+  - artist: Honey Dijon
+    tracks: 10
+
+  - artist: Jamie Jones
+    tracks: 19
+
+  - artist: Fred again..
+    tracks: 18
+    liked:
+      - Roze (Forgive) - Fred again..
+      - Kahan (Last Year) [feat. Kodak Black] - Fred again..
+      - Faisal (Envelops Me) - Fred again..
+      - Marea (We’ve Lost Dancing) - Fred again.. & The Blessed Madonna
+
+  - artist: Madeon
+    tracks: 61
+    liked:
+      - The Prince - Madeon
+      - Feedback (feat. Mina Knock) - Dr. Fresch
+
+  - artist: Romy
+    tracks: 16
+
+  - artist: Rufus du Sol
+    tracks: 17
+
+  - artist: The Blessed Madonna
+    tracks: 11
+
+  - artist: TSHA
+    tracks: 15
+
+  - artist: Peggy Gou
+    tracks: 14
+
+  - artist: Dixon
+    tracks: 16
+    liked:
+      - Paris - Pierre Rousseau
+
+  - artist: Charlotte de Witte
+    tracks: 13
+
+  - artist: Lane 8
+    tracks: 18
+    liked:
+      - Apricots - Bicep
+
+  - artist: Logic1000
+    tracks: 19
+    liked:
+      - Bodak Yellow (Remix) - Cardi B
+
+  - artist: FJAAK
+    tracks: 20
+
+  - artist: Conducta
+    tracks: 32
+
+  - artist: Ame
+    tracks: 17
+
+  - artist: AceMoMa
+    tracks: 20

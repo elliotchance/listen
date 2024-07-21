@@ -1,0 +1,60 @@
+series:
+  from: 29
+  to: 78
+  status: incomplete
+
+episodes:
+  - number: 29
+    tracks: 18
+    liked:
+      - Dito feat. Dzenita - Shadows
+
+  - number: 30
+    tracks: 19
+    liked:
+      - Fred Numf vs. Etienne Overdijk - Illusion of The Truth
+      - Moon Project - Moments Are Forever
+
+  - number: 31
+    tracks: 19
+    liked:
+      - 4 Strings - Into The Night (4 Strings Remix)
+
+  - number: 32
+    tracks: 18
+
+  - number: 33
+    tracks: 19
+    liked:
+      - Sarah Mc Lachlan - Fear (Hybrid's Super Collider Remix)
+      - 4 Strings - Into The Night (Coast 2 Coast Remix)
+
+  - number: 34
+    tracks: 19
+    liked:
+      - Taste Experience - Highlander (Ralphie B's Massive Mix)
+
+  - number: 35
+    tracks: 20
+    liked:
+      - Push - Tranzy State of Mind
+      - Art of Trance Feat M. Adamson - Love Washes Over (Dub Mix)
+
+  - number: 37
+    tracks: 20
+    liked:
+      - 4 Strings - Into The Night (Coast 2 Coast Remix)
+      - M-Diva - Reachin' Out
+
+  - number: 38
+    tracks: 20
+    liked:
+      - Beyond the Moon - Alphabreed
+      - Second Wave - Signum
+      - Into the Night (Coast 2 Coast) - 4 Strings
+      - Tranzy State of Mind - Push
+
+  - number: 39
+    tracks: 19
+    liked:
+      - Escape (Phynn Mix) - Fictivision vs. Phynn
