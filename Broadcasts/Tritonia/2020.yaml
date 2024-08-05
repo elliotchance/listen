@@ -1,9 +1,117 @@
 series:
   from: 286
   to: 327
-  status: incomplete
+  status: complete
 
 episodes:
+  - number: 286
+    tracks: 32
+    liked:
+      - Brightest Lights - Lane 8
+      - See the End - Above & Beyond & Seven Lions
+
+  - number: 287
+    tracks: 15
+    liked:
+      - Feeling Good - Mariana Bo
+      - Make You Mine - Mike Williams feat. Moa Lisa
+      - Fatum & Jaren - Wait For The World
+
+  - number: 288
+    tracks: 14
+
+  - number: 289
+    tracks: 14
+
+  - number: 290
+    tracks: 14
+    liked:
+      - Armin van Buuren feat. Candace Sosa - Runaway (Fisherman Remix)
+
+  - number: 291
+    tracks: 15
+
+  - number: 292
+    tracks: 13
+    liked:
+      - "-25:00"
+
+  - number: 293
+    tracks: 15
+    title: "Ultra ASOT Stage Set"
+
+  - number: 294
+    tracks: 16
+
+  - number: 295
+    tracks: 15
+
+  - number: 296
+    tracks: 13
+    liked:
+      - "-57:00"
+
+  - number: 297
+    tracks: 18
+
+  - number: 298-299
+    tracks: 31
+
+  - number: 300
+    tracks: 35
+    title: Part 1
+    liked:
+      - "11:00"
+      - "2:17:40"
+
+  - number: 300
+    tracks: 29
+    title: "Part 2: Classic Progressive Trance Set"
+    liked:
+      - "14:15"
+      - "26:38"
+      - "1:49:10"
+      - "2:14:10"
+
+  - number: 301
+    tracks: 14
+    liked:
+      - "1:30"
+      - "28:55"
+
+  - number: 302
+    tracks: 13
+    liked:
+      - "6:10"
+
+  - number: 303
+    tracks: 13
+    liked:
+      - "20:20"
+      - "26:20"
+
+  - number: 304
+    tracks: 14
+    liked:
+      - "33:30"
+
+  - number: 305
+    tracks: 16
+    liked:
+      - "20:35"
+
+  - number: 306
+    tracks: 17
+    liked:
+      - "1:45"
+      - "42:00"
+
+  - number: 307
+    tracks: 15
+    liked:
+      - "5:30"
+      - "1:00:00"
+
   - number: 308
     tracks: 13
     liked:
