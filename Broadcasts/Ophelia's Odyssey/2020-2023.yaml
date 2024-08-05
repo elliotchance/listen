@@ -24,9 +24,9 @@ episodes:
     artist: Dimibo
     tracks: 13
     liked:
-      - Night Rider - Abraxis & Crystal Skies
+      - Night Rider - [Abraxis] & [Crystal Skies]
       - Sanctuary (feat. Lucy Saunders) [Dimibo Remix] - Gareth Emery
-      - Pranava (Ranji & Mind Spin Remix) - Ace Ventura & Astrix
+      - Pranava (Ranji & Mind Spin Remix) - [Ace Ventura] & [Astrix]
 
   - number: 4
     artist: Inukshuk
@@ -47,7 +47,7 @@ episodes:
     tracks: 30
     liked:
       - I.O.U. (Crystal Skies Remix) / Because of You - Jason Ross, Emilie Brandt, Da Tweekaz & Refuzion
-      - Tokyo (feat. XIRA) [Seven Lions Remix] - 3LAU
+      - Tokyo ([Seven Lions] Remix) - [3LAU] feat. [XIRA]
       - Ultima / Casket - Pixel Terror & Marauda
       - I Don't Deserve You (feat. Plumb) [Seven Lions Remix] - Paul van Dyk
 
@@ -59,7 +59,7 @@ episodes:
     artist: Far Out
     tracks: 17
     liked:
-      - Tokyo (feat. XIRA) [Seven Lions Remix] - 3LAU
+      - Tokyo ([Seven Lions] Remix) - [3LAU] feat. [XIRA]
       - I Swear (feat. ANIMA!) [Jason Ross Remix] - Dirty South
       - Tidal Wave (feat. Nevve) - Far Out
       - Adventure (feat. ALLY THORN) - Far Out
@@ -146,7 +146,7 @@ episodes:
     tracks: 21
     liked:
       - Light Up The Sky - Wooli, Trivecta & Scott Stapp
-      - Tokyo (feat. Xira) - 3LAU
+      - Tokyo - [3LAU] feat. [XIRA]
       - Back To You (feat. Kiiara) [Codeko Remix] - Ekali
 
   - number: 22
