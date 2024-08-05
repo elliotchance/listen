@@ -34,6 +34,8 @@ class Broadcasts:
             w(f, "<tr style='background: LightGray'><td><strong>%s</strong></td><td>%d</td><td>%d</td><td>%d</td></tr>" % (
                 series.name, series.total_episodes, series.total_liked, series.total_tracks))
             for subseries in series.subseries:
+                if subseries.total_episodes == 0:
+                    continue
                 w(f, "<tr><td>&nbsp;&nbsp;&nbsp;%s <a href=\"#%s\">%s</a></td><td>%d</td><td>%d</td><td>%d</td></tr>" % (
                     status_emoji(subseries.status),
                     anchor_name(series.name+"_"+subseries.name), subseries.name,
