@@ -8,17 +8,20 @@ class Broadcasts:
         self.total_tracks = 0
         self.total_liked = 0
         self.series = []
+        self.artists = {}
 
     def refresh(self):
         self.series.sort(key=lambda x: x.name)
         self.total_episodes = 0
         self.total_tracks = 0
         self.total_liked = 0
+        self.artists = {}
         for series in self.series:
             series.refresh()
             self.total_episodes += series.total_episodes
             self.total_tracks += series.total_tracks
             self.total_liked += series.total_liked
+            append_artists(self.artists, series.artists)
 
     def write_toc(self, f):
         w(f, "<table style='border: 1px solid black'>")
@@ -40,6 +43,17 @@ class Broadcasts:
                     subseries.total_episodes, subseries.total_liked, subseries.total_tracks))
         w(f, "</table>")
 
+    def write_artists(self, f):
+        w(f, "<table style='border: 1px solid black'>")
+        w(f, "<tr style='border: 1px solid black'>")
+        w(f, "<th>Artist</th>")
+        w(f, "<th>Title (On)</th>")
+        w(f, "</tr>")
+        for artist in sorted(self.artists):
+            w(f, "<tr><td valign='top'>%s</td><td>%s</td></tr>" % (
+                artist, '<br/>'.join(['%s (%s)' % (t['title'], t['on']) for t in self.artists[artist]])))
+        w(f, "</table>")
+
     def write(self, f):
         for series in self.series:
             series.write(f)
@@ -51,17 +65,20 @@ class Series:
         self.total_tracks = 0
         self.total_liked = 0
         self.subseries = []
+        self.artists = {}
 
     def refresh(self):
         self.subseries.sort(key=lambda x: x.name)
         self.total_episodes = 0
         self.total_tracks = 0
         self.total_liked = 0
+        self.artists = {}
         for subseries in self.subseries:
             subseries.refresh()
             self.total_episodes += subseries.total_episodes
             self.total_tracks += subseries.total_tracks
             self.total_liked += subseries.total_liked
+            append_artists(self.artists, subseries.artists)
 
     def write(self, f):
         w(f, "<h1>%s</h1>" % self.name)
@@ -81,6 +98,7 @@ class Subseries:
         self.total_liked = 0
         self.total_episodes = 0
         self.episodes = []
+        self.artists = {}
 
         if 'series' in entries:
             if 'status' in entries['series']:
@@ -96,10 +114,12 @@ class Subseries:
         self.total_tracks = 0
         self.total_liked = 0
         self.total_episodes = len(self.episodes)
+        self.artists = {}
         for episode in self.episodes:
             episode.refresh()
             self.total_tracks += episode.total_tracks
             self.total_liked += episode.total_liked
+            append_artists(self.artists, episode.artists)
 
     def write(self, f, series):
         range = ''
@@ -128,6 +148,7 @@ class Episode:
         self.rating = ''
         self.total_tracks = 0
         self.total_liked = 0
+        self.artists = {}
         
         if 'number' in entries:
             self.number = entries['number']
@@ -147,16 +168,18 @@ class Episode:
     def refresh(self):
         self.total_tracks = self.tracks
         self.total_liked = len(self.liked)
+        self.artists = {}
+
+        for track in self.liked:
+            append_artist(self.artists, track, self.formatted_title())
 
         for part in self.parts:
-            self.total_tracks += part.tracks
-            self.total_liked += len(part.liked)
+            part.refresh()
+            self.total_tracks += part.total_tracks
+            self.total_liked += part.total_liked
+            append_artists(self.artists, part.artists)
 
-    def write(self, f):
-        tracks = '?'
-        if self.tracks:
-            tracks = self.tracks
-
+    def formatted_title(self):
         title = ''
         if self.number:
             title = '#' + str(self.number)
@@ -172,6 +195,15 @@ class Episode:
                 title += self.title
             else:
                 title += ', "%s"' % self.title
+
+        return title
+
+    def write(self, f):
+        tracks = '?'
+        if self.tracks:
+            tracks = self.tracks
+
+        title = self.formatted_title()
 
         if self.rating:
             w(f, "<h3>%s %s<span style=\"float: right\">%s</span></h3>" % (
@@ -198,6 +230,7 @@ class EpisodePart:
         self.title = ''
         self.artist = ''
         self.rating = ''
+        self.artists = {}
         
         if 'tracks' in entries:
             self.tracks = entries['tracks']
@@ -209,6 +242,31 @@ class EpisodePart:
             self.artist = entries['artist']
         if 'rating' in entries:
             self.rating = entries['rating']
+
+    def formatted_title(self):
+        title = ''
+        
+        if self.artist:
+            if title == '':
+                title += self.artist
+            else:
+                title += ': %s' % self.artist
+        
+        if self.title:
+            if title == '':
+                title += self.title
+            else:
+                title += ', "%s"' % self.title
+
+        return title
+
+    def refresh(self):
+        self.total_tracks = self.tracks
+        self.total_liked = len(self.liked)
+        self.artists = {}
+
+        for track in self.liked:
+            append_artist(self.artists, track, self.formatted_title())
 
     def write(self, f):
         tracks = '?'
@@ -228,6 +286,25 @@ class EpisodePart:
             for t in self.liked:
                 w(f, "<li>%s</li>" % t)
             w(f, "</ul>")
+
+def append_artist(artists, s, on):
+    parts = parse_track(s)
+    if parts:
+        if parts[1] not in artists:
+            artists[parts[1]] = []
+        artists[parts[1]].append({'title': parts[0], 'on': on})
+
+def append_artists(dest, src):
+    for k in src:
+        if k not in dest:
+            dest[k] = []
+        dest[k].extend(src[k])
+
+def parse_track(s):
+    parts = s.split(' - ')
+    if len(parts) == 2:
+        return parts
+    return None
 
 def w(f, s):
     f.write("%s\n" % s)
@@ -300,5 +377,29 @@ with open('index.html', "w") as f:
     w(f, "<body>")
     broadcasts.write_toc(f)
     broadcasts.write(f)
+    w(f, "</body>")
+    w(f, "</html>")
+
+with open('artists.html', "w") as f:
+    w(f, "<html>")
+
+    w(f, "<head>")
+    w(f, "<meta charset=\"UTF-8\">")
+    w(f, "<style>")
+    w(f, """
+    html, body {
+        font-family: Roboto, sans-serif;
+        width: 800px;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    """)
+    w(f, "</style>")
+    w(f, "</head>")
+
+    w(f, "<body>")
+    broadcasts.write_artists(f)
     w(f, "</body>")
     w(f, "</html>")
