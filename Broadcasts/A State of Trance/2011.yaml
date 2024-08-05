@@ -16,45 +16,45 @@ episodes:
         title: Warm up
         tracks: 9
         liked:
-          - ID
+          - ID - ID
       - number: 2/7
         artist: Shogun
         tracks: 10
         liked:
-          - ID
-          - ID
-          - ID
+          - ID - ID
+          - ID - ID
+          - ID - ID
       - number: 3/7
         artist: tyDi
         tracks: 13
         liked:
-          - ID
-          - ID
+          - ID - ID
+          - ID - ID
       - number: 4/7
         artist: Menno de Jong
         tracks: 13
         liked:
-          - ID
-          - ID
+          - ID - ID
+          - ID - ID
       - number: 5/7
         artist: Aly & Fila
         tracks: 17
         liked:
-          - ID
-          - ID
+          - ID - ID
+          - ID - ID
       - number: 6/7
         artist: Alex M.O.R.P.H.
         tracks: 12
         liked:
-          - ID
+          - ID - ID
       - number: 7/7
         artist: Armin van Buuren
         tracks: 34
         liked:
-          - ID
-          - ID
-          - ID
-          - ID
+          - ID - ID
+          - ID - ID
+          - ID - ID
+          - ID - ID
 
   - number: 500
     title: "Brabanthallen, Den Bosch, The Netherlands: A State of Blue"
@@ -69,54 +69,54 @@ episodes:
         tracks: 16
         liked:
           - Everything From Me (Promises) (Myon & Shane 54 demo remix) - Andain
-          - Thing Called Love (Mat Zo remix) - Above & Beyond feat. Richard Bedford
-          - Sun & Moon (club mix) - Above & Beyond feat. Richard Bedford
-          - On a Good Day (Metropolis) (extended mix) - Above & Beyond & Gareth Emery presents OceanLab
+          - Thing Called Love (Mat Zo remix) - [Above & Beyond] feat. [Richard Bedford]
+          - Sun & Moon (club mix) - [Above & Beyond] feat. [Richard Bedford]
+          - On a Good Day (Metropolis) (extended mix) - [Above & Beyond] & [Gareth Emery] presents [OceanLab]
           - ID - ID
-          - Can't Sleep (Super8 & Tab remix) - Above & Beyond feat. Ashley Tomberlin
-          - My Enemy (club mix) - Super8 & Tab feat. Julie Thompson
+          - Can't Sleep (Super8 & Tab remix) - [Above & Beyond] feat. [Ashley Tomberlin]
+          - My Enemy (club mix) - [Super8 & Tab] feat. [Julie Thompson]
           - Sun in Your Eyes - Above & Beyond
 
   - number: 502
     tracks: 23
     liked:
-      - HR 8938 Cephei [Mau5trap] - [FUTURE FAVORITE] Deadmau5
-      - Memories [Silent Shore White] - A.r.d.i. feat. Irena Love
-      - "[5 star] Miracle Moment (Marc Simz Remix) [Songbird] - Andy Duguid feat. Leah"
+      - HR 8938 Cephei [Mau5trap] - deadmau5
+      - Memories [Silent Shore White] - [A.R.D.I.] feat. [Irena Love]
+      - + Miracle Moment (Marc Simz Remix) [Songbird] - [Andy Duguid] feat. [Leah]
       - Opera [Timeline Music] - Andrew Rayel
-      - Sunstorm (Running Man Remix) [Unearthed] - Trance Arts feat. Final Aeon
+      - Sunstorm (Running Man Remix) [Unearthed] - [Trance Arts] feat. [Final Aeon]
       - Flashback [Enhanced] - Sequentia
       - Freedom [FSOE] - Aly & Fila
-      - Smokescreen (From The Album 'Unfold') [Subculture] - John O'Callaghan
+      - Smokescreen (From The Album 'Unfold') - John O'Callaghan
       - Transcend [Liquid] - Ummet Ozcan
-      - Carabella (Galen Behr vs Orjan Nilsen Remix) [Yakuza] - [ASOT RADIO CLASSIC] Galen Behr vs Hydroid
+      - Carabella (Galen Behr vs Ørjan Nilsen Remix) - [Galen Behr] vs [Hydroid]
 
   - number: 503
     tracks: 24
     liked:
-      - Surreal (Omnia Remix) [Coldharbour] - Markus Schulz feat. Ana Criado
+      - Surreal (Omnia Remix) [Coldharbour] - [Markus Schulz] feat. [Ana Criado]
       - Alpha State (Mike Foyle Remix) [Coldharbour] - Markus Schulz
       - Be There 4 U (Mat Zo Remix) [Euphonic] - Kyau & Albert
       - JYNX [Ava Recordings] - Ashley Wallbridge
-      - Story Of Life (Dub) [S107] - Tenishia & Ruben de Ronde
-      - Song For Sendai [Adjusted Music] - [TUNE OF THE WEEK] The Thrillseekers
+      - Story Of Life (Dub) [S107] - [Tenishia] & [Ruben de Ronde]
+      - Song For Sendai [Adjusted Music] - The Thrillseekers
       - Just For You [Anjunabeats] - Daniel Kandi
       - Freedom [FSOE] - Aly & Fila
       - Space [Harmonic Breeze Recordings] - A.R.D.I.
-      - Ride The Wave [Subculture] - John O'Callaghan & Giuseppe Ottaviani
-      - U Got Me (Activa Remix) [Euphonic] - Ronski Speed pres. Sun Decade feat. Emma Lock
+      - Ride The Wave [Subculture] - [John O'Callaghan] & [Giuseppe Ottaviani]
+      - U Got Me (Activa Remix) [Euphonic] - [Ronski Speed] pres. [Sun Decade] feat. [Emma Lock]
       - Winter Stayed (Alex M.O.R.P.H. Remix) [Armind] - Triple A
       - Latika [Reset] - Simon Patterson
-      - Harmony Will Kick You In The Ass (Lange Mix) [Magik Muzik] - Lange pres. LNG
+      - Harmony Will Kick You In The Ass (Lange Mix) [Magik Muzik] - [Lange] pres. [LNG]
       - ID - Armin van Buuren
-      - Love Theme Dusk [Armind] - [ASOT RADIO CLASSIC] Mike Foyle vs Signal Runners
+      - Love Theme Dusk [Armind] - Mike Foyle vs Signal Runners
 
   - number: 504
     tracks: 23
     liked:
-      - Surreal (Omnia Remix) [Coldharbour] - [FUTURE FAVORITE] Markus Schulz feat. Ana Criado
+      - Surreal (Omnia Remix) [Coldharbour] - [Markus Schulz] feat. [Ana Criado]
       - Kiksu 2011 [Euphonic] - Kyau & Albert
-      - My Inner Island [ASOT] - The Blizzard & Omnia
+      - My Inner Island [ASOT] - [The Blizzard] & [Omnia]
       - Ask The Cat [High Contrast] - Heatbeat
       - Song For Sendai [Adjusted] - The Thrillseekers
       - Impression (Adam Nickey Remix) - Derelict
@@ -127,113 +127,113 @@ episodes:
   - number: 505
     tracks: 22
     liked:
-      - Luna System (Tritonal Remix) [Lange] - Steve Brian & Noel Gitman
+      - Luna System (Tritonal Remix) [Lange] - [Steve Brian] & [Noel Gitman]
       - Wonderfooled [Tool] - SHato & Paul Rockseek
       - Never Give Up [Liquid] - Broning
       - Turtle Paradise [Intuition] - Menno de Jong
-      - Onyx [Shah Music] - Ronny K. pres. Advanced
+      - Onyx [Shah Music] - [Ronny K.] pres. [Advanced]
 
   - number: 506
     tracks: 25
     liked:
-      - Heart Is My Religion (Blake Jarrell Mashup) - Axwell vs. R.E.M.
+      - Heart Is My Religion (Blake Jarrell Mashup) - [Axwell] vs. [R.E.M.]
       - Going Deep (Club Mix) - Chicane
       - Hate Is The Killer (Arty Remix) - Moonbeam
-      - Spirit's Pulse (Omnia Remix) - Andy Moor vs. M.I.K.E.
-      - Everything From Me (Promises) (Gabriel & Dresden Remix) [Tune Of The Week] - Andain
-      - Skies On Fire - First State feat. Sarah Howells
-      - Apollo Road (Club Mix) - ATB & Dash Berlin
-      - Broken Down (Shogun Remix) [Future Favorie] - Tritonal feat. Meredith Call
+      - Spirit's Pulse (Omnia Remix) - [Andy Moor] vs. [M.I.K.E.]
+      - Everything From Me (Promises) (Gabriel & Dresden Remix) - Andain
+      - Skies On Fire - [First State] feat. [Sarah Howells]
+      - Apollo Road (Club Mix) - [ATB] & [Dash Berlin]
+      - Broken Down (Shogun Remix) [Future Favorie] - [Tritonal] feat. [Meredith Call]
       - Globalization - Andrew Rayel
-      - Digital War - Paul Miller vs. Sajjad Ravjani
+      - Digital War - [Paul Miller] vs. [Sajjad Ravjani]
       - Just For You - Daniel Kandi
-      - "[5 stars] Fight The Sunrise (Daniel Kandi Rise Remix) - Gareth Emery feat. Lucy Saunders"
-      - Eastern Thrace (Arctic Moon Remix) - Faruk Sabanci & Ken Loi
+      - + Fight The Sunrise (Daniel Kandi Rise Remix) - [Gareth Emery] feat. [Lucy Saunders]
+      - Eastern Thrace (Arctic Moon Remix) - [Faruk Sabanci] & [Ken Loi]
       - Tokyo (Beatman & Ludmilla Remix) - Paul Oakenfold
-      - Made Of Sun (Hard Dub) [ASOT Radio Classic] - Kyau & Albert
+      - Made Of Sun (Hard Dub) - Kyau & Albert
 
   - number: 508
     tracks: 23
     liked:
-      - Feels So Good (Tristan Garner Remix) [Armind] - Armin van Buuren feat. Nadia Ali
-      - Skies On Fire [Black Hole] - First State feat. Sarah Howells
+      - Feels So Good (Tristan Garner Remix) [Armind] - [Armin van Buuren] feat. [Nadia Ali]
+      - Skies On Fire - [First State] feat. [Sarah Howells]
       - Timide (Craving Remix) [Statement] - Ruben de Ronde
       - Cacatua [Euphonic] - Steve Brian
       - Earth Hour [Aropa] - Dash Berlin
-      - Another Day [Coldharbour Recordings] - DNS Project feat. Madelin
-      - Find This Dream [Soundpiercing] - Wezz Devall feat. Isa Marie
+      - Another Day [Coldharbour Recordings] - [DNS Project] feat. [Madelin]
+      - Find This Dream [Soundpiercing] - [Wezz Devall] feat. [Isa Marie]
       - Ashes [ASOT] - Sebastian Brandt
       - Only For You (Arctic Moon Remix) [Blue Soho] - Ahmed Romel
 
   - number: 509
     tracks: 23
     liked:
-      - Promises (Myon & Shane 54 Summer Of Love Mix) [Black Hole] - Andain
+      - Promises (Myon & Shane 54 Summer Of Love Mix) - Andain
       - JYNX (Cut Edit) [AVA] - Ashley Wallbridge
-      - I Can Breathe (Tritonal Club Mix) [Air Up There Recordings] - Tritonal feat. Jeza
-      - "[5 stars] Synchronized (Protoculture Remix) [Perfecto Fluoro] - Federation"
-      - Over Paper Skies (Extended Dub Mix) [Armada] - Eco feat. Jeza
-      - Only For You (Arctic Moon Remix) [Blue Soho] - [FUTURE FAVORITE] Ahmed Romel
+      - I Can Breathe (Tritonal Club Mix) - [Tritonal] feat. [Jeza]
+      - + Synchronized (Protoculture Remix) - Federation
+      - Over Paper Skies (Extended Dub Mix) [Armada] - [Eco] feat. [Jeza]
+      - Only For You (Arctic Moon Remix) [Blue Soho] - Ahmed Romel
       - Magnetica [Discover] - Vol Deeman
 
   - number: 510
     tracks: 23
     liked:
-      - Feels So Good (Tristan Garner Remix) [Armind] - Armin van Buuren feat. Nadia Ali
-      - The Thunder (From The Album 'In My Opinion') [Armada] - Orjan Nilsen feat. Kate Louise Smith
-      - Show Me The Way (TyDi Remix) [Black Hole] - FUTURE FAVORITE] Allure feat. JES
+      - Feels So Good (Tristan Garner Remix) [Armind] - [Armin van Buuren] feat. [Nadia Ali]
+      - The Thunder (From The Album 'In My Opinion') [Armada] - [Ørjan Nilsen] feat. [Kate Louise Smith]
+      - Show Me The Way (TyDi Remix) - [Allure] feat. [JES]
       - Night Highway [Afterglow Records] - Vertruda
-      - Suzu (Ben Gold Remix) [Garuda] - Tritonal & Sibicky
-      - Helion [Anjunabeats] - Mike Koglin vs Genix
+      - Suzu (Ben Gold Remix) [Garuda] - [Tritonal] & [Sibicky]
+      - Helion [Anjunabeats] - [Mike Koglin] vs [Genix]
       - True To Me (Suncatcher Remix) [Infrasonic] - Solis
-      - Everything To Me (Giuseppe Ottaviani Remix) [Discover] - Sly One vs Jurrane
+      - Everything To Me (Giuseppe Ottaviani Remix) [Discover] - [Sly One] vs [Jurrane]
       - Will Be (Dave202 & Virtual Vault Remix) - DJ Butterfly
 
   - number: 511
     tracks: 22
     liked:
-      - The Island - MaRLo feat. Jano
+      - The Island - [MaRLo] feat. [Jano]
       - Ask The Angels - Heatbeat
-      - Sun Gone Down [Tune Of The Week] - Protoculture feat. Shannon Hurley
-      - Over You (Heatbeat Remix) - Philippe El Sisi feat. Josie
+      - Sun Gone Down - [Protoculture] feat. [Shannon Hurley]
+      - Over You (Heatbeat Remix) - [Philippe El Sisi] feat. [Josie]
       - Jet Packin (Phynn Remix) - Space SpockerZ
       - Copacabana Dream - Tiddey
       - Wonderland - Ultimate
-      - Derailed (Des McMahon Remix) - Wayde Rafnel & Dave Correa
+      - Derailed (Des McMahon Remix) - [Wayde Rafnel] & [Dave Correa]
       - Time Is The Healer (Monada Bootleg Dub Mix) - Riva
-      - Symbols [ASOT Radio Classic] - Fictivision vs. C-Quence
+      - Symbols - [Fictivision] vs. [C-Quence]
 
   - number: 512
     tracks: 23
     liked:
-      - My Inner Island (Yuri Kane Remix) [Tune Of The Week] - The Blizzard & Omnia
-      - "[5 stars] Sun Gone Down - Protoculture feat. Shannon Hurley"
+      - My Inner Island (Yuri Kane Remix) - [The Blizzard] & [Omnia]
+      - + Sun Gone Down - [Protoculture] feat. [Shannon Hurley]
       - Arrivals - Mark Sixma
       - Lost Souls (Ex-Driver Remix) - Captured Sun
-      - Osaru - Akira Kayosa & Will Watson pres. Osaru
-      - The Game - Sied van Riel feat. Fenja
-      - Come To Me - Simon Patterson & Greg Downey
-      - On The Run (Ocean To Shore Club Extended) [ASOT Radio Classic] - Tillmann Uhrmacher
+      - Osaru - [Akira Kayosa] & [Will Watson] pres. [Osaru]
+      - The Game - [Sied van Riel] feat. [Fenja]
+      - Come To Me - [Simon Patterson] & [Greg Downey]
+      - On The Run (Ocean To Shore Club Extended) - Tillmann Uhrmacher
 
   - number: 513
     tracks: 21
     liked:
-      - Youtopia (Blake Jarrell Remix) - Armin van Buuren feat. Adam Young
-      - Love Too Hard (Roger Shah Pumpin' Island Remix) - Armin van Buuren feat. Jessie Morgan
-      - Down To Love (Kyau & Albert Remix) - Armin van Buuren feat. Ana Criado
-      - Feels So Good (Tristan Garner Remix) - Armin van Buuren feat. Nadia Ali
-      - Take A Moment (Shogun Vocal Remix) - Armin van Buuren feat. Winter Kills
-      - I Surrender (Sebastian Brandt Remix) - Armin van Buuren feat. Cathy Burton
-      - Not Giving Up On Love (Jorn van Deynhoven Remix) - Armin van Buuren feat. Sophie Ellis-Bextor
-      - Coming Home (Arctic Moon Remix) - Armin van Buuren
-      - Touch Me (Sebastian Brandt Remix) - Armin van Buuren pres. Rising Star
+      - Youtopia (Blake Jarrell Remix) - [Armin van Buuren] feat. [Adam Young]
+      - Love Too Hard (Roger Shah Pumpin' Island Remix) - [Armin van Buuren] feat. [Jessie Morgan]
+      - Down To Love (Kyau & Albert Remix) - [Armin van Buuren] feat. [Ana Criado]
+      - Feels So Good (Tristan Garner Remix) - [Armin van Buuren] feat. [Nadia Ali]
+      - Take A Moment (Shogun Vocal Remix) - [Armin van Buuren] feat. [Winter Kills]
+      - I Surrender (Sebastian Brandt Remix) - [Armin van Buuren] feat. [Cathy Burton]
+      - Not Giving Up On Love (Jorn van Deynhoven Remix) - [Armin van Buuren] feat. [Sophie Ellis-Bextor]
+      - Coming Home (Arctic Moon Remix) - [Armin van Buuren]
+      - Touch Me (Sebastian Brandt Remix) - [Armin van Buuren] pres. [Rising Star]
 
   - number: 514
     tracks: 22
     liked:
-      - Timezone - Sander van Doorn pres. Purple Haze feat. Colin Janz
-      - My Inner Island (Yuri Kane Remix) - The Blizzard & Omnia
-      - All We Have Is Now - Betsie Larkin with Super8 & Tab
+      - Timezone - [Sander van Doorn] pres. [Purple Haze] feat. [Colin Janz]
+      - My Inner Island (Yuri Kane Remix) - [The Blizzard] & [Omnia]
+      - All We Have Is Now - [Betsie Larkin] with [Super8 & Tab]
 
   - number: 541
     title: Yearmix

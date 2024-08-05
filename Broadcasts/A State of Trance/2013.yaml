@@ -21,34 +21,34 @@ episodes:
         liked:
           - "[unknown] - [unknown]"
           - Faces of Love (Alexander Popov Mashup) - Ferry Corsten vs. Faruk Sabanci
-          - Love Again (Alexander Popov remix) - Andy Moor feat. Betsie Larkin
-          - "[unknown] - Eximinds vs. Alexander Popov"
+          - Love Again (Alexander Popov remix) - [Andy Moor] feat. [Betsie Larkin]
+          - "[unknown] - [Eximinds] vs. [Alexander Popov]"
       - number: 4/7
         artist: Lange
         tracks: 13
         liked:
-          - Perlas vs. Chilldren, Robert Miles (Maison & Dragen 2012 Reboot) - Mark Sixma vs. Fisherman & Hawkins
+          - Perlas vs. Chilldren, Robert Miles (Maison & Dragen 2012 Reboot) - [Mark Sixma] vs. [Fisherman & Hawkins]
           - Evolution - Antillas & Dankann
-          - Neptune's Siren - Darren Porter & Ferry Tayle
+          - Neptune's Siren - [Darren Porter] & [Ferry Tayle]
       - number: 5/7
         artist: Armin van Buuren
         tracks: 27
         liked:
-          - Waiting for the Night (Beat Service remix) - Armin van Buuren feat. Fiora
+          - Waiting for the Night (Beat Service remix) - [Armin van Buuren] feat. [Fiora]
           - Gunsmoke - Björn Åkesson
-          - Nothing Without Me (Beat Service remix) - Markus Schulz feat. Ana Diaz
+          - Nothing Without Me (Beat Service remix) - [Markus Schulz] feat. [Ana Diaz]
           - The Killing (Armin van Buuren remix) - Frans Bak
           - Communication (John Askew remix) - Armin van Buuren
-          - Airport Shivers (Armin van Buuren Mashup) - Photographer vs. Armin van Buuren
+          - Airport Shivers (Armin van Buuren Mashup) - [Photographer] vs. [Armin van Buuren]
           - Elektra (Solis & Truby remix) - Super8 & Tab
-          - Jewel (Daniel Kandi's Emotive mix) - Solarstone & Clare Stagg
+          - Jewel (Daniel Kandi's Emotive mix) - [Solarstone] & [Clare Stagg]
       - number: 7/7
         artist: Giuseppe Ottaviani
         tracks: 12
         liked:
           - Just for You - Giuseppe Ottaviani feat. Linnea Schössow
-          - We Are One (Giuseppe Ottaviani remix) - Paul van Dyk feat. Johnny McDaid
-          - I Don't Deserve You (Giuseppe Ottaviani remix) - Paul van Dyk feat. Plumb
+          - We Are One (Giuseppe Ottaviani remix) - [Paul van Dyk] feat. [Johnny McDaid]
+          - I Don't Deserve You (Giuseppe Ottaviani remix) - [Paul van Dyk] feat. [Plumb]
           - "[unknown] - [unknown]"
 
   - number: 600
@@ -62,7 +62,7 @@ episodes:
           - "[unknown] - [unknown]"
           - "[unknown] - Fisher"
           - Laguna - Protoculture
-          - Breathe - John O'Callaghan & Full Tilt feat. Karen Kelly
+          - Breathe - [John O'Callaghan] & [Full Tilt] feat. [Karen Kelly]
           - In a Moment (Eco remix) - Tucandeo
           - Sol - Björn Åkesson
       - number: 3/6
@@ -122,7 +122,7 @@ episodes:
         artist: Tomas Heredia
         tracks: 15
         liked:
-          - Liquid Love vs. Lost (Tomas Heredia Mashup) - Above & Beyond feat. Richard Bedford vs. Tomas Heredia
+          - Liquid Love vs. Lost (Tomas Heredia Mashup) - [Above & Beyond] feat. [Richard Bedford] vs. [Tomas Heredia]
       - number: 4/6
         artist: Markus Schulz
         tracks: 21
@@ -157,7 +157,7 @@ episodes:
         tracks: 15
         liked:
           - Senses (Jonas Hornblad remix) - NDS & Blue vs. Spark7
-          - "[5 star] Better on Fire (Caligolas Mashup) - Eximinds vs. Daft Punk"
+          - + Better on Fire (Caligolas Mashup) - Eximinds vs. Daft Punk
           - Mainbeat - Eximinds
           - Game Over - Heatbeat
           - Something New (Rafaël Frost remix) - Tritonal feat. Jenry R
@@ -209,7 +209,7 @@ episodes:
         tracks: 17
         liked:
           - Never Rain Down Again (Dashup) - Markus Schulz feat. Seri & Myon & Shane 54 vs. Dash Berlin
-          - DJ Ease My Apollo Road (Dashup) vs. Lights - ATB & Dash Berlin vs. Niki and the Dove vs. Ellie Goulding
+          - DJ Ease My Apollo Road (Dashup) vs. Lights - [ATB] & [Dash Berlin] vs. [Niki and the Dove] vs. [Ellie Goulding]
           - Better Half of Me - Dash Berlin feat. Jonathan Mendelsohn
           - Zombie Promises (Dashup) - Zombie Nation & Chris Schweizer vs. Nero
           - The Funeral - Dash Berlin feat. Band of Horses
@@ -309,7 +309,7 @@ episodes:
         artist: Dash Berlin
         tracks: 16
         liked:
-          - My World - Alexander Popov feat. Kyler England
+          - My World - [Alexander Popov] feat. [Kyler England]
           - Apollo (Dash Berlin 4am remix) - Hardwell feat. Amba Shepherd
           - This Miami Is Nice (Dashup) - Sander Kleinenberg vs. Rapha & Maarten de Jong
           - Better Off Alone (Dash Berlin rework) - Alice DeeJay
@@ -399,7 +399,7 @@ episodes:
     tracks: 28
     liked:
       - Change The World (Estiva Remix) - Daniel Kandi feat. Sarah Russell
-      - Love Will Bring It All Around [Tune Of The Week] - Giuseppe Ottaviani & Eric Lumiere
+      - Love Will Bring It All Around - Giuseppe Ottaviani & Eric Lumiere
       - Diamonds (Max Graham Club Mix) - Max Graham & Tania Zygar
       - Walter White - Above & Beyond
       - Bullet That Saved Me (Ilan Bluestone Remix) - Tritonal feat. Underdown
@@ -412,7 +412,7 @@ episodes:
     tracks: 28
     liked:
       - Who's Afraid Of 138?! [Future Favourite] - Armin van Buuren
-      - "[5 stars] The End - Astral"
+      - + The End - Astral
       - If I Lose Myself Coming Home (Shura Vlasov Mashup) - Armin van Buuren vs. Arctic Moon vs. OneRepublic
 
   - number: 611
@@ -421,7 +421,7 @@ episodes:
   - number: 612
     tracks: 27
     liked:
-      - Violetta - Orjan Nilsen
+      - Violetta - Ørjan Nilsen
       - Uncharted - Purelight
       - Sound Of The Drums (Extended Version) - Armin van Buuren feat. Laura Jansen
       - Got Love (Alex M.O.R.P.H. B2B Woody van Eyden Remix) - Sean Tyas
@@ -436,7 +436,7 @@ episodes:
       - Blind (Solarstone Remix) - Theo Hutchcraft
       - The Incursion (Epic Orchestral Trance Mix) [Future Favourite] - Kelly Andrew
       - Daytona (Photographer Remix) - Billy Gillies
-      - Close Horizon [ASOT Radio Classic] - Thomas Bronzwaer
+      - Close Horizon - Thomas Bronzwaer
 
   - number: 614
     tracks: 27
@@ -461,16 +461,16 @@ episodes:
   - number: 623
     tracks: 30
     liked:
-      - "[5 stars] Beautiful Life (Mikkas Remix) - Armin van Buuren feat. Cindy Alma"
+      - + Beautiful Life (Mikkas Remix) - Armin van Buuren feat. Cindy Alma
       - Wings (Myon & Shane 54 Summer Of Love Mix) - Tom Swoon feat. Taylr Renee
       - Daydream (Thrillseekers Club Mix) - The Thrillseekers with York & Asheni
       - Subortus - Fon.Leman
       - Stuck In A Loop - Stoneface & Terminal
-      - Meteor Shower - Aimoon & Offshore Wind
-      - Exodus - Andy Blueman & Driftmoon feat. Dsharp
+      - Meteor Shower - [Aimoon] & [Offshore Wind]
+      - Exodus - [Andy Blueman] & [Driftmoon] feat. [Dsharp]
       - Eternal Flame (Solarstone Pure Mix) - Alex M.O.R.P.H.
       - Destination (Swillow Remix) - Type 41
-      - Kaipara (ReOrder Remix) - Akira Kayosa & HughTolland
+      - Kaipara (ReOrder Remix) - [Akira Kayosa] & [HughTolland]
       - Freedom [Future Favorite] - Soundlift
       - Innermost - Kaimo K
       - Slingshot - James Dymond
@@ -482,4 +482,4 @@ episodes:
       - World Falls Apart (Jorn van Deynhoven Remix) - Dash Berlin feat. Jonathan Mendelsohn
       - Black Hole (Jorn van Deynhoven Remix) - Craig Connelly & Christina Novelli
       - Apprehension (Aly & Fila Mix) - Simon O'Shine & Sergey Nevone
-      - As The Rush Comes [ASOT Radio Classic] - Motorcycle
+      - As The Rush Comes - Motorcycle
