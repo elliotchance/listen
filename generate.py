@@ -130,6 +130,7 @@ class Episode:
         self.rating = ''
         self.total_tracks = 0
         self.total_liked = 0
+        self.urls = []
         
         if 'number' in entries:
             self.number = entries['number']
@@ -145,6 +146,8 @@ class Episode:
             self.rating = entries['rating']
         if 'parts' in entries:
             self.parts = [EpisodePart(**p) for p in entries['parts']]
+        if 'urls' in entries:
+            self.urls = entries['urls']
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -175,12 +178,20 @@ class Episode:
             else:
                 title += ', "%s"' % self.title
 
+        urls = []
+        for url in self.urls:
+            host = url.split('/')[2]
+            if host == '1001.tl':
+                urls.append('<a href="%s" class="tracklists">&nbsp;</a>' % url)
+            else:
+                raise Exception("unknown host: %s" % host)
+
         if self.rating:
             w(f, "<h3>%s %s<span style=\"float: right\">%s</span></h3>" % (
                 rating_emoji(self.rating), title, tracks))
         else:
-            w(f, "<h3>%s<span style=\"float: right\">%s/%s</span></h3>" % (
-                title, len(self.liked), tracks))
+            w(f, "<h3>%s %s<span style=\"float: right\">%s/%s</span></h3>" % (
+                title, ''.join(urls), len(self.liked), tracks))
 
         if len(self.liked) > 0:
             w(f, "<ul>")
@@ -294,6 +305,14 @@ with open('index.html', "w") as f:
     table, th, td {
         border: 1px solid black;
         border-collapse: collapse;
+    }
+    a.tracklists {
+      background-image: url("https://cdn.1001tracklists.com/images/static/1001icon_s.png");
+      background-size: 16px 16px;
+      text-decoration: none;
+      background-repeat: no-repeat;
+      width: 16px;
+      display: inline-block;
     }
     """)
     w(f, "</style>")

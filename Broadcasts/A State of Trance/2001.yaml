@@ -5,117 +5,175 @@ series:
 
 episodes:
   - number: "0"
+    urls:
+      - https://1001.tl/2xbh9b9
     tracks: 18
     liked:
       - ID
 
   - number: 1
+    urls:
+      - https://1001.tl/38zxw8k
     tracks: 19
 
   - number: 2
     tracks: 18
+    urls:
+      - https://1001.tl/6d4sbw1
 
   - number: 3
     tracks: 19
+    urls:
+      - https://1001.tl/2kyq9m9
 
   - number: 4
     tracks: 20
+    urls:
+      - https://1001.tl/2gzblbk
 
   - number: 5
     tracks: 23
+    urls:
+      - https://1001.tl/1g698kt
 
   - number: 6
     tracks: 23
+    urls:
+      - https://1001.tl/1r4r82k
     liked:
       - Into The Night - 4 Strings
       - The Legacy - Push
 
   - number: 7
     tracks: 22
+    urls:
+      - https://1001.tl/6y1b1tk
 
   - number: 8
     tracks: 21
+    urls:
+      - https://1001.tl/qk214j1
 
   - number: 9
     tracks: 22
+    urls:
+      - https://1001.tl/2ukblgl1
 
   - number: 10
     tracks: 21
+    urls:
+      - https://1001.tl/qkscbzt
 
   - number: 11
     tracks: 18
+    urls:
+      - https://1001.tl/1mfn8hbk
     liked:
       - Ibeatza - Poison Club
 
   - number: 12
     tracks: 21
+    urls:
+      - https://1001.tl/9jjz4k9
 
   - number: 13
     tracks: 21
+    urls:
+      - https://1001.tl/2pwbbsuk
 
   - number: 14
     tracks: 21
+    urls:
+      - https://1001.tl/22bh95mk
 
   - number: 15
     tracks: 20
+    urls:
+      - https://1001.tl/28v30b19
     liked:
       - Above & Beyond pres. Tranquility Base - Razorfish (Above & Beyond Progressive Mix) [Tune Of The Week]
 
   - number: 16
     tracks: 21
+    urls:
+      - https://1001.tl/jyypws9
 
   - number: 17
     tracks: 20
+    urls:
+      - https://1001.tl/11rducqt
     liked:
       - iiO - Rapture (Armin van Buuren Remix)
 
   - number: 18
     tracks: 22
+    urls:
+      - https://1001.tl/f7ssvc9
     liked:
       - iiO - Rapture (Armin van Buuren Remix)
 
   - number: 19
     tracks: 21
+    urls:
+      - https://1001.tl/2dlbn79t
     liked:
       - OceanLab - Clear Blue Water (Ferry Corsten Remix)
       - PPK - Resurection (Space Club Mix)
 
   - number: 20
     tracks: 9
+    urls:
+      - https://1001.tl/1mfpfsq1
 
   - number: 21
     tracks: 18
+    urls:
+      - https://1001.tl/1lhvs759
     liked:
       - OceanLab - Clear Blue Water (Ferry Corsten Remix)
       - PPK - Resurection [Tune Of The Week]
 
   - number: 22
     tracks: 19
+    urls:
+      - https://1001.tl/nq65t3t
 
   - number: 23
     tracks: 20
+    urls:
+      - https://1001.tl/2nykqqm1
     liked:
       - OceanLab - Clear Blue Water (Ferry Corsten Remix)
       - PPK - Resurection (Space Club Mix)
 
   - number: 24
     tracks: 18
+    urls:
+      - https://1001.tl/2n0s1529
 
   - number: 25
     tracks: 20
+    urls:
+      - https://1001.tl/1zk36j0t
 
   - number: 26
     tracks: 21
+    urls:
+      - https://1001.tl/u90qp91
     liked:
       - Lange feat Skye - Drifting Away
 
   - number: 27
     tracks: 20
+    urls:
+      - https://1001.tl/1ymb07s9
     liked:
       - Moon Project - Moments Are Forever
 
   - number: 28
     tracks: 20
+    urls:
+      - https://1001.tl/5wtkfzt
     liked:
       - OceanLab - Clear Blue Water (Ferry Corsten Remix) [19th place]
       - iiO - Rapture (Armin van Buuren Remix) [4th place]
