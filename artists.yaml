@@ -85,6 +85,8 @@ artists:
 
   - name: Advanced
     rym: https://rateyourmusic.com/artist/advanced
+    presentedBy:
+      - Ronny K.
 
   - name: Adymus
     rym: https://rateyourmusic.com/artist/adymus
@@ -286,3 +288,167 @@ artists:
 
   - name: Au5
     rym: https://rateyourmusic.com/artist/au5
+
+  - name: Sebastian Brandt
+    rym: https://rateyourmusic.com/artist/sebastian-brandt
+
+  - name: Cold Blue
+    rym: https://rateyourmusic.com/artist/cold_blue
+
+  - name: ilan Bluestone
+    rym: https://rateyourmusic.com/artist/ilan-bluestone
+
+  - name: Natalie Gioia
+    rym: https://rateyourmusic.com/artist/natalie-gioia
+
+  - name: Justine Suissa
+    rym: https://rateyourmusic.com/artist/justine_suissa
+
+  - name: Solarstone
+    rym: https://rateyourmusic.com/artist/solarstone
+
+  - name: Kyau & Albert
+    rym: https://rateyourmusic.com/artist/kyau-and-albert
+
+  - name: ReOrder
+    rym: https://rateyourmusic.com/artist/reorder
+
+  - name: Roman Messer
+    rym: https://rateyourmusic.com/artist/roman_messer
+
+  - name: Jochen Miller
+    rym: https://rateyourmusic.com/artist/jochen-miller
+
+  - name: Hansen Tomas
+    rym: https://rateyourmusic.com/artist/hansen_tomas
+
+  - name: Factor B
+    rym: https://rateyourmusic.com/artist/factor-b
+
+  - name: Highlandr
+    rym: https://rateyourmusic.com/artist/highlandr
+
+  - name: Tranquility Base
+    rym: https://rateyourmusic.com/artist/tranquility_base
+    presentedBy:
+      - Above & Beyond
+
+  - name: Mungo
+    rym: https://rateyourmusic.com/artist/mungo
+    presentedBy:
+      - Vast Vision
+
+  - name: Dominic Dominion
+    rym: https://rateyourmusic.com/artist/orjan_nilsen
+    presentedBy:
+      - Ørjan Nilsen
+
+  - name: Purple Mood
+    rym: https://rateyourmusic.com/artist/purple_mood
+    presentedBy:
+      - DJ Cosmo
+
+  - name: Crystal Design
+    rym: https://rateyourmusic.com/artist/poshout
+    presentedBy:
+      - Poshout
+
+  - name: Valhalla
+    rym: https://rateyourmusic.com/artist/sonicvibe
+    presentedBy:
+      - Sonicvibe
+
+  - name: Balearia
+    rym: https://rateyourmusic.com/artist/dimension_f2
+    presentedBy:
+      - Dimension
+
+  - name: Synergy
+    rym: https://rateyourmusic.com/artist/synergy_f1
+    presentedBy:
+      - "[Inkfish] & [Davester]"
+
+  - name: Sun Decade
+    rym: https://rateyourmusic.com/artist/sun_decade
+    presentedBy:
+      - Ronski Speed
+
+  - name: LNG
+    rym: https://rateyourmusic.com/artist/lange
+    presentedBy:
+      - Lange
+
+  - name: Osaru
+    rym: https://rateyourmusic.com/artist/will-watson
+    presentedBy:
+      - Will Watson
+
+  - name: Rising Star
+    rym: https://rateyourmusic.com/artist/rising-star
+    presentedBy:
+      - Armin van Buuren
+
+  - name: Purple Haze
+    rym: https://rateyourmusic.com/artist/purple_haze_f6
+    presentedBy:
+      - Sander van Doorn
+
+  - name: Line Pursuit
+    rym: https://rateyourmusic.com/artist/beatsole
+    presentedBy:
+      - Beatsole
+
+  - name: Urban Astronauts
+    rym: https://rateyourmusic.com/artist/matt_darey
+    presentedBy:
+      - Matt Darey
+
+  - name: Arcane
+    rym: https://rateyourmusic.com/artist/niklas-harding
+    presentedBy:
+      - Niklas Harding
+
+  - name: Sayla
+    rym: https://rateyourmusic.com/artist/menno_de_jong
+    presentedBy:
+      - Menno de Jong
+
+  - name: Txitxarro
+    rym: https://rateyourmusic.com/artist/pg2
+    presentedBy:
+      - PG2
+
+  - name: L.S.G.
+    rym: https://rateyourmusic.com/artist/l_s_g
+    presentedBy:
+      - Oliver Lieb
+
+  - name: Xposure
+    rym: https://rateyourmusic.com/artist/six-senses
+    presentedBy:
+      - Six Senses
+
+  - name: Apollonia
+    rym: https://rateyourmusic.com/artist/tania-mann
+    presentedBy:
+      - Tania Mann
+
+  - name: Group Number One
+    rym: https://rateyourmusic.com/artist/reorder
+    presentedBy:
+      - ReOrder
+
+  - name: Gaia
+    rym: https://rateyourmusic.com/artist/gaia-3
+    presentedBy:
+      - Armin van Buuren
+
+  - name: Timmus
+    rym: https://rateyourmusic.com/artist/timmus
+    presentedBy:
+      - Daniel Kandi
+
+  - name: M6
+    rym: https://rateyourmusic.com/artist/m6
+    presentedBy:
+      - Mark Sixma

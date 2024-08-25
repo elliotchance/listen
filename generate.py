@@ -93,6 +93,15 @@ class Broadcasts:
     def write_top1000(self, f):
         tracks = {}
         for series in self.series:
+            if series.name != 'A State of Trance' and \
+                series.name != 'Future Sound of Egypt' and \
+                series.name != 'Group Therapy' and \
+                series.name != 'Sophie Sugar\'s Symphony' and \
+                series.name != 'The Anjunadeep Edition' and \
+                series.name != 'Tritonia' and \
+                series.name != 'VONYC Sessions':
+                continue
+
             for subseries in series.subseries:
                 for episode in subseries.episodes:
                     for title in episode.liked:
@@ -152,7 +161,7 @@ class Broadcasts:
             series.write(f, self.artist_details)
 
 def is_time_code(title):
-    return re.compile(r'^-?[\d:]+$').match(title)
+    return title.startswith('@')
 
 def get_artist(artists, name):
     for artist in artists['artists']:
@@ -444,6 +453,9 @@ def append_artists(dest, src):
             dest[artist][title]['on'].extend(src[artist][title]['on'])
 
 def parse_track(s):
+    if s.startswith('@'):
+        return None
+
     if s.startswith('+ '):
         s = s[2:]
 
@@ -458,6 +470,8 @@ def parse_track(s):
             return {'title': title, 'artists': artists}
 
         return {'title': title, 'artists': [parts[1]]}
+    
+    print("cannot parse track: "+s)
     return None
 
 def w(f, s):

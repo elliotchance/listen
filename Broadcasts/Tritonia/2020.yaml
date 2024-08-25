@@ -34,7 +34,7 @@ episodes:
   - number: 292
     tracks: 13
     liked:
-      - "-25:00"
+      - "@-25:00"
 
   - number: 293
     tracks: 15
@@ -49,7 +49,7 @@ episodes:
   - number: 296
     tracks: 13
     liked:
-      - "-57:00"
+      - "@-57:00"
 
   - number: 297
     tracks: 18
@@ -61,56 +61,56 @@ episodes:
     tracks: 35
     title: Part 1
     liked:
-      - "11:00"
-      - "2:17:40"
+      - "@11:00"
+      - "@2:17:40"
 
   - number: 300
     tracks: 29
     title: "Part 2: Classic Progressive Trance Set"
     liked:
-      - "14:15"
-      - "26:38"
-      - "1:49:10"
-      - "2:14:10"
+      - "@14:15"
+      - "@26:38"
+      - "@1:49:10"
+      - "@2:14:10"
 
   - number: 301
     tracks: 14
     liked:
-      - "1:30"
-      - "28:55"
+      - "@1:30"
+      - "@28:55"
 
   - number: 302
     tracks: 13
     liked:
-      - "6:10"
+      - "@6:10"
 
   - number: 303
     tracks: 13
     liked:
-      - "20:20"
-      - "26:20"
+      - "@20:20"
+      - "@26:20"
 
   - number: 304
     tracks: 14
     liked:
-      - "33:30"
+      - "@33:30"
 
   - number: 305
     tracks: 16
     liked:
-      - "20:35"
+      - "@20:35"
 
   - number: 306
     tracks: 17
     liked:
-      - "1:45"
-      - "42:00"
+      - "@1:45"
+      - "@42:00"
 
   - number: 307
     tracks: 15
     liked:
-      - "5:30"
-      - "1:00:00"
+      - "@5:30"
+      - "@1:00:00"
 
   - number: 308
     tracks: 13

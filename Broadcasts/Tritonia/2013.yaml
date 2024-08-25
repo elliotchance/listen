@@ -42,20 +42,20 @@ episodes:
   - number: 9
     tracks: 16
     liked:
-      - "-42:20"
-      - "-38:50"
+      - "@-42:20"
+      - "@-38:50"
 
   - number: 10
     tracks: 15
     liked:
-      - "-13:40"
-      - "-3:15"
-      - "-2:00"
+      - "@-13:40"
+      - "@-3:15"
+      - "@-2:00"
 
   - number: 11
     tracks: 15
     liked:
-      - "2:50"
+      - "@2:50"
 
   - number: 12
     tracks: 15
@@ -72,7 +72,7 @@ episodes:
   - number: 16
     tracks: 16
     liked:
-      - "5:50 [Dash Berlin - Steal You Away?]"
+      - "@5:50 [Dash Berlin - Steal You Away?]"
 
   - number: 17
     tracks: 16
@@ -83,7 +83,7 @@ episodes:
   - number: 19
     tracks: 17
     liked:
-      - "49:30"
+      - "@49:30"
 
   - number: 20
     tracks: 18
@@ -103,7 +103,7 @@ episodes:
   - number: 25
     tracks: 17
     liked:
-      - "41:10"
+      - "@41:10"
 
   - number: 26
     tracks: 18
@@ -117,7 +117,7 @@ episodes:
   - number: 29
     tracks: 16
     liked:
-      - "56:00"
+      - "@56:00"
 
   - number: 30
     tracks: 16
@@ -128,7 +128,7 @@ episodes:
   - number: 32
     tracks: 19
     liked:
-      - "9:00 [Fisherman and Hawkins?]"
+      - "@9:00 [Fisherman and Hawkins?]"
 
   - number: 33
     tracks: 17
@@ -136,4 +136,4 @@ episodes:
   - number: 34
     tracks: 34
     liked:
-      - "35:30 [Bruno Mars - Locked out of Heaven]"
+      - "@35:30 [Bruno Mars - Locked out of Heaven]"
