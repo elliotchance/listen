@@ -133,9 +133,17 @@ class Broadcasts:
         w(f, "</tr>")
 
         for track in sorted(sorted_tracks[:1000], key=lambda x: x['title']):
+            count = track['count']
+            if track['loved']:
+                count += 10
+
             w(f, "<tr>")
-            w(f, "<td valign='top'>%s</td>" % render_track(self.artist_details, track['title']))
+            if count >= 5:
+                w(f, "<td valign='top'><strong>%s</strong></td>" % render_track(self.artist_details, track['title']))
+            else:
+                w(f, "<td valign='top'>%s</td>" % render_track(self.artist_details, track['title']))
             w(f, "<td valign='top'>%s</td>" % track['earliest'])
+            w(f, "<td valign='top'>%d</td>" % count)
             w(f, "</tr>")
         w(f, "</table>")
 

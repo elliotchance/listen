@@ -49,7 +49,7 @@ episodes:
       - I.O.U. (Crystal Skies Remix) / Because of You - [Jason Ross], [Emilie Brandt], [Da Tweekaz] & [Refuzion]
       - Tokyo ([Seven Lions] Remix) - [3LAU] feat. [XIRA]
       - Ultima / Casket - [Pixel Terror] & [Marauda]
-      - I Don't Deserve You (feat. Plumb) [Seven Lions Remix] - Paul van Dyk
+      - I Don't Deserve You ([Seven Lions] Remix) - [Paul van Dyk] feat. [Plumb]
 
   - number: 7
     artist: Last Heroes
@@ -60,9 +60,9 @@ episodes:
     tracks: 17
     liked:
       - Tokyo ([Seven Lions] Remix) - [3LAU] feat. [XIRA]
-      - I Swear (feat. ANIMA!) [Jason Ross Remix] - Dirty South
-      - Tidal Wave (feat. Nevve) - Far Out
-      - Adventure (feat. ALLY THORN) - Far Out
+      - I Swear ([Jason Ross] Remix) - [Dirty South] feat. [ANIMA!]
+      - Tidal Wave - [Far Out] feat. [Nevve]
+      - Adventure - [Far Out] feat. [ALLY THORN]
 
   - number: 9
     artist: Xavi
@@ -114,14 +114,14 @@ episodes:
     artist: Au5
     tracks: 30
     liked:
-      - "Satellite (Above & Beyond Remix) [Acapella] / ID3 (from Ophelia's Odyssey, Ep. 16: Au5) - [OceanLab] & [ID]"
+      - "Satellite ([Above & Beyond] Remix) [Acapella] / ID3 (from Ophelia's Odyssey, Ep. 16: Au5) - [OceanLab] & [ID]"
 
   - number: 17
     artist: Blanke
     title: Blanke's Melodic Mix
     tracks: 23
     liked:
-      - Gorgeous (Mixed) - [ILLENIUM], [Bipolar Sunshine] & [Blanke]
+      - Gorgeous - [ILLENIUM], [Bipolar Sunshine] & [Blanke]
 
   - number: 18
     artist: Alpha 9
