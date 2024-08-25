@@ -78,7 +78,7 @@ class Broadcasts:
             artist_details = get_artist(self.artist_details, artist)
             w(f, "<tr>")
             if artist_details is not None:
-                w(f, "<td valign='top'><a href=\"%s\">%s</a></td>" % (artist_details['urls'][0], artist))
+                w(f, "<td valign='top'><a href=\"%s\">%s</a></td>" % (artist_details['rym'], artist))
             else:
                 w(f, "<td valign='top'>%s</td>" % artist)
 
@@ -141,7 +141,7 @@ class Broadcasts:
 
     def write(self, f):
         for series in self.series:
-            series.write(f)
+            series.write(f, self.artist_details)
 
 def is_time_code(title):
     return re.compile(r'^-?[\d:]+$').match(title)
@@ -154,13 +154,19 @@ def get_artist(artists, name):
     return None
 
 def render_track(all_artists, s):
+    if ' - ' in s and '[' not in s:
+        parts = s.split(' - ')
+        a = get_artist(all_artists, parts[1])
+        if a is not None:
+            return parts[0] + ' - <a href="%s">%s</a>' % (a['rym'], parts[1])
+
     artists = re.findall('\[(.*?)\]', s)
     for artist in artists:
         a = get_artist(all_artists, artist)
         if a is None:
-            s = s.replace("[%s]" % artist, artist)
+            s = s.replace("[%s]" % artist, "<em>%s</em>" % artist)
         else:
-            s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a['urls'][0], artist))
+            s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a['rym'], artist))
 
     return s
 
@@ -186,13 +192,13 @@ class Series:
             self.total_liked += subseries.total_liked
             append_artists(self.artists, subseries.artists)
 
-    def write(self, f):
+    def write(self, f, artist_details):
         w(f, "<h1>%s</h1>" % self.name)
         w(f, "<strong>%d episodes<span style=\"float: right\">%d/%d</span></strong>" % (
             self.total_episodes, self.total_liked, self.total_tracks))
 
         for subseries in self.subseries:
-            subseries.write(f, self)
+            subseries.write(f, self, artist_details)
 
 class Subseries:
     def __init__(self, parent_series, name, **entries):
@@ -228,7 +234,7 @@ class Subseries:
             self.total_liked += episode.total_liked
             append_artists(self.artists, episode.artists)
 
-    def write(self, f, series):
+    def write(self, f, series, artist_details):
         range = ''
         if self.from_number:
             if self.to_number:
@@ -242,7 +248,7 @@ class Subseries:
         w(f, "<strong>%d episodes<span style=\"float: right\">%d/%d</span></strong>" % (
             self.total_episodes, self.total_liked, self.total_tracks))
         for episode in self.episodes:
-            episode.write(f)
+            episode.write(f, artist_details)
 
 class Episode:
     def __init__(self, series, **entries):
@@ -313,7 +319,7 @@ class Episode:
 
         return title
 
-    def write(self, f):
+    def write(self, f, artist_details):
         tracks = '?'
         if self.tracks:
             tracks = self.tracks
@@ -338,7 +344,7 @@ class Episode:
         if len(self.liked) > 0:
             w(f, "<ul>")
             for t in self.liked:
-                w(f, "<li>%s</li>" % t)
+                w(f, "<li>%s</li>" % render_track(artist_details, t))
             w(f, "</ul>")
 
         for part in self.parts:

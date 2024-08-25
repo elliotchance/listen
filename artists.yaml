@@ -1,40 +1,288 @@
 artists:
   - name: 3rd Moon
-    urls:
-      - https://rateyourmusic.com/artist/3rd_moon
+    rym: https://rateyourmusic.com/artist/3rd_moon
 
   - name: 4 Strings
-    urls:
-      - https://rateyourmusic.com/artist/4-strings
+    rym: https://rateyourmusic.com/artist/4-strings
 
   - name: A.M.R
-    urls:
-      - https://rateyourmusic.com/artist/a_m_r
+    rym: https://rateyourmusic.com/artist/a_m_r
 
   - name: A.R.D.I.
-    urls:
-      - https://rateyourmusic.com/artist/a_r_d_i_
+    rym: https://rateyourmusic.com/artist/a_r_d_i_
 
   - name: ATB
-    urls:
-      - https://rateyourmusic.com/artist/atb
+    rym: https://rateyourmusic.com/artist/atb
 
   - name: Above & Beyond
-    urls:
-      - https://rateyourmusic.com/artist/above-and-beyond
+    rym: https://rateyourmusic.com/artist/above-and-beyond
 
   - name: Abstract Vision
-    urls:
-      - https://rateyourmusic.com/artist/abstract_vision
+    rym: https://rateyourmusic.com/artist/abstract_vision
 
   - name: Abstract Vision & Elite Electronic
-    urls:
-      - https://rateyourmusic.com/artist/abstract_vision_and_elite_electronic
+    rym: https://rateyourmusic.com/artist/abstract_vision_and_elite_electronic
 
   - name: 3LAU
-    urls:
-      - https://rateyourmusic.com/artist/3lau
+    rym: https://rateyourmusic.com/artist/3lau
 
   - name: Seven Lions
-    urls:
-      - https://rateyourmusic.com/artist/seven-lions
+    rym: https://rateyourmusic.com/artist/seven-lions
+
+  - name: 7 Skies
+    rym: https://rateyourmusic.com/artist/7-skies
+
+  - name: A & Z
+    rym: https://rateyourmusic.com/artist/a_and_z_f1
+
+  - name: AFTERMYFALL
+    rym: https://rateyourmusic.com/artist/aftermyfall-2
+
+  - name: ALLKNIGHT
+    rym: https://rateyourmusic.com/artist/allknight
+
+  - name: ARTY
+    rym: https://rateyourmusic.com/artist/arty
+
+  - name: ASHER SWISSA
+    rym: https://rateyourmusic.com/artist/asher-swissa
+
+  - name: AVIAN GRAYS
+    rym: https://rateyourmusic.com/artist/avian-grays
+
+  - name: AVIRA
+    rym: https://rateyourmusic.com/artist/avira
+
+  - name: Abraxis
+    rym: https://rateyourmusic.com/artist/abraxis
+
+  - name: Ace Ventura
+    rym: https://rateyourmusic.com/artist/ace-ventura
+
+  - name: Ace's Delight
+    rym: https://rateyourmusic.com/artist/aces_delight
+
+  - name: Achilles
+    rym: https://rateyourmusic.com/artist/achilles-2
+
+  - name: Activa
+    rym: https://rateyourmusic.com/artist/activa
+
+  - name: Adam Ellis
+    rym: https://rateyourmusic.com/artist/adam-ellis
+
+  - name: Adam Szabo
+    rym: https://rateyourmusic.com/artist/adam_szabo
+
+  - name: Adam Taylor
+    rym: https://rateyourmusic.com/artist/adam-taylor-3
+
+  - name: Adam Young
+    rym: https://rateyourmusic.com/artist/adam-young
+
+  - name: Adrina Thorpe
+    rym: https://rateyourmusic.com/artist/adrina_thorpe
+
+  - name: Advanced
+    rym: https://rateyourmusic.com/artist/advanced
+
+  - name: Adymus
+    rym: https://rateyourmusic.com/artist/adymus
+
+  - name: ADZ
+    rym: https://rateyourmusic.com/artist/adz-3
+
+  - name: Aelyn
+    rym: https://rateyourmusic.com/artist/aelyn
+
+  - name: Afternova
+    rym: https://rateyourmusic.com/artist/afternova
+
+  - name: Agnelli & Nelson
+    rym: https://rateyourmusic.com/artist/agnelli_and_nelson
+
+  - name: Ahmed Romel
+    rym: https://rateyourmusic.com/artist/ahmed-romel
+
+  - name: Aiera
+    rym: https://rateyourmusic.com/artist/aiera
+
+  - name: Aimoon
+    rym: https://rateyourmusic.com/artist/aimoon
+
+  - name: Aina
+    rym: https://rateyourmusic.com/artist/aina-2
+
+  - name: Airbase
+    rym: https://rateyourmusic.com/artist/airbase
+
+  - name: Airwave
+    rym: https://rateyourmusic.com/artist/airwave
+
+  - name: Akira Kayosa
+    rym: https://rateyourmusic.com/artist/akira_kayosa
+
+  - name: Alan Morris
+    rym: https://rateyourmusic.com/artist/alan_morris
+
+  - name: OceanLab
+    rym: https://rateyourmusic.com/artist/oceanlab
+
+  - name: ППК
+    rym: https://rateyourmusic.com/artist/ппк
+
+  - name: Alan Walker
+    rym: https://rateyourmusic.com/artist/alan-walker
+
+  - name: Alesso
+    rym: https://rateyourmusic.com/artist/alesso
+
+  - name: Alex Bartlett
+    rym: https://rateyourmusic.com/artist/alex_bartlett
+
+  - name: Alex Di Stefano
+    rym: https://rateyourmusic.com/artist/alex_di_stefano
+
+  - name: Alex Holmes
+    rym: https://rateyourmusic.com/artist/alex-holmes
+
+  - name: Alex Kenji
+    rym: https://rateyourmusic.com/artist/alex_kenji
+
+  - name: Alex M.O.R.P.H.
+    rym: https://rateyourmusic.com/artist/alex-m_o_r_p_h
+
+  - name: Alex Stealthy
+    rym: https://rateyourmusic.com/artist/alex-stealthy
+
+  - name: Alexander Popov
+    rym: https://rateyourmusic.com/artist/alexander_popov
+
+  - name: Alexandra Badoi
+    rym: https://rateyourmusic.com/artist/alexandra-badoi
+
+  - name: Aley & Oshay
+    rym: https://rateyourmusic.com/artist/aley-and-oshay
+
+  - name: Algarve
+    rym: https://rateyourmusic.com/artist/algarve
+
+  - name: Ali Wilson
+    rym: https://rateyourmusic.com/artist/ali-wilson
+
+  - name: Alice Deejay
+    rym: https://rateyourmusic.com/artist/alice-deejay
+
+  - name: Allen & Envy
+    rym: https://rateyourmusic.com/artist/allen-and-envy
+
+  - name: Allen Watts
+    rym: https://rateyourmusic.com/artist/allen_watts
+
+  - name: Allure
+    rym: https://rateyourmusic.com/artist/allure-1
+
+  - name: Alpha Breed
+    rym: https://rateyourmusic.com/artist/alpha_breed
+
+  - name: Aly & Fila
+    rym: https://rateyourmusic.com/artist/aly_and_fila
+
+  - name: Amba Shepherd
+    rym: https://rateyourmusic.com/artist/amba_shepherd
+
+  - name: Amir Hussain
+    rym: https://rateyourmusic.com/artist/amir_hussain
+
+  - name: Ana Criado
+    rym: https://rateyourmusic.com/artist/ana_criado
+
+  - name: Ana Diaz
+    rym: https://rateyourmusic.com/artist/ana_diaz
+
+  - name: anamē
+    rym: https://rateyourmusic.com/artist/aname
+
+  - name: Andain
+    rym: https://rateyourmusic.com/artist/andain
+
+  - name: Andres Sanchez
+    rym: https://rateyourmusic.com/artist/andres-sanchez
+
+  - name: Andrew Rayel
+    rym: https://rateyourmusic.com/artist/andrew_rayel
+
+  - name: Andy Blueman
+    rym: https://rateyourmusic.com/artist/andy_blueman
+
+  - name: Andy Duguid
+    rym: https://rateyourmusic.com/artist/andy_duguid
+
+  - name: Andy Elliass
+    rym: https://rateyourmusic.com/artist/andy_elliass
+
+  - name: Andy Moor
+    rym: https://rateyourmusic.com/artist/andy-moor-2
+
+  - name: Angelika Vee
+    rym: https://rateyourmusic.com/artist/angelika_vee
+
+  - name: Anita Kelsey
+    rym: https://rateyourmusic.com/artist/anita-kelsey
+
+  - name: Anomaly
+    rym: https://rateyourmusic.com/artist/anomaly-2
+
+  - name: Anthya
+    rym: https://rateyourmusic.com/artist/anthya
+
+  - name: Antillas
+    rym: https://rateyourmusic.com/artist/antillas
+
+  - name: Apollonia
+    rym: https://rateyourmusic.com/artist/apollonia
+
+  - name: Aquilo
+    rym: https://rateyourmusic.com/artist/aquilo_f1
+
+  - name: Arcane
+    rym: https://rateyourmusic.com/artist/arcane_f6
+
+  - name: Arctic Moon
+    rym: https://rateyourmusic.com/artist/arctic_moon
+
+  - name: Arielle Maren
+    rym: https://rateyourmusic.com/artist/arielle-maren
+
+  - name: Arisen Flame
+    rym: https://rateyourmusic.com/artist/arisen_flame
+
+  - name: Arizona
+    rym: https://rateyourmusic.com/artist/arizona_f2
+
+  - name: Arksun
+    rym: https://rateyourmusic.com/artist/arksun
+
+  - name: Armin van Buuren
+    rym: https://rateyourmusic.com/artist/armin-van-buuren
+
+  - name: Aruna
+    rym: https://rateyourmusic.com/artist/aruna
+
+  - name: Ascension
+    rym: https://rateyourmusic.com/artist/ascension-3
+
+  - name: Ashley Tomberlin
+    rym: https://rateyourmusic.com/artist/ashley_tomberlin
+
+  - name: Ashley Wallbridge
+    rym: https://rateyourmusic.com/artist/ashley-wallbridge
+
+  - name: Astral
+    rym: https://rateyourmusic.com/artist/astral-5
+
+  - name: Astrix
+    rym: https://rateyourmusic.com/artist/astrix
+
+  - name: Au5
+    rym: https://rateyourmusic.com/artist/au5
