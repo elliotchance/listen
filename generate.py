@@ -90,9 +90,61 @@ class Broadcasts:
             w(f, "</td></tr>")
         w(f, "</table>")
 
+    def write_top1000(self, f):
+        tracks = {}
+        for series in self.series:
+            for subseries in series.subseries:
+                for episode in subseries.episodes:
+                    for title in episode.liked:
+                        if is_time_code(title) or 'ID' in title:
+                            continue
+
+                        loved = False
+                        if title.startswith('+ '):
+                            title = title[2:]
+                            loved = True
+
+                        if title not in tracks:
+                            tracks[title] = {'count': 0, 'loved': False, 'earliest': ''}
+
+                        tracks[title]['count'] += 1
+                        if loved:
+                            tracks[title]['loved'] = True
+
+                        appears = episode.formatted_title(True)
+                        if tracks[title]['earliest'] == '' or appears < tracks[title]['earliest']:
+                            tracks[title]['earliest'] = appears
+
+        sorted_tracks = []
+        for track in tracks:
+            sorted_tracks.append({
+                'count': tracks[track]['count'],
+                'loved': tracks[track]['loved'],
+                'earliest': tracks[track]['earliest'],
+                'title': track,
+            })
+
+        sorted_tracks = sorted(sorted_tracks, key=lambda x: (not x['loved'], 1000 - x['count'], x['earliest'], x['title']))
+
+        w(f, "<table style='border: 1px solid black'>")
+        w(f, "<tr style='border: 1px solid black'>")
+        w(f, "<th>Title</th>")
+        w(f, "<th>First Appeared</th>")
+        w(f, "</tr>")
+
+        for track in sorted(sorted_tracks[:1000], key=lambda x: x['title']):
+            w(f, "<tr>")
+            w(f, "<td valign='top'>%s</td>" % render_track(self.artist_details, track['title']))
+            w(f, "<td valign='top'>%s</td>" % track['earliest'])
+            w(f, "</tr>")
+        w(f, "</table>")
+
     def write(self, f):
         for series in self.series:
             series.write(f)
+
+def is_time_code(title):
+    return re.compile(r'^-?[\d:]+$').match(title)
 
 def get_artist(artists, name):
     for artist in artists['artists']:
@@ -378,6 +430,9 @@ def append_artists(dest, src):
             dest[artist][title]['on'].extend(src[artist][title]['on'])
 
 def parse_track(s):
+    if s.startswith('+ '):
+        s = s[2:]
+
     parts = s.split(' - ')
     artists = re.findall('\[(.*?)\]', s)
 
@@ -471,7 +526,7 @@ with open('index.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "Episodes | <a href='artists.html'>Artists</a><br/><br/>")
+    w(f, "Episodes | <a href='artists.html'>Artists</a> | <a href='top1000.html'>Top 1000</a><br/><br/>")
     broadcasts.write_toc(f)
     broadcasts.write(f)
     w(f, "</body>")
@@ -496,7 +551,31 @@ with open('artists.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | Artists<br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | Artists | <a href='top1000.html'>Top 1000</a><br/><br/>")
     broadcasts.write_artists(f)
+    w(f, "</body>")
+    w(f, "</html>")
+
+with open('top1000.html', "w") as f:
+    w(f, "<html>")
+
+    w(f, "<head>")
+    w(f, "<meta charset=\"UTF-8\">")
+    w(f, "<style>")
+    w(f, """
+    html, body {
+        font-family: Roboto, sans-serif;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    """)
+    w(f, "</style>")
+    w(f, "</head>")
+
+    w(f, "<body>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='artists.html'>Artists</a> | Top 1000<br/><br/>")
+    broadcasts.write_top1000(f)
     w(f, "</body>")
     w(f, "</html>")
