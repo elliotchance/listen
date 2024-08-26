@@ -98,4 +98,4 @@ episodes:
   - number: 20
     length: 1h
     liked:
-      - "@48:15 [Rufus]"
+      - "@48:15" # Rufus

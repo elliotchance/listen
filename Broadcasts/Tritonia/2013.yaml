@@ -29,7 +29,7 @@ episodes:
   - number: 6
     tracks: 16
     liked:
-      - All Your Colours (Andrew Rayel Remix) - Kyau & Albert
+      - All Your Colours ([Andrew Rayel] Remix) - Kyau & Albert
 
   - number: 7
     tracks: 14
@@ -72,7 +72,7 @@ episodes:
   - number: 16
     tracks: 16
     liked:
-      - "@5:50 [Dash Berlin - Steal You Away?]"
+      - "@5:50" # Dash Berlin - Steal You Away?
 
   - number: 17
     tracks: 16
@@ -128,7 +128,7 @@ episodes:
   - number: 32
     tracks: 19
     liked:
-      - "@9:00 [Fisherman and Hawkins?]"
+      - "@9:00" # Fisherman and Hawkins?
 
   - number: 33
     tracks: 17
@@ -136,4 +136,4 @@ episodes:
   - number: 34
     tracks: 34
     liked:
-      - "@35:30 [Bruno Mars - Locked out of Heaven]"
+      - "@35:30" # Bruno Mars - Locked out of Heaven

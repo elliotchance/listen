@@ -152,7 +152,6 @@ class Broadcasts:
             else:
                 w(f, "<td valign='top'>%s</td>" % render_track(self.artist_details, track['title']))
             w(f, "<td valign='top'>%s</td>" % track['earliest'])
-            w(f, "<td valign='top'>%d</td>" % count)
             w(f, "</tr>")
         w(f, "</table>")
 
@@ -181,7 +180,7 @@ def render_track(all_artists, s):
     for artist in artists:
         a = get_artist(all_artists, artist)
         if a is None:
-            s = s.replace("[%s]" % artist, "<em>%s</em>" % artist)
+            s = s.replace("[%s]" % artist, "<u>%s</u>" % artist)
         else:
             s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a['rym'], artist))
 
