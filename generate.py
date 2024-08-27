@@ -1,15 +1,39 @@
 import yaml
 import os
 import re
+from typing import List, Set, Dict, Tuple
+
+class Artist:
+    name: str
+    rym: str
+
+    def __init__(self, m: Dict[str, str]) -> None:
+        self.name = m['name']
+        self.rym = m['rym']
+
+class ArtistRepo:
+    artists: List[Artist]
+
+    def __init__(self) -> None:
+        with open("artists.yaml") as artists_file:
+            artist_details = yaml.safe_load(artists_file)
+            self.artists = [Artist(a) for a in artist_details['artists']]
+
+    def get_artist(self, name):
+        for artist in self.artists:
+            if artist.name == name:
+                return artist
+
+        return None
 
 class Broadcasts:
-    def __init__(self, artist_details):
+    def __init__(self, artist_repo):
         self.total_episodes = 0
         self.total_tracks = 0
         self.total_liked = 0
         self.series = []
         self.artists = {}
-        self.artist_details = artist_details
+        self.artist_repo = artist_repo
 
     def refresh(self):
         self.series.sort(key=lambda x: x.name)
@@ -58,7 +82,7 @@ class Broadcasts:
             for title in self.artists[artist]:
                 unique_tracks += 1
                 tracks += len(self.artists[artist][title]['on'])
-            artist_details = get_artist(self.artist_details, artist)
+            artist_details = self.artist_repo.get_artist(artist)
             if artist_details is not None:
                 linked += 1
         
@@ -75,16 +99,16 @@ class Broadcasts:
         w(f, "<th>Title (On)</th>")
         w(f, "</tr>")
         for artist in sorted(self.artists):
-            artist_details = get_artist(self.artist_details, artist)
+            artist_details = self.artist_repo.get_artist(artist)
             w(f, "<tr>")
             if artist_details is not None:
-                w(f, "<td valign='top'><a href=\"%s\">%s</a></td>" % (artist_details['rym'], artist))
+                w(f, "<td valign='top'><a href=\"%s\">%s</a></td>" % (artist_details.rym, artist))
             else:
                 w(f, "<td valign='top'>%s</td>" % artist)
 
             w(f, "<td>")
             for title in sorted(self.artists[artist]):
-                w(f, '%s<br/>' % render_track(self.artist_details, title))
+                w(f, '%s<br/>' % render_track(self.artist_repo, title))
                 for on in sorted(self.artists[artist][title]['on']):
                     w(f, '&nbsp;&nbsp;&nbsp;<em>%s</em><br/>' % on)
             w(f, "</td></tr>")
@@ -148,41 +172,34 @@ class Broadcasts:
 
             w(f, "<tr>")
             if count >= 5:
-                w(f, "<td valign='top'><strong>%s</strong></td>" % render_track(self.artist_details, track['title']))
+                w(f, "<td valign='top'><strong>%s</strong></td>" % render_track(self.artist_repo, track['title']))
             else:
-                w(f, "<td valign='top'>%s</td>" % render_track(self.artist_details, track['title']))
+                w(f, "<td valign='top'>%s</td>" % render_track(self.artist_repo, track['title']))
             w(f, "<td valign='top'>%s</td>" % track['earliest'])
             w(f, "</tr>")
         w(f, "</table>")
 
     def write(self, f):
         for series in self.series:
-            series.write(f, self.artist_details)
+            series.write(f, self.artist_repo)
 
 def is_time_code(title):
     return title.startswith('@')
 
-def get_artist(artists, name):
-    for artist in artists['artists']:
-        if artist['name'] == name:
-            return artist
-        
-    return None
-
-def render_track(all_artists, s):
+def render_track(artist_repo, s):
     if ' - ' in s and '[' not in s:
         parts = s.split(' - ')
-        a = get_artist(all_artists, parts[1])
+        a = artist_repo.get_artist(parts[1])
         if a is not None:
-            return parts[0] + ' - <a href="%s">%s</a>' % (a['rym'], parts[1])
+            return parts[0] + ' - <a href="%s">%s</a>' % (a.rym, parts[1])
 
     artists = re.findall('\[(.*?)\]', s)
     for artist in artists:
-        a = get_artist(all_artists, artist)
+        a = artist_repo.get_artist(artist)
         if a is None:
             s = s.replace("[%s]" % artist, "<u>%s</u>" % artist)
         else:
-            s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a['rym'], artist))
+            s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a.rym, artist))
 
     return s
 
@@ -208,13 +225,13 @@ class Series:
             self.total_liked += subseries.total_liked
             append_artists(self.artists, subseries.artists)
 
-    def write(self, f, artist_details):
+    def write(self, f, artist_repo):
         w(f, "<h1>%s</h1>" % self.name)
         w(f, "<strong>%d episodes<span style=\"float: right\">%d/%d</span></strong>" % (
             self.total_episodes, self.total_liked, self.total_tracks))
 
         for subseries in self.subseries:
-            subseries.write(f, self, artist_details)
+            subseries.write(f, self, artist_repo)
 
 class Subseries:
     def __init__(self, parent_series, name, **entries):
@@ -250,7 +267,7 @@ class Subseries:
             self.total_liked += episode.total_liked
             append_artists(self.artists, episode.artists)
 
-    def write(self, f, series, artist_details):
+    def write(self, f, series, artist_repo):
         range = ''
         if self.from_number:
             if self.to_number:
@@ -264,7 +281,7 @@ class Subseries:
         w(f, "<strong>%d episodes<span style=\"float: right\">%d/%d</span></strong>" % (
             self.total_episodes, self.total_liked, self.total_tracks))
         for episode in self.episodes:
-            episode.write(f, artist_details)
+            episode.write(f, artist_repo)
 
 class Episode:
     def __init__(self, series, **entries):
@@ -335,7 +352,7 @@ class Episode:
 
         return title
 
-    def write(self, f, artist_details):
+    def write(self, f, artist_repo):
         tracks = '?'
         if self.tracks:
             tracks = self.tracks
@@ -360,7 +377,7 @@ class Episode:
         if len(self.liked) > 0:
             w(f, "<ul>")
             for t in self.liked:
-                w(f, "<li>%s</li>" % render_track(artist_details, t))
+                w(f, "<li>%s</li>" % render_track(artist_repo, t))
             w(f, "</ul>")
 
         for part in self.parts:
@@ -497,10 +514,9 @@ def status_emoji(status):
     
     return ''
 
-with open("artists.yaml") as artists_file:
-    artist_details = yaml.safe_load(artists_file)
+artist_repo = ArtistRepo()
 
-broadcasts = Broadcasts(artist_details)
+broadcasts = Broadcasts(artist_repo)
 for s in sorted(os.listdir("Broadcasts")):
     if not os.path.isdir("Broadcasts/%s" % s):
         continue
