@@ -26,6 +26,42 @@ class ArtistRepo:
 
         return None
 
+class Track:
+    title: str
+    artists: Set[str]
+    is_time_code: bool
+    is_boosted: bool
+
+    def __init__(self, s: str) -> None:
+        self.title = ''
+        self.artists = set()
+        self.is_time_code = False
+        self.is_boosted = False
+
+        if s.startswith('@'):
+            self.is_time_code = True
+            return
+
+        if s.startswith('+ '):
+            self.is_boosted = True
+            s = s[2:]
+
+        parts = s.split(' - ')
+        artists = re.findall('\[(.*?)\]', s)
+
+        if len(parts) == 2:        
+            self.title = parts[0]
+            self.title = re.sub(r'[\[\]]', '', self.title).strip()
+
+            if '[' in parts[1]:
+                self.artists = set(artists)
+            else:
+                self.artists = set([parts[1]])
+            return
+
+        print("cannot parse track: "+s)
+        return None
+
 class Broadcasts:
     def __init__(self, artist_repo):
         self.total_episodes = 0
