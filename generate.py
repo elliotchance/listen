@@ -134,13 +134,17 @@ class Broadcasts:
         w(f, "<th>Artist</th>")
         w(f, "<th>Title (On)</th>")
         w(f, "</tr>")
+        missing_links = 0
         for artist in sorted(self.artists):
             artist_details = self.artist_repo.get_artist(artist)
             w(f, "<tr>")
             if artist_details is not None:
                 w(f, "<td valign='top'><a href=\"%s\">%s</a></td>" % (artist_details.rym, artist))
             else:
-                w(f, "<td valign='top'>%s</td>" % artist)
+                if missing_links < 100:
+                    print("missing link for artist: " + artist)
+                    missing_links += 1
+                w(f, "<td valign='top'><u>%s</u></td>" % artist)
 
             w(f, "<td>")
             for title in sorted(self.artists[artist]):
@@ -333,6 +337,7 @@ class Episode:
         self.urls = []
         self.artists = {}
         self.series = series
+        self.date = ''
         
         if 'number' in entries:
             self.number = entries['number']
@@ -350,6 +355,8 @@ class Episode:
             self.parts = [EpisodePart(**p) for p in entries['parts']]
         if 'urls' in entries:
             self.urls = entries['urls']
+        if 'date' in entries:
+            self.date = entries['date']
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -368,8 +375,11 @@ class Episode:
     def formatted_title(self, full_name):
         title = ''
 
+        if self.date != '':
+            title = self.date.strftime('%Y-%m-%d') + ': '
+
         if full_name:
-            title = self.series.name + ' '
+            title += self.series.name + ' '
 
         if self.number:
             title += '#' + str(self.number)
