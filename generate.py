@@ -662,6 +662,9 @@ with open('top1000.html', "w") as f:
         border: 1px solid black;
         border-collapse: collapse;
     }
+    a:link, a:visited {
+        color: SlateBlue;
+    }
     """)
     w(f, "</style>")
     w(f, "</head>")
