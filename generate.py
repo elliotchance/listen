@@ -9,7 +9,10 @@ class Artist:
 
     def __init__(self, m: Dict[str, str]) -> None:
         self.name = m['name']
-        self.rym = m['rym']
+        if 'rym' in m:
+            self.rym = m['rym']
+        else:
+            self.rym = None
 
 class ArtistRepo:
     artists: List[Artist]
