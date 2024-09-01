@@ -18,7 +18,7 @@ episodes:
   - number: 31
     tracks: 19
     liked:
-      - Into The Night ([4 Strings] Remix) - 4 Strings
+      - Into The Night {[4 Strings] Remix} - 4 Strings
 
   - number: 32
     tracks: 18
@@ -26,24 +26,24 @@ episodes:
   - number: 33
     tracks: 19
     liked:
-      - Fear (Hybrid's Super Collider Remix) - Sarah Mc Lachlan
-      - Into The Night ([Coast 2 Coast] Remix) - 4 Strings
+      - Fear {Hybrid's Super Collider Remix} - Sarah Mc Lachlan
+      - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
 
   - number: 34
     tracks: 19
     liked:
-      - Highlander (Ralphie B's Massive Mix) - Taste Experience
+      - Highlander {[Ralphie B]'s Massive Mix} - Taste Experience
 
   - number: 35
     tracks: 20
     liked:
       - Tranzy State of Mind - Push
-      - Love Washes Over (Dub Mix) - [Art of Trance] feat. [M. Adamson]
+      - Love Washes Over {Dub Mix} - [Art of Trance] feat. [M. Adamson]
 
   - number: 37
     tracks: 20
     liked:
-      - Into The Night ([Coast 2 Coast] Remix) - 4 Strings
+      - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Reachin' Out - M-Diva
 
   - number: 38
@@ -51,13 +51,13 @@ episodes:
     liked:
       - Beyond the Moon - Alpha Breed
       - Second Wave - Signum
-      - Into The Night ([Coast 2 Coast] Remix) - 4 Strings
+      - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Tranzy State of Mind - Push
 
   - number: 39
     tracks: 19
     liked:
-      - Escape (Phynn Mix) - [Fictivision] vs. [Phynn]
+      - Escape {[Phynn] Mix} - [Fictivision] vs. [Phynn]
 
   - number: 40
     tracks: 22
@@ -85,7 +85,7 @@ episodes:
     urls:
       - https://1001.tl/20gxr7p9
     liked:
-      - Into The Night ([Coast 2 Coast] Remix) - 4 Strings
+      - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Reachin' Out - M-Diva
 
   - number: 44
@@ -93,14 +93,14 @@ episodes:
     urls:
       - https://1001.tl/2tmlxw4k
     liked:
-      - Janeiro ([Armin van Buuren] Remix) - Solid Sessions
+      - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
   - number: 45
     tracks: 19
     urls:
       - https://1001.tl/1mfq96mt
     liked:
-      - Janeiro ([Armin van Buuren] Remix) - Solid Sessions
+      - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
   - number: 46
     tracks: 20
@@ -119,7 +119,7 @@ episodes:
     urls:
       - https://1001.tl/2k7cwg1t
     liked:
-      - Janeiro ([Armin van Buuren] Remix) - Solid Sessions
+      - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
   - number: 49
     tracks: 21

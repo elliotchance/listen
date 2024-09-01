@@ -91,7 +91,7 @@ episodes:
     urls:
       - https://1001.tl/28v30b19
     liked:
-      - Razorfish ([Above & Beyond] Progressive Mix) - [Tranquility Base]
+      - Razorfish {[Above & Beyond] Progressive Mix} - [Tranquility Base]
 
   - number: 16
     tracks: 21
@@ -103,22 +103,22 @@ episodes:
     urls:
       - https://1001.tl/11rducqt
     liked:
-      - Rapture ([Armin van Buuren] Remix) - iiO
+      - Rapture {[Armin van Buuren] Remix} - iiO
 
   - number: 18
     tracks: 22
     urls:
       - https://1001.tl/f7ssvc9
     liked:
-      - Rapture ([Armin van Buuren] Remix) - iiO
+      - Rapture {[Armin van Buuren] Remix} - iiO
 
   - number: 19
     tracks: 21
     urls:
       - https://1001.tl/2dlbn79t
     liked:
-      - Clear Blue Water ([Ferry Corsten] Remix) - OceanLab
-      - Resurection (Space Club Mix) - ППК
+      - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
+      - Resurection {Space Club Mix} - ППК
 
   - number: 20
     tracks: 9
@@ -130,7 +130,7 @@ episodes:
     urls:
       - https://1001.tl/1lhvs759
     liked:
-      - Clear Blue Water ([Ferry Corsten] Remix) - OceanLab
+      - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
       - Resurection - ППК
 
   - number: 22
@@ -143,8 +143,8 @@ episodes:
     urls:
       - https://1001.tl/2nykqqm1
     liked:
-      - Clear Blue Water ([Ferry Corsten] Remix) - OceanLab
-      - Resurection (Space Club Mix) - ППК
+      - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
+      - Resurection {Space Club Mix} - ППК
 
   - number: 24
     tracks: 18
@@ -175,6 +175,6 @@ episodes:
     urls:
       - https://1001.tl/5wtkfzt
     liked:
-      - Clear Blue Water ([Ferry Corsten] Remix) - OceanLab
-      - Rapture ([Armin van Buuren] Remix) - iiO
-      - The Sound of Goodbye (Armin's Tribal Feel) - Perpetuous Dreamer
+      - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
+      - Rapture {[Armin van Buuren] Remix} - iiO
+      - The Sound of Goodbye {Armin's Tribal Feel} - Perpetuous Dreamer

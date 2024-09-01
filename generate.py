@@ -30,27 +30,38 @@ class ArtistRepo:
         return None
 
 class Track:
+    original: str
+    canonical: str
     title: str
     artists: Set[str]
     is_time_code: bool
-    is_boosted: bool
+    rating: int
+    version: str
 
-    def __init__(self, s: str) -> None:
+    def __init__(self, s: str, rating: int) -> None:
+        self.original = s
+        self.canonical = re.sub(r'\[(?P<name>.*?)\]', '\g<name>', re.sub(r'\s*\{(.*?)\}', '', s))
         self.title = ''
         self.artists = set()
         self.is_time_code = False
-        self.is_boosted = False
+        self.rating = rating
+        self.version = '; '.join(re.findall(r'\{(.*?)\}', s))
+        if self.version == '':
+            self.version = 'Original Mix'
 
         if s.startswith('@'):
             self.is_time_code = True
+            self.canonical = ''
             return
 
         if s.startswith('+ '):
-            self.is_boosted = True
+            self.rating += 2
             s = s[2:]
+            self.canonical = self.canonical[2:]
+            self.original = self.original[2:]
 
         parts = s.split(' - ')
-        artists = re.findall('\[(.*?)\]', s)
+        artists = re.findall(r'\[(.*?)\]', s)
 
         if len(parts) == 2:        
             self.title = parts[0]
@@ -64,6 +75,87 @@ class Track:
 
         print("cannot parse track: "+s)
         return None
+    
+    def __repr__(self):
+        return self.original
+    
+    def apply_artists(self, s, artist_repo: ArtistRepo) -> str:
+        artists = re.findall('\[(.*?)\]', s)
+        for artist in artists:
+            a = artist_repo.get_artist(artist)
+            if a is None or a.rym is None:
+                s = s.replace("[%s]" % artist, "<u>%s</u>" % artist)
+            else:
+                s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a.rym, artist))
+
+        return s
+    
+    def render_title(self, artist_repo: ArtistRepo) -> str:
+        parts = self.original.split(' - ')
+        return self.apply_artists(re.sub(r'\s*\{(.*?)\}', '', parts[0]), artist_repo)
+    
+    def render_artist(self, artist_repo: ArtistRepo) -> str:
+        parts = self.original.split(' - ')
+        if '[' not in parts[1]:
+            parts[1] = '[' + parts[1] + ']'
+
+        return self.apply_artists(parts[1], artist_repo)
+    
+    def render_version(self, artist_repo: ArtistRepo) -> str:
+        return self.apply_artists(self.version, artist_repo)
+    
+    def render_rating(self):
+        if self.rating > 8:
+            return '❤️'
+        
+        if self.rating > 6:
+            return '👍'
+        
+        return ''
+
+class TrackAppearance:
+    track: Track
+    appears_on: List[str]
+
+    def __init__(self, track: Track, appears_on: str = None) -> None:
+        self.track = track
+        self.appears_on = appears_on
+
+class TrackVersion:
+    track: Track
+    appears_on: List[str]
+
+    def __init__(self, track: Track, appears_on: str = None) -> None:
+        self.track = track
+        self.appears_on = appears_on
+
+class TrackRepo:
+    tracks: Dict[str, TrackAppearance]
+
+    def __init__(self) -> None:
+        self.tracks = {}
+
+    def load_broadcast_file(self, path: str, broadcast: str) -> None:
+        with open(path) as f:
+            file = yaml.safe_load(f)
+            if 'episodes' in file:
+                for episode in file['episodes']:
+                    appears_on = broadcast
+                    if 'number' in episode:
+                        appears_on += ' #' + str(episode['number'])
+                    if 'liked' in episode:
+                        for title in episode['liked']:
+                            t = Track(title, 7)
+                            if t.canonical not in self.tracks:
+                                self.tracks[t.canonical] = {}
+
+                            if t.version not in self.tracks[t.canonical]:
+                                self.tracks[t.canonical][t.version] = TrackAppearance(t, [appears_on])
+                            else:
+                                self.tracks[t.canonical][t.version].appears_on.append(appears_on)
+
+                            if t.rating > self.tracks[t.canonical][t.version].track.rating:
+                                self.tracks[t.canonical][t.version].track.rating = t.rating
 
 class Broadcasts:
     def __init__(self, artist_repo):
@@ -564,6 +656,7 @@ def status_emoji(status):
     return ''
 
 artist_repo = ArtistRepo()
+track_repo = TrackRepo()
 
 broadcasts = Broadcasts(artist_repo)
 for s in sorted(os.listdir("Broadcasts")):
@@ -573,6 +666,7 @@ for s in sorted(os.listdir("Broadcasts")):
     series = Series(s)
     for path in os.listdir("Broadcasts/%s" % s):
         if path.endswith('.yaml'):
+            track_repo.load_broadcast_file("Broadcasts/%s/%s" % (s, path), s)
             with open("Broadcasts/%s/%s" % (s, path)) as f2:
                 file = yaml.safe_load(f2)
                 subseries = Subseries(series, path[:-5], **file)
@@ -618,7 +712,7 @@ with open('index.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "Episodes | <a href='artists.html'>Artists</a> | <a href='top1000.html'>Top 1000</a><br/><br/>")
+    w(f, "Episodes | <a href='artists.html'>Artists</a> | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a><br/><br/>")
     broadcasts.write_toc(f)
     broadcasts.write(f)
     w(f, "</body>")
@@ -643,7 +737,7 @@ with open('artists.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | Artists | <a href='top1000.html'>Top 1000</a><br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | Artists | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a><br/><br/>")
     broadcasts.write_artists(f)
     w(f, "</body>")
     w(f, "</html>")
@@ -670,7 +764,55 @@ with open('top1000.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='artists.html'>Artists</a> | Top 1000<br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='artists.html'>Artists</a> | <a href='tracks.html'>Tracks</a> | Top 1000<br/><br/>")
     broadcasts.write_top1000(f)
+    w(f, "</body>")
+    w(f, "</html>")
+
+with open('tracks.html', "w") as f:
+    w(f, "<html>")
+
+    w(f, "<head>")
+    w(f, "<meta charset=\"UTF-8\">")
+    w(f, "<style>")
+    w(f, """
+    html, body {
+        font-family: Roboto, sans-serif;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    a:link, a:visited {
+        color: SlateBlue;
+    }
+    """)
+    w(f, "</style>")
+    w(f, "</head>")
+
+    w(f, "<body>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='artists.html'>Artists</a> | Tracks | <a href='top1000.html'>Top 1000</a><br/><br/>")
+    w(f, "<table style='border: 1px solid black'>")
+    w(f, "<tr style='border: 1px solid black'>")
+    w(f, "<th>&nbsp;</th>")
+    w(f, "<th>Title</th>")
+    w(f, "<th>Artists</th>")
+    w(f, "<th>Version</th>")
+    w(f, "<th>Appears On</th>")
+    w(f, "</tr>")
+    for canonical in sorted(track_repo.tracks):
+        for version in track_repo.tracks[canonical]:
+            appearance = track_repo.tracks[canonical][version]
+            if appearance.track.is_time_code:
+                continue
+
+            w(f, "<tr style='border: 1px solid black'>")
+            w(f, "<td valign='top'>"+appearance.track.render_rating()+"</td>")
+            w(f, "<td valign='top'>"+appearance.track.render_title(artist_repo)+"</td>")
+            w(f, "<td valign='top'>"+appearance.track.render_artist(artist_repo)+"</td>")
+            w(f, "<td valign='top'>"+appearance.track.render_version(artist_repo)+"</td>")
+            w(f, "<td nowrap>"+'<br/>'.join(appearance.appears_on)+"</td>")
+            w(f, "</tr>")
+    w(f, "</table>")
     w(f, "</body>")
     w(f, "</html>")

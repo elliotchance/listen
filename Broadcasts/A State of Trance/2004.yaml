@@ -7,10 +7,10 @@ episodes:
   - number: 130
     tracks: 32
     liked:
-      - Burned With Desire ([Ronski Speed] Remix) - [Armin van Buuren] feat. [Justine Suissa]
-      - Autumn ([St John vs. Locust] Remix) - George Hales
+      - Burned With Desire {[Ronski Speed] Remix} - [Armin van Buuren] feat. [Justine Suissa]
+      - Autumn {[St John vs. Locust] Remix} - George Hales
       - Electric Eclipse - Push
-      - Satellite ([Above & Beyond] Remix) - OceanLab
+      - Satellite {[Above & Beyond] Remix} - OceanLab
 
   - number: 131
     tracks: 32
@@ -18,7 +18,7 @@ episodes:
   - number: 132
     tracks: 20
     liked:
-      - Escape ([Fictivision] Remix) - [Fictivision] vs [Phynn]
+      - Escape {[Fictivision] Remix} - [Fictivision] vs [Phynn]
 
   - number: 133
     tracks: 17
@@ -34,4 +34,4 @@ episodes:
   - number: 136
     tracks: 19
     liked:
-      - Burned With Desire ([Brian Cross] Remix) - Armin van Buuren
+      - Burned With Desire {[Brian Cross] Remix} - [Armin van Buuren] feat. [Justine Suissa]
