@@ -3,82 +3,103 @@ series:
 
 episodes:
   - artist: CamelPhat
+    date: 2020-12-23
     tracks: 15
     liked:
       - ID - ID
 
   - artist: Channel Tres
+    date: 2020-12-23
     tracks: 18
     liked:
       - Controller {[Walker & Royce] Remix} - Channel Tres
 
   - artist: Chris Lake
+    date: 2020-12-23
     tracks: 25
 
   - artist: Disclosure
+    date: 2020-12-23
     tracks: 18
 
   - artist: Honey Dijon
+    date: 2020-12-23
     tracks: 10
 
   - artist: Jamie Jones
+    date: 2020-12-23
     tracks: 19
 
   - artist: Fred again..
+    date: 2020-12-23
     tracks: 18
     liked:
-      - Roze {Forgive} - Fred again..
-      - Kahan {Last Year} - [Fred again..] feat. [Kodak Black]
-      - Faisal {Envelops Me} - Fred again..
-      - Marea {We've Lost Dancing} - [Fred again..] & [The Blessed Madonna]
+      - Roze (Forgive) - Fred again..
+      - Kahan (Last Year) - [Fred again..] feat. [Kodak Black]
+      - Faisal (Envelops Me) - Fred again..
+      - Marea (We've Lost Dancing) - [Fred again..] & [The Blessed Madonna]
 
   - artist: Madeon
+    date: 2020-12-23
     tracks: 61
     liked:
       - The Prince - Madeon
       - Feedback - [Dr. Fresch] feat. [Mina Knock]
 
   - artist: Romy
+    date: 2020-12-23
     tracks: 16
 
   - artist: Rufus du Sol
+    date: 2020-12-23
     tracks: 17
 
   - artist: The Blessed Madonna
+    date: 2020-12-23
     tracks: 11
 
   - artist: TSHA
+    date: 2020-12-23
     tracks: 15
 
   - artist: Peggy Gou
+    date: 2020-12-23
     tracks: 14
 
   - artist: Dixon
+    date: 2020-12-23
     tracks: 16
     liked:
       - Paris - Pierre Rousseau
 
   - artist: Charlotte de Witte
+    date: 2020-12-23
     tracks: 13
 
   - artist: Lane 8
+    date: 2020-12-23
     tracks: 18
     liked:
       - Apricots - Bicep
 
   - artist: Logic1000
+    date: 2020-12-23
     tracks: 19
     liked:
       - Bodak Yellow {ID Remix} - Cardi B
 
   - artist: FJAAK
+    date: 2020-12-23
     tracks: 20
 
   - artist: Conducta
+    date: 2020-12-23
     tracks: 32
 
   - artist: Ame
+    date: 2020-12-23
     tracks: 17
 
   - artist: AceMoMa
+    date: 2020-12-23
     tracks: 20

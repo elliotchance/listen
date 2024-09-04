@@ -145,6 +145,8 @@ class TrackRepo:
                         appears_on = episode['date'].strftime('%Y-%m-%d') + ': ' + appears_on
                     if 'number' in episode:
                         appears_on += ' #' + str(episode['number'])
+                    if 'artist' in episode:
+                        appears_on += ', "' + episode['artist'] + '"'
                     if 'liked' in episode:
                         for title in episode['liked']:
                             t = Track(title, 7)
