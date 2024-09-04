@@ -5,15 +5,18 @@ series:
 
 episodes:
   - number: 100
+    date: 2003-06-05
     tracks: 46
     liked:
       - As The Rush Comes {[Sweeping Strings] Remix} - Motorcycle
       - 5th Dimension - [Masters & Nickson] & [Justine Suissa]
 
   - number: 101
+    date: 2003-06-12
     tracks: 19
 
   - number: 102
+    date: 2003-06-19
     tracks: 18
     liked:
       - Symbols - [Fictivision] vs [C-Quence]
@@ -21,6 +24,7 @@ episodes:
       - Twisted Reality - Empyreal Sun
 
   - number: 103
+    date: 2003-06-26
     tracks: 17
     liked:
       - Amazon - Midway
@@ -28,23 +32,27 @@ episodes:
       - Gamemaster 2003 {[Matt Darey] 2003 Remix} - Lost Tribe
 
   - number: 105
+    date: 2003-07-10
     tracks: 25
     liked:
       - Symbols - [Fictivision] vs [C-Quence]
       - Vagabond - The Scarab
 
   - number: 106
+    date: 2003-07-17
     tracks: 17
     liked:
       - Mental Theme {Ultra Trance Mix} - Ace's Delight
       - Timeless - Ron van den Beuken
 
   - number: 107
+    date: 2003-07-24
     tracks: 18
     liked:
       - Mental Theme {Ultra Trance Mix} - Ace's Delight
 
   - number: 108
+    date: 2003-07-31
     tracks: 18
     liked:
       - Vagabond - The Scarab
@@ -55,9 +63,11 @@ episodes:
       - Nocturnal Creatures {[Jono Grant] Remix} - [Darren Tate] vs [Jono Grant]
 
   - number: 109
+    date: 2003-08-07
     tracks: 37
 
   - number: 110
+    date: 2003-08-14
     tracks: 19
     liked:
       - Future Fun Land 2003 {[Astura] Remix} - Perpetuous Dreamer
@@ -65,6 +75,7 @@ episodes:
       - Dreamin' - Urban Voodoo
 
   - number: 111
+    date: 2003-08-21
     tracks: 18
     liked:
       - Beautiful Together {[Seraque] Remix} - [OceanLab] feat. [Justine Suissa]
@@ -73,6 +84,7 @@ episodes:
       - Reverence - Hemstock & Jennings
 
   - number: 112
+    date: 2003-08-28
     tracks: 17
     liked:
       - Burned With Desire {[Rising Star] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -81,6 +93,7 @@ episodes:
       - As The Rush Comes {[Armin van Buuren] Universal Religion Remix} - Motorcycle
 
   - number: 113
+    date: 2003-09-04
     tracks: 31
     liked:
       - Burned With Desire {[Rising Star] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -89,4 +102,5 @@ episodes:
       - Sincere - Firewall
 
   - number: 114
+    date: 2003-09-11
     tracks: 17

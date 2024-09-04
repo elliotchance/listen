@@ -5,9 +5,11 @@ series:
 
 episodes:
   - number: 182
+    date: 2005-01-06
     title: Yearmix
 
   - number: 198
+    date: 2005-05-26
     tracks: 20
     liked:
       - + Butterfly Effect {[Lucas & Beltram] Mix} - [Niklas Harding] and [Tyu]
@@ -21,12 +23,14 @@ episodes:
       - ID {[M.I.K.E.] Remix} - Armin van Buuren
 
   - number: 201
+    date: 2005-06-16
     tracks: 21
     liked:
       - Majestic {[Arizona vs. Passiva] Remix} - Sayla
       - Aedena {[Octagen] Remix} - Matti Kotala
 
   - number: 202
+    date: 2005-06-23
     tracks: 25
     liked:
       - Zocalo - [Armin van Buuren] feat. [Gabriel and Dresden]
@@ -35,6 +39,7 @@ episodes:
       - Gods keyboard {[Coldware Cold] Remix} - Daniel B.
 
   - number: 203
+    date: 2005-06-30
     tracks: 21
     liked:
       - Ghost vs. Eighties {[Filo & Peri] Remix vs. Original Mix} - [Deepsky] feat. [Jes] vs. [Yilmaz Altanhan]
@@ -50,6 +55,7 @@ episodes:
       - Now You See {[Ross Essenheim] Remix} - Mark Thornton
 
   - number: 204
+    date: 2005-07-07
     tracks: 21
     liked:
       - Forum of Love {[Danjo and Rob Styles] Remix} - Txitxarro
@@ -61,6 +67,7 @@ episodes:
       - Labyrinth - Arizona
 
   - number: 205
+    date: 2005-07-17
     tracks: 20
     liked:
       - Back in The Days - Leon Bolier
@@ -68,6 +75,7 @@ episodes:
       - Angels and Demons {[Carl B.] Remix} - Armaz
 
   - number: 206
+    date: 2005-07-21
     tracks: 20
     liked:
       - One for The Road vs. We Will Rock {[Gabriel and Dresden] Remix vs. Acapella} - [Grayarea] vs. [Queen]
@@ -79,11 +87,13 @@ episodes:
       - Humanity {[Rank 1] Remix} - ATB
 
   - number: 207
+    date: 2005-07-28
     tracks: 21
     liked:
       - Halcyon {[Alex M.O.R.P.H.] Remix} - Andy Moor
 
   - number: 208
+    date: 2005-08-04
     tracks: 22
     liked:
       - Netherworld (2005) {[Oliver Prime] Remix} - L.S.G.
@@ -92,6 +102,7 @@ episodes:
       - Find {[Kyau & Albert] Remix} - [Ridgewalkers] feat. [El]
 
   - number: 209
+    date: 2005-08-11
     tracks: 23
     liked:
       - Talk - [Max Graham] vs. [Coldplay]
@@ -101,6 +112,7 @@ episodes:
       - Insider - Angelstyle
 
   - number: 210
+    date: 2005-08-18
     tracks: 27
     liked:
       - Distant Dreams {[Alex M.O.R.P.H.] Remix} - Nautical Imagery
@@ -110,6 +122,7 @@ episodes:
       - Endorphine {[Arizona] Remix} - C-Quence
 
   - number: 211
+    date: 2005-08-25
     tracks: 24
     liked:
       - Need For Cognition - Hawk
@@ -120,6 +133,7 @@ episodes:
       - Summer Dream {[Stoneface and Terminal] Remix} - Kuffdam & Plant
 
   - number: 212
+    date: 2005-09-01
     tracks: 20
     liked:
       - Another Situation - [Terry Bones] vs. [Precision]
@@ -127,6 +141,7 @@ episodes:
       - Babylon {[Icone] Remix} - Hemstock & Jennings
 
   - number: 213
+    date: 2005-09-08
     tracks: 20
     liked:
       - You Are Here - Ija
@@ -136,10 +151,12 @@ episodes:
       - Timeless {[Deepwide] Remix} - Will Holland
 
   - number: 214
+    date: 2005-09-15
     tracks: 19
     liked:
       - Remember Me {[Terry Bones] Remix} - Interstate
       - Summer dream {[Stoneface and Terminal] Remix} - Kuffdam & Plant
 
   - number: 229
+    date: 2005-12-29
     title: Yearmix

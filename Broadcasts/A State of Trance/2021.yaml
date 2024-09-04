@@ -5,11 +5,13 @@ series:
 
 episodes:
   - number: 998
+    date: 2021-01-07
     tracks: 30
     liked:
       - Carry You Home - [Andrew Rayel] & [Tensteps] feat. [Runaground]
 
   - number: 999
+    date: 2021-01-14
     tracks: 30
     liked:
       - Skyfire - Shogun
@@ -19,15 +21,19 @@ episodes:
       - Big Sky {[Agnelli & Nelson] Remix} - [John O'Callaghan] feat. [Audrey Gallagher]
 
   - number: 1000
+    date: 2021-11-19
     tracks: 44
 
   - number: 1001
+    date: 2021-01-28
     tracks: 26
 
   - number: 1002
+    date: 2021-02-04
     tracks: 27
 
   - number: 1003
+    date: 2021-02-11
     tracks: 30
     liked:
       - Legend - Maywave
@@ -35,17 +41,20 @@ episodes:
       - Closer to You {[Lasse Macbeth] Remix} - Maratone & Linney
 
   - number: 1004
+    date: 2021-02-18
     tracks: 29
     liked:
       - Timeless {[Dustin Husain] Remix} - [Solis] & [Sean Truby] feat. [Anthya]
 
   - number: 1005
+    date: 2021-02-25
     tracks: 28
     liked:
       - Classmate - Giuseppe Ottaviani
       - Time & Space - Ehren Stowers
 
   - number: 1006
+    date: 2021-03-04
     tracks: 27
     liked:
       - Lifter - Starpicker
@@ -53,26 +62,31 @@ episodes:
       - Digital Odyssey - Евгений Лебедев
 
   - number: 1007
+    date: 2021-03-11
     tracks: 27
     liked:
       - To Get to You {[Cubicore] Remix} - [Steve Brian], [Nathan Rux] & [Rachael Nemiroff]
       - Lucky Penny {[XiJaro & Pitch] Remix} - [Elevven] & [Ruben de Ronde]
 
   - number: 1008
+    date: 2021-03-18
     tracks: 28
     liked:
       - Bloodstream - [Ferry Corsten] & [Ruben de Ronde]
 
   - number: 1009
+    date: 2021-03-25
     tracks: 30
     liked:
       - Hammer Time - [Chris Schweizer] & [Paul Denton]
       - Step into the Light {[Jase Thirlwall] Remix} - [Fabio XB] & [Liuck] feat. [Christina Novelli]
 
   - number: 1010
+    date: 2021-04-01
     tracks: 27
 
   - number: 1011
+    date: 2021-04-08
     tracks: 29
     liked:
       - Safe on Both Sides - Andy Moor
@@ -80,29 +94,35 @@ episodes:
       - Salida Del Sol {[Derek Palmer] Remix} - [Cyre] & [DJ T.H.]
 
   - number: 1012
+    date: 2021-04-15
     tracks: 29
 
   - number: 1013
+    date: 2021-04-22
     tracks: 31
     liked:
       - Change the World - [Ben Gold] & [Allen Watts]
 
   - number: 1014
+    date: 2021-04-29
     tracks: 29
     liked:
       - Lose Yourself - [Ruben de Ronde] & [That Girl]
 
   - number: 1015
+    date: 2021-05-06
     tracks: 26
     liked:
       - Alone - Ruddaz
 
   - number: 1016
+    date: 2021-05-13
     tracks: 30
     liked:
       - Paradise Found - Adam Taylor
 
   - number: 1017
+    date: 2021-05-20
     tracks: 27
     liked:
       - I Love You - [Key4050] & [Plumb]
@@ -110,43 +130,51 @@ episodes:
       - Paradise Found - Adam Taylor
 
   - number: 1018
+    date: 2021-05-27
     tracks: 28
     liked:
       - Paradise Found - Adam Taylor
 
   - number: 1019
+    date: 2021-06-03
     tracks: 28
     liked:
       - Gravity - [Tom Staar], [Jem Cooke] & [AVIRA]
 
   - number: 1020
+    date: 2021-06-10
     tracks: 28
     liked:
       - Our Desire - [Tekno], [DJ T.H.] & [That Girl]
       - Lost - [Liam Melly] & [Jessica Doherty]
 
   - number: 1021
+    date: 2021-06-17
     tracks: 31
     liked:
       - Synaesthesia {[Umek] Remix} - The Thrillseekers
 
   - number: 1022
+    date: 2021-06-24
     tracks: 30
     liked:
       - Night City {[Dustin Husain] Remix} - Parnassvs
 
   - number: 1023
+    date: 2021-07-01
     tracks: 27
     liked:
       - That's Life - Scorz
 
   - number: 1024
+    date: 2021-07-08
     tracks: 29
     liked:
       - Be the Angel - [Giuseppe Ottaviani] & [Lucid Blue]
       - Last Goodbye - Luke Bond
 
   - number: 1025
+    date: 2021-07-15
     tracks: 29
     liked:
       - Personal Jesus {[Cubicore] Deep Mix} - [Cubicore] & [Shane 54]
@@ -156,12 +184,15 @@ episodes:
       - Lose Control - Craig Connelly
 
   - number: 1026
+    date: 2021-07-22
     tracks: 30
 
   - number: 1027
+    date: 2021-07-29
     tracks: 27
 
   - number: 1028
+    date: 2021-08-05
     tracks: 28
     liked:
       - The Fusion {[Blastoyz] Remix} - [Omnia] & [Ira]
@@ -171,9 +202,11 @@ episodes:
       - Just as You Are - [Armin van Buuren] & [Rising Star] feat. [Fiora]
 
   - number: 1029
+    date: 2021-08-12
     tracks: 23
 
   - number: 1030
+    date: 2021-08-19
     tracks: 23
     liked:
       - Nothing to Hide - [Cosmic Gate] & [Diana Miro]
@@ -182,6 +215,7 @@ episodes:
       - Sound of Silence - Haikal Ahmad
 
   - number: 1031
+    date: 2021-08-26
     tracks: 29
     liked:
       - Holding On - Cubicore
@@ -190,6 +224,7 @@ episodes:
       - Hard_Vox_Tekk_ - [Will Atkinson] & [Klaus Kaz]
 
   - number: 1032
+    date: 2021-09-02
     tracks: 23
     liked:
       - Love Is Love - [Farius] & [Sue McLaren]
@@ -197,11 +232,13 @@ episodes:
       - Everafter {[Cubicore] Remix} - [Tritonal] feat. [Cristina Soto]
 
   - number: 1033
+    date: 2021-09-09
     tracks: 26
     liked:
       - My Guiding Light - [Christina Novelli] & [Richard Durand]
 
   - number: 1034
+    date: 2021-09-16
     tracks: 32
     liked:
       - For All Time - [Armin van Buuren] and [Aly & Fila] feat. [Kazi Jay]
@@ -210,6 +247,7 @@ episodes:
       - Out There {[Sean Tyas] Remix} - [Masters & Nickson] feat. [Justine Suissa]
 
   - number: 1035
+    date: 2021-09-23
     tracks: 29
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
@@ -219,22 +257,26 @@ episodes:
       - Shigure - Aki Harunari
 
   - number: 1036
+    date: 2021-09-30
     tracks: 26
     liked:
       - Caught in a Memory - [Kojun] & [Susana]
       - Out There {[Sean Tyas] Remix} - [Masters & Nickson] feat. [Justine Suissa]
 
   - number: 1037
+    date: 2021-10-07
     tracks: 28
     liked:
       - Hold Me {[Natrx] Remix} - Minus One
 
   - number: 1038
+    date: 2021-10-14
     tracks: 40
     liked:
       - Mr. Navigator - [Armin van Buuren] & [Tempo Giusto]
 
   - number: 1039
+    date: 2021-10-21
     tracks: 27
     liked:
       - Swept Away {Uplifting Mix} - [Matt Bukovski] feat. [Tiff Lacey]
@@ -242,6 +284,7 @@ episodes:
       - A Promise I Can't Keep - Susana
 
   - number: 1040
+    date: 2021-10-28
     tracks: 28
     liked:
       - Miharo - Signum
@@ -249,15 +292,18 @@ episodes:
       - The Oath {Club Mix} - [John O'Callaghan] & [Factor B]
 
   - number: 1041
+    date: 2021-11-04
     tracks: 29
 
   - number: 1042
+    date: 2021-11-11
     tracks: 29
     liked:
       - Piece of Art - Kryder
       - Rise Up {FSOE 700 Anthem} - Paul Denton
 
   - number: 1043
+    date: 2021-11-18
     tracks: 29
     liked:
       - Piece of Art - Kryder
@@ -265,25 +311,30 @@ episodes:
       - Alibi {[Farius] Lost in 137 Mix} - Farius
 
   - number: 1044
+    date: 2021-11-25
     tracks: 28
     liked:
       - + Waking up the Stars - [Alex M.O.R.P.H.] & [Protoculture]
 
   - number: 1045
+    date: 2021-12-02
     tracks: 27
     liked:
       - Give Your Heart a Home - [Richard Durand] & [HALIENE]
       - Outset Theme - Will Rees
 
   - number: 1046
+    date: 2021-12-09
     tracks: 27
 
   - number: 1047
+    date: 2021-12-16
     tracks: 29
     liked:
       - Echoes - [Allen Watts] & [SILVELA]
 
   - number: 1048
+    date: 2021-12-23
     tracks: 51
     liked:
       - Beautiful - [Giuseppe Ottaviani] & [Cari]
@@ -295,4 +346,5 @@ episodes:
       - River - [Andrew Rayel] feat. [AIDYL]
 
   - number: 1049
+    date: 2021-12-30
     title: Yearmix

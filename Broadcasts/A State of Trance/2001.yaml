@@ -12,31 +12,37 @@ episodes:
       - ID - ID
 
   - number: 1
+    date: 2001-06-01
     urls:
       - https://1001.tl/38zxw8k
     tracks: 19
 
   - number: 2
+    date: 2001-06-08
     tracks: 18
     urls:
       - https://1001.tl/6d4sbw1
 
   - number: 3
+    date: 2001-06-15
     tracks: 19
     urls:
       - https://1001.tl/2kyq9m9
 
   - number: 4
+    date: 2001-06-22
     tracks: 20
     urls:
       - https://1001.tl/2gzblbk
 
   - number: 5
+    date: 2001-06-29
     tracks: 23
     urls:
       - https://1001.tl/1g698kt
 
   - number: 6
+    date: 2001-07-20
     tracks: 23
     urls:
       - https://1001.tl/1r4r82k
@@ -45,26 +51,31 @@ episodes:
       - The Legacy - Push
 
   - number: 7
+    date: 2001-07-27
     tracks: 22
     urls:
       - https://1001.tl/6y1b1tk
 
   - number: 8
+    date: 2001-08-03
     tracks: 21
     urls:
       - https://1001.tl/qk214j1
 
   - number: 9
+    date: 2001-08-10
     tracks: 22
     urls:
       - https://1001.tl/2ukblgl1
 
   - number: 10
+    date: 2001-08-17
     tracks: 21
     urls:
       - https://1001.tl/qkscbzt
 
   - number: 11
+    date: 2001-08-24
     tracks: 18
     urls:
       - https://1001.tl/1mfn8hbk
@@ -72,21 +83,25 @@ episodes:
       - Ibeatza - Poison Club
 
   - number: 12
+    date: 2001-09-07
     tracks: 21
     urls:
       - https://1001.tl/9jjz4k9
 
   - number: 13
+    date: 2001-09-14
     tracks: 21
     urls:
       - https://1001.tl/2pwbbsuk
 
   - number: 14
+    date: 2001-09-21
     tracks: 21
     urls:
       - https://1001.tl/22bh95mk
 
   - number: 15
+    date: 2001-09-28
     tracks: 20
     urls:
       - https://1001.tl/28v30b19
@@ -94,11 +109,13 @@ episodes:
       - Razorfish {[Above & Beyond] Progressive Mix} - [Tranquility Base]
 
   - number: 16
+    date: 2001-10-05
     tracks: 21
     urls:
       - https://1001.tl/jyypws9
 
   - number: 17
+    date: 2001-10-11
     tracks: 20
     urls:
       - https://1001.tl/11rducqt
@@ -106,6 +123,7 @@ episodes:
       - Rapture {[Armin van Buuren] Remix} - iiO
 
   - number: 18
+    date: 2001-10-18
     tracks: 22
     urls:
       - https://1001.tl/f7ssvc9
@@ -113,6 +131,7 @@ episodes:
       - Rapture {[Armin van Buuren] Remix} - iiO
 
   - number: 19
+    date: 2001-10-25
     tracks: 21
     urls:
       - https://1001.tl/2dlbn79t
@@ -121,11 +140,13 @@ episodes:
       - Resurection {Space Club Mix} - ППК
 
   - number: 20
+    date: 2001-11-01
     tracks: 9
     urls:
       - https://1001.tl/1mfpfsq1
 
   - number: 21
+    date: 2001-11-08
     tracks: 18
     urls:
       - https://1001.tl/1lhvs759
@@ -134,11 +155,13 @@ episodes:
       - Resurection - ППК
 
   - number: 22
+    date: 2001-11-15
     tracks: 19
     urls:
       - https://1001.tl/nq65t3t
 
   - number: 23
+    date: 2001-11-22
     tracks: 20
     urls:
       - https://1001.tl/2nykqqm1
@@ -147,16 +170,19 @@ episodes:
       - Resurection {Space Club Mix} - ППК
 
   - number: 24
+    date: 2001-11-29
     tracks: 18
     urls:
       - https://1001.tl/2n0s1529
 
   - number: 25
+    date: 2001-12-06
     tracks: 20
     urls:
       - https://1001.tl/1zk36j0t
 
   - number: 26
+    date: 2001-12-13
     tracks: 21
     urls:
       - https://1001.tl/u90qp91
@@ -164,6 +190,7 @@ episodes:
       - Drifting Away - [Lange] feat. [Skye]
 
   - number: 27
+    date: 2001-12-20
     tracks: 20
     urls:
       - https://1001.tl/1ymb07s9
@@ -171,6 +198,7 @@ episodes:
       - Moments Are Forever - Moon Project
 
   - number: 28
+    date: 2001-12-27
     tracks: 20
     urls:
       - https://1001.tl/5wtkfzt

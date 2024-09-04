@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 387
+    date: 2009-01-15
     tracks: 19
     liked:
       - Need To Feel Loved {[Adam K & Soha] Remix} - [Reflekt] feat. [Delline Bass]
@@ -19,6 +20,7 @@ episodes:
       - Melbourne {[David Newsum] Remix} - Sean Tyas
 
   - number: 398
+    date: 2009-04-02
     tracks: 20
     liked:
       - Melo - Pryda
@@ -32,6 +34,7 @@ episodes:
       - Eris {[Airborne Angel] Remix} - Jamala
 
   - number: 399
+    date: 2009-04-09
     tracks: 22
     liked:
       - Find Yourself {[Cosmic Gate] Remix} - [John O'Callaghan] feat. [Sarah Howells]
@@ -41,6 +44,7 @@ episodes:
       - Never Be Alone {[Nitrous Oxide] Remix} - [System Bot vs. 33] feat. [Costa]
 
   - number: 400
+    date: 2009-04-19
     title: Godskitchen Air, Birmingham, England
     parts:
       - name: Simon Patterson
@@ -56,6 +60,7 @@ episodes:
           - Exactly - [John O'Callaghan] & [Russell Kearney]
 
   - number: 401
+    date: 2009-04-24
     tracks: 22
     liked:
       - ID - Stoneface & Terminal
@@ -66,6 +71,7 @@ episodes:
       - You Walk Away - [tyDi] feat. [Audrey Gallagher]
 
   - number: 402
+    date: 2009-04-30
     tracks: 21
     liked:
       - Greece 2000 {[Sander van Dien] Remix} - Three Drives
@@ -78,6 +84,7 @@ episodes:
       - Hope {[Dima Krasnik] Remix} - [Valhalla]
 
   - number: 403
+    date: 2009-05-07
     tracks: 22
     liked:
       - Faces - [Ashley Wallbridge] & [Andy Moor] feat. [Meighan Nealon]
@@ -95,6 +102,7 @@ episodes:
       - Leaving Ankara - Sabanci & Truby
 
   - number: 404
+    date: 2009-05-14
     tracks: 21
     liked:
       - Lungomare - [John Hetmond] & [Osip]
@@ -104,6 +112,7 @@ episodes:
       - Lunation {[Masters & Nickson] Remix} - [Sonicvibe] & [Mike Shiver]
 
   - number: 405
+    date: 2009-05-22
     tracks: 21
     liked:
       - Departure {Club Mix} - Dave202
@@ -117,6 +126,7 @@ episodes:
       - Seven Weeks - Sean Tyas
 
   - number: 406
+    date: 2009-05-29
     tracks: 21
     liked:
       - This Moment {Progressive Mix} - [Nic Chagall] feat. [Jonathan Mendelsohn]
@@ -127,6 +137,7 @@ episodes:
       - Heaven Rain - [Fast Distance] & [Balearia]
 
   - number: 407
+    date: 2009-06-05
     tracks: 21
     liked:
       - Helpless {Monster Mix} - [Myon & Shane 54] feat. [Aruna]
@@ -141,6 +152,7 @@ episodes:
       - Satellite {[Above & Beyond] Remix} - OceanLab
 
   - number: 408
+    date: 2009-06-12
     tracks: 20
     liked:
       - This Moment {Progressive Mix} - [Nic Chagall] feat. [Jonathan Mendelsohn]
@@ -151,6 +163,7 @@ episodes:
       - Monsun - 3rd Moon
 
   - number: 409
+    date: 2009-06-19
     tracks: 20
     liked:
       - Nothing But You {[Super8 & Tab] Remix} - [Paul van Dyk] feat. [Hemstock & Jennings]
@@ -159,6 +172,7 @@ episodes:
       - Fast Lane - Jorn van Deynhoven
 
   - number: 410
+    date: 2009-06-26
     tracks: 20
     liked:
       - Faces {[Ben Gold] Remix} - [Andy Moor] & [Ashley Wallbridge] feat. [Meighan Nealon]
@@ -171,6 +185,7 @@ episodes:
       - Forever - Smith & Pledger
 
   - number: 411
+    date: 2009-07-03
     tracks: 20
     liked:
       - Nothing At All - [Rex Mundi] feat. [Susana]
@@ -179,6 +194,7 @@ episodes:
       - Elektra - Super8 & Tab
 
   - number: 412
+    date: 2009-07-09
     tracks: 21
     liked:
       - Automatic City - Three Drives
@@ -187,6 +203,7 @@ episodes:
       - Another Angel - Mark Andrez
 
   - number: 413
+    date: 2009-07-16
     tracks: 21
     liked:
       - Hello Strings {ID Remix} - [Synergy]
@@ -194,13 +211,16 @@ episodes:
       - Distant Signature {Alternate Mix} - Signum
 
   - number: 414
+    date: 2009-07-24
     tracks: 21
     liked:
       - Poppiholla {[The Thrillseekers] Remix} - Chicane
       - Deja Vu - [Talla 2XLC] vs. [Robert Burian]
 
   - number: 436
+    date: 2009-12-24
     tracks: 20
 
   - number: 437
+    date: 2009-12-31
     title: Yearmix

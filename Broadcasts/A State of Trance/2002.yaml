@@ -5,48 +5,57 @@ series:
 
 episodes:
   - number: 29
+    date: 2002-01-03
     tracks: 18
     liked:
       - Shadows - [Dito] feat. [Dzenita]
 
   - number: 30
+    date: 2002-01-10
     tracks: 19
     liked:
       - Illusion of The Truth - [Fred Numf] vs. [Etienne Overdijk]
       - Moments Are Forever - Moon Project
 
   - number: 31
+    date: 2002-01-17
     tracks: 19
     liked:
       - Into The Night {[4 Strings] Remix} - 4 Strings
 
   - number: 32
+    date: 2002-01-24
     tracks: 18
 
   - number: 33
+    date: 2002-01-31
     tracks: 19
     liked:
       - Fear {Hybrid's Super Collider Remix} - Sarah McLachlan
       - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
 
   - number: 34
+    date: 2002-02-07
     tracks: 19
     liked:
       - Highlander {[Ralphie B]'s Massive Mix} - Taste Experience
 
   - number: 35
+    date: 2002-02-14
     tracks: 20
     liked:
       - Tranzy State of Mind - Push
       - Love Washes Over {Dub Mix} - [Art of Trance] feat. [M. Adamson]
 
   - number: 37
+    date: 2002-02-28
     tracks: 20
     liked:
       - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Reachin' Out - M-Diva
 
   - number: 38
+    date: 2002-03-07
     tracks: 20
     liked:
       - Beyond the Moon - Alpha Breed
@@ -55,11 +64,13 @@ episodes:
       - Tranzy State of Mind - Push
 
   - number: 39
+    date: 2002-03-14
     tracks: 19
     liked:
       - Escape {[Phynn] Mix} - [Fictivision] vs. [Phynn]
 
   - number: 40
+    date: 2002-03-21
     tracks: 22
     urls:
       - https://1001.tl/2spt107t
@@ -67,6 +78,7 @@ episodes:
       - Sky Falls Down - OceanLab
 
   - number: 41
+    date: 2002-03-28
     tracks: 21
     urls:
       - https://1001.tl/2dlchp7k
@@ -74,6 +86,7 @@ episodes:
       - Sky Falls Down - OceanLab
 
   - number: 42
+    date: 2002-04-04
     tracks: 21
     urls:
       - https://1001.tl/1s2qp061
@@ -81,6 +94,7 @@ episodes:
       - Sky Falls Down - OceanLab
 
   - number: 43
+    date: 2002-04-11
     tracks: 21
     urls:
       - https://1001.tl/20gxr7p9
@@ -89,6 +103,7 @@ episodes:
       - Reachin' Out - M-Diva
 
   - number: 44
+    date: 2002-04-18
     tracks: 21
     urls:
       - https://1001.tl/2tmlxw4k
@@ -96,6 +111,7 @@ episodes:
       - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
   - number: 45
+    date: 2002-04-25
     tracks: 19
     urls:
       - https://1001.tl/1mfq96mt
@@ -103,6 +119,7 @@ episodes:
       - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
   - number: 46
+    date: 2002-05-02
     tracks: 20
     urls:
       - https://1001.tl/kwu1239
@@ -110,11 +127,13 @@ episodes:
       - Sky Falls Down - OceanLab
 
   - number: 47
+    date: 2002-05-09
     tracks: 20
     urls:
       - https://1001.tl/2vh69slk
 
   - number: 48
+    date: 2002-05-16
     tracks: 20
     urls:
       - https://1001.tl/2k7cwg1t
@@ -122,6 +141,7 @@ episodes:
       - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
   - number: 49
+    date: 2002-05-23
     tracks: 21
     urls:
       - https://1001.tl/zvv4whk

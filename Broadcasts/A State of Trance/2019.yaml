@@ -5,17 +5,20 @@ series:
 
 episodes:
   - number: 897
+    date: 2019-01-03
     tracks: 28
     liked:
       - Youtopia - [Armin van Buuren] feat. [Adam Young]
 
   - number: 898
+    date: 2019-01-10
     tracks: 28
     liked:
       - Show Me the Way {[Dan Thompson] Remix} - [Allure] feat. [Jes]
       - Vortex - [Richard Durand] & [Marco V]
 
   - number: 899
+    date: 2019-01-17
     tracks: 33
     liked:
       - Among Us - [Greg Downey] & [Alex Di Stefano]
@@ -23,11 +26,13 @@ episodes:
       - Striker {[Liam Wilson] Remix} - John O'Callaghan
 
   - number: 901
+    date: 2019-02-14
     tracks: 28
     liked:
       - Need to Feel Loved - [Cosmic Gate] & [Forêt]
 
   - number: 902
+    date: 2019-02-21
     tracks: 45
     liked:
       - Allegro - Paul Thomas
@@ -39,12 +44,14 @@ episodes:
       - Lights Around the World - [Craig Connelly] feat. [Megan McDuffee]
 
   - number: 903
+    date: 2019-02-28
     tracks: 28
     liked:
       - Panama - Giuseppe Ottaviani
       - Take My Breath - [Alex M.O.R.P.H.] & [Marjan]
 
   - number: 904
+    date: 2019-03-07
     tracks: 28
     liked:
       - Resurection {[Maurice West] Remix} - Planet Perfecto Knights
@@ -52,6 +59,7 @@ episodes:
       - Stay {[Sneijder] Remix} - [Ben Gold] & [Sivan]
 
   - number: 905
+    date: 2019-03-14
     tracks: 28
     liked:
       - Redemption - [Protoculture] & [Mino Safy]
@@ -60,15 +68,18 @@ episodes:
       - Trans Karoo {[Allen Watts] Remix} - Lostly
 
   - number: 906
+    date: 2019-03-21
     tracks: 31
     liked:
       - Perception {[Johan Gielen] Remix} - [Markus Schulz] feat. [Justine Suissa]
 
   - number: 908
+    date: 2019-04-04
     tracks: 28
     liked:
       - Temple of Artemis {[Rated R] Remix} - Neptune Project
       - Phase One - Chris Schweizer
 
   - number: 946
+    date: 2019-12-26
     title: Yearmix

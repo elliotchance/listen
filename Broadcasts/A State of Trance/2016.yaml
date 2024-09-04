@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 747
+    date: 2016-01-07
     liked:
       - Anti Social Media - [Coming Soon!!!] & [Bryan Kearney]
       - Ashes {[Cold Rush] Remix} - [Denis Kenzo] & [Sarah Lynn]
@@ -13,6 +14,7 @@ episodes:
       - Neurochemistry - [Ace Ventura] & [Liquid Soul]
 
   - number: 753
+    date: 2016-03-03
     tracks: 28
     liked:
       - Beautiful {[MaRLo] Remix} - Ferry Corsten
@@ -24,6 +26,7 @@ episodes:
       - Timelapse - Amir Hussain
 
   - number: 759
+    date: 2016-04-14
     tracks: 32
     liked:
       - ID - ID
@@ -33,6 +36,7 @@ episodes:
       - ID - ID
 
   - number: 767
+    date: 2016-06-09
     tracks: 33
     liked:
       - Conspiracy - Lange
@@ -48,6 +52,7 @@ episodes:
       - Halcyon {[Alex M.O.R.P.H.] Remix} - Andy Moor
 
   - number: 795
+    date: 2016-12-22
     tracks: 31
     liked:
       - Heading Up High {[First State] Remix} - [Armin van Buuren] feat. [Kensington]
@@ -56,4 +61,5 @@ episodes:
       - Forever And A Day - [RAM] feat. [Stine Grove]
 
   - number: 796
+    date: 2016-12-29
     title: Yearmix

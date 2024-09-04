@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 847
+    date: 2018-01-04
     tracks: 29
     liked:
       - Fireflies - [Roman Messer] feat. [Christina Novelli]
@@ -12,11 +13,13 @@ episodes:
       - Keep the Fire Burning {[Magnus] Remix} - [Talla 2XLC], [Carl B] & [Katie Marne]
 
   - number: 848
+    date: 2018-01-11
     tracks: 29
     liked:
       - Fireflies - [Roman Messer] feat. [Christina Novelli]
 
   - number: 849
+    date: 2018-01-18
     tracks: 42
     liked:
       - Ghost Voices - Virtual Self
@@ -26,6 +29,7 @@ episodes:
       - Free Fall - Metrik
 
   - number: 851
+    date: 2018-02-15
     tracks: 29
     liked:
       - If Not Now {Club Mix} - [Cosmic Gate] & [Jes]
@@ -33,20 +37,24 @@ episodes:
       - Ghost Voices {[Solis & Sean Truby] Rework} - Virtual Self
 
   - number: 852
+    date: 2018-02-22
     tracks: 45
     liked:
       - The Sound of Goodbye - [Armin van Buuren] & [Perpetuous Dreamer]
 
   - number: 853
+    date: 2018-03-01
     tracks: 28
 
   - number: 854
+    date: 2018-03-08
     tracks: 28
     liked:
       - Aria - Monoverse
       - Enixam - Ruddaz
 
   - number: 855
+    date: 2018-03-15
     tracks: 25
     liked:
       - Ends of Time - NWYR
@@ -54,15 +62,18 @@ episodes:
       - Always with Me - Liam Wilson
 
   - number: 856
+    date: 2018-03-22
     tracks: 32
     liked:
       - Lovingly - [Oliver Smith] feat. [Amy J Price]
 
   - number: 857
+    date: 2018-03-29
     tracks: 30
     liked:
       - Ethereal - [DRYM] & [Omnia]
       - Hallucination - [André Visior] & [Mind X]
 
   - number: 896
+    date: 2018-12-27
     title: Yearmix

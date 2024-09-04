@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 130
+    date: 2004-01-08
     tracks: 32
     liked:
       - Burned With Desire {[Ronski Speed] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -13,25 +14,31 @@ episodes:
       - Satellite {[Above & Beyond] Remix} - OceanLab
 
   - number: 131
+    date: 2004-01-15
     tracks: 32
 
   - number: 132
+    date: 2004-01-22
     tracks: 20
     liked:
       - Escape {[Fictivision] Remix} - [Fictivision] vs [Phynn]
 
   - number: 133
+    date: 2004-01-29
     tracks: 17
 
   - number: 134
+    date: 2004-02-05
     tracks: 33
 
   - number: 135
+    date: 2004-02-12
     tracks: 18
     liked:
       - Sonic Breeze - Maharishi
 
   - number: 136
+    date: 2004-02-19
     tracks: 19
     liked:
       - Burned With Desire {[Brian Cross] Remix} - [Armin van Buuren] feat. [Justine Suissa]

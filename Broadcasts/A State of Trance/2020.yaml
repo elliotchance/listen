@@ -5,20 +5,24 @@ series:
 
 episodes:
   - number: 947
+    date: 2020-01-02
     liked:
       - Epoch - [Roger Shah], [Pierre Pienaar] & [Dirkie Coetzee]
 
   - number: 948
+    date: 2020-01-09
     liked:
       - Atmosphere - [Darren O'Brien] & [Alex Holmes]
       - Adrenaline {[James Dymond] Remix} - Bryan Kearney
 
   - number: 949
+    date: 2020-01-16
     liked:
       - Shine - [Rub!k] feat. [Linney]
       - Runaway {[Erly Tepshi] Remix} - [Armin van Buuren] feat. [Candace Sosa]
 
   - number: 950
+    date: 2020-02-15
     liked:
       - Made of Love - [Ferry Corsten] feat. [Betsie Larkin]
       - Fallen Angel {[Dennis Sheperd] Club Mix} - [Dennis Sheperd] & [Cold Blue] feat. [Ana Criado]
@@ -28,16 +32,19 @@ episodes:
       - Burned With Desire - [Armin van Buuren] feat. [Justine Suissa]
 
   - number: 952
+    date: 2020-02-20
     liked:
       - Missing - [Mark Sixma] & [Emma Hewitt]
 
   - number: 953
+    date: 2020-02-27
     liked:
       - Saltwater {[Kevin de Vries] Remix} - [Chicane] feat. [Moya Brennan]
       - After the Rain {Club Mix} - [The Thrillseekers] & [Hydra]
       - When I Rock - Renegade System
 
   - number: 954
+    date: 2020-03-05
     liked:
       - Waiting on the Other Side {Club Mix} - [Jorn van Deynhoven] & [Christina Novelli]
       - Miles Away {Album Edit} - [Armin van Buuren] feat. [Sam Martin]
@@ -45,8 +52,10 @@ episodes:
       - Shelter {[Photographer] Remix} - [Dash Berlin] feat. [Roxanne Emery]
 
   - number: 955
+    date: 2020-03-12
     liked:
       - Someone Like You - [Armin van Buuren] & [Susana]
 
   - number: 997
+    date: 2020-12-31
     title: Yearmix

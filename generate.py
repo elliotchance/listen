@@ -141,6 +141,8 @@ class TrackRepo:
             if 'episodes' in file:
                 for episode in file['episodes']:
                     appears_on = broadcast
+                    if 'date' in episode:
+                        appears_on = episode['date'].strftime('%Y-%m-%d') + ': ' + appears_on
                     if 'number' in episode:
                         appears_on += ' #' + str(episode['number'])
                     if 'liked' in episode:
@@ -156,6 +158,8 @@ class TrackRepo:
 
                             if t.rating > self.tracks[t.canonical][t.version].track.rating:
                                 self.tracks[t.canonical][t.version].track.rating = t.rating
+                    if 'date' not in episode:
+                        print('missing date: ' + appears_on)
 
 class Broadcasts:
     def __init__(self, artist_repo):
@@ -811,7 +815,7 @@ with open('tracks.html', "w") as f:
             w(f, "<td valign='top'>"+appearance.track.render_title(artist_repo)+"</td>")
             w(f, "<td valign='top'>"+appearance.track.render_artist(artist_repo)+"</td>")
             w(f, "<td valign='top'>"+appearance.track.render_version(artist_repo)+"</td>")
-            w(f, "<td nowrap>"+'<br/>'.join(appearance.appears_on)+"</td>")
+            w(f, "<td nowrap>"+'<br/>'.join(sorted(appearance.appears_on))+"</td>")
             w(f, "</tr>")
     w(f, "</table>")
     w(f, "</body>")

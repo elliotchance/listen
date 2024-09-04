@@ -5,17 +5,20 @@ series:
 
 episodes:
   - number: 797
+    date: 2017-01-05
     liked:
       - Shelter - [Dash Berlin] feat. [Roxanne Emery]
       - Exalted - gerome
       - Fly Away {[M6] Remix} - Vincent de Moor
 
   - number: 844
+    date: 2017-12-14
     tracks: 32
     liked:
       - Christmas Days {Encore Version} - [Armin van Buuren] feat. [Josh Cumbee]
 
   - number: 845
+    date: 2017-12-21
     tracks: 53
     liked:
       - Concrete Angel {[ReOrder] Remix} - [Gareth Emery] feat. [Christina Novelli]
@@ -23,4 +26,5 @@ episodes:
       - Spectrum - [James Dymond] & [Chris Schweizer]
 
   - number: 846
+    date: 2017-12-28
     title: Yearmix

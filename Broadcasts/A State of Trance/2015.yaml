@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 701
+    date: 2015-02-19
     tracks: 31
     liked:
       - Cynical Orange - Kago Pengchi
@@ -15,6 +16,7 @@ episodes:
       - Fragments - Cold Rush
 
   - number: 702
+    date: 2015-02-26
     tracks: 31
     liked:
       - This Will Be Your Happiness {[Steve Brian] Remix} - [Cosmic Gate] feat. [Jennifer Cooke]
@@ -39,6 +41,7 @@ episodes:
       - + Slave To Doubt - [Matt Bukovski] feat. [Cynthia Hall]
 
   - number: 703
+    date: 2015-03-05
     tracks: 31
     liked:
       - Ashes - [Denis Kenzo] feat. [Sarah Lynn]
@@ -56,6 +59,7 @@ episodes:
       - Aztec {[Neptune Project]'s Future Mix} - Neptune Project
 
   - number: 704
+    date: 2015-03-12
     tracks: 32
     liked:
       - The Same - Kyau & Albert
@@ -75,6 +79,7 @@ episodes:
       - Endless - Illitheas
 
   - number: 705
+    date: 2015-03-19
     tracks: 32
     liked:
       - Someone Like You - [RAM] & [Susana]
@@ -93,6 +98,7 @@ episodes:
       - Marrakech {Club Mix} - ATB
 
   - number: 706
+    date: 2015-03-26
     tracks: 36
     liked:
       - Awake {[Jakko] Remix} - [Killogy] & [Matthew White] feat. [Angelika Vee]
@@ -109,6 +115,7 @@ episodes:
       - + Magic Light - [STANDERWICK] & [Philippe El Sisi] feat. [Ana Criado]
 
   - number: 708
+    date: 2015-04-09
     tracks: 35
     liked:
       - Generate - Eric Prydz
@@ -123,6 +130,7 @@ episodes:
       - Snapshot - [Kinetica] & [Dave Wright]
 
   - number: 709
+    date: 2015-04-16
     tracks: 34
     liked:
       - Another You - [Armin van Buuren] feat. [Mr. Probz]
@@ -136,6 +144,7 @@ episodes:
       - Vivid - [Re:locate] vs. [Robert Nickson]
 
   - number: 711
+    date: 2015-04-30
     tracks: 32
     liked:
       - Are You With Me {[Dash Berlin] Remix} - Lost Frequencies
@@ -149,6 +158,7 @@ episodes:
       - All Of Us - [STANDERWICK] feat. [Jennifer Rene]
 
   - number: 712
+    date: 2015-05-07
     tracks: 34
     liked:
       - The Other Shore {[Aruna] vs. [Steve Kaetzel] Remix} - [Aly & Fila] feat. [Aruna]
@@ -167,6 +177,7 @@ episodes:
       - New York City - [Paul van Dyk] & [Starkillers] & [Austin Leeds] feat. [Ashley Tomberlin]
 
   - number: 713
+    date: 2015-05-14
     tracks: 34
     liked:
       - It's In Your Heart {Club Mix} - [David Gravell] feat. [Christon]
@@ -184,6 +195,7 @@ episodes:
       - Don't Leave - Andres Sanchez
 
   - number: 714
+    date: 2015-05-21
     tracks: 34
     liked:
       - Huracan {[Ben Gold] Remix} - Gareth Emery
@@ -192,4 +204,5 @@ episodes:
       - Let Loose - Sam Jones
 
   - number: 746
+    date: 2015-12-31
     title: Yearmix

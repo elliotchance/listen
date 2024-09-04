@@ -5,47 +5,57 @@ series:
 
 episodes:
   - number: 1
+    date: 2013-03-13
     tracks: 15
     liked:
       - All Your Colours - Kyau & Albert
       - D# Fat - [Armin van Buuren] & [W&W]
 
   - number: 2
+    date: 2013-03-20
     tracks: 15
     liked:
       - Bullet That Saved Me - [Tritonal] feat. [Underdown]
 
   - number: 3
+    date: 2013-03-24
     tracks: 16
 
   - number: 4
+    date: 2013-04-03
     tracks: 15
     liked:
       - Bullet That Saved Me - [Tritonal] feat. [Underdown]
 
   - number: 5
+    date: 2013-04-16
     tracks: 15
 
   - number: 6
+    date: 2013-04-27
     tracks: 16
     liked:
       - All Your Colours {[Andrew Rayel] Remix} - Kyau & Albert
 
   - number: 7
+    date: 2013-05-04
     tracks: 14
 
   - number: 8
+    date: 2013-05-11
     tracks: 15
     liked:
       - The Truth - Seven Lions
 
   - number: 9
+    date: 2013-05-20
     tracks: 16
     liked:
       - "@-42:20"
       - "@-38:50"
 
   - number: 10
+    date: 2013-05-25
     tracks: 15
     liked:
       - "@-13:40"
@@ -53,87 +63,111 @@ episodes:
       - "@-2:00"
 
   - number: 11
+    date: 2013-06-11
     tracks: 15
     liked:
       - "@2:50"
 
   - number: 12
+    date: 2013-06-17
     tracks: 15
 
   - number: 13
+    date: 2013-06-24
     tracks: 15
 
   - number: 14
+    date: 2013-07-08
     tracks: 16
 
   - number: 15
+    date: 2013-07-15
     tracks: 16
 
   - number: 16
+    date: 2013-07-22
     tracks: 16
     liked:
       - "@5:50" # Dash Berlin - Steal You Away?
 
   - number: 17
+    date: 2013-08-07
     tracks: 16
 
   - number: 18
+    date: 2013-08-11
     tracks: 16
 
   - number: 19
+    date: 2013-08-19
     tracks: 17
     liked:
       - "@49:30"
 
   - number: 20
+    date: 2013-08-26
     tracks: 18
 
   - number: 21
+    date: 2013-09-02
     tracks: 18
 
   - number: 22
+    date: 2013-09-16
     tracks: 16
 
   - number: 23
+    date: 2013-09-24
     tracks: 17
 
   - number: 24
+    date: 2013-10-07
     tracks: 16
 
   - number: 25
+    date: 2013-10-14
     tracks: 17
     liked:
       - "@41:10"
 
   - number: 26
+    date: 2013-10-21
     tracks: 18
 
   - number: 27
+    date: 2013-10-28
     tracks: 16
 
   - number: 28
+    date: 2013-11-04
     tracks: 16
 
   - number: 29
+    date: 2013-11-11
     tracks: 16
     liked:
       - "@56:00"
 
   - number: 30
+    date: 2013-11-26
     tracks: 16
 
   - number: 31
+    date: 2013-12-02
     tracks: 18
 
   - number: 32
+    date: 2013-12-09
     tracks: 19
     liked:
       - "@9:00" # Fisherman and Hawkins?
 
   - number: 33
+    date: 2013-12-13
     tracks: 17
 
   - number: 34
+    date: 2013-12-23
     tracks: 34
     liked:
       - "@35:30" # Bruno Mars - Locked out of Heaven
