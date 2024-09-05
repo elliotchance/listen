@@ -830,4 +830,4 @@ with open('tracks.csv', "w") as f:
             if appearance.track.is_time_code:
                 continue
 
-            w(f, canonical.replace(' - ', ',')+","+appearance.track.version)
+            w(f, '"'+canonical.replace(' - ', '","')+'","'+appearance.track.version+'"')
