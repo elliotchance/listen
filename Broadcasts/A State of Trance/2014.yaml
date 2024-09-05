@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 646
+    date: 2014-01-02
     tracks: 32
     liked:
       - ID - ID
@@ -14,6 +15,7 @@ episodes:
       - ID - ID
 
   - number: 650
+    date: 2014-02-15
     title: "Day 4: Utrecht, The Netherlands: Invites Stage"
     parts:
       - number: 2/7
@@ -34,9 +36,11 @@ episodes:
           - Where Life Takes Us - Ben Gold
 
   - number: 681
+    date: 2014-09-18
     tracks: 28
     liked:
       - Gravity - Parker & Hanson
 
   - number: 695
+    date: 2014-12-19
     title: Yearmix

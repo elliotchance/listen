@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 600
+    date: 2013-02-14
     title: "Preparty, Madrid, Spain"
     parts:
       - number: 2/7
@@ -52,6 +53,7 @@ episodes:
           - ID - ID
 
   - number: 600
+    date: 2013-02-16
     title: "Day 1: Mexico City, Mexico"
     parts:
       - number: 2/6
@@ -110,6 +112,7 @@ episodes:
           - The Funeral - [Dash Berlin] feat. [Band of Horses]
 
   - number: 600
+    date: 2013-03-01
     title: "Day 2: São Paulo, Brazil"
     parts:
       - number: 2/6
@@ -150,6 +153,7 @@ episodes:
           - In Her Eyes - Temple One
 
   - number: 600
+    date: 2013-03-07
     title: "Day 3: Minsk, Belarus"
     parts:
       - number: 1/6
@@ -187,6 +191,7 @@ episodes:
           - Lost in Berlin {[Giuseppe Ottaviani] Remix} - [Paul van Dyk] feat. [Michelle Leonard]
 
   - number: 600
+    date: 2013-03-08
     title: "Day 4: Sofia, Bulgaria"
     parts:
       - number: 1/7
@@ -196,6 +201,7 @@ episodes:
           - Surrender Sweet Disposition {[Myon & Shane 54] Mashup} - [Paul Oakenfold] vs. [The Temper Trap]
 
   - number: 600
+    date: 2013-03-09
     title: "Beirut, Lebanon"
     parts:
       - number: 2/7
@@ -221,6 +227,7 @@ episodes:
           - You Belong to Megalodon {[Xabi Only] Mashup} - [Bobina] & [Betsie Larkin] vs. [MaRLo]
 
   - number: 600
+    date: 2013-03-15
     title: "Day 6: Kuala Lumpur, Malaysia"
     parts:
       - number: 2/7
@@ -267,6 +274,7 @@ episodes:
           - Are Am Eye Stresstest {[John Askew] Remix} {[Armin van Buuren] Mashup} - [John O'Callaghan] vs. [Commander Tom]
 
   - number: 600
+    date: 2013-03-16
     title: "Day 7: Mumbai, India"
     parts:
       - number: 2/5
@@ -277,6 +285,7 @@ episodes:
           - Wild and Perfect Day - [Rank 1] & [Jochen Miller] feat. [Sarah Bettens]
 
   - number: 600
+    date: 2013-03-24
     title: "Day 8: Ultra Music Festival, Miami, USA"
     parts:
       - number: 2/11
@@ -330,6 +339,7 @@ episodes:
           - ID - ID
 
   - number: 600
+    date: 2013-03-27
     title: "Day 9: Guatemala, Guatemala City"
     parts:
       - number: 1/5
@@ -340,6 +350,7 @@ episodes:
           - As the Desert Rush Comes {[Bilal El Aly] & [Vince Aoun] Mashup} - [DJ Eco] vs. [Motorcycle]
 
   - number: 600
+    date: 2013-04-06
     title: "Day 11: Den Bosch, Netherlands: Who's Afraid of 138?!"
     parts:
       - number: 2/8
@@ -352,6 +363,7 @@ episodes:
           - Valhalla - [Arctic Moon] & [Paul Webster]
 
   - number: 600
+    date: 2013-04-06
     title: "Den Bosch, Netherlands: Expedition Stage"
     parts:
       - number: 3/9
@@ -362,6 +374,7 @@ episodes:
           - Wait Forever {[Estiva] Remix} - [Estiva] & [Cardinal] feat. [Arielle Maren]
 
   - number: 600
+    date: 2013-04-06
     title: "Den Bosch, Netherlands: Main Stage"
     parts:
       - number: 2/9
@@ -371,6 +384,7 @@ episodes:
           - Yin-Yang - Ashley Wallbridge
 
   - number: 600
+    date: 2013-04-06
     title: "Turn the World Into a Dance Floor, Den Bosch, Netherlands"
     parts:
       - number: 4/8
@@ -390,12 +404,15 @@ episodes:
           - Sun in Your Eyes {[Mark Sherry] Argentinian Sun Edit} - Above & Beyond
 
   - number: 603
+    date: 2013-03-07
     tracks: 27
 
   - number: 607
+    date: 2013-04-04
     tracks: 28
 
   - number: 608
+    date: 2013-04-11
     tracks: 28
     liked:
       - Change The World {[Estiva] Remix} - [Daniel Kandi] feat. [Sarah Russell]
@@ -409,6 +426,7 @@ episodes:
       - There And Back - Robbie Van Doe
 
   - number: 610
+    date: 2013-04-25
     tracks: 28
     liked:
       - Who's Afraid Of 138?! - Armin van Buuren
@@ -416,9 +434,11 @@ episodes:
       - If I Lose Myself Coming Home {[Shura Vlasov] Mashup} - [Armin van Buuren] vs. [Arctic Moon] vs. [OneRepublic]
 
   - number: 611
+    date: 2013-05-02
     tracks: 24
 
   - number: 612
+    date: 2013-05-09
     tracks: 27
     liked:
       - Violetta - Ørjan Nilsen
@@ -430,6 +450,7 @@ episodes:
       - As It Was Meant To Be {[Darren Porter] Remix} - [Dreamy] feat. [Magdalen Silvestra]
 
   - number: 613
+    date: 2013-05-16
     tracks: 28
     liked:
       - Plazma - Mixail
@@ -439,6 +460,7 @@ episodes:
       - Close Horizon - Thomas Bronzwaer
 
   - number: 614
+    date: 2013-05-23
     tracks: 27
     liked:
       - Plazma - Mixail
@@ -451,14 +473,17 @@ episodes:
       - Ganymede - Andres Sanchez
 
   - number: 616
+    date: 2013-06-06
     tracks: 27
     liked:
       - Gamemaster {[Protoculture] Reconstruction} - Lost Tribe
 
   - number: 618
+    date: 2013-06-20
     tracks: 30
 
   - number: 623
+    date: 2013-07-25
     tracks: 30
     liked:
       - + Beautiful Life {[Mikkas] Remix} - [Armin van Buuren] feat. [Cindy Alma]
@@ -477,6 +502,7 @@ episodes:
       - Infinitude - Onova
 
   - number: 630
+    date: 2013-09-12
     tracks: 32
     liked:
       - World Falls Apart {[Jorn van Deynhoven] Remix} - [Dash Berlin] feat. [Jonathan Mendelsohn]

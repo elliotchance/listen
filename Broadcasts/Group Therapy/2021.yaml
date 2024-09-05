@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 464
+    date: 2021-12-10
     artist: Manila Killa
     tracks: 28
     liked:
@@ -13,6 +14,7 @@ episodes:
       - On & On - [Above & Beyond] feat. [Louise Rademakers]
 
   - number: 465
+    date: 2021-12-17
     artist: THEMBA
     tracks: 25
     liked:
@@ -20,5 +22,6 @@ episodes:
       - Seeking Blue - Fatum
 
   - number: 466
+    date: 2022-01-07
     artist: Bexxie
     tracks: 29

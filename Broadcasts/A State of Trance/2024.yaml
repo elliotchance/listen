@@ -4,6 +4,7 @@ series:
 
 episodes:
   - number: 1154
+    date: 2024-01-04
     liked:
       - Take Me Home - [C-Systems] & [Aina]
       - Anywhere {Road Trippin'} - anamē
@@ -11,33 +12,40 @@ episodes:
       - If You Only Knew - [Hel:sløwed] & [Amber Revival]
 
   - number: 1155
+    date: 2024-01-11
     liked:
       - Dayglow {[Bryan Kearney] Remix} - [Armin van Buuren] feat. [Stuart Crichton]
       - Run - [Liam Melly], [Code 2] & [Chelsea Holland]
       - Hector - Silva City
 
   - number: 1156
+    date: 2024-01-18
     liked:
       - Northern Soul {[ilan Bluestone] Remix} - [Above & Beyond] feat. [Richard Bedford]
       - Rebel Anthem {[Black Xs] Remix} - Obie Fernandez
 
   - number: 1157
+    date: 2024-01-25
     liked:
       - Here I Am {[Richard Durand] Remix} - [Nicholas Gunn] & [Harshil Kamdar] feat. [Alina Renae]
 
   - number: 1158
+    date: 2024-02-01
     liked:
       - Nano - Sønin
 
   - number: 1159
+    date: 2024-02-08
     liked:
       - Need to Feel Loved - [Cosmic Gate] & [Forêt]
 
   - number: 1160
+    date: 2024-02-15
     liked:
       - Castles in the Sky - i_o
 
   - number: 1161
+    date: 2024-02-22
     notes: The Spotify episode also included the 6 hour classic set.
     liked:
       - Flashpoint - Taylor Torrence
@@ -51,30 +59,39 @@ episodes:
       - Rest of Our Lives - Ben Gold
 
   - number: 1162
+    date: 2024-02-29
     liked:
       - Forever - [Bogdan Vix] & [Renee Stahl]
 
   - number: 1163
+    date: 2024-03-07
     liked:
       - I Wish - [Andrew Rayel], [Robbie Seed] & [Jimmy Chou] feat. [That Girl]
 
   - number: 1164
+    date: 2024-03-14
 
   - number: 1165
+    date: 2024-03-21
     liked:
       - Just As You Are - [Armin van Buuren] & [Rising Star] feat. [Fiora]
 
   - number: 1166
+    date: 2024-03-28
 
   - number: 1167
+    date: 2024-04-04
 
   - number: 1168
+    date: 2024-04-11
 
   - number: 1169
+    date: 2024-04-18
     liked:
       - Temple Voices - Steve Dekay
 
   - number: 1170
+    date: 2024-04-25
     liked:
       - All over Again - [Bryan Kearney] & [Plumb]
       - + Amsterdam {[Smith & Pledger] Remix} - Luminary
@@ -86,11 +103,13 @@ episodes:
       - Silence {[Tiësto]'s in Search of Sunrise Remix} - [Delerium] feat. [Sarah McLachlan]
 
   - number: 1171
+    date: 2024-05-02
     liked:
       - Piece of Art {[Darren Porter] Remix} - Kryder
       - Out of the Sky {[Chris Schweizer] Remix} - [Lange] & [Sarah Howells]
 
   - number: 1172
+    date: 2024-05-09
     tracks: 27
     urls:
       - https://1001.tl/11zy9vl1
@@ -98,6 +117,7 @@ episodes:
       - ID - Silva City
 
   - number: 1173
+    date: 2024-05-16
     tracks: 29
     urls:
       - https://1001.tl/2vrr84lk
@@ -106,11 +126,13 @@ episodes:
       - Kalopsia {[Matt Fax] Remix} - The Blizzard
 
   - number: 1174
+    date: 2024-05-23
     tracks: 29
     urls:
       - https://1001.tl/1u6w7tj1
 
   - number: 1175
+    date: 2024-05-30
     tracks: 32
     urls:
       - https://1001.tl/quft7sk
@@ -118,11 +140,13 @@ episodes:
       - Into the Night - [Audorn] & [Sarah de Warren]
 
   - number: 1176
+    date: 2024-06-06
     tracks: 31
     urls:
       - https://1001.tl/9t7pbd1
 
   - number: 1177
+    date: 2024-06-13
     tracks: 29
     urls:
       - https://1001.tl/1hz5ju2t
@@ -130,6 +154,7 @@ episodes:
       - Castles in the Sky - [P.O.U] & [Scott Forshaw]
 
   - number: 1178
+    date: 2024-06-20
     tracks: 32
     urls:
       - https://1001.tl/2vrxc0x1

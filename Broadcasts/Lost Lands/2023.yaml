@@ -3,6 +3,7 @@ series:
 
 episodes:
   - title: Prehistoric Stage
+    date: 2023-09-22
     parts:
       - artist: NGHTMARE
         tracks: 72
@@ -55,6 +56,7 @@ episodes:
         tracks: 61
 
   - title: Wompy Woods
+    date: 2023-09-22
     parts:
       - artist: Grabbitz
         tracks: 49

@@ -3,12 +3,14 @@ series:
 
 episodes:
   - title: The Prehistoric Paradox
+    date: 2022-09-23
     parts:
       - artist: Knife Party
         rating: 7/10
         tracks: 33
 
   - title: Prehistoric Evolution
+    date: 2022-09-23
     parts:
       - artist: SWARM
         rating: 9/10
@@ -33,6 +35,7 @@ episodes:
         tracks: 52
 
   - title: Wompy Woods
+    date: 2022-09-23
     parts:
       - artist: VAMPA
         rating: 6/10

@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 1
+    date: 2020-04-08
     artist: MitiS
     tracks: 20
     liked:
@@ -14,6 +15,7 @@ episodes:
       - Moments - [MitiS] feat. [Adara]
 
   - number: 2
+    date: 2020-05-01
     artist: Trivecta
     tracks: 21
     liked:
@@ -21,6 +23,7 @@ episodes:
       - Alive {[Trivecta] Remix} - [Dabin] feat. [RUNN]
 
   - number: 3
+    date: 2020-06-10
     artist: Dimibo
     tracks: 13
     liked:
@@ -29,12 +32,14 @@ episodes:
       - Pranava {[Ranji] & [Mind Spin] Remix} - [Ace Ventura] & [Astrix]
 
   - number: 4
+    date: 2020-07-21
     artist: Inukshuk
     tracks: 29
     liked:
       - Wasteland {[Wooli] Remix} - Trivecta
 
   - number: 5
+    date: 2020-08-05
     artist: Nurko
     tracks: 18
     liked:
@@ -43,6 +48,7 @@ episodes:
       - Too Far Gone {[Nurko] Remix} - [Lost Kings] feat. [Anna Clendening]
 
   - number: 6
+    date: 2020-09-02
     artist: Crystal Skies
     tracks: 30
     liked:
@@ -52,10 +58,12 @@ episodes:
       - I Don't Deserve You {[Seven Lions] Remix} - [Paul van Dyk] feat. [Plumb]
 
   - number: 7
+    date: 2020-10-14
     artist: Last Heroes
     tracks: 19
 
   - number: 8
+    date: 2020-11-05
     artist: Far Out
     tracks: 17
     liked:
@@ -65,22 +73,26 @@ episodes:
       - Adventure - [Far Out] feat. [ALLY THORN]
 
   - number: 9
+    date: 2020-12-02
     artist: Xavi
     tracks: 24
 
   - number: 10
+    date: 2021-01-28
     artist: Gem & Tauri
     tracks: 15
     liked:
       - Call Me Home - [Gem & Tauri] feat. [HALIENE]
 
   - number: 11
+    date: 2021-02-25
     artist: Outwild
     tracks: 23
     liked:
       - Try - [MitiS] feat. [Røry]
 
   - number: 12
+    date: 2021-03-17
     artist: Awakened
     tracks: 26
     liked:
@@ -90,12 +102,14 @@ episodes:
       - Follow Me {[Blanke] Remix} - [Blanke] & [ShockOne]
 
   - number: 13
+    date: 2021-05-05
     artist: AMIDY
     tracks: 27
     liked:
       - Hollow {ID Remix} / After All {[Kompany] & [Wooli] Remix VIP} - [Blanke], [Slander] & [YOOKiE] feat. [Jinzo]
 
   - number: 14
+    date: 2021-05-19
     artist: Jason Ross
     tracks: 22
     liked:
@@ -105,18 +119,21 @@ episodes:
       - Power of Acid - Ranji
 
   - number: 15
+    date: 2021-06-09
     artist: STAR SEED
     tracks: 36
     liked:
       - Atrea - Heimanu
 
   - number: 16
+    date: 2021-07-21
     artist: Au5
     tracks: 30
     liked:
       - "Satellite {[Above & Beyond] Remix} {Acapella} / ID - [OceanLab] & ID"
 
   - number: 17
+    date: 2021-08-04
     artist: Blanke
     title: Blanke's Melodic Mix
     tracks: 23
@@ -124,6 +141,7 @@ episodes:
       - Gorgeous - [Illenium], [Bipolar Sunshine] & [Blanke]
 
   - number: 18
+    date: 2021-08-25
     artist: Alpha 9
     tracks: 15
     liked:
@@ -134,6 +152,7 @@ episodes:
     tracks: 23
 
   - number: 20
+    date: 2021-11-10
     artist: RIOT
     tracks: 27
     liked:
@@ -142,6 +161,7 @@ episodes:
       - Overkill - RIOT
 
   - number: 21
+    date: 2022-01-19
     artist: Codeko
     tracks: 21
     liked:
@@ -150,6 +170,7 @@ episodes:
       - Back To You {[Codeko] Remix} - [Ekali] feat. [Kiiara]
 
   - number: 22
+    date: 2022-02-08
     artist: Blosso
     tracks: 24
     liked:
@@ -160,6 +181,7 @@ episodes:
       - Down Under - [Luude] feat. [Colin Hay]
 
   - number: 23
+    date: 2022-03-16
     artist: Kepik
     tracks: 20
     liked:
@@ -168,10 +190,12 @@ episodes:
       - We Fall Down - [KEPIK] feat. [Shaley Scott]
 
   - number: 24
+    date: 2022-03-30
     artist: Quackson
     tracks: 32
 
   - number: 25
+    date: 2022-04-27
     artist: Man Cub
     tracks: 25
     liked:
@@ -179,6 +203,7 @@ episodes:
       - Higher Love {[Seven Lions] & [Jason Ross] 1999 Remix} - [Seven Lions] & [Jason Ross] feat. [Paul Meany]
 
   - number: 26
+    date: 2022-05-25
     artist: Mazare
     tracks: 31
     liked:
@@ -189,14 +214,17 @@ episodes:
     tracks: 41
 
   - number: 28
+    date: 2022-09-06
     artist: ROY KNOX
     tracks: 33
 
   - number: 29
+    date: 2022-11-30
     artist: yetep & SABAI
     tracks: 28
 
   - number: 30
+    date: 2023-02-01
     artist: Advent Volume 6 Showcase
     tracks: 56
     liked:
@@ -220,6 +248,7 @@ episodes:
     tracks: 29
 
   - number: 34
+    date: 2023-08-08
     artist: Feed Me
     tracks: 23
 
@@ -228,13 +257,16 @@ episodes:
     tracks: 22
 
   - number: 36
+    date: 2023-10-05
     artist: Blastoys
     tracks: 11
 
   - number: 37
+    date: 2023-10-19
     artist: Au5
     tracks: 33
 
   - number: 38
+    date: 2023-10-31
     artist: Rival
     tracks: 51
