@@ -40,7 +40,7 @@ class Track:
 
     def __init__(self, s: str, rating: int) -> None:
         self.original = s
-        self.canonical = re.sub(r'\[(?P<name>.*?)\]', '\g<name>', re.sub(r'\s*\{(.*?)\}', '', s))
+        self.canonical = re.sub(r'\s*\{(.*?)\}', '', s)
         self.title = ''
         self.artists = set()
         self.is_time_code = False
@@ -807,7 +807,7 @@ with open('tracks.html', "w") as f:
     w(f, "<th>Appears On</th>")
     w(f, "</tr>")
     for canonical in sorted(track_repo.tracks):
-        for version in track_repo.tracks[canonical]:
+        for version in sorted(track_repo.tracks[canonical]):
             appearance = track_repo.tracks[canonical][version]
             if appearance.track.is_time_code:
                 continue
@@ -822,3 +822,13 @@ with open('tracks.html', "w") as f:
     w(f, "</table>")
     w(f, "</body>")
     w(f, "</html>")
+
+with open('tracks.txt', "w") as f:
+    for canonical in sorted(track_repo.tracks):
+        w(f, canonical)
+        for version in sorted(track_repo.tracks[canonical]):
+            appearance = track_repo.tracks[canonical][version]
+            if appearance.track.is_time_code:
+                continue
+
+            w(f, "  "+appearance.track.version)
