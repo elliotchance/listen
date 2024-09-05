@@ -823,12 +823,11 @@ with open('tracks.html', "w") as f:
     w(f, "</body>")
     w(f, "</html>")
 
-with open('tracks.txt', "w") as f:
+with open('tracks.csv', "w") as f:
     for canonical in sorted(track_repo.tracks):
-        w(f, canonical)
         for version in sorted(track_repo.tracks[canonical]):
             appearance = track_repo.tracks[canonical][version]
             if appearance.track.is_time_code:
                 continue
 
-            w(f, "  "+appearance.track.version)
+            w(f, canonical.replace(' - ', ',')+","+appearance.track.version)
