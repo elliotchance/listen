@@ -83,6 +83,8 @@ class Track:
         artists = re.findall('\[(.*?)\]', s)
         for artist in artists:
             a = artist_repo.get_artist(artist)
+            if a is None:
+                print("missing link for artist: " + artist)
             if a is None or a.rym is None:
                 s = s.replace("[%s]" % artist, "<u>%s</u>" % artist)
             else:
@@ -205,54 +207,6 @@ class Broadcasts:
                     status_emoji(subseries.status),
                     anchor_name(series.name+"_"+subseries.name), subseries.name,
                     subseries.total_episodes, subseries.total_liked, subseries.total_tracks))
-        w(f, "</table>")
-
-    def write_artists(self, f):
-        w(f, "<table style='border: 1px solid black'>")
-        w(f, "<tr style='border: 1px solid black'>")
-        w(f, "<th>Artists</th><td>%s</td>" % len(self.artists))
-        w(f, "</tr>")
-        linked = 0
-        tracks = 0
-        unique_tracks = 0
-        for artist in self.artists:
-            for title in self.artists[artist]:
-                unique_tracks += 1
-                tracks += len(self.artists[artist][title]['on'])
-            artist_details = self.artist_repo.get_artist(artist)
-            if artist_details is not None:
-                linked += 1
-        
-        w(f, "<tr><th>Linked</th><td>%d (%.2f%%)</td></tr>" % (linked, 100 * (float(linked) / len(self.artists))))
-        w(f, "<tr><th>Tracks</th><td>%d</td></tr>" % tracks)
-        w(f, "<tr><th>Unique Tracks</th><td>%d</td></tr>" % unique_tracks)
-        w(f, "</table>")
-
-        w(f, "<br/><br/>")
-
-        w(f, "<table style='border: 1px solid black'>")
-        w(f, "<tr style='border: 1px solid black'>")
-        w(f, "<th>Artist</th>")
-        w(f, "<th>Title (On)</th>")
-        w(f, "</tr>")
-        missing_links = 0
-        for artist in sorted(self.artists):
-            artist_details = self.artist_repo.get_artist(artist)
-            w(f, "<tr>")
-            if artist_details is not None:
-                w(f, "<td valign='top'><a href=\"%s\">%s</a></td>" % (artist_details.rym, artist))
-            else:
-                if missing_links < 100:
-                    print("missing link for artist: " + artist)
-                    missing_links += 1
-                w(f, "<td valign='top'><u>%s</u></td>" % artist)
-
-            w(f, "<td>")
-            for title in sorted(self.artists[artist]):
-                w(f, '%s<br/>' % render_track(self.artist_repo, title))
-                for on in sorted(self.artists[artist][title]['on']):
-                    w(f, '&nbsp;&nbsp;&nbsp;<em>%s</em><br/>' % on)
-            w(f, "</td></tr>")
         w(f, "</table>")
 
     def write_top1000(self, f):
@@ -724,30 +678,6 @@ with open('index.html', "w") as f:
     w(f, "</body>")
     w(f, "</html>")
 
-with open('artists.html', "w") as f:
-    w(f, "<html>")
-
-    w(f, "<head>")
-    w(f, "<meta charset=\"UTF-8\">")
-    w(f, "<style>")
-    w(f, """
-    html, body {
-        font-family: Roboto, sans-serif;
-    }
-    table, th, td {
-        border: 1px solid black;
-        border-collapse: collapse;
-    }
-    """)
-    w(f, "</style>")
-    w(f, "</head>")
-
-    w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | Artists | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a><br/><br/>")
-    broadcasts.write_artists(f)
-    w(f, "</body>")
-    w(f, "</html>")
-
 with open('top1000.html', "w") as f:
     w(f, "<html>")
 
@@ -770,7 +700,7 @@ with open('top1000.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='artists.html'>Artists</a> | <a href='tracks.html'>Tracks</a> | Top 1000<br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000<br/><br/>")
     broadcasts.write_top1000(f)
     w(f, "</body>")
     w(f, "</html>")
@@ -797,7 +727,7 @@ with open('tracks.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='artists.html'>Artists</a> | Tracks | <a href='top1000.html'>Top 1000</a><br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | Tracks | <a href='top1000.html'>Top 1000</a><br/><br/>")
     w(f, "<table style='border: 1px solid black'>")
     w(f, "<tr style='border: 1px solid black'>")
     w(f, "<th>&nbsp;</th>")
