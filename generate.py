@@ -118,21 +118,15 @@ class Track:
 class TrackAppearance:
     track: Track
     appears_on: List[str]
+    points: int
 
     def __init__(self, track: Track, appears_on: str = None) -> None:
         self.track = track
         self.appears_on = appears_on
-
-class TrackVersion:
-    track: Track
-    appears_on: List[str]
-
-    def __init__(self, track: Track, appears_on: str = None) -> None:
-        self.track = track
-        self.appears_on = appears_on
+        self.points = 0
 
 class TrackRepo:
-    tracks: Dict[str, TrackAppearance]
+    tracks: Dict[str, Dict[str, TrackAppearance]]
 
     def __init__(self) -> None:
         self.tracks = {}
@@ -164,6 +158,23 @@ class TrackRepo:
                                 self.tracks[t.canonical][t.version].track.rating = t.rating
                     if 'date' not in episode:
                         print('missing date: ' + appears_on)
+
+    def calculate_points(self):
+        for track in self.tracks.values():
+            for version in track.values():
+                version.points = version.track.rating * 10 + len(version.appears_on)
+
+    def top1000(self):
+        versions = []
+        for track in self.tracks.values():
+            possible_tracks = [t for t in track.values() if not t.track.is_time_code and 'ID' not in t.track.original]
+            if len(possible_tracks) == 0:
+                continue
+            versions.append(sorted(possible_tracks, key=lambda x: (x.points, x.track.version == 'Original Mix'), reverse=True)[0])
+
+        versions = sorted(versions, key=lambda x: (x.points, sorted(x.appears_on)[0]), reverse=True)
+        
+        return versions[:1000]
 
 class Broadcasts:
     def __init__(self, artist_repo):
@@ -635,6 +646,7 @@ for s in sorted(os.listdir("Broadcasts")):
     broadcasts.series.append(series)
 
 broadcasts.refresh()
+track_repo.calculate_points()
 
 with open('index.html', "w") as f:
     w(f, "<html>")
@@ -765,3 +777,41 @@ with open('tracks.csv', "w") as f:
                 continue
 
             w(f, strip_annotations(str(appearance.track.rating)+',"'+canonical.replace(' - ', '","')+'","'+appearance.track.version+'"'))
+
+with open('top1000.html', "w") as f:
+    w(f, "<html>")
+
+    w(f, "<head>")
+    w(f, "<meta charset=\"UTF-8\">")
+    w(f, "<style>")
+    w(f, """
+    html, body {
+        font-family: Roboto, sans-serif;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    a:link, a:visited {
+        color: SlateBlue;
+    }
+    """)
+    w(f, "</style>")
+    w(f, "</head>")
+
+    w(f, "<body>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000<br/><br/>")
+
+    w(f, "<ol>")
+    for version in track_repo.top1000():
+        if version.track.rating >= 8:
+            w(f, "<strong>")
+        if version.track.version == 'Original Mix':
+            w(f, "<li>"+version.track.render_title(artist_repo)+" - "+version.track.render_artist(artist_repo)+"</li>")
+        else:
+            w(f, "<li>"+version.track.render_title(artist_repo)+" ("+version.track.render_version(artist_repo)+") - "+version.track.render_artist(artist_repo)+"</li>")
+        if version.track.rating >= 8:
+            w(f, "</strong>")
+    w(f, "</ol>")
+    w(f, "</body>")
+    w(f, "</html>")
