@@ -39,12 +39,16 @@ class Track:
     version: str
 
     def __init__(self, s: str, rating: int) -> None:
+        self.rating = rating
+        if s.startswith('<'):
+            self.rating = int(''.join(re.findall(r'<(\d+)>', s)))
+            s = s.split('> ')[1]
+
         self.original = s
         self.canonical = re.sub(r'\s*\{(.*?)\}', '', s)
         self.title = ''
         self.artists = set()
         self.is_time_code = False
-        self.rating = rating
         self.version = '; '.join(re.findall(r'\{(.*?)\}', s))
         if self.version == '':
             self.version = 'Original Mix'
