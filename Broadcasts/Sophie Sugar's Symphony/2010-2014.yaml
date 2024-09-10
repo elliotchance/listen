@@ -5,12 +5,14 @@ series:
 
 episodes:
   - number: 10
+    date: 2010-05-07
     tracks: 13
     liked:
       - Lost Together {[Armin van Buuren] Mashup} - [Sophie Sugar] vs. [Sunlounger] feat. [Zara]
       - Queensland {[Arctic Moon] Remix} - Dimension
 
   - number: 12
+    date: 2010-07-02
     title: 1 Year Episode
     tracks: 14
     liked:
@@ -19,11 +21,13 @@ episodes:
       - Florescence - Andy Blueman
 
   - number: 13
+    date: 2010-08-06
     tracks: 14
     liked:
       - Perception - [Markus Schulz] feat. [Justine Suissa]
 
   - number: 14
+    date: 2010-09-03
     tracks: 13
     liked:
       - Sanctuary {[Sean Tyas] Remix} - [Gareth Emery] feat. [Lucy Saunders]
@@ -31,9 +35,11 @@ episodes:
       - All For You - Sophie Sugar
 
   - number: 15
+    date: 2010-10-01
     tracks: 15
 
   - number: 16
+    date: 2010-11-05
     tracks: 17
     liked:
       - Never Enough - [Jon O'Bir] feat. [Julie Harrington]
@@ -41,21 +47,25 @@ episodes:
       - All For You - Sophie Sugar
 
   - number: 18
+    date: 2011-01-07
     tracks: 16
     liked:
       - Bullet That Saved Me - [Tritonal] feat. [Underdown]
       - Aldo - Norin & Rad
 
   - number: 19
+    date: 2011-02-04
     tracks: 14
     liked:
       - Banshee - Sean Tyas
       - Talk To Me {[Solar Movement] Remix} - [John O'Callaghan] & [Timmy & Tommy]
 
   - number: 23
+    date: 2011-08-11
     tracks: 11
 
   - number: 24
+    date: 2012-08-12
     tracks: 14
     liked:
       - Silence In Your Heart {[4 Strings] Remix} - [Dash Berlin] feat. [Chris Madin]
@@ -63,16 +73,19 @@ episodes:
       - Starships Over Alice - Arctic Moon
 
   - number: 25
+    date: 2012-09-28
     tracks: 12
     liked:
       - Every Other Day - ReOrder
       - Foolish Boy {[John O'Callaghan] Remix} - Emma Hewitt
 
   - number: 26
+    date: 2013-02-21
     tracks: 13
     liked:
       - Proteus - Thomas Bronzwaer
       - Messing With The Fantasy - Ian Betts
 
   - number: 27
+    date: 2014-03-12
     tracks: 11

@@ -5,6 +5,7 @@ series:
 
 episodes:
   - number: 1
+    date: 2018-03-26
     length: 1h
     liked:
       - "@2:57"
@@ -14,16 +15,19 @@ episodes:
       - "@40:04"
 
   - number: 2
+    date: 2018-04-06
     length: 1h
     liked:
       - "@24:00"
 
   - number: 3
+    date: 2018-04-23
     length: 1h
     liked:
       - "@14:58"
 
   - number: 4
+    date: 2018-05-08
     length: 1h
 
   - number: 5
@@ -48,17 +52,20 @@ episodes:
       - "@25:51"
 
   - number: 10
+    date: 2018-08-07
     length: 1h
     liked:
       - "@40:07"
       - "@43:54"
 
   - number: 11
+    date: 2018-08-17
     length: 1h
     liked:
       - "@10:11"
 
   - number: 12
+    date: 2018-08-30
     length: 1h
     liked:
       - "@8:31"
@@ -70,23 +77,28 @@ episodes:
       - "@30:07"
 
   - number: 14
+    date: 2018-09-28
     length: 1h
     liked:
       - "@32:28"
       - "@38:52"
 
   - number: 15
+    date: 2018-10-12
     length: 1h
 
   - number: 16
+    date: 2018-10-26
     length: 1h
 
   - number: 17
+    date: 2018-11-09
     length: 1h
     liked:
       - "@52:49"
 
   - number: 18
+    date: 2018-11-23
     length: 1h
     liked:
       - "@29:48"
@@ -96,6 +108,7 @@ episodes:
     length: 1h
 
   - number: 20
+    date: 2018-12-21
     length: 1h
     liked:
       - "@48:15" # Rufus

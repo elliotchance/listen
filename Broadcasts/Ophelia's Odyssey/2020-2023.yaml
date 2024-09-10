@@ -148,6 +148,7 @@ episodes:
       - Ghost Voices {[ALPHA 9] Remix} - Virtual Self
 
   - number: 19
+    date: 2021-10-27
     artist: Xavi
     tracks: 23
 
@@ -210,6 +211,7 @@ episodes:
       - Wake Up - [Mazare] & [Bloodhounds]
 
   - number: 27
+    date: 2022-07-20
     artist: Ace Aura
     tracks: 41
 
@@ -232,6 +234,7 @@ episodes:
       - Consciousness - [ZOA] & [PRIYANX]
 
   - number: 31
+    date: 2023-04-12
     artist: Ironheart
     tracks: 22
     liked:
@@ -240,10 +243,12 @@ episodes:
       - Sanjar - Ironheart
 
   - number: 32
+    date: 2023-04-25
     artist: Gem & Tauri
     tracks: 17
 
   - number: 33
+    date: 2023-07-25
     title: Advent Volume 7 Showcase
     tracks: 29
 
@@ -253,6 +258,7 @@ episodes:
     tracks: 23
 
   - number: 35
+    date: 2023-08-25
     artist: Caster
     tracks: 22
 
