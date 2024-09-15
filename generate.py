@@ -773,14 +773,14 @@ def strip_annotations(s: str) -> str:
     return re.sub(r'[\[\]{}]', '', s)
 
 with open('tracks.csv', "w") as f:
-    w(f, 'rating,title,artist,version')
+    w(f, 'title,artist,version,rating')
     for canonical in sorted(track_repo.tracks):
         for version in sorted(track_repo.tracks[canonical]):
             appearance = track_repo.tracks[canonical][version]
             if appearance.track.is_time_code:
                 continue
 
-            w(f, strip_annotations(str(appearance.track.rating)+',"'+canonical.replace(' - ', '","')+'","'+appearance.track.version+'"'))
+            w(f, strip_annotations('"'+canonical.replace(' - ', '","')+'","'+appearance.track.version+'",'+str(appearance.track.rating)))
 
 with open('top1000.html', "w") as f:
     w(f, "<html>")
