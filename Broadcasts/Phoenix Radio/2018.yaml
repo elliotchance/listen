@@ -31,27 +31,33 @@ episodes:
     length: 1h
 
   - number: 5
+    date: 2018-05-24
     length: 1h
 
   - number: 6
+    date: 2018-06-06
     length: 1h
 
   - number: 7
+    date: 2018-06-22
     length: 1h
     liked:
       - "@47:04"
 
   - number: 8
+    date: 2018-07-26
     length: 1h
     liked:
       - "@40:10"
 
   - number: 9
+    date: 2018-07-17
     length: 1h
     liked:
       - "@25:51"
 
   - number: 10
+    date: 2018-08-05
     date: 2018-08-07
     length: 1h
     liked:
@@ -72,6 +78,7 @@ episodes:
       - "@55:37"
 
   - number: 13
+    date: 2018-09-13
     length: 1h
     liked:
       - "@30:07"
@@ -105,6 +112,7 @@ episodes:
       - "@40:10"
 
   - number: 19
+    date: 2018-12-07
     length: 1h
 
   - number: 20

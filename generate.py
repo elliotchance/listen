@@ -830,6 +830,10 @@ with open('date.html', "w") as f:
     html, body {
         font-family: Roboto, sans-serif;
     }
+    .release {
+      font-family: Monaco;
+      font-size: 14px;
+    }
     table, th, td {
         border: 1px solid black;
         border-collapse: collapse;
@@ -866,7 +870,7 @@ with open('date.html', "w") as f:
         w(f, "<h1 id='%s'>%s</h1>" % (year, year))
         w(f, "<ol start='%d'>" % i)
         for episode in years[year]:
-            w(f, "<li>%s</li>" % episode)
+            w(f, "<li><span class='release'>%s</span></li>" % episode)
             i += 1
         w(f, "</ol>")
 

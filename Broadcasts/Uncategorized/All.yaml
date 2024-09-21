@@ -4,16 +4,28 @@ series:
 episodes:
   - artist: Lane 8
     title: "Fall 2021 Mixtape"
+    date: 2021-09-15
+    urls:
+      - https://1001.tl/1fy61y0k
     rating: 7/10
 
   - artist: ilan Bluestone
     title: "The Anjuna Mix: ilan Bluestone - 2022"
+    date: 2022-04-28
+    urls:
+      - https://1001.tl/14phjgz9
     rating: 7/10
 
   - artist: Tinlicker
     title: "The Anjuna Mix: Tinlicker - 2022"
+    date: 2022-07-22
+    urls:
+      - https://1001.tl/2swt1pqk
     rating: 7/10
 
   - artist: Montell2099
     title: "HARD Summer 2022: Montell2099"
+    date: 2022-07-29
+    urls:
+      - https://1001.tl/10z7nfjt
     rating: 8/10

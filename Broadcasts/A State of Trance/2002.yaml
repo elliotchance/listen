@@ -147,6 +147,7 @@ episodes:
       - https://1001.tl/zvv4whk
 
   - number: 50
+    date: 2002-05-30
     liked:
       - Yet Another Day - [Armin van Buuren] feat. [Ray Wilson]
     tracks: 19
@@ -154,6 +155,7 @@ episodes:
       - https://1001.tl/2464ggyt
 
   - number: 51
+    date: 2002-06-06
     liked:
       - Dreaming of You {[Svenson & Gielen] Remix} - The Thrillseekers
       - Riva - Time Is The Healer ([Armin van Buuren] Vocal Remix)
@@ -162,16 +164,19 @@ episodes:
       - https://1001.tl/2qu67301
 
   - number: 52
+    date: 2002-06-13
     tracks: 19
     urls:
       - https://1001.tl/17b8unh9
 
   - number: 53
+    date: 2002-06-27
     tracks: 10
     urls:
       - https://1001.tl/1uwpqydk
 
   - number: 54
+    date: 2002-07-04
     liked:
       - Silver Bath - Plastic Boy
       - Yet Another Day - [Armin van Buuren] feat. [Ray Wilson]
@@ -180,6 +185,7 @@ episodes:
       - https://1001.tl/15gphkft
 
   - number: 55
+    date: 2002-07-11
     liked:
       - <10> Synaesthesia - The Thrillseekers
     tracks: 18
@@ -187,11 +193,13 @@ episodes:
       - https://1001.tl/27xcfyx1
 
   - number: 56
+    date: 2002-07-18
     tracks: 18
     urls:
       - https://1001.tl/2j9lj6d9
 
   - number: 57
+    date: 2002-08-01
     tracks: 21
     urls:
       - https://1001.tl/2sptlfvk

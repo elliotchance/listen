@@ -12,7 +12,7 @@ episodes:
         rating: 8/10
 
   - title: "Around the World 2020"
-    dtae: 2020-07-25
+    date: 2020-07-25
     parts:
       - artist: Cellini
         tracks: 10

@@ -4,19 +4,29 @@ series:
   status: complete
 
 episodes:
-  - number: 338
+  - number: 328
+    date: 2020-12-31
+    urls:
+      - https://1001.tl/1dyx1b29
+    title: Yearmix
     tracks: 12
     liked:
       - Born Yesterday - [Tritonal] feat. [Brigetta]
       - Happy Where We Are - [Tritonal], [Dylan Matthew] & [Au5]
 
-  - number: 339
+  - number: 329
+    date: 2021-01-21
+    urls:
+      - https://1001.tl/2k99kuht
     tracks: 14
     liked:
       - Settle {[Le Youth] Remix} - [Dezza] & [Lauren L'aimant]
       - Four Rocks - Tommy Baynen
 
   - number: 330
+    date: 2021-01-29
+    urls:
+      - https://1001.tl/zxufdp9
     tracks: 13
     liked:
       - The Lights - [Capa] & [Diana Miro]
@@ -24,20 +34,32 @@ episodes:
       - Constellations - Elypsis
 
   - number: 331
+    date: 2021-02-07
+    urls:
+      - https://1001.tl/uc246g9
     tracks: 12
 
   - number: 332
+    date: 2021-02-12
+    urls:
+      - https://1001.tl/1wtt75v1
     tracks: 12
     liked:
       - Feels Like Home - Solanca
       - Happy Where We Are {[Kaidro] Remix} - [Tritonal], [Dylan Matthew] & [Au5]
 
   - number: 333
+    date: 2021-02-18
+    urls:
+      - https://1001.tl/1zm79v91
     tracks: 14
     liked:
       - Sun in Your Eyes {[Spencer Brown] Club Mix} - Above & Beyond
 
   - number: 334
+    date: 2021-03-04
+    urls:
+      - https://1001.tl/27zk9j0k
     tracks: 15
     liked:
       - Alone - Maarten de Jong
@@ -45,27 +67,42 @@ episodes:
       - Children - Clef & Canberra & SGX
 
   - number: 335
+    date: 2021-03-11
+    urls:
+      - https://1001.tl/12rhpmtt
     tracks: 18
 
   - number: 336
+    date: 2021-03-18
+    urls:
+      - https://1001.tl/22du21w1
     tracks: 14
     liked:
       - To Get to You {[Cubicore] Remix} - [Steve Brian], [Nathan Rux] & [Rachael Nemiroff]
       - Lucky Penny {[XiJaro & Pitch] Remix} - [Elevven] & [Ruben de Ronde]
 
   - number: 337
+    date: 2021-03-25
+    urls:
+      - https://1001.tl/shs4gj1
     tracks: 12
     liked:
       - Assassin - Sultan + Shepard
       - To Get to You {[Cubicore] Remix} - [Steve Brian], [Nathan Rux] & [Rachael Nemiroff]
 
-  - number: 333
+  - number: 338
+    date: 2021-04-01
+    urls:
+      - https://1001.tl/1987nh09
     tracks: 14
     liked:
       - Bloodstream - [Ferry Corsten] & [Ruben de Ronde]
       - Paeonia - M.O.S.
 
   - number: 339
+    date: 2021-04-15
+    urls:
+      - https://1001.tl/1ypsykkt
     tracks: 13
     liked:
       - Fall In - [Nomra] & [Moone]
@@ -73,51 +110,84 @@ episodes:
       - Hide U {[Tinlicker] Remix} - Siân Evans
 
   - number: 340
+    date: 2021-04-22
+    urls:
+      - https://1001.tl/1b66m4nk
     tracks: 16
 
   - number: 341
+    date: 2021-04-30
+    urls:
+      - https://1001.tl/1b6846yk
     tracks: 15
     liked:
       - As One - [Luke Bond] & [Paul Aiden]
       - Stardust & Madness - [ilan Bluestone] & [Giuseppe De Luca]
 
   - number: 342
+    date: 2021-05-06
+    urls:
+      - https://1001.tl/1dzp4xh9
     tracks: 14
     liked:
       - Beat of My Heart - R3spawn
       - In Motion {Club Mix} - Olan & Nourey
 
   - number: 343
+    date: 2021-05-20
+    urls:
+      - https://1001.tl/14mjntxt
     tracks: 14
     liked:
       - Orients - Kaiyan
 
   - number: 344
+    date: 2021-05-28
+    urls:
+      - https://1001.tl/11u51pf9
     tracks: 14
     liked:
       - Let Go - [Armin van Buuren] & [Tom Staar] feat. [Josha Daniel]
 
   - number: 345
+    date: 2021-06-04
+    urls:
+      - https://1001.tl/2tqbx5zk
     tracks: 13
     liked:
       - Miraje - Le Youth
 
   - number: 346
+    date: 2021-06-10
+    urls:
+      - https://1001.tl/23c3x6w1
     tracks: 15
 
   - number: 347
+    date: 2021-06-25
+    urls:
+      - https://1001.tl/10wjsndt
     tracks: 14
 
   - number: 348
+    date: 2021-07-01
+    urls:
+      - https://1001.tl/1kp042fk
     tracks: 15
 
   - number: 349
+    date: 2021-07-08
+    urls:
+      - https://1001.tl/2m5xstq9
     tracks: 15
     liked:
       - Don't Let Me Go - David Broaders
       - Olympia - Vivid
 
   - number: 350
+    date: 2021-07-23
+    urls:
+      - https://1001.tl/2pzfdkg9
     tracks: 19
     liked:
       - That's Life - Scorz
@@ -125,79 +195,124 @@ episodes:
       - Olympia - Vivid
 
   - number: 351
+    date: 2021-07-29
+    urls:
+      - https://1001.tl/2n3v2g21
     tracks: 15
     liked:
       - Analigital - Andy Duguid
 
   - number: 352
+    date: 2021-08-12
+    urls:
+      - https://1001.tl/2498yb61
     tracks: 13
     liked:
       - Piercing Quiet {[Au5] Remix} - [Tritonal] feat. [Cristina Soto]
 
   - number: 353
+    date: 2021-08-27
+    urls:
+      - https://1001.tl/1htqbmnt
     tracks: 15
     liked:
       - Running With the Wind - [Chris Giuliano] feat. [Natalie Major]
 
   - number: 354
+    date: 2021-09-03
+    urls:
+      - https://1001.tl/fc1gcxk
     tracks: 14
     liked:
       - Reach - [Morgin Madison] & [Motives]
 
   - number: 355
+    date: 2021-09-09
+    urls:
+      - https://1001.tl/1b6yb8n9
     tracks: 15
     liked:
       - Sinuous - Warung
       - Still With Me {[Elevven] Remix} - [Tritonal] feat. [Cristina Soto]
 
   - number: 356
+    date: 2021-09-17
+    urls:
+      - https://1001.tl/2qxj4xmk
     tracks: 13
     liked:
       - Let Go - [Armin van Buuren] & [Tom Staar] feat. [Josha Daniel]
 
   - number: 357
+    date: 2021-09-24
+    urls:
+      - https://1001.tl/zz6ksyk
     tracks: 15
     liked:
       - Everafter {[Cubicore] Remix} - [Tritonal] feat. [Cristina Soto]
       - Glass Heart {[Last Heroes] Remix} - HALIENE
 
   - number: 358
+    date: 2021-10-07
+    urls:
+      - https://1001.tl/g90vz31
     tracks: 14
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
   - number: 359
+    date: 2021-10-15
+    urls:
+      - https://1001.tl/1uzlkly1
     tracks: 14
     liked:
       - Glass Heart {[Sunny Lax] Remix} - HALIENE
       - Out of the Dark - [Tritonal] & [EMME]
 
   - number: 360
+    date: 2021-10-21
+    urls:
+      - https://1001.tl/x5zdqbt
     tracks: 13
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
   - number: 361
+    date: 2021-11-04
+    urls:
+      - https://1001.tl/11v18ut1
     tracks: 15
     liked:
       - Vida - Sebastian Weikum
 
   - number: 362
+    date: 2021-11-11
+    urls:
+      - https://1001.tl/1u1xuplt
     tracks: 13
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
   - number: 363
+    date: 2021-11-25
+    urls:
+      - https://1001.tl/mw3r1u1
     tracks: 15
     liked:
       - Out of the Dark {[Fatum] Remix} - [Tritonal] & [EMME]
 
   - number: 364
+    date: 2021-12-10
+    urls:
+      - https://1001.tl/1c5896r9
     tracks: 13
     liked:
       - Waterfall - [PRAANA] & [Liel Kolet]
 
   - number: 365
+    date: 2021-12-23
+    urls:
+      - https://1001.tl/1r8szvxk
     tracks: 13
     liked:
       - Superhuman - [Tritonal] & [Codeko]

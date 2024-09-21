@@ -3,6 +3,9 @@ series:
 
 episodes:
   - number: 748
+    date: 2021-03-02
+    urls:
+      - https://1001.tl/1d1gq29k
     tracks: 24
     liked:
       - Deep State - Jardin
@@ -10,6 +13,9 @@ episodes:
       - Square One - [Madwave], [Drivel]
 
   - number: 750
+    date: 2021-03-16
+    urls:
+      - https://1001.tl/15jxt2n9
     tracks: 24
     liked:
       - Raindrops - Duran & Aytek

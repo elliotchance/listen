@@ -3,8 +3,11 @@ series:
 
 episodes:
   - number: 509
+    date: 2024-07-18
     artist: Klur
     rating: 2
+    urls:
+      - https://1001.tl/2s0vdm89
     liked:
       - You're Not Alone {[James Carter] Remix} - [Punctual] & [Ry X]
       - Eclipse - Klur
