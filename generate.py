@@ -442,6 +442,16 @@ class Episode:
             self.total_liked += part.total_liked
             append_artists(self.artists, part.artists)
 
+    def calculate_rating(self):
+        if self.tracks == 0:
+            return '⚪'
+        rating = int(len(self.liked) / self.tracks * 100)
+        if rating > 20:
+            return '❤️'
+        if rating > 10:
+            return '👍'
+        return '⚪'
+
     def formatted_title(self, full_name):
         title = ''
 
@@ -851,12 +861,12 @@ with open('date.html', "w") as f:
     all = []
     for series in broadcasts.series:
         for subseries in series.subseries:
-            all.extend([e.formatted_title(True) for e in subseries.episodes if e.date])
+            all.extend([e for e in subseries.episodes if e.date])
     
-    all = sorted(all)
+    all = sorted(all, key=lambda x: x.formatted_title(True))
     years = {}
     for episode in all:
-        year = episode[:4]
+        year = str(episode.date)[:4]
         if year not in years:
             years[year] = []
         
@@ -870,7 +880,9 @@ with open('date.html', "w") as f:
         w(f, "<h1 id='%s'>%s</h1>" % (year, year))
         w(f, "<ol start='%d'>" % i)
         for episode in years[year]:
-            w(f, "<li><span class='release'>%s</span></li>" % episode)
+            w(f, "<li>%s <span class='release'>%s</span></li>" % (
+                episode.calculate_rating(),
+                episode.formatted_title(True)))
             i += 1
         w(f, "</ol>")
 
