@@ -857,10 +857,13 @@ with open('date.html', "w") as f:
             years[year] = []
         
         years[year].append(episode)
+    
+    for year in years:
+        w(f, "<a href='#%s'>%s</a> (%d episodes)<br/>" % (year, year, len(years[year])))
 
     i = 1
     for year in years:
-        w(f, "<h1>%s</h1>" % year)
+        w(f, "<h1 id='%s'>%s</h1>" % (year, year))
         w(f, "<ol start='%d'>" % i)
         for episode in years[year]:
             w(f, "<li>%s</li>" % episode)
