@@ -716,7 +716,7 @@ with open('top1000.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000<br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000 | <a href='date.html'>By Date</a><br/><br/>")
     broadcasts.write_top1000(f)
     w(f, "</body>")
     w(f, "</html>")
@@ -743,7 +743,7 @@ with open('tracks.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | Tracks | <a href='top1000.html'>Top 1000</a><br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | Tracks | <a href='top1000.html'>Top 1000</a> | <a href='date.html'>By Date</a><br/><br/>")
     w(f, "<table style='border: 1px solid black'>")
     w(f, "<tr style='border: 1px solid black'>")
     w(f, "<th>&nbsp;</th>")
@@ -804,7 +804,7 @@ with open('top1000.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000<br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000 | <a href='date.html'>By Date</a><br/><br/>")
 
     w(f, "<ol>")
     for version in track_repo.top1000():
@@ -817,5 +817,55 @@ with open('top1000.html', "w") as f:
         if version.track.rating >= 8:
             w(f, "</strong>")
     w(f, "</ol>")
+    w(f, "</body>")
+    w(f, "</html>")
+
+with open('date.html', "w") as f:
+    w(f, "<html>")
+
+    w(f, "<head>")
+    w(f, "<meta charset=\"UTF-8\">")
+    w(f, "<style>")
+    w(f, """
+    html, body {
+        font-family: Roboto, sans-serif;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    a:link, a:visited {
+        color: SlateBlue;
+    }
+    """)
+    w(f, "</style>")
+    w(f, "</head>")
+
+    w(f, "<body>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a> | By Date<br/><br/>")
+
+    all = []
+    for series in broadcasts.series:
+        for subseries in series.subseries:
+            all.extend([e.formatted_title(True) for e in subseries.episodes if e.date])
+    
+    all = sorted(all)
+    years = {}
+    for episode in all:
+        year = episode[:4]
+        if year not in years:
+            years[year] = []
+        
+        years[year].append(episode)
+
+    i = 1
+    for year in years:
+        w(f, "<h1>%s</h1>" % year)
+        w(f, "<ol start='%d'>" % i)
+        for episode in years[year]:
+            w(f, "<li>%s</li>" % episode)
+            i += 1
+        w(f, "</ol>")
+
     w(f, "</body>")
     w(f, "</html>")
