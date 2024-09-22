@@ -4,32 +4,26 @@ series:
   status: complete
 
 episodes:
-  - number: 1
-    date: 2020-10-15
+  - release: "2020-10-15: FeelMyBicep #1"
     rating: 6/10
     tracks: 12
 
-  - number: 2
-    date: 2020-11-12
+  - release: "2020-11-12: FeelMyBicep #2"
     rating: 7/10
     tracks: 13
 
-  - number: 3
-    date: 2020-12-10
+  - release: "2020-12-10: FeelMyBicep #3"
     rating: 4/10
     tracks: 16
 
-  - number: 4
-    date: 2021-01-07
+  - release: "2021-01-07: FeelMyBicep #4"
     rating: 5/10
     tracks: 12
 
-  - number: 5
-    date: 2021-02-11
+  - release: "2021-02-11: FeelMyBicep #5"
     rating: 6/10
     tracks: 12
 
-  - number: 6
-    date: 2021-03-11
+  - release: "2021-03-11: FeelMyBicep #6"
     rating: 7/10
     tracks: 15

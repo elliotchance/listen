@@ -3,95 +3,79 @@ series:
   status: incomplete
 
 episodes:
-  - number: 459
-    date: 2024-01-11
+  - release: "2024-01-11: Tritonia #459"
     urls:
       - https://1001.tl/2n8m66mt
 
-  - number: 460
-    date: 2024-01-17
+  - release: "2024-01-17: Tritonia #460"
     urls:
       - https://1001.tl/2b0tntnt
     liked:
       - Love in Slow Motion - [Robby East] & [Kuala]
 
-  - number: 461
-    date: 2024-01-25
+  - release: "2024-01-25: Tritonia #461"
     urls:
       - https://1001.tl/m2j2p71
     liked:
       - Pull Me Through - [Klur] & [Diana Miro]
 
-  - number: 462
-    date: 2024-01-31
+  - release: "2024-01-31: Tritonia #462"
     urls:
       - https://1001.tl/22lgjuv1
     liked:
       - Everything - [Oliver Smith] & [Tom Bailey]
 
-  - number: 463
-    date: 2024-02-08
+  - release: "2024-02-08: Tritonia #463"
     urls:
       - https://1001.tl/1g2v6ug1
 
-  - number: 464
-    date: 2024-02-15
+  - release: "2024-02-15: Tritonia #464"
     urls:
       - https://1001.tl/1jw9s1q9
 
-  - number: 465
-    date: 2024-02-22
+  - release: "2024-02-22: Tritonia #465"
     urls:
       - https://1001.tl/2dufh8xk
     liked:
       - Lullaby {[Bound to Divide] Remix} - [PRAANA] & [Julia Church]
 
-  - number: 466
-    date: 2024-02-28
+  - release: "2024-02-28: Tritonia #466"
     urls:
       - https://1001.tl/2937z8j9
     liked:
       - Lullaby {[Bound to Divide] Remix} - [PRAANA] & [Julia Church]
       - Radiant {[Daniel Kandi]'s Bangin' Mix} - [Ruben de Ronde] & [Farius] feat. [David Frank]
 
-  - number: 467
-    date: 2024-03-07
+  - release: "2024-03-07: Tritonia #467"
     urls:
       - https://1001.tl/fhyg1rk
 
-  - number: 468
-    date: 2024-03-20
+  - release: "2024-03-20: Tritonia #468"
     urls:
       - https://1001.tl/spnqbhk
 
-  - number: 469
-    date: 2024-03-28
+  - release: "2024-03-28: Tritonia #469"
     urls:
       - https://1001.tl/1bcy301t
 
-  - number: 470
-    date: 2024-04-04
+  - release: "2024-04-04: Tritonia #470"
     urls:
       - https://1001.tl/2s09cw5t
 
-  - number: 471
-    date: 2024-04-10
+  - release: "2024-04-10: Tritonia #471"
     urls:
       - https://1001.tl/277w9c59
     liked:
       - Fantasy - Morgin Madison
 
-  - number: 472
-    date: 2024-04-18
+  - release: "2024-04-18: Tritonia #472"
     urls:
       - https://1001.tl/18jgcp3k
 
-  - number: 473
-    date: 2024-04-25
+  - release: "2024-04-25: Tritonia #473"
     urls:
       - https://1001.tl/2cwz2x0k
 
-  - number: 474
-    date: 2024-05-02
+  - release: "2024-05-02: Tritonia #474"
     urls:
       - https://1001.tl/1d7rjdw1

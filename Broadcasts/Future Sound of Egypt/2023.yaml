@@ -3,8 +3,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 800
-    date: 2023-09-15
+  - release: "2023-09-15: Future Sound of Egypt #800"
     tracks: 27
     liked:
       - Existence - Paul Denton

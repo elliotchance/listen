@@ -4,8 +4,7 @@ series:
   status: complete
 
 episodes:
-  - number: 366
-    date: 2022-01-21
+  - release: "2022-01-21: Tritonia #366"
     urls:
       - https://1001.tl/273ln6b9
     tracks: 14
@@ -14,14 +13,12 @@ episodes:
       - Where Did All the Years Go? - Kyau & Albert
       - Empty Streets {[Morgin Madison] Remix} - Late Night Alumni
 
-  - number: 367
-    date: 2022-01-27
+  - release: "2022-01-27: Tritonia #367"
     urls:
       - https://1001.tl/1vxzltl1
     tracks: 15
 
-  - number: 368
-    date: 2022-02-05
+  - release: "2022-02-05: Tritonia #368"
     urls:
       - https://1001.tl/y4cs6n1
     tracks: 13
@@ -33,30 +30,26 @@ episodes:
       - Runner - [Heard Right] & [Jope]
       - Cimmerian - Lipless & Blue Noir
 
-  - number: 369
-    date: 2022-02-14
+  - release: "2022-02-14: Tritonia #369"
     urls:
       - https://1001.tl/1gwvl0mk
     tracks: 14
     liked:
       - Into the Light - RIKO & GUGGA
 
-  - number: 370
-    date: 2022-02-18
+  - release: "2022-02-18: Tritonia #370"
     urls:
       - https://1001.tl/2vmdvlqt
     tracks: 13
     liked:
       - Need You - GLN
 
-  - number: 371
-    date: 2022-02-28
+  - release: "2022-02-28: Tritonia #371"
     urls:
       - https://1001.tl/2l9g26t1
     tracks: 14
 
-  - number: 372
-    date: 2022-03-03
+  - release: "2022-03-03: Tritonia #372"
     urls:
       - https://1001.tl/w8xj989
     tracks: 14
@@ -64,56 +57,48 @@ episodes:
       - Undone {[Kozua] Remix} - [Dreweybear] & [Hildur Ottilia]
       - Something I Can Dream About - [Giuseppe Ottaviani] & [April Bender]
 
-  - number: 373
-    date: 2022-03-10
+  - release: "2022-03-10: Tritonia #373"
     urls:
       - https://1001.tl/20m85db1
     tracks: 15
 
-  - number: 374
-    date: 2022-03-24
+  - release: "2022-03-24: Tritonia #374"
     urls:
       - https://1001.tl/14p8rfp9
     tracks: 14
 
-  - number: 375
-    date: 2022-03-31
+  - release: "2022-03-31: Tritonia #375"
     urls:
       - https://1001.tl/dggc2ht
     tracks: 16
 
-  - number: 376
-    date: 2022-04-08
+  - release: "2022-04-08: Tritonia #376"
     urls:
       - https://1001.tl/1r9dulh1
     tracks: 14
 
-  - number: 377
-    date: 2022-04-14
+  - release: "2022-04-14: Tritonia #377"
     urls:
       - https://1001.tl/1ml75mv9
     tracks: 14
     liked:
       - The Longest Road {[Vivid] Remix} - [Morgan Page] feat. [Lissie]
 
-  - number: 378
-    date: 2022-04-22
+  - release: "2022-04-22: Tritonia #378"
     urls:
       - https://1001.tl/2sucklfk
     tracks: 13
     liked:
       - Stay With Me - [Far Out], [Nikhil Prakash] & [Cece Mix]
 
-  - number: 379
-    date: 2022-04-29
+  - release: "2022-04-29: Tritonia #379"
     urls:
       - https://1001.tl/vcg6hy9
     tracks: 12
     liked:
       - You Take My Hand {[Reinier Zonneveld] Remix} - [Tinlicker] feat. [Jamie Irrepressible]
 
-  - number: 380
-    date: 2022-05-06
+  - release: "2022-05-06: Tritonia #380"
     urls:
       - https://1001.tl/1v0skp01
     tracks: 14
@@ -121,8 +106,7 @@ episodes:
       - Circles - [Titus1] & [Jennifer Rene]
       - Safe & Sound {[Awakend] Remix} - [Tritonal] & [Last Heroes] with [Lizzy Land]
 
-  - number: 381
-    date: 2022-05-13
+  - release: "2022-05-13: Tritonia #381"
     urls:
       - https://1001.tl/2uq2ms0k
     tracks: 14
@@ -130,8 +114,7 @@ episodes:
       - Enough - [Yvvan Back] & [Bignoise]
       - On My Mind - [Farius] & [Cristina Soto]
 
-  - number: 382
-    date: 2022-05-20
+  - release: "2022-05-20: Tritonia #382"
     urls:
       - https://1001.tl/1d407vz1
     tracks: 13
@@ -139,62 +122,53 @@ episodes:
       - Sweet Illusion - [Morgan Page] & [Maggie Szabo]
       - On My Mind - [Farius] & [Cristina Soto]
 
-  - number: 383
-    date: 2022-05-27
+  - release: "2022-05-27: Tritonia #383"
     urls:
       - https://1001.tl/2bvjs5lk
     tracks: 14
 
-  - number: 384
-    date: 2022-06-09
+  - release: "2022-06-09: Tritonia #384"
     urls:
       - https://1001.tl/1zqj0c39
     tracks: 11
     liked:
       - Piece of Art - Kryder
 
-  - number: 385
-    date: 2022-06-17
+  - release: "2022-06-17: Tritonia #385"
     urls:
       - https://1001.tl/2p3gru9t
     tracks: 15
 
-  - number: 386
-    date: 2022-06-24
+  - release: "2022-06-24: Tritonia #386"
     urls:
       - https://1001.tl/2828m3jt
     tracks: 13
 
-  - number: 387
-    date: 2022-07-01
+  - release: "2022-07-01: Tritonia #387"
     urls:
       - https://1001.tl/fdsgb91
     tracks: 15
 
-  - number: 388
-    date: 2022-07-08
+  - release: "2022-07-08: Tritonia #388"
     urls:
       - https://1001.tl/1hvhp8n9
     tracks: 13
 
-  - number: 389
-    date: 2022-07-15
+  - release: "2022-07-15: Tritonia #389"
     urls:
       - https://1001.tl/1zq5l9nt
     tracks: 15
     liked:
       - Shimoda - Derek Ryan
 
-  - number: 390
-    date: 2022-07-22
+  - release: "2022-07-22: Tritonia #390"
     urls:
       - https://1001.tl/1lnzld61
     tracks: 14
     liked:
       - Out of the Dark {[Fatum] Remix} - [Tritonal] & [EMME]
 
-  - number: 391
-    date: 2022-07-29
+  - release: "2022-07-29: Tritonia #391"
     urls:
       - https://1001.tl/2jgqm5n9
     tracks: 16
@@ -202,8 +176,7 @@ episodes:
       - Tempus - Luminn
       - Get Down - [Andrew Rayel] & [Roman Messer]
 
-  - number: 392
-    date: 2022-08-05
+  - release: "2022-08-05: Tritonia #392"
     urls:
       - https://1001.tl/2qzcpluk
     tracks: 13
@@ -211,48 +184,42 @@ episodes:
       - Feel Around You {[OCULA] Remix} - [Le Youth] feat. [LeyeT]
       - Oxygen {[Rafaël Frost] Remix} - [Taylor Torrence] & [Ava Silver]
 
-  - number: 393
-    date: 2022-08-11
+  - release: "2022-08-11: Tritonia #393"
     urls:
       - https://1001.tl/1s7xgts9
     tracks: 14
     liked:
       - Calling San Francisco - Alex M.O.R.P.H.
 
-  - number: 394
-    date: 2022-08-19
+  - release: "2022-08-19: Tritonia #394"
     urls:
       - https://1001.tl/1jtkm089
     tracks: 14
     liked:
       - Fusion - [Nitrous Oxide] & [Simon Gregory]
 
-  - number: 395
-    date: 2022-08-26
+  - release: "2022-08-26: Tritonia #395"
     urls:
       - https://1001.tl/ff5m069
     tracks: 15
     liked:
       - Always a Fool {[Jope] Remix} - Kyau & Albert
 
-  - number: 396
-    date: 2022-09-02
+  - release: "2022-09-02: Tritonia #396"
     urls:
       - https://1001.tl/1krfnldt
     tracks: 12
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
-  - number: 397
-    date: 2022-09-09
+  - release: "2022-09-09: Tritonia #397"
     urls:
       - https://1001.tl/1d4nz1nt
     tracks: 15
     liked:
       - Adelphi '88 - Tritonal
 
-  - number: 398
-    date: 2022-09-30
+  - release: "2022-09-30: Tritonia #398"
     urls:
       - https://1001.tl/12urqj71
     tracks: 13
@@ -260,8 +227,7 @@ episodes:
       - Seismic - PRAANA
       - Adelphi '88 - Tritonal
 
-  - number: 399
-    date: 2022-10-07
+  - release: "2022-10-07: Tritonia #399"
     urls:
       - https://1001.tl/qrc0bc9
     tracks: 15
@@ -269,8 +235,7 @@ episodes:
       - Gold - [D'Angello] & [Francis] & [Belle Humble]
       - Adelphi '88 - Tritonal
 
-  - number: 400
-    date: 2022-10-21
+  - release: "2022-10-21: Tritonia #400"
     urls:
       - https://1001.tl/1pgwq26k
     tracks: 13
@@ -279,16 +244,14 @@ episodes:
       - Waterboiler - Tritonal
       - Superhuman / First Time {Tritonal Mashup} - [Tritonal], [Codeko], [Seven Lions], [Slander], [Dabin] & [Dylan Matthew]
 
-  - number: 401
-    date: 2022-10-28
+  - release: "2022-10-28: Tritonia #401"
     urls:
       - https://1001.tl/j6uqxnk
     tracks: 12
     liked:
       - Perception - PRAANA
 
-  - number: 402
-    date: 2022-11-04
+  - release: "2022-11-04: Tritonia #402"
     urls:
       - https://1001.tl/2m8n8zr9
     tracks: 14
@@ -298,16 +261,14 @@ episodes:
       - Sleepwalkers - Husman
       - Stop Thinking - [Seven Lions] & [Lights]
 
-  - number: 403
-    date: 2022-11-11
+  - release: "2022-11-11: Tritonia #403"
     urls:
       - https://1001.tl/1v1urupk
     tracks: 13
     liked:
       - With You - Klur
 
-  - number: 404
-    date: 2022-11-18
+  - release: "2022-11-18: Tritonia #404"
     urls:
       - https://1001.tl/tjyh4lk
     tracks: 13
@@ -315,8 +276,7 @@ episodes:
       - Bloodstream {[Cubicore] Remix} - [Ferry Corsten] & [Ruben de Ronde]
       - Kingdom {[KhoMha] Remix} - [Shane 54] & [London Thor]
 
-  - number: 405
-    date: 2022-11-23
+  - release: "2022-11-23: Tritonia #405"
     urls:
       - https://1001.tl/1wxgvum1
     tracks: 13
@@ -325,16 +285,14 @@ episodes:
       - Emerald - Sunny Lax
       - Kingdom {[KhoMha] Remix} - [Shane 54] & [London Thor]
 
-  - number: 406
-    date: 2022-12-02
+  - release: "2022-12-02: Tritonia #406"
     urls:
       - https://1001.tl/sm6u2k1
     tracks: 13
     liked:
       - Keep My Dreams Alive {[Giuseppe Ottaviani] Remix} - [Tritonal] & [Susie Ledge]
 
-  - number: 407
-    date: 2022-12-09
+  - release: "2022-12-09: Tritonia #407"
     urls:
       - https://1001.tl/2q2690w9
     tracks: 13
@@ -342,8 +300,7 @@ episodes:
       - Here With Me {[Angara] Remix} - [Matt Fax] & [Richard Walters]
       - Halcyon - Matt Fax
 
-  - number: 408
-    date: 2022-12-16
+  - release: "2022-12-16: Tritonia #408"
     urls:
       - https://1001.tl/2gmtxbm1
     tracks: 13
@@ -351,8 +308,7 @@ episodes:
       - Company - [Chris Schweizer] feat. [Sarah Howells]
       - Falling {[Craig Connelly] Remix} - [First State] feat. [Anita Kelsey]
 
-  - number: 409
-    date: 2022-12-23
+  - release: "2022-12-23: Tritonia #409"
     urls:
       - https://1001.tl/1rbt38gk
     tracks: 13

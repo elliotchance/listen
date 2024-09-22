@@ -2,8 +2,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 748
-    date: 2021-03-02
+  - release: "2021-03-02: VONYC Sessions #748"
     urls:
       - https://1001.tl/1d1gq29k
     tracks: 24
@@ -12,8 +11,7 @@ episodes:
       - Inspiration - Eclipse
       - Square One - [Madwave], [Drivel]
 
-  - number: 750
-    date: 2021-03-16
+  - release: "2021-03-16: VONYC Sessions #750"
     urls:
       - https://1001.tl/15jxt2n9
     tracks: 24

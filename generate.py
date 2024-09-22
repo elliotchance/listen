@@ -428,9 +428,6 @@ class Episode:
         self.number = 0
         self.tracks = 0
         self.liked = []
-        self.title = ''
-        self.artist = ''
-        self.parts = []
         self.rating = ''
         self.total_tracks = 0
         self.total_liked = 0
@@ -452,18 +449,10 @@ class Episode:
             self.tracks = entries['tracks']
         if 'liked' in entries:
             self.liked = entries['liked']
-        if 'title' in entries:
-            self.title = entries['title']
-        if 'artist' in entries:
-            self.artist = entries['artist']
         if 'rating' in entries:
             self.rating = entries['rating']
-        if 'parts' in entries:
-            self.parts = [EpisodePart(**p) for p in entries['parts']]
         if 'urls' in entries:
             self.urls = entries['urls']
-        if 'date' in entries:
-            self.date = entries['date'].strftime('%Y-%m-%d')
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -472,12 +461,6 @@ class Episode:
 
         for track in self.liked:
             append_artist(self.artists, track, self.formatted_title(True))
-
-        for part in self.parts:
-            part.refresh()
-            self.total_tracks += part.total_tracks
-            self.total_liked += part.total_liked
-            append_artists(self.artists, part.artists)
 
     def star_rating(self):
         if self.tracks == 0:
@@ -503,18 +486,6 @@ class Episode:
 
         if self.number:
             title += '#' + str(self.number)
-        
-        if self.artist:
-            if title == '':
-                title += self.artist
-            else:
-                title += ': %s' % self.artist
-        
-        if self.title:
-            if title == '':
-                title += self.title
-            else:
-                title += ', "%s"' % self.title
 
         return title
 
@@ -544,75 +515,6 @@ class Episode:
             w(f, "<ul>")
             for t in self.liked:
                 w(f, "<li>%s</li>" % render_track(artist_repo, t))
-            w(f, "</ul>")
-
-        for part in self.parts:
-            w(f, "<ul>")
-            part.write(f)
-            w(f, "</ul>")
-
-class EpisodePart:
-    def __init__(self, **entries):
-        self.tracks = 0
-        self.liked = []
-        self.title = ''
-        self.artist = ''
-        self.rating = ''
-        self.artists = {}
-        
-        if 'tracks' in entries:
-            self.tracks = entries['tracks']
-        if 'liked' in entries:
-            self.liked = entries['liked']
-        if 'title' in entries:
-            self.title = entries['title']
-        if 'artist' in entries:
-            self.artist = entries['artist']
-        if 'rating' in entries:
-            self.rating = entries['rating']
-
-    def formatted_title(self):
-        title = ''
-        
-        if self.artist:
-            if title == '':
-                title += self.artist
-            else:
-                title += ': %s' % self.artist
-        
-        if self.title:
-            if title == '':
-                title += self.title
-            else:
-                title += ', "%s"' % self.title
-
-        return title
-
-    def refresh(self):
-        self.total_tracks = self.tracks
-        self.total_liked = len(self.liked)
-        self.artists = {}
-
-        for track in self.liked:
-            append_artist(self.artists, track, self.formatted_title())
-
-    def write(self, f):
-        tracks = '?'
-        if self.tracks:
-            tracks = self.tracks
-
-        title = self.title
-        if self.artist and self.title:
-            title = '%s, "%s"' % (self.artist, self.title)
-        elif self.artist:
-            title = self.artist
-
-        w(f, "<li>%s %s<span style=\"float: right\">%s/%s</span></li>" % (
-            rating_emoji(self.rating), title, len(self.liked), tracks))
-        if len(self.liked) > 0:
-            w(f, "<ul>")
-            for t in self.liked:
-                w(f, "<li>%s</li>" % t)
             w(f, "</ul>")
 
 def append_artist(artists, s, on):

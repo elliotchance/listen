@@ -40,19 +40,17 @@ episodes:
       - Collapse {[Cesar Lugo] Remix} - Robert Burian
       - Never Be Alone {[Nitrous Oxide] Remix} - [System Bot vs. 33] feat. [Costa]
 
-  - release: "2009-04-19: A State of Trance #400: Godskitchen Air, Birmingham, England"
-    parts:
-      - name: Simon Patterson
-        rating: 5/10
-        liked:
-          - Affrimation {[Tom Colontonio] Remix} - Activa
-          - Distant Destiny - Reverse
-          - Wiretrap - Neal Scarborough
-          - The Wolf - Paul Webster
-          - Rulebook - Sean Tyas
-          - Thump - Simon Patterson
-          - Us - Simon Patterson
-          - Exactly - [John O'Callaghan] & [Russell Kearney]
+  - release: '2009-04-19: A State of Trance #400, "[Simon Patterson]": Godskitchen Air, Birmingham, England'
+    rating: 5/10
+    liked:
+      - Affrimation {[Tom Colontonio] Remix} - Activa
+      - Distant Destiny - Reverse
+      - Wiretrap - Neal Scarborough
+      - The Wolf - Paul Webster
+      - Rulebook - Sean Tyas
+      - Thump - Simon Patterson
+      - Us - Simon Patterson
+      - Exactly - [John O'Callaghan] & [Russell Kearney]
 
   - release: "2009-04-24: A State of Trance #401"
     tracks: 22

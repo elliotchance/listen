@@ -4,290 +4,240 @@ series:
   status: complete
 
 episodes:
-  - number: 410
-    date: 2023-01-13
+  - release: "2023-01-13: Tritonia #410"
     tracks: 14
 
-  - number: 411
-    date: 2023-01-16
+  - release: "2023-01-16: Tritonia #411"
     tracks: 13
 
-  - number: 412
-    date: 2023-01-27
+  - release: "2023-01-27: Tritonia #412"
     tracks: 14
     liked:
       - Into the Night - [Kapera] feat. [Daniel Robinson]
       - By My Side - Sunny Lax
 
-  - number: 413
-    date: 2023-02-03
+  - release: "2023-02-03: Tritonia #413"
     tracks: 14
     liked:
       - Ease My Pain - [SOLR] & [Cece Mix]
       - Horizon - [Zack Martino] feat. [Bertie Scott]
 
-  - number: 414
-    date: 2023-02-10
+  - release: "2023-02-10: Tritonia #414"
     tracks: 16
     liked:
       - Forever {[Bogdan Vix] & [Claudiu Adam] Remix} - [Bogdan Vix] & [Renee Stahl]
 
-  - number: 415
-    date: 2023-02-16
+  - release: "2023-02-16: Tritonia #415"
     tracks: 14
 
-  - number: 416
-    date: 2023-02-24
+  - release: "2023-02-24: Tritonia #416"
     tracks: 15
     liked:
       - Catch You When You Fall - [DJ T.H.] & [Sharon Valerona]
       - Lophorina - Romain Garcia
       - Better Place - [Modera] & [Lauren L'aimant]
 
-  - number: 417
-    date: 2023-03-03
+  - release: "2023-03-03: Tritonia #417"
     tracks: 13
     liked:
       - Lophorina - Romain Garcia
 
-  - number: 418
-    date: 2023-03-10
+  - release: "2023-03-10: Tritonia #418"
     tracks: 14
 
-  - number: 419
-    date: 2023-03-17
+  - release: "2023-03-17: Tritonia #419"
     tracks: 14
     liked:
       - Beyond - Different Stage
 
-  - number: 420
-    date: 2023-03-24
+  - release: "2023-03-24: Tritonia #420"
     tracks: 13
     liked:
       - In the Silence {[LKX] Remix} - [Luminn] & [Roxanne Emery]
 
-  - number: 421
-    date: 2023-03-31
+  - release: "2023-03-31: Tritonia #421"
     tracks: 14
 
-  - number: 422
-    date: 2023-04-07
+  - release: "2023-04-07: Tritonia #422"
     tracks: 14
 
-  - number: 423
-    date: 2023-04-14
+  - release: '2023-04-14: Tritonia #423, "WE ARE PRAANA"'
     tracks: 18
-    title: WE ARE PRAANA
     liked:
       - Asylum - PRAANA
       - Perception - PRAANA
       - Still Small Voice - [PRAANA] & [Ram Dass]
       - Samadhi - PRAANA
 
-  - number: 424
-    date: 2023-04-21
+  - release: "2023-04-21: Tritonia #424"
     tracks: 12
 
-  - number: 425
-    date: 2023-04-28
+  - release: "2023-04-28: Tritonia #425"
     tracks: 14
 
-  - number: 426
-    date: 2023-05-05
+  - release: "2023-05-05: Tritonia #426"
     tracks: 13
 
-  - number: 427
-    date: 2023-05-12
+  - release: "2023-05-12: Tritonia #427"
     tracks: 14
     liked:
       - Something New {[Rafaël Frost] Remix} - [Tritonal] feat. [Jenry R]
 
-  - number: 428
-    date: 2023-05-19
+  - release: "2023-05-19: Tritonia #428"
     tracks: 14
 
-  - number: 429
-    date: 2023-05-26
+  - release: "2023-05-26: Tritonia #429"
     tracks: 13
     liked:
       - By My Side - Sunny Lax
       - Hit & Run - [Marcus Santoro] feat. [Darla Jade]
 
-  - number: 430
-    date: 2023-06-02
+  - release: "2023-06-02: Tritonia #430"
     tracks: 14
     liked:
       - Illusions - Lipless
 
-  - number: 431
-    date: 2023-06-09
+  - release: "2023-06-09: Tritonia #431"
     tracks: 13
     liked:
       - Illusions - Lipless
 
-  - number: 432
-    date: 2023-06-16
+  - release: "2023-06-16: Tritonia #432"
     tracks: 13
     liked:
       - BLACKOUT - [ASHER SWISSA], [Zvika Brand] & [Lusil]
 
-  - number: 433
-    date: 2023-06-23
+  - release: "2023-06-23: Tritonia #433"
     tracks: 13
     liked:
       - Carte Blanche - [Dirty South] & [Ferry Corsten]
 
-  - number: 434
-    date: 2023-06-30
+  - release: "2023-06-30: Tritonia #434"
     tracks: 14
     liked:
       - Healing - Mhammed El Alami
 
-  - number: 435
-    date: 2023-07-07
+  - release: "2023-07-07: Tritonia #435"
     tracks: 12
     liked:
       - Set Us Free - Modera
       - Run from the Night - [Trills], [Harry Diamond] & [ADZ]
       - Breathing {[David Broaders] Remix} - [Boom Jinx], [Nitrous Oxide] & [Einar K] feat. [Vintage & Morelli]
 
-  - number: 436
-    date: 2023-07-14
+  - release: "2023-07-14: Tritonia #436"
     tracks: 14
     liked:
       - Arctic - Mino Safy
 
-  - number: 437
-    date: 2023-07-21
+  - release: "2023-07-21: Tritonia #437"
     tracks: 14
     liked:
       - All Mine - [Katzz], [Marcel Scott] & [ALLKNIGHT]
       - Connection - Datskie
 
-  - number: 438
-    date: 2023-07-28
+  - release: "2023-07-28: Tritonia #438"
     tracks: 14
     liked:
       - Futuro - [Giuseppe Ottaviani] & [ilan Bluestone]
       - All Mine - [Katzz], [Marcel Scott] & [ALLKNIGHT]
 
-  - number: 439
-    date: 2023-08-04
+  - release: "2023-08-04: Tritonia #439"
     tracks: 14
     liked:
       - Someone We Used to Love - [anamē] & [Lydmor]
       - Anywhere {Road Trippin'} - anamē
       - Futuro - [Giuseppe Ottaviani] & [ilan Bluestone]
 
-  - number: 440
-    date: 2023-08-11
+  - release: "2023-08-11: Tritonia #440"
     tracks: 15
 
-  - number: 441
-    date: 2023-08-18
+  - release: "2023-08-18: Tritonia #441"
     tracks: 12
     liked:
       - Anywhere {Road Trippin'} - anamē
       - Back Into Your Arms - [Modera] & [Blonde Maze]
 
-  - number: 442
-    date: 2023-08-25
+  - release: "2023-08-25: Tritonia #442"
     tracks: 15
 
-  - number: 443
-    date: 2023-09-01
+  - release: "2023-09-01: Tritonia #443"
     tracks: 14
 
-  - number: 444
-    date: 2023-09-06
+  - release: "2023-09-06: Tritonia #444"
     tracks: 15
     liked:
       - Moving Mountains - [Aurosonic], [Mully], [Shvman] & [M3GA]
       - Blitzar - NrgMind
 
-  - number: 445
-    date: 2023-09-15
+  - release: "2023-09-15: Tritonia #445"
     tracks: 15
     liked:
       - Kalopsia {[Matt Fax] Remix} - The Blizzard
 
-  - number: 446
-    date: 2023-09-22
+  - release: "2023-09-22: Tritonia #446"
     tracks: 15
     liked:
       - Via Infinita {[Marsh] Remix} - Estiva
 
-  - number: 447
-    date: 2023-09-29
+  - release: "2023-09-29: Tritonia #447"
     tracks: 14
     liked:
       - Self Luminous - PRAANA
       - Sanctuary - [PRAANA] & [Ed Graves]
       - Via Infinita {[Marsh] Remix} - Estiva
 
-  - number: 448
-    date: 2023-10-06
+  - release: "2023-10-06: Tritonia #448"
     tracks: 12
     liked:
       - Sanctuary - [PRAANA] & [Ed Graves]
 
-  - number: 449
-    date: 2023-10-13
+  - release: "2023-10-13: Tritonia #449"
     tracks: 14
     liked:
       - I Am {[atDusk] Remix} - Chakra
 
-  - number: 450
-    date: 2023-10-20
+  - release: "2023-10-20: Tritonia #450"
     tracks: 14
     liked:
       - Sanctuary - [PRAANA] & [Ed Graves]
 
-  - number: 451
-    date: 2023-10-27
+  - release: "2023-10-27: Tritonia #451"
     tracks: 15
     liked:
       - Phantom Love - [MitiS] feat. [Sarah de Warren]
 
-  - number: 452
-    date: 2023-11-03
+  - release: "2023-11-03: Tritonia #452"
     tracks: 14
     liked:
       - Give Me a Feeling - Mark Novas
       - Everything Is Beautiful - [Tritonal] & [Kwesi]
 
-  - number: 453
-    date: 2023-11-10
+  - release: "2023-11-10: Tritonia #453"
     tracks: 14
 
-  - number: 454
-    date: 2023-11-17
+  - release: "2023-11-17: Tritonia #454"
     tracks: 15
     liked:
       - Dancing in the Dark - Blonde Maze
 
-  - number: 455
-    date: 2023-11-23
+  - release: "2023-11-23: Tritonia #455"
     tracks: 14
     liked:
       - Horizon - [Seven Lions], [Tritonal] & [Kill the Noise] feat. [HALIENE]
 
-  - number: 456
-    date: 2023-12-07
+  - release: "2023-12-07: Tritonia #456"
     tracks: 14
     liked:
       - Time Marches On - L.GU.
       - Happy Where We Are {[ilan Bluestone] Remix} - [Tritonal], [Dylan Matthew] & [Au5]
 
-  - number: 457
-    date: 2023-12-14
+  - release: "2023-12-14: Tritonia #457"
     tracks: 15
     liked:
       - The Morning After - [Miss Monique] & [Paul Thomas]
       - Autumn - [Seelo] & [George Gleeson]
 
-  - number: 458
-    date: 2023-12-21
+  - release: "2023-12-21: Tritonia #458"
     tracks: 14
     liked:
       - Songs of Our Ancestors - [Datskie] & [HAUMS]

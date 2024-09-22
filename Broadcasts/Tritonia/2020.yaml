@@ -4,238 +4,196 @@ series:
   status: complete
 
 episodes:
-  - number: 286
-    date: 2020-01-07
+  - release: "2020-01-07: Tritonia #286"
     tracks: 32
     liked:
       - Brightest Lights - Lane 8
       - See the End - [Above & Beyond] & [Seven Lions]
 
-  - number: 287
-    date: 2020-01-21
+  - release: "2020-01-21: Tritonia #287"
     tracks: 15
     liked:
       - Feeling Good - Mariana BO
       - Make You Mine - [Mike Williams] feat. [Moa Lisa]
       - Wait For The World - [Fatum] & [Jaren]
 
-  - number: 288
-    date: 2020-01-28
+  - release: "2020-01-28: Tritonia #288"
     tracks: 14
 
-  - number: 289
-    date: 2020-02-11
+  - release: "2020-02-11: Tritonia #289"
     tracks: 14
 
-  - number: 290
-    date: 2020-02-18
+  - release: "2020-02-18: Tritonia #290"
     tracks: 14
     liked:
       - Runaway {[Fisherman] Remix} - [Armin van Buuren] feat. [Candace Sosa]
 
-  - number: 291
-    date: 2020-02-25
+  - release: "2020-02-25: Tritonia #291"
     tracks: 15
 
-  - number: 292
-    date: 2020-03-12
+  - release: "2020-03-12: Tritonia #292"
     tracks: 13
     liked:
       - "@-25:00"
 
-  - number: 293
-    date: 2020-03-22
+  - release: '2020-03-22: Tritonia #293, "Ultra ASOT Stage Set"'
     tracks: 15
-    title: "Ultra ASOT Stage Set"
 
-  - number: 294
-    date: 2020-03-31
+  - release: "2020-03-31: Tritonia #294"
     tracks: 16
 
-  - number: 295
-    date: 2020-04-07
+  - release: "2020-04-07: Tritonia #295"
     tracks: 15
 
-  - number: 296
-    date: 2020-04-14
+  - release: "2020-04-14: Tritonia #296"
     tracks: 13
     liked:
       - "@-57:00"
 
-  - number: 297
-    date: 2020-04-21
+  - release: "2020-04-21: Tritonia #297"
     tracks: 18
 
-  - number: 298-299
-    date: 2020-04-25
+  - release: "2020-04-25: Tritonia #298-299"
     tracks: 31
 
-  - number: 300
-    date: 2020-05-12
+  - release: '2020-05-12: Tritonia #300, "Part 1"'
     tracks: 35
-    title: Part 1
     liked:
       - "@11:00"
       - "@2:17:40"
 
-  - number: 300
-    date: 2020-05-12
+  - release: '2020-05-12: Tritonia #300, "Part 2: Classic Progressive Trance Set"'
     tracks: 29
-    title: "Part 2: Classic Progressive Trance Set"
     liked:
       - "@14:15"
       - "@26:38"
       - "@1:49:10"
       - "@2:14:10"
 
-  - number: 301
-    date: 2020-05-27
+  - release: "2020-05-27: Tritonia #301"
     tracks: 14
     liked:
       - "@1:30"
       - "@28:55"
 
-  - number: 302
-    date: 2020-06-09
+  - release: "2020-06-09: Tritonia #302"
     tracks: 13
     liked:
       - "@6:10"
 
-  - number: 303
-    date: 2020-06-16
+  - release: "2020-06-16: Tritonia #303"
     tracks: 13
     liked:
       - "@20:20"
       - "@26:20"
 
-  - number: 304
-    date: 2020-06-23
+  - release: "2020-06-23: Tritonia #304"
     tracks: 14
     liked:
       - "@33:30"
 
-  - number: 305
-    date: 2020-06-30
+  - release: "2020-06-30: Tritonia #305"
     tracks: 16
     liked:
       - "@20:35"
 
-  - number: 306
-    date: 2020-07-07
+  - release: "2020-07-07: Tritonia #306"
     tracks: 17
     liked:
       - "@1:45"
       - "@42:00"
 
-  - number: 307
-    date: 2020-07-14
+  - release: "2020-07-14: Tritonia #307"
     tracks: 15
     liked:
       - "@5:30"
       - "@1:00:00"
 
-  - number: 308
-    date: 2020-07-29
+  - release: "2020-07-29: Tritonia #308"
     tracks: 13
     liked:
       - Answers - Au5
       - Sun Sparks - PRAANA
 
-  - number: 309
-    date: 2020-08-05
+  - release: "2020-08-05: Tritonia #309"
     tracks: 14
     liked:
       - Sun Sparks - PRAANA
 
-  - number: 310
-    date: 2020-08-12
+  - release: "2020-08-12: Tritonia #310"
     tracks: 12
     liked:
       - Sun Sparks - PRAANA
 
-  - number: 311
-    date: 2020-08-19
+  - release: "2020-08-19: Tritonia #311"
     tracks: 13
     liked:
       - Sun Sparks - PRAANA
 
-  - number: 312
-    date: 2020-08-26
+  - release: "2020-08-26: Tritonia #312"
     tracks: 15
 
-  - number: 313
-    date: 2020-09-02
+  - release: "2020-09-02: Tritonia #313"
     tracks: 14
     liked:
       - Fallen {[Richard Durand] Remix} - [Nicholas Gunn] feat. [Alina Renae]
       - Gemini - Le Youth
       - Getaway - [Dezza] & [EMME]
 
-  - number: 314
-    date: 2020-09-09
+  - release: "2020-09-09: Tritonia #314"
     tracks: 14
     liked:
       - Getaway - [Dezza] & [EMME]
 
-  - number: 315
-    date: 2020-09-16
+  - release: "2020-09-16: Tritonia #315"
     tracks: 14
     liked:
       - The Launch - [Cosmic Gate] & [Andrew Bayer]
       - Higher - Ron with Leeds
 
-  - number: 316
-    date: 2020-09-23
+  - release: "2020-09-23: Tritonia #316"
     tracks: 18
     liked:
       - Heaven - PRAANA
       - Sedona - PRAANA
 
-  - number: 317
-    date: 2020-09-30
+  - release: "2020-09-30: Tritonia #317"
     tracks: 14
     liked:
       - Sedona - PRAANA
 
-  - number: 318
-    date: 2020-10-07
+  - release: "2020-10-07: Tritonia #318"
     tracks: 13
 
-  - number: 319
-    date: 2020-10-16
+  - release: "2020-10-16: Tritonia #319"
     tracks: 14
     liked:
       - In Too Deep - [Kapera] & [EMME]
 
-  - number: 320
-    date: 2020-10-21
+  - release: "2020-10-21: Tritonia #320"
     tracks: 11
     liked:
       - Samadhi - PRAANA
 
-  - number: 321
-    date: 2020-10-28
+  - release: "2020-10-28: Tritonia #321"
     tracks: 14
     liked:
       - Samadhi - PRAANA
       - Say My Name - ARTY
 
-  - number: 322
-    date: 2020-11-05
+  - release: "2020-11-05: Tritonia #322"
     tracks: 14
     liked:
       - Happy Where We Are - [Tritonal], [Dylan Matthew] & [Au5]
 
-  - number: 323
-    date: 2020-11-11
+  - release: "2020-11-11: Tritonia #323"
     tracks: 15
     liked:
       - Say My Name - ARTY
       - Happy Where We Are - [Tritonal], [Dylan Matthew] & [Au5]
       - Tree of Life - Tommy Baynen
 
-  - number: 324
-    date: 2020-11-18
+  - release: "2020-11-18: Tritonia #324"
     tracks: 13
     liked:
       - Begin Again - [King & Early] feat. [Lauren L'aimant]
@@ -243,8 +201,7 @@ episodes:
       - Hurricane Love - [Super8 & Tab] feat. [Colin Smith]
       - Samadhi - PRAANA
 
-  - number: 325
-    date: 2020-11-25
+  - release: "2020-11-25: Tritonia #325"
     tracks: 14
     liked:
       - Come Back - Pretty Pink
@@ -254,14 +211,12 @@ episodes:
       - Do It All Again - [Rodg] & [Sarah de Warren]
       - Sunbeam - Murtagh
 
-  - number: 326
-    date: 2020-12-09
+  - release: "2020-12-09: Tritonia #326"
     tracks: 13
     liked:
       - I Am {Loving Awareness Mix} - [PRAANA] & [LEVV]
 
-  - number: 327
-    date: 2020-12-16
+  - release: "2020-12-16: Tritonia #327"
     tracks: 14
     liked:
       - Circles - [Cubicore] feat. [Kira]

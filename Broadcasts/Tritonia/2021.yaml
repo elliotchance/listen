@@ -4,18 +4,15 @@ series:
   status: complete
 
 episodes:
-  - number: 328
-    date: 2020-12-31
+  - release: '2020-12-31: Tritonia #328, "Yearmix"'
     urls:
       - https://1001.tl/1dyx1b29
-    title: Yearmix
     tracks: 12
     liked:
       - Born Yesterday - [Tritonal] feat. [Brigetta]
       - Happy Where We Are - [Tritonal], [Dylan Matthew] & [Au5]
 
-  - number: 329
-    date: 2021-01-21
+  - release: "2021-01-21: Tritonia #329"
     urls:
       - https://1001.tl/2k99kuht
     tracks: 14
@@ -23,8 +20,7 @@ episodes:
       - Settle {[Le Youth] Remix} - [Dezza] & [Lauren L'aimant]
       - Four Rocks - Tommy Baynen
 
-  - number: 330
-    date: 2021-01-29
+  - release: "2021-01-29: Tritonia #330"
     urls:
       - https://1001.tl/zxufdp9
     tracks: 13
@@ -33,14 +29,12 @@ episodes:
       - Hold On - [ilan Bluestone], [Maor Levi] & [Alex Clare]
       - Constellations - Elypsis
 
-  - number: 331
-    date: 2021-02-07
+  - release: "2021-02-07: Tritonia #331"
     urls:
       - https://1001.tl/uc246g9
     tracks: 12
 
-  - number: 332
-    date: 2021-02-12
+  - release: "2021-02-12: Tritonia #332"
     urls:
       - https://1001.tl/1wtt75v1
     tracks: 12
@@ -48,16 +42,14 @@ episodes:
       - Feels Like Home - Solanca
       - Happy Where We Are {[Kaidro] Remix} - [Tritonal], [Dylan Matthew] & [Au5]
 
-  - number: 333
-    date: 2021-02-18
+  - release: "2021-02-18: Tritonia #333"
     urls:
       - https://1001.tl/1zm79v91
     tracks: 14
     liked:
       - Sun in Your Eyes {[Spencer Brown] Club Mix} - Above & Beyond
 
-  - number: 334
-    date: 2021-03-04
+  - release: "2021-03-04: Tritonia #334"
     urls:
       - https://1001.tl/27zk9j0k
     tracks: 15
@@ -66,14 +58,12 @@ episodes:
       - Don't Wanna Fall {[Xavi] Remix} - [Seven Lions], [Last Heroes] & [HALIENE]
       - Children - Clef & Canberra & SGX
 
-  - number: 335
-    date: 2021-03-11
+  - release: "2021-03-11: Tritonia #335"
     urls:
       - https://1001.tl/12rhpmtt
     tracks: 18
 
-  - number: 336
-    date: 2021-03-18
+  - release: "2021-03-18: Tritonia #336"
     urls:
       - https://1001.tl/22du21w1
     tracks: 14
@@ -81,8 +71,7 @@ episodes:
       - To Get to You {[Cubicore] Remix} - [Steve Brian], [Nathan Rux] & [Rachael Nemiroff]
       - Lucky Penny {[XiJaro & Pitch] Remix} - [Elevven] & [Ruben de Ronde]
 
-  - number: 337
-    date: 2021-03-25
+  - release: "2021-03-25: Tritonia #337"
     urls:
       - https://1001.tl/shs4gj1
     tracks: 12
@@ -90,8 +79,7 @@ episodes:
       - Assassin - Sultan + Shepard
       - To Get to You {[Cubicore] Remix} - [Steve Brian], [Nathan Rux] & [Rachael Nemiroff]
 
-  - number: 338
-    date: 2021-04-01
+  - release: "2021-04-01: Tritonia #338"
     urls:
       - https://1001.tl/1987nh09
     tracks: 14
@@ -99,8 +87,7 @@ episodes:
       - Bloodstream - [Ferry Corsten] & [Ruben de Ronde]
       - Paeonia - M.O.S.
 
-  - number: 339
-    date: 2021-04-15
+  - release: "2021-04-15: Tritonia #339"
     urls:
       - https://1001.tl/1ypsykkt
     tracks: 13
@@ -109,14 +96,12 @@ episodes:
       - One More Day - [Jason Ross], [Blanke] & [Chandler Leighton]
       - Hide U {[Tinlicker] Remix} - Siân Evans
 
-  - number: 340
-    date: 2021-04-22
+  - release: "2021-04-22: Tritonia #340"
     urls:
       - https://1001.tl/1b66m4nk
     tracks: 16
 
-  - number: 341
-    date: 2021-04-30
+  - release: "2021-04-30: Tritonia #341"
     urls:
       - https://1001.tl/1b6846yk
     tracks: 15
@@ -124,8 +109,7 @@ episodes:
       - As One - [Luke Bond] & [Paul Aiden]
       - Stardust & Madness - [ilan Bluestone] & [Giuseppe De Luca]
 
-  - number: 342
-    date: 2021-05-06
+  - release: "2021-05-06: Tritonia #342"
     urls:
       - https://1001.tl/1dzp4xh9
     tracks: 14
@@ -133,50 +117,43 @@ episodes:
       - Beat of My Heart - R3spawn
       - In Motion {Club Mix} - Olan & Nourey
 
-  - number: 343
-    date: 2021-05-20
+  - release: "2021-05-20: Tritonia #343"
     urls:
       - https://1001.tl/14mjntxt
     tracks: 14
     liked:
       - Orients - Kaiyan
 
-  - number: 344
-    date: 2021-05-28
+  - release: "2021-05-28: Tritonia #344"
     urls:
       - https://1001.tl/11u51pf9
     tracks: 14
     liked:
       - Let Go - [Armin van Buuren] & [Tom Staar] feat. [Josha Daniel]
 
-  - number: 345
-    date: 2021-06-04
+  - release: "2021-06-04: Tritonia #345"
     urls:
       - https://1001.tl/2tqbx5zk
     tracks: 13
     liked:
       - Miraje - Le Youth
 
-  - number: 346
-    date: 2021-06-10
+  - release: "2021-06-10: Tritonia #346"
     urls:
       - https://1001.tl/23c3x6w1
     tracks: 15
 
-  - number: 347
-    date: 2021-06-25
+  - release: "2021-06-25: Tritonia #347"
     urls:
       - https://1001.tl/10wjsndt
     tracks: 14
 
-  - number: 348
-    date: 2021-07-01
+  - release: "2021-07-01: Tritonia #348"
     urls:
       - https://1001.tl/1kp042fk
     tracks: 15
 
-  - number: 349
-    date: 2021-07-08
+  - release: "2021-07-08: Tritonia #349"
     urls:
       - https://1001.tl/2m5xstq9
     tracks: 15
@@ -184,8 +161,7 @@ episodes:
       - Don't Let Me Go - David Broaders
       - Olympia - Vivid
 
-  - number: 350
-    date: 2021-07-23
+  - release: "2021-07-23: Tritonia #350"
     urls:
       - https://1001.tl/2pzfdkg9
     tracks: 19
@@ -194,40 +170,35 @@ episodes:
       - Assassin - Sultan + Shepard
       - Olympia - Vivid
 
-  - number: 351
-    date: 2021-07-29
+  - release: "2021-07-29: Tritonia #351"
     urls:
       - https://1001.tl/2n3v2g21
     tracks: 15
     liked:
       - Analigital - Andy Duguid
 
-  - number: 352
-    date: 2021-08-12
+  - release: "2021-08-12: Tritonia #352"
     urls:
       - https://1001.tl/2498yb61
     tracks: 13
     liked:
       - Piercing Quiet {[Au5] Remix} - [Tritonal] feat. [Cristina Soto]
 
-  - number: 353
-    date: 2021-08-27
+  - release: "2021-08-27: Tritonia #353"
     urls:
       - https://1001.tl/1htqbmnt
     tracks: 15
     liked:
       - Running With the Wind - [Chris Giuliano] feat. [Natalie Major]
 
-  - number: 354
-    date: 2021-09-03
+  - release: "2021-09-03: Tritonia #354"
     urls:
       - https://1001.tl/fc1gcxk
     tracks: 14
     liked:
       - Reach - [Morgin Madison] & [Motives]
 
-  - number: 355
-    date: 2021-09-09
+  - release: "2021-09-09: Tritonia #355"
     urls:
       - https://1001.tl/1b6yb8n9
     tracks: 15
@@ -235,16 +206,14 @@ episodes:
       - Sinuous - Warung
       - Still With Me {[Elevven] Remix} - [Tritonal] feat. [Cristina Soto]
 
-  - number: 356
-    date: 2021-09-17
+  - release: "2021-09-17: Tritonia #356"
     urls:
       - https://1001.tl/2qxj4xmk
     tracks: 13
     liked:
       - Let Go - [Armin van Buuren] & [Tom Staar] feat. [Josha Daniel]
 
-  - number: 357
-    date: 2021-09-24
+  - release: "2021-09-24: Tritonia #357"
     urls:
       - https://1001.tl/zz6ksyk
     tracks: 15
@@ -252,16 +221,14 @@ episodes:
       - Everafter {[Cubicore] Remix} - [Tritonal] feat. [Cristina Soto]
       - Glass Heart {[Last Heroes] Remix} - HALIENE
 
-  - number: 358
-    date: 2021-10-07
+  - release: "2021-10-07: Tritonia #358"
     urls:
       - https://1001.tl/g90vz31
     tracks: 14
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
-  - number: 359
-    date: 2021-10-15
+  - release: "2021-10-15: Tritonia #359"
     urls:
       - https://1001.tl/1uzlkly1
     tracks: 14
@@ -269,48 +236,42 @@ episodes:
       - Glass Heart {[Sunny Lax] Remix} - HALIENE
       - Out of the Dark - [Tritonal] & [EMME]
 
-  - number: 360
-    date: 2021-10-21
+  - release: "2021-10-21: Tritonia #360"
     urls:
       - https://1001.tl/x5zdqbt
     tracks: 13
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
-  - number: 361
-    date: 2021-11-04
+  - release: "2021-11-04: Tritonia #361"
     urls:
       - https://1001.tl/11v18ut1
     tracks: 15
     liked:
       - Vida - Sebastian Weikum
 
-  - number: 362
-    date: 2021-11-11
+  - release: "2021-11-11: Tritonia #362"
     urls:
       - https://1001.tl/1u1xuplt
     tracks: 13
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
 
-  - number: 363
-    date: 2021-11-25
+  - release: "2021-11-25: Tritonia #363"
     urls:
       - https://1001.tl/mw3r1u1
     tracks: 15
     liked:
       - Out of the Dark {[Fatum] Remix} - [Tritonal] & [EMME]
 
-  - number: 364
-    date: 2021-12-10
+  - release: "2021-12-10: Tritonia #364"
     urls:
       - https://1001.tl/1c5896r9
     tracks: 13
     liked:
       - Waterfall - [PRAANA] & [Liel Kolet]
 
-  - number: 365
-    date: 2021-12-23
+  - release: "2021-12-23: Tritonia #365"
     urls:
       - https://1001.tl/1r8szvxk
     tracks: 13
