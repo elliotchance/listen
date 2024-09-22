@@ -2,42 +2,26 @@ series:
   status: incomplete
 
 episodes:
-  - artist: Andrew Rayel
-    date: 2022-06-29
-    title: Quantum Valley Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: [Andrew Rayel]"'
     rating: 6/10
 
-  - artist: Illenium
-    date: 2022-06-29
-    title: Kinetic Field Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Kinetic Field Stage: [Illenium]"'
     rating: 9/10
 
-  - artist: Jason Ross
-    date: 2022-06-29
-    title: Circuit Grounds Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Circuit Grounds Stage: [Jason Ross]"'
     rating: 7/10
 
-  - artist: Matt Fax
-    date: 2022-06-29
-    title: Quantum Valley Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: [Matt Fax]"'
     rating: 7/10
 
-  - artist: MitiS
-    date: 2022-06-29
-    title: Cosmic Meadow Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Cosmic Meadow Stage: [MitiS]"'
     rating: 10/10
 
-  - artist: Qrion
-    date: 2022-06-29
-    title: Cosmic Meadow Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Cosmic Meadow Stage: [Qrion]"'
     rating: 6/10
 
-  - artist: Tinlicker
-    date: 2022-06-29
-    title: Circuit Grounds Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Circuit Grounds Stage: [Tinlicker]"'
     rating: 8/10
 
-  - artist: Tritonal
-    date: 2022-06-29
-    title: Quantum Valley Stage
+  - release: '2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: [Tritonal]"'
     rating: 8/10

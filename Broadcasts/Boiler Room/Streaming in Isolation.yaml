@@ -4,7 +4,6 @@ series:
     - https://music.apple.com/us/search?term=boiler%20room%20streaming%20from%20isolation
 
 episodes:
-  - date: 2020-07-09
-    artist: Dito
+  - release: '2020-07-09: Boiler Room, "[Dito]"'
     rating: 6/10
     tracks: 15

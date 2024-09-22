@@ -4,24 +4,18 @@ series:
   status: incomplete
 
 episodes:
-  - number: 464
-    date: 2021-12-10
-    artist: Manila Killa
+  - release: '2021-12-10: Group Therapy #464, "[Manila Killa]"'
     tracks: 28
     liked:
       - Follow Me - DT8 Project
       - Sun & Moon {[ilan Bluestone] Remix} - [Above & Beyond] feat. [Richard Bedford]
       - On & On - [Above & Beyond] feat. [Louise Rademakers]
 
-  - number: 465
-    date: 2021-12-17
-    artist: THEMBA
+  - release: '2021-12-17: Group Therapy #465, "[THEMBA]"'
     tracks: 25
     liked:
       - The Other Side - [DT8 Project], [Tephra]
       - Seeking Blue - Fatum
 
-  - number: 466
-    date: 2022-01-07
-    artist: Bexxie
+  - release: '2022-01-07: Group Therapy #466, "[Bexxie]"'
     tracks: 29

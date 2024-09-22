@@ -3,7 +3,5 @@ series:
   status: incomplete
 
 episodes:
-  - number: 918
-    date: 2024-01-07
-    artist: Soul Summit
+  - release: '2024-01-07: RA #918, "[Soul Summit]"'
     tracks: 9

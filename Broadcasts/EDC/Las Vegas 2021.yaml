@@ -2,57 +2,35 @@ series:
   status: incomplete
 
 episodes:
-  - artist: 12th Planet
-    date: 2021-10-26
-    title: Throwback Set - Bass Pod Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [12th Planet] Throwback Set"'
     rating: 2/10
 
-  - artist: ALPHA 9
-    date: 2021-10-26
-    title: Quantum Valley Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Quantum Valley Stage: [ALPHA 9]"'
     rating: 7/10
 
-  - artist: Dr. Fresch
-    date: 2021-10-26
-    title: Stereo Bloom Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Stereo Bloom Stage: [Dr. Fresch]"'
     rating: 7/10
 
-  - artist: Jason Ross
-    date: 2021-10-26
-    title: Kinetic Field Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Kinetic Field Stage: [Jason Ross]"'
     rating: 8/10
 
-  - artist: Kayzo b2b Knife Party
-    date: 2021-10-26
-    titie: Bass Pod Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [Kayzo] b2b [Knife Party]"'
     rating: 9/10
 
-  - artist: Knife Party
-    date: 2021-10-26
-    title: Cosmic Meadow Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Cosmic Meadow Stage: [Knife Party]"'
     rating: 9/10
 
-  - artist: Kygo
-    date: 2021-10-26
-    title: Kinetic Field Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Kinetic Field Stage: [Kygo]"'
     rating: 6/10
 
-  - artist: Pendulum
-    date: 2021-10-26
-    title: Bass Pod Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [Pendulum]"'
     rating: 8/10
 
-  - artist: Qrion
-    date: 2021-10-26
-    title: Stereo Bloom Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Stereo Bloom Stage: [Qrion]"'
     rating: 6/10
 
-  - artist: SAYMYNAME
-    date: 2021-10-26
-    title: Hardstyle Set - Waste Land Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Waste Land Stage: [SAYMYNAME] Hardstyle Set"'
     rating: 7/10
 
-  - artist: William Black
-    date: 2021-10-26
-    title: Cosmic Meadow Stage
+  - release: '2021-10-26: Electric Daisy Carnival, "Cosmic Meadow Stage: [William Black]"'
     rating: 8/10
