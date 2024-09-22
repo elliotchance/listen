@@ -2,9 +2,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 509
-    date: 2024-07-18
-    artist: Klur
+  - release: '2024-07-18: The Anjunadeep Edition #509, "[Klur]"'
     rating: 2
     urls:
       - https://1001.tl/2s0vdm89

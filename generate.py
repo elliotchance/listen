@@ -83,32 +83,19 @@ class Track:
     def __repr__(self):
         return self.original
     
-    def apply_artists(self, s, artist_repo: ArtistRepo) -> str:
-        artists = re.findall('\[(.*?)\]', s)
-        for artist in artists:
-            a = artist_repo.get_artist(artist)
-            if a is None:
-                print("missing link for artist: " + artist)
-            if a is None or a.rym is None:
-                s = s.replace("[%s]" % artist, "<u>%s</u>" % artist)
-            else:
-                s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a.rym, artist))
-
-        return s
-    
     def render_title(self, artist_repo: ArtistRepo) -> str:
         parts = self.original.split(' - ')
-        return self.apply_artists(re.sub(r'\s*\{(.*?)\}', '', parts[0]), artist_repo)
+        return apply_artists(re.sub(r'\s*\{(.*?)\}', '', parts[0]), artist_repo)
     
     def render_artist(self, artist_repo: ArtistRepo) -> str:
         parts = self.original.split(' - ')
         if '[' not in parts[1]:
             parts[1] = '[' + parts[1] + ']'
 
-        return self.apply_artists(parts[1], artist_repo)
+        return apply_artists(parts[1], artist_repo)
     
     def render_version(self, artist_repo: ArtistRepo) -> str:
-        return self.apply_artists(self.version, artist_repo)
+        return apply_artists(self.version, artist_repo)
     
     def render_rating(self):
         if self.rating > 8:
@@ -119,6 +106,18 @@ class Track:
         
         return ''
 
+def apply_artists(s, artist_repo: ArtistRepo) -> str:
+    artists = re.findall('\[(.*?)\]', s)
+    for artist in artists:
+        a = artist_repo.get_artist(artist)
+        if a is None:
+            print("missing link for artist: " + artist)
+        if a is None or a.rym is None:
+            s = s.replace("[%s]" % artist, "<u>%s</u>" % artist)
+        else:
+            s = s.replace("[%s]" % artist, "<a href=\"%s\">%s</a>" % (a.rym, artist))
+
+    return s
 class TrackAppearance:
     track: Track
     appears_on: List[str]
@@ -141,12 +140,15 @@ class TrackRepo:
             if 'episodes' in file:
                 for episode in file['episodes']:
                     appears_on = broadcast
-                    if 'date' in episode:
-                        appears_on = episode['date'].strftime('%Y-%m-%d') + ': ' + appears_on
-                    if 'number' in episode:
-                        appears_on += ' #' + str(episode['number'])
-                    if 'artist' in episode:
-                        appears_on += ', "' + episode['artist'] + '"'
+                    if 'release' in episode:
+                        appears_on = episode['release']
+                    else:
+                        if 'date' in episode:
+                            appears_on = episode['date'].strftime('%Y-%m-%d') + ': ' + appears_on
+                        if 'number' in episode:
+                            appears_on += ' #' + str(episode['number'])
+                        if 'artist' in episode:
+                            appears_on += ', "' + episode['artist'] + '"'
                     if 'liked' in episode:
                         for title in episode['liked']:
                             t = Track(title, 7)
@@ -161,7 +163,8 @@ class TrackRepo:
                             if t.rating > self.tracks[t.canonical][t.version].track.rating:
                                 self.tracks[t.canonical][t.version].track.rating = t.rating
                     if 'date' not in episode:
-                        print('missing date: ' + appears_on)
+                        if 'release' not in episode or not Release(episode['release']).date:
+                            print('missing date: ' + appears_on)
 
     def calculate_points(self):
         for track in self.tracks.values():
@@ -179,6 +182,33 @@ class TrackRepo:
         versions = sorted(versions, key=lambda x: (x.points, sorted(x.appears_on)[0]), reverse=True)
         
         return versions[:1000]
+
+class Release:
+    original: str
+    date: str
+    series: str
+    number: str
+    title: str
+    location: str
+    artists: list[str]
+
+    def __init__(self, original) -> None:
+        self.original = original
+        self.date = match_first('^([\d-]+):', original, '')
+        self.series = match_first('[\d-]+:([^,#]+)', original, '').replace('[', '').replace(']', '').strip()
+        if self.series == '':
+            self.series = match_first('^([^,#]+)', original, '').strip()
+        self.number = match_first('#(\d+)', original, '')
+        self.title = match_first('"(.*?)"', original, '').replace('[', '').replace(']', '')
+        self.location = match_first("\": (.*)", original, '')
+        self.artists = re.findall(r"\[(.*?)\]", original)
+
+def match_first(regex, s, default):
+    m = re.findall(regex, s)
+    if len(m) > 0:
+        return m[0]
+
+    return default
 
 class Broadcasts:
     def __init__(self, artist_repo):
@@ -408,7 +438,14 @@ class Episode:
         self.artists = {}
         self.series = series
         self.date = ''
+        self.release = ''
         
+        if 'release' in entries:
+            r = Release(entries['release'])
+            self.release = entries['release']
+            self.number = r.number
+            self.title = r.title
+            self.date = r.date
         if 'number' in entries:
             self.number = entries['number']
         if 'tracks' in entries:
@@ -426,7 +463,7 @@ class Episode:
         if 'urls' in entries:
             self.urls = entries['urls']
         if 'date' in entries:
-            self.date = entries['date']
+            self.date = entries['date'].strftime('%Y-%m-%d')
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -453,10 +490,13 @@ class Episode:
         return '⚪'
 
     def formatted_title(self, full_name):
+        if self.release != '':
+            return self.release
+
         title = ''
 
         if self.date != '':
-            title = self.date.strftime('%Y-%m-%d') + ': '
+            title = self.date + ': '
 
         if full_name:
             title += self.series.name + ' '
@@ -629,7 +669,7 @@ def rating_emoji(rating):
     if rating == '9/10' or rating == '10/10':
         return '❤️'
     
-    return '⚪'
+    return '▫️'
 
 def status_emoji(status):
     if status == 'complete':
@@ -866,7 +906,7 @@ with open('date.html', "w") as f:
     all = sorted(all, key=lambda x: x.formatted_title(True))
     years = {}
     for episode in all:
-        year = str(episode.date)[:4]
+        year = episode.date[:4]
         if year not in years:
             years[year] = []
         
@@ -881,8 +921,8 @@ with open('date.html', "w") as f:
         w(f, "<ol start='%d'>" % i)
         for episode in years[year]:
             w(f, "<li>%s <span class='release'>%s</span></li>" % (
-                episode.calculate_rating(),
-                episode.formatted_title(True)))
+                '', #episode.calculate_rating(),
+                apply_artists(episode.formatted_title(True), artist_repo)))
             i += 1
         w(f, "</ol>")
 

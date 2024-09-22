@@ -2,107 +2,75 @@ series:
   status: incomplete
 
 episodes:
-  - date: 2015-01-12
-    artist: Acid Pauli
+  - release: '2015-01-12: Boiler Room, "[Acid Pauli]"'
     rating: 7/10
     tracks: 33
 
-  - date: 2015-01-14
-    artist: Adriatique
+  - release: '2015-01-14: Boiler Room, "[Adriatique]"'
     rating: 7/10
     tracks: 11
 
-  - date: 2015-01-29
-    artist: ENA
-    title: Tokyo, Japan
+  - release: '2015-01-29: Boiler Room, "[ENA]": Tokyo, Japan'
     rating: 4/10
     tracks: 23
 
-  - date: 2015-03-30
-    artist: Gene Farris
-    title: Chicago, IL, USA
+  - release: '2015-03-30: Boiler Room, "[Gene Farris]": Chicago, IL, USA'
     rating: 6/10
     tracks: 14
 
-  - date: 2015-05-30
-    artist: Bicep
-    title: "AVA: Belfast"
+  - release: '2015-05-30: Boiler Room, "[Bicep]": AVA: Belfast'
     rating: 6/10
     tracks: 14
 
-  - date: 2015-08-12
-    artist: Stephan Bodzin
+  - release: '2015-08-12: Boiler Room, "[Stephan Bodzin]"'
     title: Berlin, Germany
     rating: 7/10
     tracks: 17
 
-  - date: 2015-11-05
-    artist: Tale of Us
-    title: Berlin, Germany
+  - release: '2015-11-05: Boiler Room, "[Tale of Us]": Berlin, Germany'
     rating: 6/10
     tracks: 13
 
-  - date: 2016-02-11
-    artist: dBridge
-    title: Berlin, Germany
+  - release: '2016-02-11: Boiler Room, "[dBridge]": Berlin, Germany'
     rating: 6/10
     tracks: 29
 
-  - date: 2016-07-04
-    artist: DJ Marky
-    title: Lisbon Portugal
+  - release: '2016-07-04: Boiler Room, "[DJ Marky]": Lisbon Portugal'
     rating: 5/10
     tracks: 26
 
-  - date: 2016-08-18
-    artist: Bicep
-    title: London, UK
+  - release: '2016-08-18: Boiler Room, "[Bicep]": London, UK'
     rating: 6/10
     tracks: 12
 
-  - date: 2017-03-28
-    artist: DJ Craze
-    tit;e: London, UK
+  - release: '2017-03-28: Boiler Room, "[DJ Craze]": London, UK'
     rating: 4/10
     tracks: 57
 
-  - date: 2017-04-14
-    artist: Christian Löffler
+  - release: '2017-04-14: Boiler Room, "[Christian Löffler]"'
     rating: 6/10
     tracks: 10
 
-  - date: 2018-03-25
-    artist: Basenji
-    title: Melbourne, Victoria, Australia
+  - release: '2018-03-25: Boiler Room, "[Basenji]": Melbourne, Victoria, Australia'
     rating: 8/10
     tracks: 19
 
-  - date: 2018-07-12
-    artist: Sven Väth
-    title: Marseille, France
+  - release: '2018-07-12: Boiler Room, "[Sven Väth]": Marseille, France'
     rating: 5/10
     tracks: 22
 
-  - date: 2019-03-15
-    artist: DJ Bus Replacement Service
-    title: London, UK
+  - release: '2019-03-15: Boiler Room, "[DJ Bus Replacement Service]": London, UK'
     rating: 6/10
     tracks: 20
 
-  - date: 2019-04-05
-    artist: Casual Gabberz
-    title: Paris, France
+  - release: '2019-04-05: Boiler Room, "[Casual Gabberz Army]": Paris, France'
     rating: 4/10
     tracks: 31
 
-  - date: 2020-02-06
-    artist: Trance Wax
-    title: "Igloofest: Montreal, Canada"
+  - release: '2020-02-06: Boiler Room, "[Trance Wax]": Igloofest, Montreal, Canada'
     rating: 9/10
     tracks: 14
 
-  - date: 2022-07-29
-    artist: Fred again..
-    title: London, UK
+  - release: '2022-07-29: Boiler Room, "[Fred again..]": London, UK'
     rating: 10/10
     tracks: 22
