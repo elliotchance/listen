@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 646
-    date: 2014-01-02
+  - release: "2014-01-02: A State of Trance #646"
     tracks: 32
     liked:
       - ID - ID
@@ -14,33 +13,25 @@ episodes:
       - ID - ID
       - ID - ID
 
-  - number: 650
-    date: 2014-02-15
-    title: "Day 4: Utrecht, The Netherlands: Invites Stage"
-    parts:
-      - number: 2/7
-        artist: Protoculture
-        tracks: 17
-        liked:
-          - Beautiful Life {[Protoculture] & [Mikkas] Remix Mashup} - [Armin van Buuren] feat. [Cindy Alma]
-          - Waking Up The Stars {[Skytech] Remix} - [Alex M.O.R.P.H.] & [Protoculture]
-          - Angelic State - Ali Wilson
-          - Laguna - Protoculture
-          - Solarcoaster {[Protoculture] Remix} - Solarstone
-          - Last Stop Before Heaven {[Maarten de Jong] Remix} - Armin van Buuren
-      - number: 4/7
-        artist: Ben Gold
-        tracks: 19
-        liked:
-          - Sectioned - [Solis] & [Sean Truby]
-          - Where Life Takes Us - Ben Gold
+  - release: '2014-02-15: A State of Trance #650, "Invites Stage: [Protoculture]": Utrecht, The Netherlands'
+    tracks: 17
+    liked:
+      - Beautiful Life {[Protoculture] & [Mikkas] Remix Mashup} - [Armin van Buuren] feat. [Cindy Alma]
+      - Waking Up The Stars {[Skytech] Remix} - [Alex M.O.R.P.H.] & [Protoculture]
+      - Angelic State - Ali Wilson
+      - Laguna - Protoculture
+      - Solarcoaster {[Protoculture] Remix} - Solarstone
+      - Last Stop Before Heaven {[Maarten de Jong] Remix} - Armin van Buuren
 
-  - number: 681
-    date: 2014-09-18
+  - release: '2014-02-15: A State of Trance #650, "Invites Stage: [Ben Gold]": Utrecht, The Netherlands'
+    tracks: 19
+    liked:
+      - Sectioned - [Solis] & [Sean Truby]
+      - Where Life Takes Us - Ben Gold
+
+  - release: "2014-09-18: A State of Trance #681"
     tracks: 28
     liked:
       - Gravity - Parker & Hanson
 
-  - number: 695
-    date: 2014-12-19
-    title: Yearmix
+  - release: '2014-12-19: A State of Trance #695, "Yearmix"'

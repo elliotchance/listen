@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 387
-    date: 2009-01-15
+  - release: "2009-01-15: A State of Trance #387"
     tracks: 19
     liked:
       - <10> Need To Feel Loved {[Adam K & Soha] Remix} - [Reflekt] feat. [Delline Bass]
@@ -19,8 +18,7 @@ episodes:
       - <10> Infinite Horizon - Sequentia
       - Melbourne {[David Newsum] Remix} - Sean Tyas
 
-  - number: 398
-    date: 2009-04-02
+  - release: "2009-04-02: A State of Trance #398"
     tracks: 20
     liked:
       - Melo - Pryda
@@ -33,8 +31,7 @@ episodes:
       - Lifetime {[4 Strings] Remix} - Carlo Resoort
       - Eris {[Airborne Angel] Remix} - Jamala
 
-  - number: 399
-    date: 2009-04-09
+  - release: "2009-04-09: A State of Trance #399"
     tracks: 22
     liked:
       - Find Yourself {[Cosmic Gate] Remix} - [John O'Callaghan] feat. [Sarah Howells]
@@ -43,9 +40,7 @@ episodes:
       - Collapse {[Cesar Lugo] Remix} - Robert Burian
       - Never Be Alone {[Nitrous Oxide] Remix} - [System Bot vs. 33] feat. [Costa]
 
-  - number: 400
-    date: 2009-04-19
-    title: Godskitchen Air, Birmingham, England
+  - release: "2009-04-19: A State of Trance #400: Godskitchen Air, Birmingham, England"
     parts:
       - name: Simon Patterson
         rating: 5/10
@@ -59,8 +54,7 @@ episodes:
           - Us - Simon Patterson
           - Exactly - [John O'Callaghan] & [Russell Kearney]
 
-  - number: 401
-    date: 2009-04-24
+  - release: "2009-04-24: A State of Trance #401"
     tracks: 22
     liked:
       - ID - Stoneface & Terminal
@@ -70,8 +64,7 @@ episodes:
       - Biscayne - Elevation
       - You Walk Away - [tyDi] feat. [Audrey Gallagher]
 
-  - number: 402
-    date: 2009-04-30
+  - release: "2009-04-30: A State of Trance #402"
     tracks: 21
     liked:
       - Greece 2000 {[Sander van Dien] Remix} - Three Drives
@@ -83,8 +76,7 @@ episodes:
       - London to Bangkok {[Haris C] Remix} - Rozza
       - Hope {[Dima Krasnik] Remix} - [Valhalla]
 
-  - number: 403
-    date: 2009-05-07
+  - release: "2009-05-07: A State of Trance #403"
     tracks: 22
     liked:
       - Faces - [Ashley Wallbridge] & [Andy Moor] feat. [Meighan Nealon]
@@ -101,8 +93,7 @@ episodes:
       - Your Heart - SHato
       - Leaving Ankara - Sabanci & Truby
 
-  - number: 404
-    date: 2009-05-14
+  - release: "2009-05-14: A State of Trance #404"
     tracks: 21
     liked:
       - Lungomare - [John Hetmond] & [Osip]
@@ -111,8 +102,7 @@ episodes:
       - Khepera - Aly & Fila
       - Lunation {[Masters & Nickson] Remix} - [Sonicvibe] & [Mike Shiver]
 
-  - number: 405
-    date: 2009-05-22
+  - release: "2009-05-22: A State of Trance #405"
     tracks: 21
     liked:
       - <10> Departure {Club Mix} - Dave202
@@ -125,8 +115,7 @@ episodes:
       - Sand Dunes {[Daniel Kandi] Remix} - A.M.R
       - <10> Seven Weeks - Sean Tyas
 
-  - number: 406
-    date: 2009-05-29
+  - release: "2009-05-29: A State of Trance #406"
     tracks: 21
     liked:
       - This Moment {Progressive Mix} - [Nic Chagall] feat. [Jonathan Mendelsohn]
@@ -136,8 +125,7 @@ episodes:
       - <10> Aztec - Neptune Project
       - Heaven Rain - [Fast Distance] & [Balearia]
 
-  - number: 407
-    date: 2009-06-05
+  - release: "2009-06-05: A State of Trance #407"
     tracks: 21
     liked:
       - Helpless {Monster Mix} - [Myon & Shane 54] feat. [Aruna]
@@ -151,8 +139,7 @@ episodes:
       - Lekker - Claudia Cazacu
       - Satellite {[Above & Beyond] Remix} - OceanLab
 
-  - number: 408
-    date: 2009-06-12
+  - release: "2009-06-12: A State of Trance #408"
     tracks: 20
     liked:
       - This Moment {Progressive Mix} - [Nic Chagall] feat. [Jonathan Mendelsohn]
@@ -162,8 +149,7 @@ episodes:
       - L'Acrobat {[Andy Blueman] Remix} - [Ferry Tayle] & [Static Blue]
       - Monsun - 3rd Moon
 
-  - number: 409
-    date: 2009-06-19
+  - release: "2009-06-19: A State of Trance #409"
     tracks: 20
     liked:
       - Nothing But You {[Super8 & Tab] Remix} - [Paul van Dyk] feat. [Hemstock & Jennings]
@@ -171,8 +157,7 @@ episodes:
       - Yaya {[Ronski Speed] Remix} - Steve Brian
       - Fast Lane - Jorn van Deynhoven
 
-  - number: 410
-    date: 2009-06-26
+  - release: "2009-06-26: A State of Trance #410"
     tracks: 20
     liked:
       - Faces {[Ben Gold] Remix} - [Ashley Wallbridge] & [Andy Moor] feat. [Meighan Nealon]
@@ -184,8 +169,7 @@ episodes:
       - Monsun - 3rd Moon
       - Forever - Smith & Pledger
 
-  - number: 411
-    date: 2009-07-03
+  - release: "2009-07-03: A State of Trance #411"
     tracks: 20
     liked:
       - Nothing At All - [Rex Mundi] feat. [Susana]
@@ -193,8 +177,7 @@ episodes:
       - Onyric {[Stoneface & Terminal] Remix} - Cressida
       - <10> Elektra - Super8 & Tab
 
-  - number: 412
-    date: 2009-07-09
+  - release: "2009-07-09: A State of Trance #412"
     tracks: 21
     liked:
       - Automatic City - Three Drives
@@ -202,25 +185,20 @@ episodes:
       - Somehow {[Sebastian Brandt] Remix} - [tyDi] & [Dennis Sheperd] feat. [Marcie]
       - Another Angel - Mark Andrez
 
-  - number: 413
-    date: 2009-07-16
+  - release: "2009-07-16: A State of Trance #413"
     tracks: 21
     liked:
       - Hello Strings {[ID] Remix} - [Synergy]
       - Jewelery By Nature {[M6] Remix} - Signum
       - Distant Signature {Alternate Mix} - Signum
 
-  - number: 414
-    date: 2009-07-24
+  - release: "2009-07-24: A State of Trance #414"
     tracks: 21
     liked:
       - Poppiholla {[The Thrillseekers] Remix} - Chicane
       - Deja Vu - [Talla 2XLC] vs. [Robert Burian]
 
-  - number: 436
-    date: 2009-12-24
+  - release: "2009-12-24: A State of Trance #436"
     tracks: 20
 
-  - number: 437
-    date: 2009-12-31
-    title: Yearmix
+  - release: '2009-12-31: A State of Trance #437, "Yearmix"'

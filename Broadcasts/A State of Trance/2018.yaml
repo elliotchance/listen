@@ -4,22 +4,19 @@ series:
   status: incomplete
 
 episodes:
-  - number: 847
-    date: 2018-01-04
+  - release: "2018-01-04: A State of Trance #847"
     tracks: 29
     liked:
       - Fireflies - [Roman Messer] feat. [Christina Novelli]
       - Sun Gone Down - [Protoculture] feat. [Shannon Hurley]
       - Keep the Fire Burning {[Magnus] Remix} - [Talla 2XLC], [Carl B] & [Katie Marne]
 
-  - number: 848
-    date: 2018-01-11
+  - release: "2018-01-11: A State of Trance #848"
     tracks: 29
     liked:
       - Fireflies - [Roman Messer] feat. [Christina Novelli]
 
-  - number: 849
-    date: 2018-01-18
+  - release: "2018-01-18: A State of Trance #849"
     tracks: 42
     liked:
       - Ghost Voices - Virtual Self
@@ -28,52 +25,43 @@ episodes:
       - When You Smile - Furkan Senol
       - Free Fall - Metrik
 
-  - number: 851
-    date: 2018-02-15
+  - release: "2018-02-15: A State of Trance #851"
     tracks: 29
     liked:
       - If Not Now {Club Mix} - [Cosmic Gate] & [Jes]
       - Circa Forever {[Radion 6] Remix} - Rapid Eye
       - Ghost Voices {[Solis & Sean Truby] Rework} - Virtual Self
 
-  - number: 852
-    date: 2018-02-22
+  - release: "2018-02-22: A State of Trance #852"
     tracks: 45
     liked:
       - The Sound of Goodbye - Perpetuous Dreamer
 
-  - number: 853
-    date: 2018-03-01
+  - release: "2018-03-01: A State of Trance #853"
     tracks: 28
 
-  - number: 854
-    date: 2018-03-08
+  - release: "2018-03-08: A State of Trance #854"
     tracks: 28
     liked:
       - Aria - Monoverse
       - Enixam - Ruddaz
 
-  - number: 855
-    date: 2018-03-15
+  - release: "2018-03-15: A State of Trance #855"
     tracks: 25
     liked:
       - Ends of Time - NWYR
       - The Sun - [Neelix], [Ghost Rider] & [Caroline Harrison]
       - Always with Me - Liam Wilson
 
-  - number: 856
-    date: 2018-03-22
+  - release: "2018-03-22: A State of Trance #856"
     tracks: 32
     liked:
       - Lovingly - [Oliver Smith] feat. [Amy J Price]
 
-  - number: 857
-    date: 2018-03-29
+  - release: "2018-03-29: A State of Trance #857"
     tracks: 30
     liked:
       - Ethereal - [DRYM] & [Omnia]
       - Hallucination - [André Visior] & [Mind X]
 
-  - number: 896
-    date: 2018-12-27
-    title: Yearmix
+  - release: '2018-12-27: A State of Trance #896, "Yearmix"'

@@ -4,9 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 550
-    date: 2012-03-07
-    title: "Day 1: Expocenter, Moscow, Russia"
+  - release: '2012-03-07: A State of Trance #550, "Day 1": Expocenter, Moscow, Russia'
     parts:
       - number: 2/9
         artist: Ruben de Ronde
@@ -20,9 +18,7 @@ episodes:
           - Summerlives - [SAINT X] feat. [Sandel]
           - Enjoy the Silence {reinterpreted by [Mike Shinoda]} - Depeche Mode
 
-  - number: 550
-    date: 2012-03-10
-    title: "Day 2: Exhib Center, Kiev, Ukraine"
+  - release: '2012-03-10: A State of Trance #550, "Day 2": Exhib Center, Kiev, Ukraine'
     parts:
       - number: 2/8
         artist: Omnia
@@ -41,9 +37,7 @@ episodes:
         liked:
           - Cheesecake - 4 Strings
 
-  - number: 550
-    date: 2012-03-17
-    title: "Day 3: Beyond Wonderland, Los Angeles, USA"
+  - release: '2012-03-17: A State of Trance #550, "Day 3": Beyond Wonderland, Los Angeles, USA'
     parts:
       - number: 6/9
         artist: Aly & Fila
@@ -58,9 +52,7 @@ episodes:
           - Together - [Mark Eteson] feat. [Meredith Call]
           - World to Turn {Inner Me Mix} - [Ashley Wallbridge] & [Andy Moor] feat. [Gabriela]
 
-  - number: 550
-    date: 2012-03-25
-    title: "Day 4: Ultra Music Festival, Miami, USA"
+  - release: '2012-03-25: A State of Trance #550, "Day 4: Ultra Music Festival, Miami, USA'
     parts:
       - number: 8/12
         artist: Dash Berlin
@@ -68,9 +60,7 @@ episodes:
         liked:
           - Callisto - [Dash Berlin] & [Shogun]
 
-  - number: 550
-    date: 2012-03-31
-    title: "Day 5: Brabanthallen, Den Bosch, The Netherlands: A State of Yellow"
+  - release: '2012-03-31: A State of Trance #550, "Day 5": Brabanthallen, Den Bosch, The Netherlands: A State of Yellow'
     parts:
       - number: 2/10
         artist: Protoculture
@@ -88,9 +78,7 @@ episodes:
         liked:
           - Quattro 372 - Bobina
 
-  - number: 550
-    date: 2012-03-31
-    title: "Brabanthallen, Den Bosch, The Netherlands: A State of Red"
+  - release: '2012-03-31: A State of Trance #550, "A State of Red": Brabanthallen, Den Bosch, The Netherlands'
     parts:
       - number: 2/9
         artist: Mark Sixma
@@ -105,9 +93,7 @@ episodes:
           - <10> Kalopsia Pressure {[The Blizzard] Mashup} - [Nadia Ali], [Starkillers] & [Alex Kenji] vs. [Alesso] vs. [The Blizzard]
           - Walking Alone {[ARTY] Remix} - [Dirty South] & [Those Usual Suspects] feat. [Erik Hecht]
 
-  - number: 550
-    date: 2012-03-31
-    title: "Brabanthallen, Den Bosch, The Netherlands: A State of Blue"
+  - release: '2012-03-31: A State of Trance #550, "A State of Blue": Brabanthallen, Den Bosch, The Netherlands'
     parts:
       - number: 3/7
         artist: Armin van Buuren
@@ -117,19 +103,16 @@ episodes:
           - Kinetic - Abstract Vision & Elite Electronic
           - Premonition - A.R.D.I.
 
-  - number: 578
-    date: 2012-09-13
+  - release: "2012-09-13: A State of Trance #578"
     tracks: 30
 
-  - number: 586
-    date: 2012-11-08
+  - release: "2012-11-08: A State of Trance #586"
     tracks: 28
     liked:
       - Whispers - [Ana Criado] & [Beat Service]
       - Alchemy {[Above & Beyond] Club Mix} - [Above & Beyond] feat. [Zoe Johnston]
 
-  - number: 590
-    date: 2012-12-06
+  - release: "2012-12-06: A State of Trance #590"
     tracks: 27
     liked:
       - Ambrosia - [Mike Danis] & [Johnny Yono]
@@ -143,6 +126,4 @@ episodes:
       - Alana - James Dymond
       - Colours {[Amir Hussain] Remix} - [Nymark] & [Dryden]
 
-  - number: 593
-    date: 2012-12-27
-    title: Yearmix
+  - release: '2012-12-27: A State of Trance #593, "Yearmix"'

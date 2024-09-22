@@ -29,6 +29,7 @@ title,artist,version,rating
 "Air","AA Meeting","Original Mix",7
 "Air For Life","Above & Beyond vs. Andy Moor","Original Mix",7
 "Air For Life","Above & Beyond vs. Andy Moor","Mirco De Govia Remix",7
+"Airport Shivers","Photographer vs. Armin van Buuren","Armin van Buuren Mashup",7
 "Airwave","Rank 1","Original Mix",7
 "Alana","James Dymond","Original Mix",7
 "Alchemy","Above & Beyond feat. Zoe Johnston","Above & Beyond Club Mix",7
@@ -51,6 +52,7 @@ title,artist,version,rating
 "Alone","Maarten de Jong","Original Mix",7
 "Alone","Ruddaz","Original Mix",7
 "Alone In The Dark","Airwave","Original Mix",7
+"Alonism","DJ Eco","Original Mix",7
 "Alpha State","Markus Schulz","Mike Foyle Remix",7
 "Always a Fool","Kyau & Albert","Jope Remix",7
 "Always with Me","Liam Wilson","Original Mix",7
@@ -59,8 +61,10 @@ title,artist,version,rating
 "Ambrosia","Mike Danis & Johnny Yono","Original Mix",7
 "Among Us","Greg Downey & Alex Di Stefano","Original Mix",7
 "Amsterdam","Luminary","Smith & Pledger Remix",10
+"Amsterdam","Ørjan Nilsen","Original Mix",7
 "An Angel's Love","Alex M.O.R.P.H. feat. Sylvia Tosun","Original Mix",7
 "Analigital","Andy Duguid","Original Mix",7
+"Angelic State","Ali Wilson","Original Mix",7
 "Angels and Demons","Armaz","Carl B Remix",7
 "Another Angel","Mark Andrez","Original Mix",7
 "Another Day","DNS Project feat. Madelin","Original Mix",7
@@ -73,10 +77,14 @@ title,artist,version,rating
 "Anthem","Filo & Peri feat. Eric Lumiere","John O'Callaghan Remix",7
 "Anti Social Media","Coming Soon!!! & Bryan Kearney","Original Mix",7
 "Anywhere","anamē","Road Trippin'",7
+"Apache","Fisherman & Hawkins","Original Mix",7
+"Apollo","Hardwell feat. Amba Shepherd","Dash Berlin 4am Remix",7
+"Apollo","Hardwell feat. Amba Shepherd","Lucky Date vs. Noisecontrollers Remix",7
 "Apollo Road","ATB & Dash Berlin","Club Mix",7
 "Apprehension","Simon O'Shine & Sergey Nevone","Aly & Fila Mix",7
 "Apricots","Bicep","Original Mix",7
 "Arctic","Mino Safy","Original Mix",7
+"Are Am Eye Stresstest","John O'Callaghan vs. Commander Tom","John Askew Remix; Armin van Buuren Mashup",7
 "Are You With Me","Lost Frequencies","Dash Berlin Remix",7
 "Are You With Me","Markus Schulz & Daimy Lotus","Sector 7 Remix",7
 "Aria","Monoverse","Original Mix",7
@@ -87,11 +95,13 @@ title,artist,version,rating
 "As The Rush Comes","Motorcycle","Original Mix",7
 "As The Rush Comes","Motorcycle","Armin van Buuren Universal Religion Remix",7
 "As The Rush Comes","Motorcycle","Sweeping Strings Remix",7
+"As the Desert Rush Comes","DJ Eco vs. Motorcycle","Bilal El Aly & Vince Aoun Mashup",7
 "Ascend","Suncatcher & Exolight","Maywave Remix",7
 "Ascent","Michael Dow","Original Mix",7
 "Ashes","Sebastian Brandt","Original Mix",7
 "Ashes","Denis Kenzo feat. Sarah Lynn","Original Mix",7
 "Ashes","Denis Kenzo feat. Sarah Lynn","Cold Rush Remix",7
+"Ashes Are Beautiful Things","Sebastian Brandt vs. Andain","Armin van Buuren Mashup",7
 "Ask The Angels","Heatbeat","Original Mix",7
 "Ask The Cat","Heatbeat","Original Mix",7
 "Assassin","Sultan + Shepard","Original Mix",7
@@ -105,6 +115,7 @@ title,artist,version,rating
 "Autumn","Seelo & George Gleeson","Original Mix",7
 "Avalon","Insigma","Midway Remix",7
 "Awake","Killogy & Matthew White feat. Angelika Vee","Jakko Remix",7
+"Awakenings vs. Satellite","Super8 & Tab vs. OceanLab","Above & Beyond Remix",7
 "Aztec","Neptune Project","Original Mix",10
 "Aztec","Neptune Project","Neptune Project's Future Mix",7
 "BLACKOUT","ASHER SWISSA, Zvika Brand & Lusil","Original Mix",7
@@ -121,6 +132,7 @@ title,artist,version,rating
 "Beautiful","Orkidea","Alt + F4 Remix",7
 "Beautiful","Giuseppe Ottaviani & Cari","Original Mix",7
 "Beautiful Life","Armin van Buuren feat. Cindy Alma","Mikkas Remix",10
+"Beautiful Life","Armin van Buuren feat. Cindy Alma","Protoculture & Mikkas Remix Mashup",7
 "Beautiful Nothing","Radion 6 & Katty Heath","Original Mix",7
 "Beautiful Things","Andain","Gabriel & Dresden Unplugged Mix",7
 "Beautiful Things","Andain","Josh Gabriel's Tech Mix",7
@@ -133,7 +145,11 @@ title,artist,version,rating
 "Behind Your Smile","Vast Vision feat. Fisher","Suncatcher Remix",7
 "Berlinition","Paul van Dyk, Chriss Bekker & Chris Montana","Paul van Dyk Club Mix",7
 "Beside You","Somna & Noire Lee","Sean Tyas Magikal Mix",7
+"Better Half of Me","Dash Berlin feat. Jonathan Mendelsohn","Original Mix",7
+"Better Off Alone","Alice Deejay","Dash Berlin Rework",7
+"Better Off Alone","Alice Deejay","Dash Berlin Remix",7
 "Better Place","Modera & Lauren L'aimant","Original Mix",7
+"Better on Fire","Eximinds vs. Daft Punk","Caligolas Mashup",10
 "Between Heaven and Earth","Nacho Chapado & Smaz feat. Sue McLaren","Jan Martin Remix",10
 "Beyond","Different Stage","Original Mix",7
 "Beyond the Moon","Alpha Breed","Original Mix",7
@@ -161,13 +177,16 @@ title,artist,version,rating
 "Break The Light","Alex M.O.R.P.H.","Original Mix",7
 "Break Through the Ground","MaRLo & Avao","Original Mix",7
 "Breaking Ties","OceanLab","Above & Beyond Analogue Haven Mix",7
+"Breathe","John O'Callaghan & Full Tilt feat. Karen Kelly","Original Mix",7
 "Breathe in Deep","Armin van Buuren","Original Mix",7
 "Breathing (Airwave)","Rank 1","Alchimyst Remix",7
 "Breathing","Boom Jinx, Nitrous Oxide & Einar K feat. Vintage & Morelli","David Broaders Remix",7
 "Breathless","ReOrder & Ghost Etiquette feat. Miss Geist","Original Mix",7
 "Brightest Lights","Lane 8","Original Mix",7
 "Broken Down","Tritonal feat. Meredith Call","Shogun Remix",7
+"Brute vs. Concrete Angel","Ferry Corsten vs. Armin van Buuren vs. Gareth Emery feat. Christina Novelli","Original Mix",7
 "Bullet That Saved Me","Tritonal feat. Underdown","Original Mix",7
+"Bullet That Saved Me","Tritonal feat. Underdown","Tritonal Festival Mix",7
 "Bullet That Saved Me","Tritonal feat. Underdown","ilan Bluestone Remix",7
 "Burned With Desire","Armin van Buuren feat. Justine Suissa","Original Mix",7
 "Burned With Desire","Armin van Buuren feat. Justine Suissa","Brian Cross Remix",7
@@ -184,8 +203,11 @@ title,artist,version,rating
 "Call Me Home","Gem & Tauri feat. HALIENE","Original Mix",7
 "Calling","tyDi feat. Audrey Gallagher","Blake Jarrell Remix",10
 "Calling San Francisco","Alex M.O.R.P.H.","Original Mix",7
+"Calling Your Name","Anomaly","Tritonal & BT Club Mix",7
 "Can't Sleep","Above & Beyond","Ruben de Ronde & Elevven Remix",7
+"Can't Sleep","Above & Beyond feat. Ashley Tomberlin","Super8 & Tab Remix",7
 "Can't Smile","Duderstadt feat. Anita Kelsey vs. Above & Beyond feat. Ashley Tomberlin","Daniel Kandi Mashup",7
+"Cannonball","Showtek & Justin Prime","Original Mix",7
 "Carabella","Galen Behr vs Hydroid","Galen Behr vs Ørjan Nilsen Remix",7
 "Carry You Home","Andrew Rayel & Tensteps feat. Runaground","Original Mix",7
 "Carte Blanche","Dirty South & Ferry Corsten","Original Mix",7
@@ -209,7 +231,9 @@ title,artist,version,rating
 "Cisza","Key4050","A Dreamstate Anthem",7
 "Citation","Garry Heaney","Original Mix",10
 "Civilization","Dinka","Original Mix",7
+"Clarity","Zedd","W&W Remix",7
 "Clarity","Zedd feat. Foxes","Andrew Rayel Remix",7
+"Clarity","Zedd feat. Foxes","W&W Remix",7
 "Classmate","Giuseppe Ottaviani","Original Mix",7
 "Clear Blue","Elevation","Original Mix",7
 "Clear Blue Moon","Armin van Buuren & Rising Star","Will Rees Remix",7
@@ -227,6 +251,7 @@ title,artist,version,rating
 "Come To Me","Simon Patterson & Greg Downey","Original Mix",7
 "Coming Home","Armin van Buuren","Arctic Moon Remix",7
 "Communication (Part 3)","Armin van Buuren","Original Mix",7
+"Communication","Armin van Buuren","John Askew Remix",7
 "Company","Chris Schweizer feat. Sarah Howells","Original Mix",7
 "Concrete Angel","Gareth Emery feat. Christina Novelli","ReOrder Remix",7
 "Conflictions","Tzooki","M.A.N.U. Remix",7
@@ -247,6 +272,8 @@ title,artist,version,rating
 "Cygnes","Mr Sam feat. Claud9","Original Mix",7
 "Cynical Orange","Kago Pengchi","Original Mix",7
 "D# Fat","Armin van Buuren & W&W","Original Mix",7
+"DJ Ease My Apollo Road","Dash Berlin with ATB vs. Niki and the Dove","Dashup",7
+"DJ Ease My Apollo Road vs. Lights","ATB & Dash Berlin vs. Niki and the Dove vs. Ellie Goulding","Dashup",7
 "Dance Mfs","Allen Watts & Jody 6","Original Mix",7
 "Dancing in the Dark","Blonde Maze","Original Mix",7
 "Day One","Hardwick & Smith & Pledger","Above & Beyond Remix",7
@@ -300,6 +327,8 @@ title,artist,version,rating
 "Edge of Tonight","Yohan Warren & Brunetti","Original Mix",7
 "Electric Eclipse","Push","Original Mix",7
 "Elektra","Super8 & Tab","Original Mix",10
+"Elektra","Super8 & Tab","Solis & Sean Truby Remix",7
+"Elements of Nature","Rank 1 vs. M.I.K.E.","Original Mix",7
 "Elixir","Allen & Envy","Original Mix",7
 "Elizjum","Andy Elliass","Original Mix",7
 "Embrace You","Jo Cartwright","Maratone Remix",7
@@ -330,9 +359,11 @@ title,artist,version,rating
 "Every Other Day","ReOrder","Original Mix",7
 "Everything","Oliver Smith & Tom Bailey","Original Mix",7
 "Everything From Me (Promises)","Andain","Gabriel & Dresden Remix",7
+"Everything From Me (Promises)","Andain","Myon & Shane 54 Demo Remix",7
 "Everything Is Beautiful","Tritonal & Kwesi","Original Mix",7
 "Everything To Me","Sly-One vs Jurrane","Giuseppe Ottaviani Remix",7
 "Evoked Satellite","Deep Haze vs. OceanLab","Original Mix",7
+"Evolution","Antillas & Dankann","Original Mix",7
 "Exactly","John O'Callaghan and Bryan Kearney","Original Mix",7
 "Exalted","gerome","Original Mix",7
 "Exhale","Bissen","Sean Tyas Remix",7
@@ -347,6 +378,7 @@ title,artist,version,rating
 "Face To Face","Armin van Buuren","Martin Roth Remix",7
 "Faces","Ashley Wallbridge & Andy Moor feat. Meighan Nealon","Original Mix",7
 "Faces","Ashley Wallbridge & Andy Moor feat. Meighan Nealon","Ben Gold Remix",7
+"Faces of Love","Ferry Corsten vs. Faruk Sabanci","Alexander Popov Mashup",7
 "Fade Away","Giuseppe Ottaviani & Mila Josef","Onair Mix",7
 "Faded","Alan Walker","Talla 2XLC Uplifting Rework",7
 "Faded","ZHU","ID Remix",7
@@ -357,6 +389,7 @@ title,artist,version,rating
 "Fall to Me","Activa","Nikolauss vs Activa Remix",7
 "Fallen","Nicholas Gunn feat. Alina Renae","Richard Durand Remix",7
 "Fallen Angel","Dennis Sheperd & Cold Blue feat. Ana Criado","Dennis Sheperd Club Mix",7
+"Fallen Angel","Dennis Sheperd & Cold Blue feat. Ana Criado","Lange Remix",7
 "Fallen Too Far","Sophie Sugar","Original Mix",7
 "Falling","First State feat. Anita Kelsey","Craig Connelly Remix",7
 "Fantasy","Morgin Madison","Original Mix",7
@@ -374,8 +407,10 @@ title,artist,version,rating
 "Feels Like Home","Andrew Rayel feat. AIDYL","Original Mix",7
 "Feels So Good","Armin van Buuren feat. Nadia Ali","Tristan Garner Remix",7
 "Few Nights","Ultimate","Original Mix",7
+"Fiesta","Super8 & Tab","Original Mix",7
 "Fight The Sunrise","Gareth Emery feat. Lucy Saunders","Daniel Kandi Rise Remix",10
 "Fiji","Atlantis","Allan Morrow Remix",7
+"Finally","Mikkas & Amba Shepherd","Original Mix",7
 "Find","Ridgewalkers feat. El","Kyau & Albert Remix",7
 "Find A Way","Photographer & Susana","Original Mix",7
 "Find Me","Mike Koglin feat. Tania Laila","Khaomeha Dub",7
@@ -396,7 +431,10 @@ title,artist,version,rating
 "Flying","Silvermine","Solarstone Pure Mix",7
 "Focus","Luke Bond feat. EKE","Original Mix",7
 "Follow Me","DT8 Project","Original Mix",7
+"Follow Me","Lange","Darren Porter 2012 rework",7
 "Follow Me","Blanke & ShockOne","Blanke Remix",7
+"Fool for Life","Dash Berlin feat. Chris Madin","Dash Berlin 4am Remix",7
+"Fool for Life","Dash Berlin feat. Chris Madin","Tomas Heredia Remix",7
 "Foolish Boy","Emma Hewitt","John O'Callaghan Remix",7
 "For All Time","Armin van Buuren and Aly & Fila feat. Kazi Jay","Original Mix",7
 "For You","Envio","Original Mix",7
@@ -408,6 +446,7 @@ title,artist,version,rating
 "Forever","Bogdan Vix & Renee Stahl","Original Mix",7
 "Forever","Bogdan Vix & Renee Stahl","Bogdan Vix & Claudiu Adam Remix",7
 "Forever And A Day","RAM feat. Stine Grove","Original Mix",7
+"Forever Is Ours","Armin van Buuren feat. Emma Hewitt","Original Mix",7
 "Forever Young","Paul Kold","Original Mix",7
 "Forget Me","Thomas Knight","Original Mix",7
 "Forget Me","AFTERMYFALL & Fransis Derelle","Original Mix",7
@@ -433,6 +472,7 @@ title,artist,version,rating
 "Futuro","Giuseppe Ottaviani & ilan Bluestone","Original Mix",7
 "Gabrielle","Tomac","Original Mix",7
 "Galaxy","Maarten de Jong","Original Mix",7
+"Game Over","Heatbeat","Original Mix",7
 "Gamemaster","Lost Tribe","Matt Darey 2003 Remix",7
 "Gamemaster","Lost Tribe","Protoculture Reconstruction",7
 "Gamemaster","Lost Tribe","Space Motion Remix",7
@@ -476,6 +516,7 @@ title,artist,version,rating
 "Gravity","Tom Staar, Jem Cooke & AVIRA","Original Mix",7
 "Gravity","Tom Staar, Jem Cooke & AVIRA","Fabrication Remix",7
 "Greece 2000","Three Drives","Sander van Dien Remix",7
+"Gunsmoke","Björn Åkesson","Original Mix",7
 "HR 8938 Cephei","deadmau5","Original Mix",7
 "Halcyon","Andy Moor","Alex M.O.R.P.H. Remix",7
 "Halcyon","Matt Fax","Original Mix",7
@@ -526,8 +567,10 @@ title,artist,version,rating
 "How Long?","Aly & Fila vs. FKN feat. Jahala","Factor B's in Loving Memory of Ellie Gray Remix",7
 "Human","The Killers","Armin van Buuren Remix",7
 "Humanity","ATB","Rank 1 Remix",7
+"Humming the Lights","Gaia","Original Mix",7
 "Huracan","Gareth Emery","Original Mix",7
 "Huracan","Gareth Emery","Ben Gold Remix",7
+"Hurricane","Daddy's Groove","Original Mix",7
 "Hurricane Love","Super8 & Tab feat. Colin Smith","Original Mix",7
 "I Am","Chakra","Markus Schulz Remix",7
 "I Am","Chakra","atDusk Remix",7
@@ -535,6 +578,7 @@ title,artist,version,rating
 "I Am Your Shadow","Giuseppe Ottaviani feat. Shannon Hurley","Original Mix",7
 "I Can Breathe","Tritonal feat. Jeza","Tritonal Club Mix",7
 "I Can't Let You Go","Ian van Dahl","Push Dub Mix",7
+"I Don't Deserve You","Paul van Dyk feat. Plumb","Giuseppe Ottaviani Remix",7
 "I Don't Deserve You","Paul van Dyk feat. Plumb","John O'Callaghan Remix",7
 "I Don't Deserve You","Paul van Dyk feat. Plumb","Seven Lions Remix",7
 "I Feel Love","CRW","Andres Sanchez & Omar Sherif Rework",7
@@ -549,18 +593,25 @@ title,artist,version,rating
 "I Wish","Andrew Rayel, Robbie Seed & Jimmy Chou feat. That Girl","Original Mix",7
 "I Won't Fall","Headstrong feat. Stine Grove","ReOrder Remix",7
 "I'll Be the One","GATTÜSO & Disco Killerz","DubVision Remix",7
+"I'll Listen","Armin van Buuren feat. Ana Criado","Original Mix",7
 "I.O.U. / Because of You","Jason Ross, Emilie Brandt, Da Tweekaz & Refuzion","Crystal Skies Remix",7
 "ID","Armin van Buuren","Original Mix",7
 "ID","Armin van Buuren","M.I.K.E. Remix",7
+"ID","Beat Service","Original Mix",7
+"ID","Estiva","Original Mix",7
 "ID","FUTURECODE","Original Mix",7
 "ID","Factor B","Original Mix",7
+"ID","Fisher","Original Mix",7
 "ID","Gareth Emery","Original Mix",7
 "ID","Hel:sløwed","Original Mix",7
 "ID","ID","Original Mix",7
 "ID","ID","Jorn van Deynhoven Remix",7
+"ID","Sied van Riel","Original Mix",7
 "ID","Silva City","Original Mix",7
 "ID","Stoneface & Terminal","Original Mix",7
+"ID","Eximinds vs. Alexander Popov","Original Mix",7
 "ID","FUTURECODE feat. Roxanne Emery","Original Mix",7
+"ID vs. Yet Another Day","ID vs. Armin van Buuren feat. Ray Wilson","Original Mix",7
 "Ibeatza","Poison Club","Original Mix",7
 "Ibiza Sky","Kenny Hayes","Alex M.O.R.P.H. Remix",7
 "If I Lose Myself Coming Home","Armin van Buuren vs. Arctic Moon vs. OneRepublic","Shura Vlasov Mashup",7
@@ -578,10 +629,12 @@ title,artist,version,rating
 "Impulse","Andrew Rayel","Omnia Remix",7
 "In A Perfect World","Sied van Riel & STANDERWICK","Daniel Skyver Remix",7
 "In And Out Of Love","Armin van Buuren feat. Sharon den Adel","Lost Frequencies Remix",7
+"In Her Eyes","Temple One","Original Mix",7
 "In Motion","Olan & Nourey","Club Mix",7
 "In Silence","Hel:sløwed","Original Mix",7
 "In Too Deep","Kapera & EMME","Original Mix",7
 "In Too Deep","Man Cub, TRØVES & Awakend","Original Mix",7
+"In a Moment","Tucandeo","Eco Remix",7
 "In the Silence","Luminn & Roxanne Emery","Original Mix",7
 "In the Silence","Luminn & Roxanne Emery","LKX Remix",7
 "Infinite Horizon","Sequentia","Original Mix",10
@@ -602,19 +655,23 @@ title,artist,version,rating
 "Into the Night","Audorn & Sarah de Warren","Original Mix",7
 "Into the Night","Kapera feat. Daniel Robinson","Original Mix",7
 "It's In Your Heart","David Gravell feat. Christon","Club Mix",7
+"J'Ai Envie de Toi","Gaia","Original Mix",7
 "JYNX","Ashley Wallbridge","Cut Edit",7
 "JYNX","Ashley Wallbridge","Original Mix",7
 "Jackknife / ID","RIOT & ID","Original Mix",7
+"Jaguar","Tenishia","Original Mix",7
 "Janeiro","Solid Sessions","Armin van Buuren Remix",7
 "Jar of Hearts","KEPIK & Sarah West","Original Mix",7
 "Jeger","Ørjan Nilsen","Original Mix",7
 "Jet Packin","Space SpockerZ","Phynn Remix",7
+"Jewel","Solarstone & Clare Stagg","Daniel Kandi's Emotive mix",7
 "Jewelery By Nature","Signum","M6 Remix",7
 "Juggernaut","RIOT","Original Mix",7
 "Just As You Are","Armin van Buuren & Rising Star feat. Fiora","Original Mix",7
 "Just Be","Tiësto feat. Kirsty Hawkshaw","Original Mix",7
 "Just For You","Daniel Kandi","Original Mix",7
 "Just as You Are","Armin van Buuren & Rising Star feat. Fiora","Original Mix",7
+"Just for You","Giuseppe Ottaviani feat. Linnea Schössow","Original Mix",7
 "Kahan (Last Year)","Fred again.. feat. Kodak Black","Original Mix",7
 "Kaipara","Akira Kayosa & Hugh Tolland","ReOrder Remix",7
 "Kaleidoscope Eyes","Adymus","Original Mix",7
@@ -634,7 +691,9 @@ title,artist,version,rating
 "La Guitarra","Ørjan Nilsen","Original Mix",7
 "La Parts Des Anges","Fred Baker and Vincent Gorczak","Siberian Sun Mix",7
 "Labyrinth","Arizona","Original Mix",7
+"Laguna","Protoculture","Original Mix",7
 "Last Goodbye","Luke Bond","Original Mix",7
+"Last Stop Before Heaven","Armin van Buuren","Maarten de Jong Remix",7
 "Latika","Simon Patterson","Original Mix",7
 "Launching","Achilles & Boris Foong","Original Mix",7
 "Lean On Me","Ruben de Ronde","Cubicore Remix",7
@@ -659,12 +718,15 @@ title,artist,version,rating
 "Lights / Jewel","RL Grime, ISOxo & Ellie Goulding","Original Mix",7
 "Lights Around the World","Craig Connelly feat. Megan McDuffee","Original Mix",7
 "Lights Will Guide You Home","Driftmoon","Original Mix",7
+"Lights vs. DJ Ease My Apollo Road","Ellie Goulding vs. Dash Berlin with ATB vs. Niki and the Dove","Triple Dashup",7
 "Like You","Richard Durand & Sarah de Warren","Original Mix",7
+"Liquid Love vs. Lost","Above & Beyond feat. Richard Bedford vs. Tomas Heredia","Tomas Heredia Mashup",7
 "Listening","Aly & Fila feat. Josie","Philippe El Sisi Remix",7
 "London to Bangkok","Rozza","Haris C Remix",7
 "Lonely Girl","OceanLab","Gareth Emery Remix",7
 "Looking Back","Adam Szabo & Willem de Roo","Original Mix",7
 "Loop Hole","ID","Robert Gitelman Remix",7
+"Loops & Tings","Markus Schulz & Ferry Corsten","Original Mix",7
 "Lophorina","Romain Garcia","Original Mix",7
 "Lose Control","Craig Connelly","Original Mix",7
 "Lose This Feeling","Armin van Buuren","Dimension Remix",7
@@ -674,11 +736,14 @@ title,artist,version,rating
 "Lost In The Wind","Costa","Original Mix",7
 "Lost Souls","Captured Sun","Ex-Driver Remix",7
 "Lost Together","Sophie Sugar vs. Sunlounger feat. Zara","Armin van Buuren Mashup",7
+"Lost in Berlin","Paul van Dyk feat. Michelle Leonard","Giuseppe Ottaviani Remix",7
 "Louder","Jose Amnesia feat. Jennifer Rene","Jon O'Bir Bootleg Mix",7
 "Louder","Paul van Dyk and Roger Shah feat. Daphne Khoo","Ben Nicky Remix",7
+"Love Again","Andy Moor feat. Betsie Larkin","Alexander Popov Remix",7
 "Love Is Love","Farius & Sue McLaren","Original Mix",7
 "Love Is a Drug","ilan Bluestone","XiJaro & Pitch Remix",7
 "Love Rain Down","George Acosta feat. Fisher","First State Remix",7
+"Love Rain Down","Markus Schulz feat. Seri","4 Strings Remix",7
 "Love Shines Through","Chakra","Maarten de Jong Remix",7
 "Love Theme Dusk","Mike Foyle vs Signalrunners","Original Mix",7
 "Love Too Hard","Armin van Buuren feat. Jessie Morgan","Original Mix",10
@@ -699,8 +764,11 @@ title,artist,version,rating
 "Madras","Global Experience","Original Mix",7
 "Magic Light","STANDERWICK & Philippe El Sisi feat. Ana Criado","Original Mix",10
 "Magnetica","Vol Deeman","Original Mix",7
+"Mainbeat","Eximinds","Original Mix",7
 "Majestic","Sayla","Arizona vs. Passiva Remix",7
 "Make You Mine","Mike Williams feat. Moa Lisa","Original Mix",7
+"Man on the Run","Dash Berlin with Cerf, Mitiska & Jaren","Original Mix",7
+"Man on the Skyfire","Dash Berlin with Matt Cerf & Shawn Mitiska feat. Jaren vs. Shogun","Dashup",7
 "Marea (We've Lost Dancing)","Fred again.. & The Blessed Madonna","Original Mix",7
 "Marrakech","ATB","Club Mix",7
 "Marvellous Universe","Bixx","Original Mix",7
@@ -726,18 +794,22 @@ title,artist,version,rating
 "Miracle Moment","Andy Duguid feat. Leah","Marc Simz Remix",10
 "Mirage (Of Hope)","Hemstock & Jennings","Lange Remix",7
 "Miraje","Le Youth","Original Mix",7
+"Miss Atomic Bomb","The Killers","Arctic Moon Remix",7
 "Miss You","Craig Connelly & Nicholas Gunn feat. Alina Renae","Original Mix",7
 "Missing","Mark Sixma & Emma Hewitt","Original Mix",7
 "Moments","MitiS feat. Adara","Original Mix",7
 "Moments Are Forever","Moon Project","Original Mix",7
 "Monday Morning Madness","Alex M.O.R.P.H. feat. Shannon Hurley","Alexander Popov Remix",7
 "Monsun","3rd Moon","Original Mix",7
+"Moscow","W&W","Original Mix",7
 "Moving Mountains","Aurosonic, Mully, Shvman & M3GA","Original Mix",7
 "Mr. Navigator","Armin van Buuren & Tempo Giusto","Original Mix",7
 "Muhanjala","Duderstadt","Original Mix",7
+"My Enemy","Super8 & Tab feat. Julie Thompson","club mix",7
 "My Guiding Light","Christina Novelli & Richard Durand","Original Mix",7
 "My Inner Island","The Blizzard & Omnia","Original Mix",7
 "My Inner Island","The Blizzard & Omnia","Yuri Kane Remix",7
+"My World","Alexander Popov feat. Kyler England","Original Mix",7
 "Name Drop","Excision & Wooli","VIP",7
 "Nano","Sønin","Original Mix",7
 "Nathan's Song","Craig Connelly","Original Mix",7
@@ -749,14 +821,17 @@ title,artist,version,rating
 "Need to Feel Loved","Cosmic Gate & Forêt","Original Mix",7
 "Needed You","Ghost Etiquette feat. Aza Nabuko","Sam Laxton Remix",7
 "Neno","Marksun & Brian","Stoneface & Terminal Remix",7
+"Neptune's Siren","Darren Porter & Ferry Tayle","Original Mix",7
 "Netherworld (2005)","L.S.G.","Oliver Prime Remix",7
 "Neurochemistry","Ace Ventura & Liquid Soul","Original Mix",7
 "Never Be Alone","System Bot vs. 33 feat. Costa","Nitrous Oxide Remix",7
+"Never Cry Again","Dash Berlin","Dash Berlin 4am Remix",7
 "Never Enough","Ahmed Romel","Original Mix",7
 "Never Enough","Jon O'Bir feat. Julie Harrington","Original Mix",7
 "Never Fade Away","John O'Callaghan feat. Lo-Fi Sugar","Andy Duguid Remix",7
 "Never Forgotten","Dreamy","Factoria Remix",7
 "Never Give Up","Broning","Original Mix",7
+"Never Rain Down Again","Markus Schulz feat. Seri & Myon & Shane 54 vs. Dash Berlin","Dashup",7
 "New Beginning","ReOrder","Original Mix",7
 "New Dawn","Fisical Project, Caleb Golston & Sue McLaren","Original Mix",7
 "New Harvest","Alex M.O.R.P.H.","New Club Mix",7
@@ -764,6 +839,7 @@ title,artist,version,rating
 "New Life","Roman Messer & Denis Sender","Ahmed Romel Remix",7
 "New York City","Paul van Dyk & Starkillers & Austin Leeds feat. Ashley Tomberlin","Original Mix",7
 "Niavara","Ingsha","Manuel Le Saux Remix",7
+"Nice","Rapha","Maarten de Jong Remix",7
 "Night City","Parnassvs","Dustin Husain Remix",7
 "Night Highway","Vertruda","Original Mix",7
 "Night Rider","Abraxis & Crystal Skies","Original Mix",7
@@ -777,6 +853,7 @@ title,artist,version,rating
 "Nothing At All","Rex Mundi feat. Susana","Original Mix",7
 "Nothing At All","Rex Mundi feat. Susana","M6 Remix",7
 "Nothing But You","Paul van Dyk feat. Hemstock & Jennings","Super8 & Tab Remix",7
+"Nothing Without Me","Markus Schulz feat. Ana Diaz","Beat Service Remix",7
 "Nothing to Hide","Cosmic Gate & Diana Miro","Original Mix",7
 "Now You See","Mark Thornton","Ross Essenheim Remix",7
 "Now or Never","Daxson & Nation of One","Craig Connelly Remix",7
@@ -791,6 +868,7 @@ title,artist,version,rating
 "On My Mind","Farius & Cristina Soto","Farius Lost in 137 Mix",7
 "On The Edge","Beat Service","Original Mix",7
 "On The Run","Tillmann Uhrmacher","Ocean To Shore Club Extended",7
+"On a Good Day","OceanLab & Gareth Emery","Metropolis; extended mix",7
 "On the Beach 2013","York","York's Uplifting Rework",7
 "One More Day","Jason Ross, Blanke & Chandler Leighton","Original Mix",7
 "One More Time / Mosh Pit","Daft Punk & Flosstradamus feat. Casino","Barely Alive Remix",7
@@ -815,6 +893,7 @@ title,artist,version,rating
 "Out There","Masters & Nickson feat. Justine Suissa","Robert Nickson 2016 Remix",7
 "Out There","Masters & Nickson feat. Justine Suissa","Sean Tyas Remix",7
 "Out There","Masters & Nickson feat. Justine Suissa","Uufo Remix",7
+"Out of My Mind vs. Spaceman vs. The Fusion","Bingo Players vs. Hardwell vs. Omnia & Ira","Original Mix",7
 "Out of Nowhere","John O'Callaghan feat. Josie","Connor Woodford Remix",7
 "Out of the Dark","Tritonal & EMME","Original Mix",7
 "Out of the Dark","Tritonal & EMME","Fatum Remix",7
@@ -822,6 +901,7 @@ title,artist,version,rating
 "Outset Theme","Will Rees","Original Mix",7
 "Over Paper Skies","Eco feat. Jeza","Extended Dub Mix",7
 "Over You","Philippe El Sisi feat. Josie","Heatbeat Remix",7
+"Over the Rainbow","Cosmic Gate & J'Something","W&W Remix",7
 "Overjoyed","Solarsun","Hydroid Remix",7
 "Overkill","RIOT","Original Mix",7
 "Oxidize","Tom Colontonio","Original Mix",7
@@ -836,6 +916,8 @@ title,artist,version,rating
 "Perception","PRAANA","Original Mix",7
 "Perception","Markus Schulz feat. Justine Suissa","Original Mix",7
 "Perception","Markus Schulz feat. Justine Suissa","Johan Gielen Remix",7
+"Perception","Markus Schulz feat. Justine Suissa","Rafaël Frost Remix",7
+"Perlas vs. Chilldren, Robert Miles","Mark Sixma vs. Fisherman & Hawkins","Maison & Dragen 2012 Reboot",7
 "Permission to Exhale","Ciaran McAuley & Eddie Pinero","Original Mix",7
 "Personal Jesus","Cubicore & Shane 54","Cubicore Deep Mix",7
 "Phantom Love","MitiS feat. Sarah de Warren","Original Mix",7
@@ -846,6 +928,7 @@ title,artist,version,rating
 "Piece of Art","Kryder","Darren Porter Remix",7
 "Piercing Quiet","Tritonal feat. Cristina Soto","Original Mix",7
 "Piercing Quiet","Tritonal feat. Cristina Soto","Au5 Remix",7
+"Platinum","Nenez & Pascal Feliz","Ben Gold Remix",7
 "Platitude","Onova","Original Mix",7
 "Player One","Danilo Ercole","Gai Barone Remix",7
 "Playfulness","Fisherman & Susana","The Magic",7
@@ -861,6 +944,7 @@ title,artist,version,rating
 "Pulse","REAPER","Original Mix",7
 "Quantum","Mino Safy","Original Mix",7
 "Queensland","Dimension","Arctic Moon Remix",7
+"Queensland vs. Clarity","Dimension vs. Zedd feat. Foxes","Arctic Moon Remix; a cappella",7
 "Questions Must Be Asked","David Forbes","Modeā Remix",7
 "Quicksand","Bissen","Original Mix",7
 "RATATA","Mr. Oizo, Skrillex & Missy Elliott","Mike's Revenge Remix",7
@@ -889,6 +973,7 @@ title,artist,version,rating
 "Renegade","David Forbes & Allen Watts","Original Mix",7
 "Replay","Giuseppe Ottaviani & Natalie Shay","Original Mix",7
 "Reputation","Maria Healy","Original Mix",7
+"Reset","Tritonal & 7 Skies","Original Mix",7
 "Rest of Our Lives","Ben Gold","Original Mix",10
 "Rest of Our Lives","Ben Gold","Paul Webster Remix",7
 "Resurection","Planet Perfecto Knights","Maurice West Remix",7
@@ -896,6 +981,7 @@ title,artist,version,rating
 "Resurection","ППК","Space Club Mix",7
 "Reverence","Hemstock & Jennings","Original Mix",7
 "Rewind","Emma Hewitt","Mikkas Remix",7
+"Rewind the Fuse","Emma Hewitt vs. Omnia","Mikkas Remix",7
 "Rhythm (Of the Night)","Something Good","Original Mix",7
 "Ride","Cary Brothers","Blake Jarrell Remix",7
 "Ride The Wave","John O'Callaghan & Giuseppe Ottaviani","Original Mix",7
@@ -948,12 +1034,14 @@ title,artist,version,rating
 "Scrum","Ronski Speed","Original Mix",7
 "Searching (For a Kinder Love)","Ben Gold feat. Yasmin Jane","Paul Denton Remix",7
 "Second Wave","Signum","Original Mix",7
+"Sectioned","Solis & Sean Truby","Original Mix",7
 "Sedona","PRAANA","Original Mix",7
 "See The Sun","Urban Astronauts feat. Kate Louise Smith","Dan Stone Rework",7
 "See the End","Above & Beyond & Seven Lions","Original Mix",7
 "Seeking Blue","Fatum","Original Mix",7
 "Seismic","PRAANA","Original Mix",7
 "Self Luminous","PRAANA","Original Mix",7
+"Senses","NDS & Blue vs. Spark7","Jonas Hornblad Remix",7
 "Set Us Free","Modera","Original Mix",7
 "Settle","Dezza & Lauren L'aimant","Le Youth Remix",7
 "Seven Cities","Solarstone","Ehren Stowers & Bostock Remix",7
@@ -976,10 +1064,13 @@ title,artist,version,rating
 "Signal","Ray Volpe & NGHTMRE","Original Mix",7
 "Silence","Delerium feat. Sarah McLachlan","Andrew Rayel & Achilles Remix",7
 "Silence","Delerium feat. Sarah McLachlan","Tiësto's in Search of Sunrise Remix",7
+"Silence","Delerium feat. Sarah McLachlan","W&W vs. Jonas Stenberg Remix",7
 "Silence In Your Heart","Dash Berlin feat. Chris Madin","4 Strings Remix",7
+"Silence in Your Heart","Dash Berlin feat. Chris Madin","Antillas Remix",7
 "Silent Waves","Jonas Steur","Original Mix",7
 "Silent Waves","David Forbes & Susie Ledge","Factor B's Dark Waters Remix",7
 "Silver Bath","Plastic Boy","Original Mix",7
+"Sinai","ilan Bluestone","Original Mix",7
 "Sincere","Firewall","Original Mix",7
 "Sincere","Firewall","Pulser Remix",7
 "Sinuous","Warung","Original Mix",7
@@ -992,6 +1083,7 @@ title,artist,version,rating
 "Sky Falls Down","OceanLab","Original Mix",7
 "Skyfire","Shogun","Original Mix",7
 "Skylab","John Askew","Kyau & Albert Remix",7
+"Slave","Tritonal feat. Fisher","Tritonal & Ben Gold Club Dub",7
 "Slave To Doubt","Matt Bukovski feat. Cynthia Hall","Original Mix",10
 "Sleaze / Ballin'","Grabbitz & Knife Party feat. MistaJam","Original Mix",7
 "Sleep","Boye & Sigvardt","Original Mix",7
@@ -1001,6 +1093,8 @@ title,artist,version,rating
 "Snapshot","Kinetica & Dave Wright","Original Mix",7
 "Snowblind","Au5 feat. Tasha Baxter","VIP",7
 "So Far Away","Digitalis","Original Mix",7
+"Sol","Björn Åkesson","Original Mix",7
+"Solarcoaster","Solarstone","Protoculture Remix",7
 "Someday","Roman Messer feat. Robin Vane","Temple One Remix",7
 "Somehow","tyDi & Dennis Sheperd feat. Marcie","Sebastian Brandt Remix",7
 "Someone","Ascension","Flynn & Denton Remix",7
@@ -1023,10 +1117,12 @@ title,artist,version,rating
 "Soul Survivor","Ronski Speed and Sebastian Sand","Ronski Speed Remix",7
 "Soul Symbol","Rue De Gar","Original Mix",7
 "Sound Of The Drums","Armin van Buuren feat. Laura Jansen","Extended Version",7
+"Sound of Goodbye","Armin van Buuren","Abstract Vision & Elite Electronic Bootleg Mix",7
 "Sound of Silence","Haikal Ahmad","Original Mix",7
 "Space","A.R.D.I.","Original Mix",7
 "Sparkover","Tom Colontonio","Original Mix",7
 "Spectrum","James Dymond & Chris Schweizer","Original Mix",7
+"Spellbound","Darren Porter","Original Mix",7
 "Spiral","Robert Nickson","2015 Version",7
 "Spirit","Re:locate feat. Menno De Jong","Original Mix",7
 "Spirit's Pulse","Andy Moor vs. M.I.K.E.","Omnia Remix",7
@@ -1056,27 +1152,38 @@ title,artist,version,rating
 "Sub Runner","Kimito Lopez","Original Mix",7
 "Submerged","Björn Åkesson","Original Mix",7
 "Subortus","Fon.Leman","Original Mix",7
+"Such a Feeling","Paul van Dyk feat. Austin Leeds & Elijah King","Alex M.O.R.P.H. Remix",7
 "Sudden Changes","Phillip Alpha","Original Mix",7
+"Suddenly Smash","Armin van Buuren & Ana Criado vs. Broning","Armin van Buuren Mashup",7
+"Suddenly Smash!","Armin van Buuren feat. Ana Criado vs. Broning","Armin van Buuren Mashup",7
 "Summer Blush","Mungo","Original Mix",7
 "Summer Dream","Kuffdam & Plant","Stoneface & Terminal Remix",7
 "Sun & Moon","Above & Beyond feat. Richard Bedford","Club Mix",7
 "Sun & Moon","Above & Beyond feat. Richard Bedford","ilan Bluestone Remix",7
+"Sun & Moon","Above & Beyond feat. Richard Bedford","club mix",7
 "Sun Gone Down","Protoculture feat. Shannon Hurley","Original Mix",10
 "Sun Sparks","PRAANA","Original Mix",7
+"Sun in Your Eyes","Above & Beyond","Original Mix",7
+"Sun in Your Eyes","Above & Beyond","Mark Sherry Argentinian Sun Edit",7
 "Sun in Your Eyes","Above & Beyond","Spencer Brown Club Mix",7
 "Sunbeam","Murtagh","Original Mix",7
 "Sunny Days","Armin van Buuren feat. Josh Cumbee","PureNRG Remix",7
 "Sunset Boulevard","Alex M.O.R.P.H. feat. Ana Criado","Original Mix",10
 "Sunspot (2005)","Airwave vs. Rising Star","Original Mix",7
 "Sunstorm","Trance Arts feat. Final Aeon","Running Man Remix",7
+"Superfly","Jorn van Deynhoven","Original Mix",7
 "Superhuman","Tritonal & Codeko","Original Mix",7
 "Superhuman / First Time","Tritonal, Codeko, Seven Lions, Slander, Dabin & Dylan Matthew","Tritonal Mashup",7
+"Superman","Mat Zo","Original Mix",7
 "Suraya","Simon Bostock","Original Mix",7
 "Surreal","Markus Schulz feat. Ana Criado","Omnia Remix",7
+"Surrender Sweet Disposition","Paul Oakenfold vs. The Temper Trap","Myon & Shane 54 Mashup",7
 "Suzu","Tritonal & Nick Sibicky","Ben Gold Remix",7
 "Sweet Illusion","Morgan Page & Maggie Szabo","Original Mix",7
 "Swept Away","Matt Bukovski feat. Tiff Lacey","Uplifting Mix",7
 "Symbols","Fictivision vs C-Quence","Original Mix",7
+"Symmetries","Paul van Dyk feat. Austin Leeds","Maarten de Jong Remix",7
+"Symphonica","Timmus","Original Mix",7
 "Synaesthesia","The Thrillseekers","Original Mix",10
 "Synaesthesia","The Thrillseekers","Alex M.O.R.P.H. Remix",7
 "Synaesthesia","The Thrillseekers","Umek Remix",7
@@ -1091,6 +1198,7 @@ title,artist,version,rating
 "Talk","Max Graham vs. Coldplay","Original Mix",7
 "Talk To Me","John O'Callaghan & Timmy & Tommy","Solar Movement Remix",7
 "Te Amo","Bryan Kearney","Cold Blue Remix",7
+"Teardrops","Super8 & Tab","Original Mix",7
 "Telescope","Will Atkinson","Original Mix",7
 "Tell Me / Horizon / Tell Me","RL Grime, What So Not, Slippy, Blosso & GLNNA","Rudebrat Refix",7
 "Temple Voices","Steve Dekay","Original Mix",7
@@ -1101,19 +1209,24 @@ title,artist,version,rating
 "That's Life","Scorz","Original Mix",7
 "The Air I Breathe","Richard Durand, Christina Novelli","Original Mix",7
 "The Box","GXD","Original Mix",7
+"The Code","W&W & Ummet Ozcan","Original Mix",7
 "The Day after Tomorrow","Musikman","Original Mix",7
 "The Distance","Rio Addicts","Original Mix",7
 "The End","Astral","Original Mix",10
 "The End","Sam Jones & Rhys Thomas","Original Mix",7
+"The Expedition","Armin van Buuren & Markus Schulz","Andrew Rayel Remix",7
 "The First Rebith","Jonas Steur and Stephenson","DJ Danjo & Rob Styles Primer Remix",7
 "The Fractual Universe","Mat Zo","Original Mix",7
+"The Funeral","Dash Berlin feat. Band of Horses","Original Mix",7
 "The Fusion","Omnia & Ira","Blastoyz Remix",7
 "The Game","Sied van Riel feat. Fenja","Original Mix",7
 "The Incursion","Kelly Andrew","Epic Orchestral Trance Mix",7
 "The Island","MaRLo feat. Jano","Original Mix",7
+"The Killing","Frans Bak","Armin van Buuren Remix",7
 "The Last Stylebender","Adam Ellis & Sid J","Original Mix",7
 "The Launch","Cosmic Gate & Andrew Bayer","Original Mix",7
 "The Legacy","Push","Original Mix",7
+"The Light vs. Tempted","Omnia vs. Markus Schulz feat. Sarah Howells","Original Mix",7
 "The Lights","Capa & Diana Miro","Original Mix",7
 "The Longest Journey","Algarve","Alex M.O.R.P.H. Remix",7
 "The Longest Road","Morgan Page feat. Lissie","Vivid Remix",7
@@ -1126,23 +1239,31 @@ title,artist,version,rating
 "The Other Side","DT8 Project, Tephra","Original Mix",7
 "The Pillars Of Creation","Mark Sherry","Original Mix",7
 "The Prince","Madeon","Original Mix",7
+"The Saga vs. This Moment","Gareth Emery vs. Nic Chagall feat. Jonathan Mendelsohn","Original Mix",7
 "The Same","Kyau & Albert","Original Mix",7
 "The Sound of Goodbye","Perpetuous Dreamer","Armin's Tribal Feel",7
 "The Sound of Goodbye","Perpetuous Dreamer","Original Mix",7
+"The Spiritual Gateway","Markus Schulz","Original Mix",7
 "The Sun","Neelix, Ghost Rider & Caroline Harrison","Original Mix",7
 "The Thunder","Ørjan Nilsen feat. Kate Louise Smith","Original Mix",7
 "The Truth","Seven Lions","Original Mix",7
 "The Truth We Can't Escape","Dawn","Original Mix",10
 "There And Back","Robbie Van Doe","Original Mix",7
 "There Is Purpose","Ronski Speed & Bixx","Original Mix",7
+"Thing Called Love","Above & Beyond feat. Richard Bedford","Mat Zo Remix",7
+"Thing Called Spaceman","Hardwell vs. Above & Beyond","Original Mix",7
+"Thing Called Spaceman","Hardwell vs. Above & Beyond","W&W Mashup",7
 "This Is Not the End","Gareth Emery","Allen Watts Remix",7
+"This Miami Is Nice","Sander Kleinenberg vs. Rapha & Maarten de Jong","Dashup",7
 "This Moment","Nic Chagall feat. Jonathan Mendelsohn","Progressive Mix",7
 "This Will Be Your Happiness","Cosmic Gate feat. Jennifer Cooke","Steve Brian Remix",7
+"Ticking Clocks","Dash Berlin vs. Coldplay","Dash Berlin's Essential 'Warmplay' Rework",7
 "Tidal Wave","Far Out feat. Nevve","Original Mix",7
 "Tidal Wave","Markus Schulz & HALIENE","Will Atkinson Remix",7
 "Till The Sky Falls Down","Dash Berlin","Dub Mix",7
 "Till The Sky Falls Down","Dash Berlin","Original Mix",7
 "Till The Sky Falls Down","Dash Berlin","Vocal Mix",7
+"Till the Sky Falls Down","Dash Berlin","Original Mix",7
 "Till the Sunrise","Giuseppe Ottaviani","Original Mix",7
 "Time & Space","Ehren Stowers","Original Mix",7
 "Time","Neptune Project vs. The Noble Six","Original Mix",7
@@ -1198,6 +1319,7 @@ title,artist,version,rating
 "Untouched","The Veronicas","ID Remix",7
 "Us Against The World","Stowers & Cooper & That Girl","Original Mix",7
 "Vagabond","The Scarab","Original Mix",7
+"Valhalla","Arctic Moon & Paul Webster","Original Mix",7
 "Vapourize","Aly & Fila vs. John O'Callaghan","Original Mix",7
 "Vertigo","Allen Watts & Kinetica","Original Mix",7
 "Vertue","Paul Denton vs. Dave Nadz & Leblanc","Original Mix",7
@@ -1205,6 +1327,7 @@ title,artist,version,rating
 "Vida","Sebastian Weikum","Original Mix",7
 "Violetta","Ørjan Nilsen","Original Mix",7
 "Vision","Mike Koglin vs. 7 Skies","Original Mix",7
+"Vision vs. Children vs. Nothing Else Matters vs. The Fusion","Ashley Wallbridge vs. Robert Miles vs. Max Graham vs. Omnia & Ira","Estiva Mashup",7
 "Vivagio","Epos","DJ Danjo & Rob Styles Remix",7
 "Vivid","Re:locate vs. Robert Nickson","Original Mix",7
 "Void","South of the Stars","Original Mix",7
@@ -1212,8 +1335,14 @@ title,artist,version,rating
 "Vortex","Richard Durand & Marco V","Original Mix",7
 "Vulnerable","Sonic Element","Original Mix",7
 "Wait For The World","Fatum & Jaren","Original Mix",7
+"Wait Forever","Estiva & Cardinal feat. Arielle Maren","Estiva Remix",7
+"Waiting Sun & Moon","Dash Berlin vs. Above & Beyond","Dashup",7
+"Waiting for the Night","Armin van Buuren feat. Fiora","Beat Service Remix",7
 "Waiting on the Other Side","Jorn van Deynhoven & Christina Novelli","Club Mix",7
 "Wake Up","Mazare & Bloodhounds","Original Mix",7
+"Wake Your Mind vs. Easy","Cosmic Gate feat. Cary Brothers vs. Mat Zo & Porter Robinson","Original Mix",7
+"Wake Your Mind vs. Easy","Cosmic Gate vs. Mat Zo & Porter Robinson","Original Mix",7
+"Waking Up The Stars","Alex M.O.R.P.H. & Protoculture","Skytech Remix",7
 "Waking up the Stars","Alex M.O.R.P.H. & Protoculture","Original Mix",10
 "Walk On Water","Slander, Trivecta & Wooli feat. Dylan Matthew & Røry","Wooli & Trivecta Remix",7
 "Walk The Edge","Alex M.O.R.P.H.","Alex M.O.R.P.H. B2B Woody van Eyden Remix",7
@@ -1229,6 +1358,7 @@ title,artist,version,rating
 "Way Of Life","Ehren Stowers & The Viceroy","Deepwide Remix",7
 "Way To Paradise","Andy Elliass","O.B.M Notion Remix",7
 "We Accepted","Deep Care","Original Mix",7
+"We Are One","Paul van Dyk feat. Johnny McDaid","Giuseppe Ottaviani Remix",7
 "We Belong","Ferry Corsten feat. Maria Nayler","Tritonal Air Up There Remix",7
 "We Control the Sunlight","Aly & Fila feat. Jwaydan","Original Mix",7
 "We Fall Down","KEPIK feat. Shaley Scott","Original Mix",7
@@ -1237,11 +1367,14 @@ title,artist,version,rating
 "Welcome To Earth","Craig Connelly & Dan Thompson","Original Mix",7
 "What's Left Of Me","Nicolas Menicou","Original Mix",7
 "Whatever","Lost Witness vs. Sassot","Aly & Fila Remix",7
+"Whatever Happens vs. We Are the People","Mark Leanings vs. Empire of the Sun","Arctic Moon Remix; a cappella",7
 "When Darkness Falls","Inoblivion","Original Mix",7
 "When I Rock","Renegade System","Original Mix",7
 "When You Smile","Furkan Senol","Original Mix",7
+"When You Were Around","Dash Berlin feat. Kate Walsh","Ferry Fix",7
 "Where Did All the Years Go?","Kyau & Albert","Original Mix",7
 "Where I Begin","Dennis Sheperd & Katty Heath","Original Mix",7
+"Where Life Takes Us","Ben Gold","Original Mix",7
 "Where You Are","Hayla & John Summit","Junkie Kid Remix",7
 "Whispers","Ana Criado & Beat Service","Original Mix",7
 "White Lies","Paul van Dyk feat. Jessica Sutta","Berlin Vocal Mix",7
@@ -1250,6 +1383,7 @@ title,artist,version,rating
 "Who Will Find Me?","DJ Shah feat. Adrina Thorpe","Original Mix",10
 "Who Will Find Me?","DJ Shah feat. Adrina Thorpe","Original Summer Sunrise Mix",7
 "Who's Afraid Of 138?!","Armin van Buuren","Original Mix",7
+"Wild and Perfect Day","Rank 1 & Jochen Miller feat. Sarah Bettens","Original Mix",7
 "Will Be","DJ Butterfly","Dave202 & Virtual Vault Remix",7
 "Wings","Tom Swoon feat. Taylr Renee","Myon & Shane 54 Summer Of Love Mix",7
 "Winter Stayed","Triple A","Alex M.O.R.P.H. Remix",10
@@ -1268,10 +1402,12 @@ title,artist,version,rating
 "Year After","Chephren Blake feat. Meighan Nealon","Original Mix",7
 "Yet Another Day","Armin van Buuren feat. Ray Wilson","Original Mix",7
 "Yet Another Day","Armin van Buuren feat. Ray Wilson","The Noble Six Remix",7
+"Yin-Yang","Ashley Wallbridge","Original Mix",7
 "You & I","Ciaran McAuley, Roger Shah & Hannah Brine","Original Mix",7
 "You","Asteroid","Original Mix",7
 "You Are Enough","RAM, Susana & Tales of Life","Horisone Remix",7
 "You Are Here","Ija","Original Mix",7
+"You Belong to Megalodon","Bobina & Betsie Larkin vs. MaRLo","Xabi Only Mashup",7
 "You Can't Save Me","Lasse Macbeth & Josie Sandfeld","Original Mix",7
 "You Take My Hand","Tinlicker feat. Jamie Irrepressible","Reinier Zonneveld Remix",7
 "You Walk Away","tyDi feat. Audrey Gallagher","Original Mix",7
@@ -1282,10 +1418,13 @@ title,artist,version,rating
 "Your Destiny","Ultimate","Original Mix",7
 "Your Heart","SHato","Original Mix",7
 "Your Journey","Trance Wax","Original Mix",7
+"Your Secret's Safe","Super8 & Tab feat. Julie Thompson","Original Mix",7
 "Youtopia","Armin van Buuren feat. Adam Young","Original Mix",7
 "Youtopia","Armin van Buuren feat. Adam Young","Blake Jarrell Remix",7
 "Zenith","Greg Downey","Original Mix",7
 "Zero Gravity","Photographer & Abstract Vision","Original Mix",7
 "Zocalo","Armin van Buuren feat. Gabriel and Dresden","Original Mix",7
 "Zombie","Illenium, Excision & Wooli feat. Valerie Broussard","Original Mix",7
+"Zombie Promises","Zombie Nation & Chris Schweizer vs. Nero","Dashup",7
 "Zonderland","Acues and Elitist","8 Wonders Mirage at Dusk Remix",7
+"Zorro","Ashley Wallbridge","Rafaël Frost Remix",7

@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 242
-    date: 2006-03-30
+  - release: "2006-03-30: A State of Trance #242"
     tracks: 21
     liked:
       - From The Heart - Xposure
@@ -13,8 +12,7 @@ episodes:
       - Spirit - [Re:locate] feat. [Menno De Jong]
       - Kiksu - Kyau & Albert
 
-  - number: 244
-    date: 2006-04-13
+  - release: "2006-04-13: A State of Trance #244"
     tracks: 19
     liked:
       - Muhanjala - Duderstadt
@@ -24,10 +22,7 @@ episodes:
       - Blue Woods - [Danjo] and [Rob Styles] vs. [DJ Governor]
       - Tabla Mizma - [Thomas Datt] vs. [Robert Nickson]
 
-  - number: 246
-    date: 2006-04-27
+  - release: "2006-04-27: A State of Trance #246"
     tracks: 20
 
-  - number: 281
-    date: 2006-12-28
-    title: Yearmix
+  - release: '2006-12-28: A State of Trance #281, "Yearmix"'

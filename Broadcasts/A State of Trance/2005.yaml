@@ -4,12 +4,9 @@ series:
   status: incomplete
 
 episodes:
-  - number: 182
-    date: 2005-01-06
-    title: Yearmix
+  - release: '2005-01-06: A State of Trance #182, "Yearmix"'
 
-  - number: 198
-    date: 2005-05-26
+  - release: "2005-05-26: A State of Trance #198"
     tracks: 20
     liked:
       - <10> Butterfly Effect {[Lucas & Beltram] Mix} - [Niklas Harding] and [Tyu]
@@ -22,15 +19,13 @@ episodes:
       - The Day after Tomorrow - Musikman
       - ID {[M.I.K.E.] Remix} - Armin van Buuren
 
-  - number: 201
-    date: 2005-06-16
+  - release: "2005-06-16: A State of Trance #201"
     tracks: 21
     liked:
       - Majestic {[Arizona] vs. [Passiva] Remix} - Sayla
       - Aedena {[Octagen] Remix} - Matti Kotala
 
-  - number: 202
-    date: 2005-06-23
+  - release: "2005-06-23: A State of Trance #202"
     tracks: 25
     liked:
       - Zocalo - [Armin van Buuren] feat. [Gabriel and Dresden]
@@ -38,8 +33,7 @@ episodes:
       - Conflictions {[M.A.N.U.] Remix} - Tzooki
       - Gods Keyboard {[Coldware Cold] Remix} - Daniel B.
 
-  - number: 203
-    date: 2005-06-30
+  - release: "2005-06-30: A State of Trance #203"
     tracks: 21
     liked:
       - Ghost vs. Eighties {[Filo & Peri] Remix vs. Original Mix} - [Deepsky] feat. [Jes] vs. [Yilmaz Altanhan]
@@ -54,8 +48,7 @@ episodes:
       - Forum of Love {[DJ Danjo & Rob Styles] Remix} - Txitxarro
       - Now You See {[Ross Essenheim] Remix} - Mark Thornton
 
-  - number: 204
-    date: 2005-07-07
+  - release: "2005-07-07: A State of Trance #204"
     tracks: 21
     liked:
       - Forum of Love {[DJ Danjo & Rob Styles] Remix} - Txitxarro
@@ -66,16 +59,14 @@ episodes:
       - La Parts Des Anges {Siberian Sun Mix} - [Fred Baker] and [Vincent Gorczak]
       - Labyrinth - Arizona
 
-  - number: 205
-    date: 2005-07-17
+  - release: "2005-07-17: A State of Trance #205"
     tracks: 20
     liked:
       - Back in The Days - Leon Bolier
       - Shivver {[John O'Callaghan] Remix} - Agnelli & Nelson
       - Angels and Demons {[Carl B] Remix} - Armaz
 
-  - number: 206
-    date: 2005-07-21
+  - release: "2005-07-21: A State of Trance #206"
     tracks: 20
     liked:
       - One for The Road vs. We Will Rock {[Gabriel and Dresden] Remix vs. Acapella} - [Grayarea] vs. [Queen]
@@ -86,14 +77,12 @@ episodes:
       - Ibiza Sky {[Alex M.O.R.P.H.] Remix} - Kenny Hayes
       - Humanity {[Rank 1] Remix} - ATB
 
-  - number: 207
-    date: 2005-07-28
+  - release: "2005-07-28: A State of Trance #207"
     tracks: 21
     liked:
       - Halcyon {[Alex M.O.R.P.H.] Remix} - Andy Moor
 
-  - number: 208
-    date: 2005-08-04
+  - release: "2005-08-04: A State of Trance #208"
     tracks: 22
     liked:
       - Netherworld (2005) {[Oliver Prime] Remix} - L.S.G.
@@ -101,8 +90,7 @@ episodes:
       - Close Horizon - Thomas Bronzwaer
       - Find {[Kyau & Albert] Remix} - [Ridgewalkers] feat. [El]
 
-  - number: 209
-    date: 2005-08-11
+  - release: "2005-08-11: A State of Trance #209"
     tracks: 23
     liked:
       - Talk - [Max Graham] vs. [Coldplay]
@@ -111,8 +99,7 @@ episodes:
       - Vivagio {[DJ Danjo & Rob Styles] Remix} - Epos
       - Insider - Angelstyle
 
-  - number: 210
-    date: 2005-08-18
+  - release: "2005-08-18: A State of Trance #210"
     tracks: 27
     liked:
       - Distant Dreams {[Alex M.O.R.P.H.] Remix} - Nautical Imagery
@@ -121,8 +108,7 @@ episodes:
       - Beautiful {[Alt + F4] Remix} - Orkidea
       - Endorphine {[Arizona] Remix} - C-Quence
 
-  - number: 211
-    date: 2005-08-25
+  - release: "2005-08-25: A State of Trance #211"
     tracks: 24
     liked:
       - Need For Cognition - Hawk
@@ -132,16 +118,14 @@ episodes:
       - Forum of Love {[DJ Danjo & Rob Styles] Remix} - Txitxarro
       - Summer Dream {[Stoneface & Terminal] Remix} - Kuffdam & Plant
 
-  - number: 212
-    date: 2005-09-01
+  - release: "2005-09-01: A State of Trance #212"
     tracks: 20
     liked:
       - Another Situation - [Terry Bones] vs. [Precision]
       - By Your Side - [The Thrillseekers] feat. [Gina Dootson]
       - Babylon {[Icone] Remix} - Hemstock & Jennings
 
-  - number: 213
-    date: 2005-09-08
+  - release: "2005-09-08: A State of Trance #213"
     tracks: 20
     liked:
       - You Are Here - Ija
@@ -150,13 +134,10 @@ episodes:
       - We Accepted - Deep Care
       - Timeless {[Deepwide] Remix} - Will Holland
 
-  - number: 214
-    date: 2005-09-15
+  - release: "2005-09-15: A State of Trance #214"
     tracks: 19
     liked:
       - Remember Me {[Terry Bones] Remix} - Interstate
       - Summer Dream {[Stoneface & Terminal] Remix} - Kuffdam & Plant
 
-  - number: 229
-    date: 2005-12-29
-    title: Yearmix
+  - release: '2005-12-29: A State of Trance #229, "Yearmix"'

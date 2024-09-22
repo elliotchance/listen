@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 701
-    date: 2015-02-19
+  - release: "2015-02-19: A State of Trance #701"
     tracks: 31
     liked:
       - Cynical Orange - Kago Pengchi
@@ -15,8 +14,7 @@ episodes:
       - <10> Into The Dusk - Arctic Moon
       - Fragments - Cold Rush
 
-  - number: 702
-    date: 2015-02-26
+  - release: "2015-02-26: A State of Trance #702"
     tracks: 31
     liked:
       - This Will Be Your Happiness {[Steve Brian] Remix} - [Cosmic Gate] feat. [Jennifer Cooke]
@@ -40,8 +38,7 @@ episodes:
       - Free Fallin - [Claudia Cazacu] feat. [Audrey Gallagher]
       - <10> Slave To Doubt - [Matt Bukovski] feat. [Cynthia Hall]
 
-  - number: 703
-    date: 2015-03-05
+  - release: "2015-03-05: A State of Trance #703"
     tracks: 31
     liked:
       - Ashes - [Denis Kenzo] feat. [Sarah Lynn]
@@ -58,8 +55,7 @@ episodes:
       - A Light Inside {[ReOrder] Dub Remix} - [Roman Messer] & [Sarah Shields]
       - Aztec {[Neptune Project]'s Future Mix} - Neptune Project
 
-  - number: 704
-    date: 2015-03-12
+  - release: "2015-03-12: A State of Trance #704"
     tracks: 32
     liked:
       - The Same - Kyau & Albert
@@ -78,8 +74,7 @@ episodes:
       - <10> To The Lost - Amir Hussain
       - Endless - Illitheas
 
-  - number: 705
-    date: 2015-03-19
+  - release: "2015-03-19: A State of Trance #705"
     tracks: 32
     liked:
       - Someone Like You - [RAM] feat. [Susana]
@@ -97,8 +92,7 @@ episodes:
       - Drop The Bass - Simon Patterson
       - Marrakech {Club Mix} - ATB
 
-  - number: 706
-    date: 2015-03-26
+  - release: "2015-03-26: A State of Trance #706"
     tracks: 36
     liked:
       - Awake {[Jakko] Remix} - [Killogy] & [Matthew White] feat. [Angelika Vee]
@@ -114,8 +108,7 @@ episodes:
       - Terra Australis {[Talla 2XLC] vs. [Jorn van Deynhoven] 2015 Mix} - Talla 2XLC
       - <10> Magic Light - [STANDERWICK] & [Philippe El Sisi] feat. [Ana Criado]
 
-  - number: 708
-    date: 2015-04-09
+  - release: "2015-04-09: A State of Trance #708"
     tracks: 35
     liked:
       - Generate - Eric Prydz
@@ -129,8 +122,7 @@ episodes:
       - Shine {Club Mix} - [Aly & Fila] feat. [Roxanne Emery]
       - Snapshot - [Kinetica] & [Dave Wright]
 
-  - number: 709
-    date: 2015-04-16
+  - release: "2015-04-16: A State of Trance #709"
     tracks: 34
     liked:
       - Another You - [Armin van Buuren] feat. [Mr. Probz]
@@ -143,8 +135,7 @@ episodes:
       - Renegade - James Dymond
       - Vivid - [Re:locate] vs. [Robert Nickson]
 
-  - number: 711
-    date: 2015-04-30
+  - release: "2015-04-30: A State of Trance #711"
     tracks: 32
     liked:
       - Are You With Me {[Dash Berlin] Remix} - Lost Frequencies
@@ -157,8 +148,7 @@ episodes:
       - I Feel Love {[Andres Sanchez] & [Omar Sherif] Rework} - CRW
       - All Of Us - [STANDERWICK] feat. [Jennifer Rene]
 
-  - number: 712
-    date: 2015-05-07
+  - release: "2015-05-07: A State of Trance #712"
     tracks: 34
     liked:
       - The Other Shore {[Aruna] vs. [Steve Kaetzel] Remix} - [Aly & Fila] feat. [Aruna]
@@ -176,8 +166,7 @@ episodes:
       - Find A Way - [Photographer] & [Susana]
       - New York City - [Paul van Dyk] & [Starkillers] & [Austin Leeds] feat. [Ashley Tomberlin]
 
-  - number: 713
-    date: 2015-05-14
+  - release: "2015-05-14: A State of Trance #713"
     tracks: 34
     liked:
       - It's In Your Heart {Club Mix} - [David Gravell] feat. [Christon]
@@ -194,8 +183,7 @@ episodes:
       - Medic {[Arctic Moon] Remix} - Jordan Suckley
       - Don't Leave - Andres Sanchez
 
-  - number: 714
-    date: 2015-05-21
+  - release: "2015-05-21: A State of Trance #714"
     tracks: 34
     liked:
       - Huracan {[Ben Gold] Remix} - Gareth Emery
@@ -203,6 +191,4 @@ episodes:
       - U And Us - [Ultimate] & [Moonsouls]
       - Let Loose - Sam Jones
 
-  - number: 746
-    date: 2015-12-31
-    title: Yearmix
+  - release: '2015-12-31: A State of Trance #746, "Yearmix"'

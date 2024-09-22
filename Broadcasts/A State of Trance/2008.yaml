@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 383
-    date: 2008-12-18
+  - release: "2008-12-18: A State of Trance #383"
     tracks: 24
     liked:
       - Unforgivable {[First State] Smooth Remix} - [Armin van Buuren] feat. [Jaren]
@@ -22,6 +21,4 @@ episodes:
       - Breaking Ties {[Above & Beyond] Analogue Haven Mix} - OceanLab
       - La Guitarra - Ørjan Nilsen
 
-  - number: 384
-    date: 2008-12-25
-    title: Yearmix
+  - release: '2008-12-25: A State of Trance #384, "Yearmix"'

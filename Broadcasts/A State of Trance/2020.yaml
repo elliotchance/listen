@@ -4,25 +4,21 @@ series:
   status: incomplete
 
 episodes:
-  - number: 947
-    date: 2020-01-02
+  - release: "2020-01-02: A State of Trance #947"
     liked:
       - Epoch - [Roger Shah], [Pierre Pienaar] & [Dirkie Coetzee]
 
-  - number: 948
-    date: 2020-01-09
+  - release: "2020-01-09: A State of Trance #948"
     liked:
       - Atmosphere - [Darren O'Brien] & [Alex Holmes]
       - Adrenaline {[James Dymond] Remix} - Bryan Kearney
 
-  - number: 949
-    date: 2020-01-16
+  - release: "2020-01-16: A State of Trance #949"
     liked:
       - Shine - [Rub!k] feat. [Linney]
       - Runaway {[Erly Tepshi] Remix} - [Armin van Buuren] feat. [Candace Sosa]
 
-  - number: 950
-    date: 2020-02-15
+  - release: "2020-02-15: A State of Trance #950"
     liked:
       - Made Of Love - [Ferry Corsten] feat. [Betsie Larkin]
       - Fallen Angel {[Dennis Sheperd] Club Mix} - [Dennis Sheperd] & [Cold Blue] feat. [Ana Criado]
@@ -31,31 +27,25 @@ episodes:
       - I Love You - [Key4050] & [Plumb]
       - Burned With Desire - [Armin van Buuren] feat. [Justine Suissa]
 
-  - number: 952
-    date: 2020-02-20
+  - release: "2020-02-20: A State of Trance #952"
     liked:
       - Missing - [Mark Sixma] & [Emma Hewitt]
 
-  - number: 953
-    date: 2020-02-27
+  - release: "2020-02-27: A State of Trance #953"
     liked:
       - Saltwater {[Kevin de Vries] Remix} - [Chicane] feat. [Moya Brennan]
       - After the Rain {Club Mix} - [The Thrillseekers] & [Hydra]
       - When I Rock - Renegade System
 
-  - number: 954
-    date: 2020-03-05
+  - release: "2020-03-05: A State of Trance #954"
     liked:
       - Waiting on the Other Side {Club Mix} - [Jorn van Deynhoven] & [Christina Novelli]
       - Miles Away {Album Edit} - [Armin van Buuren] feat. [Sam Martin]
       - Telescope - Will Atkinson
       - Shelter {[Photographer] Remix} - [Dash Berlin] feat. [Roxanne Emery]
 
-  - number: 955
-    date: 2020-03-12
+  - release: "2020-03-12: A State of Trance #955"
     liked:
       - Someone Like You - [Armin van Buuren] & [Susana]
 
-  - number: 997
-    date: 2020-12-31
-    title: Yearmix
+  - release: '2020-12-31: A State of Trance #997, "Yearmix"'

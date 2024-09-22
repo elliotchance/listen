@@ -3,49 +3,41 @@ series:
   status: incomplete
 
 episodes:
-  - number: 1154
-    date: 2024-01-04
+  - release: "2024-01-04: A State of Trance #1154"
     liked:
       - Take Me Home - [C-Systems] & [Aina]
       - Anywhere {Road Trippin'} - anamē
       - Carte Blanche - [Dirty South] & [Ferry Corsten]
       - If You Only Knew - [Hel:sløwed] & [Amber Revival]
 
-  - number: 1155
-    date: 2024-01-11
+  - release: "2024-01-11: A State of Trance #1155"
     liked:
       - Dayglow {[Bryan Kearney] Remix} - [Armin van Buuren] feat. [Stuart Crichton]
       - Run - [Liam Melly], [Code 2] & [Chelsea Holland]
       - Hector - Silva City
 
-  - number: 1156
-    date: 2024-01-18
+  - release: "2024-01-18: A State of Trance #1156"
     liked:
       - Northern Soul {[ilan Bluestone] Remix} - [Above & Beyond] feat. [Richard Bedford]
       - Rebel Anthem {[Black Xs] Remix} - Obie Fernandez
 
-  - number: 1157
-    date: 2024-01-25
+  - release: "2024-01-25: A State of Trance #1157"
     liked:
       - Here I Am {[Richard Durand] Remix} - [Nicholas Gunn] & [Harshil Kamdar] feat. [Alina Renae]
 
-  - number: 1158
-    date: 2024-02-01
+  - release: "2024-02-01: A State of Trance #1158"
     liked:
       - Nano - Sønin
 
-  - number: 1159
-    date: 2024-02-08
+  - release: "2024-02-08: A State of Trance #1159"
     liked:
       - Need to Feel Loved - [Cosmic Gate] & [Forêt]
 
-  - number: 1160
-    date: 2024-02-15
+  - release: "2024-02-15: A State of Trance #1160"
     liked:
       - Castles in the Sky - i_o
 
-  - number: 1161
-    date: 2024-02-22
+  - release: "2024-02-22: A State of Trance #1161"
     notes: The Spotify episode also included the 6 hour classic set.
     liked:
       - Flashpoint - Taylor Torrence
@@ -58,40 +50,31 @@ episodes:
       - The Air I Breathe - [Richard Durand], [Christina Novelli]
       - Rest of Our Lives - Ben Gold
 
-  - number: 1162
-    date: 2024-02-29
+  - release: "2024-02-29: A State of Trance #1162"
     liked:
       - Forever - [Bogdan Vix] & [Renee Stahl]
 
-  - number: 1163
-    date: 2024-03-07
+  - release: "2024-03-07: A State of Trance #1163"
     liked:
       - I Wish - [Andrew Rayel], [Robbie Seed] & [Jimmy Chou] feat. [That Girl]
 
-  - number: 1164
-    date: 2024-03-14
+  - release: "2024-03-14: A State of Trance #1164"
 
-  - number: 1165
-    date: 2024-03-21
+  - release: "2024-03-21: A State of Trance #1165"
     liked:
       - Just As You Are - [Armin van Buuren] & [Rising Star] feat. [Fiora]
 
-  - number: 1166
-    date: 2024-03-28
+  - release: "2024-03-28: A State of Trance #1166"
 
-  - number: 1167
-    date: 2024-04-04
+  - release: "2024-04-04: A State of Trance #1167"
 
-  - number: 1168
-    date: 2024-04-11
+  - release: "2024-04-11: A State of Trance #1168"
 
-  - number: 1169
-    date: 2024-04-18
+  - release: "2024-04-18: A State of Trance #1169"
     liked:
       - Temple Voices - Steve Dekay
 
-  - number: 1170
-    date: 2024-04-25
+  - release: "2024-04-25: A State of Trance #1170"
     liked:
       - All Over Again - [Bryan Kearney] & [Plumb]
       - <10> Amsterdam {[Smith & Pledger] Remix} - Luminary
@@ -102,22 +85,19 @@ episodes:
       - Satellite {[Above & Beyond] Remix} - OceanLab
       - Silence {[Tiësto]'s in Search of Sunrise Remix} - [Delerium] feat. [Sarah McLachlan]
 
-  - number: 1171
-    date: 2024-05-02
+  - release: "2024-05-02: A State of Trance #1171"
     liked:
       - Piece of Art {[Darren Porter] Remix} - Kryder
       - Out of the Sky {[Chris Schweizer] Remix} - [Lange] & [Sarah Howells]
 
-  - number: 1172
-    date: 2024-05-09
+  - release: "2024-05-09: A State of Trance #1172"
     tracks: 27
     urls:
       - https://1001.tl/11zy9vl1
     liked:
       - ID - Silva City
 
-  - number: 1173
-    date: 2024-05-16
+  - release: "2024-05-16: A State of Trance #1173"
     tracks: 29
     urls:
       - https://1001.tl/2vrr84lk
@@ -125,44 +105,38 @@ episodes:
       - By Now {VIP Mix} - [Armin van Buuren] & [D.O.D] feat. [Laura Welsh]
       - Kalopsia {[Matt Fax] Remix} - The Blizzard
 
-  - number: 1174
-    date: 2024-05-23
+  - release: "2024-05-23: A State of Trance #1174"
     tracks: 29
     urls:
       - https://1001.tl/1u6w7tj1
 
-  - number: 1175
-    date: 2024-05-30
+  - release: "2024-05-30: A State of Trance #1175"
     tracks: 32
     urls:
       - https://1001.tl/quft7sk
     liked:
       - Into the Night - [Audorn] & [Sarah de Warren]
 
-  - number: 1176
-    date: 2024-06-06
+  - release: "2024-06-06: A State of Trance #1176"
     tracks: 31
     urls:
       - https://1001.tl/9t7pbd1
 
-  - number: 1177
-    date: 2024-06-13
+  - release: "2024-06-13: A State of Trance #1177"
     tracks: 29
     urls:
       - https://1001.tl/1hz5ju2t
     liked:
       - Castles in the Sky - [P.O.U] & [Scott Forshaw]
 
-  - number: 1178
-    date: 2024-06-20
+  - release: "2024-06-20: A State of Trance #1178"
     tracks: 32
     urls:
       - https://1001.tl/2vrxc0x1
     liked:
       - Out There {[Uufo] Remix} - [Masters & Nickson] feat. [Justine Suissa]
 
-  - number: 1179
-    date: 2024-06-27
+  - release: "2024-06-27: A State of Trance #1179"
     urls:
       - https://1001.tl/1pl1wuuk
     liked:
@@ -170,8 +144,7 @@ episodes:
       - I Don't Deserve You {[John O'Callaghan] Remix} - [Paul van Dyk] feat. [Plumb]
       - Galaxy - Maarten de Jong
 
-  - number: 1180
-    date: 2024-07-04
+  - release: "2024-07-04: A State of Trance #1180"
     urls:
       - https://1001.tl/z6v2dh9
     liked:
@@ -182,8 +155,7 @@ episodes:
       - Lie Smile Fly - [Db Mokk] & [DNY'L]
       - Sun & Moon {Club Mix} - [Above & Beyond] feat. [Richard Bedford]
 
-  - number: 1181
-    date: 2024-07-11
+  - release: "2024-07-11: A State of Trance #1181"
     urls:
       - https://1001.tl/hd7s0z1
     liked:
@@ -191,7 +163,6 @@ episodes:
       - Interstellar {[York]'s Back in the Past Mix} - Torsten Stenzel
       - On the Beach 2013 {[York]'s Uplifting Rework} - York
 
-  - number: 1182
-    date: 2024-07-18
+  - release: "2024-07-18: A State of Trance #1182"
     urls:
       - https://1001.tl/y93ntq1

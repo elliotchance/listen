@@ -11,38 +11,32 @@ episodes:
     liked:
       - ID - ID
 
-  - number: 1
-    date: 2001-06-01
+  - release: "2001-06-01: A State of Trance #1"
     urls:
       - https://1001.tl/38zxw8k
     tracks: 19
 
-  - number: 2
-    date: 2001-06-08
+  - release: "2001-06-08: A State of Trance #2"
     tracks: 18
     urls:
       - https://1001.tl/6d4sbw1
 
-  - number: 3
-    date: 2001-06-15
+  - release: "2001-06-15: A State of Trance #3"
     tracks: 19
     urls:
       - https://1001.tl/2kyq9m9
 
-  - number: 4
-    date: 2001-06-22
+  - release: "2001-06-22: A State of Trance #4"
     tracks: 20
     urls:
       - https://1001.tl/2gzblbk
 
-  - number: 5
-    date: 2001-06-29
+  - release: "2001-06-29: A State of Trance #5"
     tracks: 23
     urls:
       - https://1001.tl/1g698kt
 
-  - number: 6
-    date: 2001-07-20
+  - release: "2001-07-20: A State of Trance #6"
     tracks: 23
     urls:
       - https://1001.tl/1r4r82k
@@ -50,88 +44,75 @@ episodes:
       - Into The Night - 4 Strings
       - The Legacy - Push
 
-  - number: 7
-    date: 2001-07-27
+  - release: "2001-07-27: A State of Trance #7"
     tracks: 22
     urls:
       - https://1001.tl/6y1b1tk
 
-  - number: 8
-    date: 2001-08-03
+  - release: "2001-08-03: A State of Trance #8"
     tracks: 21
     urls:
       - https://1001.tl/qk214j1
 
-  - number: 9
-    date: 2001-08-10
+  - release: "2001-08-10: A State of Trance #9"
     tracks: 22
     urls:
       - https://1001.tl/2ukblgl1
 
-  - number: 10
-    date: 2001-08-17
+  - release: "2001-08-17: A State of Trance #10"
     tracks: 21
     urls:
       - https://1001.tl/qkscbzt
 
-  - number: 11
-    date: 2001-08-24
+  - release: "2001-08-24: A State of Trance #11"
     tracks: 18
     urls:
       - https://1001.tl/1mfn8hbk
     liked:
       - Ibeatza - Poison Club
 
-  - number: 12
-    date: 2001-09-07
+  - release: "2001-09-07: A State of Trance #12"
     tracks: 21
     urls:
       - https://1001.tl/9jjz4k9
 
-  - number: 13
-    date: 2001-09-14
+  - release: "2001-09-14: A State of Trance #13"
     tracks: 21
     urls:
       - https://1001.tl/2pwbbsuk
 
-  - number: 14
-    date: 2001-09-21
+  - release: "2001-09-21: A State of Trance #14"
     tracks: 21
     urls:
       - https://1001.tl/22bh95mk
 
-  - number: 15
-    date: 2001-09-28
+  - release: "2001-09-28: A State of Trance #15"
     tracks: 20
     urls:
       - https://1001.tl/28v30b19
     liked:
       - Razorfish {[Above & Beyond] Progressive Mix} - [Tranquility Base]
 
-  - number: 16
-    date: 2001-10-05
+  - release: "2001-10-05: A State of Trance #16"
     tracks: 21
     urls:
       - https://1001.tl/jyypws9
 
-  - number: 17
-    date: 2001-10-11
+  - release: "2001-10-11: A State of Trance #17"
     tracks: 20
     urls:
       - https://1001.tl/11rducqt
     liked:
       - Rapture {[Armin van Buuren] Remix} - iiO
 
-  - number: 18
-    date: 2001-10-18
+  - release: "2001-10-18: A State of Trance #18"
     tracks: 22
     urls:
       - https://1001.tl/f7ssvc9
     liked:
       - Rapture {[Armin van Buuren] Remix} - iiO
 
-  - number: 19
-    date: 2001-10-25
+  - release: "2001-10-25: A State of Trance #19"
     tracks: 21
     urls:
       - https://1001.tl/2dlbn79t
@@ -139,14 +120,12 @@ episodes:
       - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
       - Resurection {Space Club Mix} - ППК
 
-  - number: 20
-    date: 2001-11-01
+  - release: "2001-11-01: A State of Trance #20"
     tracks: 9
     urls:
       - https://1001.tl/1mfpfsq1
 
-  - number: 21
-    date: 2001-11-08
+  - release: "2001-11-08: A State of Trance #21"
     tracks: 18
     urls:
       - https://1001.tl/1lhvs759
@@ -154,14 +133,12 @@ episodes:
       - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
       - Resurection - ППК
 
-  - number: 22
-    date: 2001-11-15
+  - release: "2001-11-15: A State of Trance #22"
     tracks: 19
     urls:
       - https://1001.tl/nq65t3t
 
-  - number: 23
-    date: 2001-11-22
+  - release: "2001-11-22: A State of Trance #23"
     tracks: 20
     urls:
       - https://1001.tl/2nykqqm1
@@ -169,36 +146,31 @@ episodes:
       - Clear Blue Water {[Ferry Corsten] Remix} - OceanLab
       - Resurection {Space Club Mix} - ППК
 
-  - number: 24
-    date: 2001-11-29
+  - release: "2001-11-29: A State of Trance #24"
     tracks: 18
     urls:
       - https://1001.tl/2n0s1529
 
-  - number: 25
-    date: 2001-12-06
+  - release: "2001-12-06: A State of Trance #25"
     tracks: 20
     urls:
       - https://1001.tl/1zk36j0t
 
-  - number: 26
-    date: 2001-12-13
+  - release: "2001-12-13: A State of Trance #26"
     tracks: 21
     urls:
       - https://1001.tl/u90qp91
     liked:
       - Drifting Away - [Lange] feat. [Skye]
 
-  - number: 27
-    date: 2001-12-20
+  - release: "2001-12-20: A State of Trance #27"
     tracks: 20
     urls:
       - https://1001.tl/1ymb07s9
     liked:
       - Moments Are Forever - Moon Project
 
-  - number: 28
-    date: 2001-12-27
+  - release: "2001-12-27: A State of Trance #28"
     tracks: 20
     urls:
       - https://1001.tl/5wtkfzt

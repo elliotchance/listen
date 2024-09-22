@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 747
-    date: 2016-01-07
+  - release: "2016-01-07: A State of Trance #747"
     liked:
       - Anti Social Media - [Coming Soon!!!] & [Bryan Kearney]
       - Ashes {[Cold Rush] Remix} - [Denis Kenzo] feat. [Sarah Lynn]
@@ -13,8 +12,7 @@ episodes:
       - Clear Blue Moon {[Will Rees] Remix} - [Armin van Buuren] & [Rising Star]
       - Neurochemistry - [Ace Ventura] & [Liquid Soul]
 
-  - number: 753
-    date: 2016-03-03
+  - release: "2016-03-03: A State of Trance #753"
     tracks: 28
     liked:
       - Beautiful {[MaRLo] Remix} - Ferry Corsten
@@ -25,8 +23,7 @@ episodes:
       - Embrace You {[Maratone] Remix} - Jo Cartwright
       - Timelapse - Amir Hussain
 
-  - number: 759
-    date: 2016-04-14
+  - release: "2016-04-14: A State of Trance #759"
     tracks: 32
     liked:
       - ID - ID
@@ -35,8 +32,7 @@ episodes:
       - ID - ID
       - ID - ID
 
-  - number: 767
-    date: 2016-06-09
+  - release: "2016-06-09: A State of Trance #767"
     tracks: 33
     liked:
       - Conspiracy - Lange
@@ -51,8 +47,7 @@ episodes:
       - Sapera - Factor B
       - Halcyon {[Alex M.O.R.P.H.] Remix} - Andy Moor
 
-  - number: 795
-    date: 2016-12-22
+  - release: "2016-12-22: A State of Trance #795"
     tracks: 31
     liked:
       - Heading Up High {[First State] Remix} - [Armin van Buuren] feat. [Kensington]
@@ -60,6 +55,4 @@ episodes:
       - Faded {[Talla 2XLC] Uplifting Rework} - Alan Walker
       - Forever And A Day - [RAM] feat. [Stine Grove]
 
-  - number: 796
-    date: 2016-12-29
-    title: Yearmix
+  - release: '2016-12-29: A State of Trance #796, "Yearmix"'

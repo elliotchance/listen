@@ -4,14 +4,12 @@ series:
   status: complete
 
 episodes:
-  - number: 998
-    date: 2021-01-07
+  - release: "2021-01-07: A State of Trance #998"
     tracks: 30
     liked:
       - Carry You Home - [Andrew Rayel] & [Tensteps] feat. [Runaground]
 
-  - number: 999
-    date: 2021-01-14
+  - release: "2021-01-14: A State of Trance #999"
     tracks: 30
     liked:
       - Skyfire - Shogun
@@ -20,161 +18,135 @@ episodes:
       - An Angel's Love - [Alex M.O.R.P.H.] feat. [Sylvia Tosun]
       - Big Sky {[Agnelli & Nelson] Remix} - [John O'Callaghan] feat. [Audrey Gallagher]
 
-  - number: 1000
-    date: 2021-11-19
+  - release: "2021-11-19: A State of Trance #1000"
     tracks: 44
 
-  - number: 1001
-    date: 2021-01-28
+  - release: "2021-01-28: A State of Trance #1001"
     tracks: 26
 
-  - number: 1002
-    date: 2021-02-04
+  - release: "2021-02-04: A State of Trance #1002"
     tracks: 27
 
-  - number: 1003
-    date: 2021-02-11
+  - release: "2021-02-11: A State of Trance #1003"
     tracks: 30
     liked:
       - Legend - Maywave
       - Somersault - Story of Oz
       - Closer to You {[Lasse Macbeth] Remix} - Maratone & Linney
 
-  - number: 1004
-    date: 2021-02-18
+  - release: "2021-02-18: A State of Trance #1004"
     tracks: 29
     liked:
       - Timeless {[Dustin Husain] Remix} - [Solis] & [Sean Truby] feat. [Anthya]
 
-  - number: 1005
-    date: 2021-02-25
+  - release: "2021-02-25: A State of Trance #1005"
     tracks: 28
     liked:
       - Classmate - Giuseppe Ottaviani
       - Time & Space - Ehren Stowers
 
-  - number: 1006
-    date: 2021-03-04
+  - release: "2021-03-04: A State of Trance #1006"
     tracks: 27
     liked:
       - Lifter - Starpicker
       - Needed You {[Sam Laxton] Remix} - [Ghost Etiquette] feat. [Aza Nabuko]
       - Digital Odyssey - Евгений Лебедев
 
-  - number: 1007
-    date: 2021-03-11
+  - release: "2021-03-11: A State of Trance #1007"
     tracks: 27
     liked:
       - To Get to You {[Cubicore] Remix} - [Steve Brian], [Nathan Rux] & [Rachael Nemiroff]
       - Lucky Penny {[XiJaro & Pitch] Remix} - [Elevven] & [Ruben de Ronde]
 
-  - number: 1008
-    date: 2021-03-18
+  - release: "2021-03-18: A State of Trance #1008"
     tracks: 28
     liked:
       - Bloodstream - [Ferry Corsten] & [Ruben de Ronde]
 
-  - number: 1009
-    date: 2021-03-25
+  - release: "2021-03-25: A State of Trance #1009"
     tracks: 30
     liked:
       - Hammer Time - [Chris Schweizer] & [Paul Denton]
       - Step Into The Light {[Jase Thirlwall] Remix} - [Fabio XB] & [Liuck] feat. [Christina Novelli]
 
-  - number: 1010
-    date: 2021-04-01
+  - release: "2021-04-01: A State of Trance #1010"
     tracks: 27
 
-  - number: 1011
-    date: 2021-04-08
+  - release: "2021-04-08: A State of Trance #1011"
     tracks: 29
     liked:
       - Safe on Both Sides - Andy Moor
       - Beside You {[Sean Tyas] Magikal Mix} - [Somna] & [Noire Lee]
       - Salida Del Sol {[Derek Palmer] Remix} - [Cyre] & [DJ T.H.]
 
-  - number: 1012
-    date: 2021-04-15
+  - release: "2021-04-15: A State of Trance #1012"
     tracks: 29
 
-  - number: 1013
-    date: 2021-04-22
+  - release: "2021-04-22: A State of Trance #1013"
     tracks: 31
     liked:
       - Change the World - [Ben Gold] & [Allen Watts]
 
-  - number: 1014
-    date: 2021-04-29
+  - release: "2021-04-29: A State of Trance #1014"
     tracks: 29
     liked:
       - Lose Yourself - [Ruben de Ronde] & [That Girl]
 
-  - number: 1015
-    date: 2021-05-06
+  - release: "2021-05-06: A State of Trance #1015"
     tracks: 26
     liked:
       - Alone - Ruddaz
 
-  - number: 1016
-    date: 2021-05-13
+  - release: "2021-05-13: A State of Trance #1016"
     tracks: 30
     liked:
       - Paradise Found - Adam Taylor
 
-  - number: 1017
-    date: 2021-05-20
+  - release: "2021-05-20: A State of Trance #1017"
     tracks: 27
     liked:
       - I Love You - [Key4050] & [Plumb]
       - Are You With Me {[Sector 7] Remix} - [Markus Schulz] & [Daimy Lotus]
       - Paradise Found - Adam Taylor
 
-  - number: 1018
-    date: 2021-05-27
+  - release: "2021-05-27: A State of Trance #1018"
     tracks: 28
     liked:
       - Paradise Found - Adam Taylor
 
-  - number: 1019
-    date: 2021-06-03
+  - release: "2021-06-03: A State of Trance #1019"
     tracks: 28
     liked:
       - Gravity - [Tom Staar], [Jem Cooke] & [AVIRA]
 
-  - number: 1020
-    date: 2021-06-10
+  - release: "2021-06-10: A State of Trance #1020"
     tracks: 28
     liked:
       - Our Desire - [Tekno], [DJ T.H.] & [That Girl]
       - Lost - [Liam Melly] & [Jessica Doherty]
 
-  - number: 1021
-    date: 2021-06-17
+  - release: "2021-06-17: A State of Trance #1021"
     tracks: 31
     liked:
       - Synaesthesia {[Umek] Remix} - The Thrillseekers
 
-  - number: 1022
-    date: 2021-06-24
+  - release: "2021-06-24: A State of Trance #1022"
     tracks: 30
     liked:
       - Night City {[Dustin Husain] Remix} - Parnassvs
 
-  - number: 1023
-    date: 2021-07-01
+  - release: "2021-07-01: A State of Trance #1023"
     tracks: 27
     liked:
       - That's Life - Scorz
 
-  - number: 1024
-    date: 2021-07-08
+  - release: "2021-07-08: A State of Trance #1024"
     tracks: 29
     liked:
       - Be the Angel - [Giuseppe Ottaviani] & [Lucid Blue]
       - Last Goodbye - Luke Bond
 
-  - number: 1025
-    date: 2021-07-15
+  - release: "2021-07-15: A State of Trance #1025"
     tracks: 29
     liked:
       - Personal Jesus {[Cubicore] Deep Mix} - [Cubicore] & [Shane 54]
@@ -183,16 +155,13 @@ episodes:
       - ID - ID
       - Lose Control - Craig Connelly
 
-  - number: 1026
-    date: 2021-07-22
+  - release: "2021-07-22: A State of Trance #1026"
     tracks: 30
 
-  - number: 1027
-    date: 2021-07-29
+  - release: "2021-07-29: A State of Trance #1027"
     tracks: 27
 
-  - number: 1028
-    date: 2021-08-05
+  - release: "2021-08-05: A State of Trance #1028"
     tracks: 28
     liked:
       - The Fusion {[Blastoyz] Remix} - [Omnia] & [Ira]
@@ -201,12 +170,10 @@ episodes:
       - Vertigo - [Allen Watts] & [Kinetica]
       - Just as You Are - [Armin van Buuren] & [Rising Star] feat. [Fiora]
 
-  - number: 1029
-    date: 2021-08-12
+  - release: "2021-08-12: A State of Trance #1029"
     tracks: 23
 
-  - number: 1030
-    date: 2021-08-19
+  - release: "2021-08-19: A State of Trance #1030"
     tracks: 23
     liked:
       - Nothing to Hide - [Cosmic Gate] & [Diana Miro]
@@ -214,8 +181,7 @@ episodes:
       - ID - Armin van Buuren
       - Sound of Silence - Haikal Ahmad
 
-  - number: 1031
-    date: 2021-08-26
+  - release: "2021-08-26: A State of Trance #1031"
     tracks: 29
     liked:
       - Holding On - Cubicore
@@ -223,22 +189,19 @@ episodes:
       - Sail Away {Club Mix} - [Sunlounger] feat. [Susie Ledge]
       - Hard_Vox_Tekk_ - [Will Atkinson] & [Klaus Kaz]
 
-  - number: 1032
-    date: 2021-09-02
+  - release: "2021-09-02: A State of Trance #1032"
     tracks: 23
     liked:
       - Love Is Love - [Farius] & [Sue McLaren]
       - Sirius - [Armin van Buuren] & [AVIRA]
       - Everafter {[Cubicore] Remix} - [Tritonal] feat. [Cristina Soto]
 
-  - number: 1033
-    date: 2021-09-09
+  - release: "2021-09-09: A State of Trance #1033"
     tracks: 26
     liked:
       - My Guiding Light - [Christina Novelli] & [Richard Durand]
 
-  - number: 1034
-    date: 2021-09-16
+  - release: "2021-09-16: A State of Trance #1034"
     tracks: 32
     liked:
       - For All Time - [Armin van Buuren] and [Aly & Fila] feat. [Kazi Jay]
@@ -246,8 +209,7 @@ episodes:
       - Bloodstream {[Ben Gold] Remix} - [Ferry Corsten] & [Ruben de Ronde]
       - Out There {[Sean Tyas] Remix} - [Masters & Nickson] feat. [Justine Suissa]
 
-  - number: 1035
-    date: 2021-09-23
+  - release: "2021-09-23: A State of Trance #1035"
     tracks: 29
     liked:
       - Out of the Dark - [Tritonal] & [EMME]
@@ -256,85 +218,72 @@ episodes:
       - Crash - [Mark Sixma], [M6] & [ReOrder] feat. [Sydnee Carter]
       - Shigure - Aki Harunari
 
-  - number: 1036
-    date: 2021-09-30
+  - release: "2021-09-30: A State of Trance #1036"
     tracks: 26
     liked:
       - Caught in a Memory - [Kojun] & [Susana]
       - Out There {[Sean Tyas] Remix} - [Masters & Nickson] feat. [Justine Suissa]
 
-  - number: 1037
-    date: 2021-10-07
+  - release: "2021-10-07: A State of Trance #1037"
     tracks: 28
     liked:
       - Hold Me {[Natrx] Remix} - Minus One
 
-  - number: 1038
-    date: 2021-10-14
+  - release: "2021-10-14: A State of Trance #1038"
     tracks: 40
     liked:
       - Mr. Navigator - [Armin van Buuren] & [Tempo Giusto]
 
-  - number: 1039
-    date: 2021-10-21
+  - release: "2021-10-21: A State of Trance #1039"
     tracks: 27
     liked:
       - Swept Away {Uplifting Mix} - [Matt Bukovski] feat. [Tiff Lacey]
       - Eskimo - Story of Oz
       - A Promise I Can't Keep - Susana
 
-  - number: 1040
-    date: 2021-10-28
+  - release: "2021-10-28: A State of Trance #1040"
     tracks: 28
     liked:
       - Miharo - Signum
       - Ghost - Signum
       - The Oath {Club Mix} - [John O'Callaghan] & [Factor B]
 
-  - number: 1041
-    date: 2021-11-04
+  - release: "2021-11-04: A State of Trance #1041"
     tracks: 29
 
-  - number: 1042
-    date: 2021-11-11
+  - release: "2021-11-11: A State of Trance #1042"
     tracks: 29
     liked:
       - Piece of Art - Kryder
       - Rise Up {FSOE 700 Anthem} - Paul Denton
 
-  - number: 1043
-    date: 2021-11-18
+  - release: "2021-11-18: A State of Trance #1043"
     tracks: 29
     liked:
       - Piece of Art - Kryder
       - Let the Light Shine in {[Brian Cross] & [Abel Ramos] Remix} - [Darren Tate] & [Jono Grant]
       - Alibi {[Farius] Lost in 137 Mix} - Farius
 
-  - number: 1044
-    date: 2021-11-25
+  - release: "2021-11-25: A State of Trance #1044"
     tracks: 28
     liked:
       - <10> Waking up the Stars - [Alex M.O.R.P.H.] & [Protoculture]
 
-  - number: 1045
-    date: 2021-12-02
+  - release: "2021-12-02: A State of Trance #1045"
     tracks: 27
     liked:
       - Give Your Heart a Home - [Richard Durand] & [HALIENE]
       - Outset Theme - Will Rees
 
-  - number: 1046
-    date: 2021-12-09
+  - release: "2021-12-09: A State of Trance #1046"
     tracks: 27
 
-  - number: 1047
-    date: 2021-12-16
+  - release: "2021-12-16: A State of Trance #1047"
     tracks: 29
     liked:
       - Echoes - [Allen Watts] & [SILVELA]
 
-  - number: 1048
-    date: 2021-12-23
+  - release: "2021-12-23: A State of Trance #1048"
     tracks: 51
     liked:
       - Beautiful - [Giuseppe Ottaviani] & [Cari]
@@ -345,6 +294,4 @@ episodes:
       - Be the Angel - [Giuseppe Ottaviani] & [Lucid Blue]
       - River - [Andrew Rayel] feat. [AIDYL]
 
-  - number: 1049
-    date: 2021-12-30
-    title: Yearmix
+  - release: '2021-12-30: A State of Trance #1049, "Yearmix"'

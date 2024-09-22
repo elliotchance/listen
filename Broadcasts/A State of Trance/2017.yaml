@@ -4,27 +4,22 @@ series:
   status: incomplete
 
 episodes:
-  - number: 797
-    date: 2017-01-05
+  - release: "2017-01-05: A State of Trance #797"
     liked:
       - Shelter - [Dash Berlin] feat. [Roxanne Emery]
       - Exalted - gerome
       - Fly Away {[M6] Remix} - Vincent de Moor
 
-  - number: 844
-    date: 2017-12-14
+  - release: "2017-12-14: A State of Trance #844"
     tracks: 32
     liked:
       - Christmas Days {Encore Version} - [Armin van Buuren] feat. [Josh Cumbee]
 
-  - number: 845
-    date: 2017-12-21
+  - release: "2017-12-21: A State of Trance #845"
     tracks: 53
     liked:
       - Concrete Angel {[ReOrder] Remix} - [Gareth Emery] feat. [Christina Novelli]
       - Without You {[Will Atkinson] Remix} - Dogzilla
       - Spectrum - [James Dymond] & [Chris Schweizer]
 
-  - number: 846
-    date: 2017-12-28
-    title: Yearmix
+  - release: '2017-12-28: A State of Trance #846, "Yearmix"'

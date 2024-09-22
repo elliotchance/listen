@@ -4,8 +4,7 @@ series:
   status: incomplete
 
 episodes:
-  - number: 130
-    date: 2004-01-08
+  - release: "2004-01-08: A State of Trance #130"
     tracks: 32
     liked:
       - Burned With Desire {[Ronski Speed] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -13,32 +12,26 @@ episodes:
       - Electric Eclipse - Push
       - Satellite {[Above & Beyond] Remix} - OceanLab
 
-  - number: 131
-    date: 2004-01-15
+  - release: "2004-01-15: A State of Trance #131"
     tracks: 32
 
-  - number: 132
-    date: 2004-01-22
+  - release: "2004-01-22: A State of Trance #132"
     tracks: 20
     liked:
       - Escape {[Fictivision] Remix} - [Fictivision] vs. [Phynn]
 
-  - number: 133
-    date: 2004-01-29
+  - release: "2004-01-29: A State of Trance #133"
     tracks: 17
 
-  - number: 134
-    date: 2004-02-05
+  - release: "2004-02-05: A State of Trance #134"
     tracks: 33
 
-  - number: 135
-    date: 2004-02-12
+  - release: "2004-02-12: A State of Trance #135"
     tracks: 18
     liked:
       - Sonic Breeze - Maharishi
 
-  - number: 136
-    date: 2004-02-19
+  - release: "2004-02-19: A State of Trance #136"
     tracks: 19
     liked:
       - Burned With Desire {[Brian Cross] Remix} - [Armin van Buuren] feat. [Justine Suissa]

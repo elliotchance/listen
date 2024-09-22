@@ -4,58 +4,49 @@ series:
   status: incomplete
 
 episodes:
-  - number: 29
-    date: 2002-01-03
+  - release: "2002-01-03: A State of Trance #29"
     tracks: 18
     liked:
       - Shadows - [Dito] feat. [Dzenita]
 
-  - number: 30
-    date: 2002-01-10
+  - release: "2002-01-10: A State of Trance #30"
     tracks: 19
     liked:
       - Illusion of The Truth - [Fred Numf] vs. [Etienne Overdijk]
       - Moments Are Forever - Moon Project
 
-  - number: 31
-    date: 2002-01-17
+  - release: "2002-01-17: A State of Trance #31"
     tracks: 19
     liked:
       - Into The Night {[4 Strings] Remix} - 4 Strings
 
-  - number: 32
-    date: 2002-01-24
+  - release: "2002-01-24: A State of Trance #32"
     tracks: 18
 
-  - number: 33
-    date: 2002-01-31
+  - release: "2002-01-31: A State of Trance #33"
     tracks: 19
     liked:
       - Fear {Hybrid's Super Collider Remix} - Sarah McLachlan
       - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
 
-  - number: 34
-    date: 2002-02-07
+  - release: "2002-02-07: A State of Trance #34"
     tracks: 19
     liked:
       - Highlander {[Ralphie B]'s Massive Mix} - Taste Experience
 
-  - number: 35
-    date: 2002-02-14
+  - release: "2002-02-14: A State of Trance #35"
     tracks: 20
     liked:
       - Tranzy State of Mind - Push
       - Love Washes Over {Dub Mix} - [Art of Trance] feat. [M. Adamson]
 
-  - number: 37
-    date: 2002-02-28
+  - release: "2002-02-28: A State of Trance #37"
     tracks: 20
     liked:
       - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Reachin' Out - M-Diva
 
-  - number: 38
-    date: 2002-03-07
+  - release: "2002-03-07: A State of Trance #38"
     tracks: 20
     liked:
       - Beyond the Moon - Alpha Breed
@@ -63,38 +54,33 @@ episodes:
       - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Tranzy State of Mind - Push
 
-  - number: 39
-    date: 2002-03-14
+  - release: "2002-03-14: A State of Trance #39"
     tracks: 19
     liked:
       - Escape {[Phynn] Mix} - [Fictivision] vs. [Phynn]
 
-  - number: 40
-    date: 2002-03-21
+  - release: "2002-03-21: A State of Trance #40"
     tracks: 22
     urls:
       - https://1001.tl/2spt107t
     liked:
       - Sky Falls Down - OceanLab
 
-  - number: 41
-    date: 2002-03-28
+  - release: "2002-03-28: A State of Trance #41"
     tracks: 21
     urls:
       - https://1001.tl/2dlchp7k
     liked:
       - Sky Falls Down - OceanLab
 
-  - number: 42
-    date: 2002-04-04
+  - release: "2002-04-04: A State of Trance #42"
     tracks: 21
     urls:
       - https://1001.tl/1s2qp061
     liked:
       - Sky Falls Down - OceanLab
 
-  - number: 43
-    date: 2002-04-11
+  - release: "2002-04-11: A State of Trance #43"
     tracks: 21
     urls:
       - https://1001.tl/20gxr7p9
@@ -102,60 +88,52 @@ episodes:
       - Into The Night {[Coast 2 Coast] Remix} - 4 Strings
       - Reachin' Out - M-Diva
 
-  - number: 44
-    date: 2002-04-18
+  - release: "2002-04-18: A State of Trance #44"
     tracks: 21
     urls:
       - https://1001.tl/2tmlxw4k
     liked:
       - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
-  - number: 45
-    date: 2002-04-25
+  - release: "2002-04-25: A State of Trance #45"
     tracks: 19
     urls:
       - https://1001.tl/1mfq96mt
     liked:
       - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
-  - number: 46
-    date: 2002-05-02
+  - release: "2002-05-02: A State of Trance #46"
     tracks: 20
     urls:
       - https://1001.tl/kwu1239
     liked:
       - Sky Falls Down - OceanLab
 
-  - number: 47
-    date: 2002-05-09
+  - release: "2002-05-09: A State of Trance #47"
     tracks: 20
     urls:
       - https://1001.tl/2vh69slk
 
-  - number: 48
-    date: 2002-05-16
+  - release: "2002-05-16: A State of Trance #48"
     tracks: 20
     urls:
       - https://1001.tl/2k7cwg1t
     liked:
       - Janeiro {[Armin van Buuren] Remix} - Solid Sessions
 
-  - number: 49
-    date: 2002-05-23
+  - release: "2002-05-23: A State of Trance #49"
     tracks: 21
     urls:
       - https://1001.tl/zvv4whk
 
-  - number: 50
-    date: 2002-05-30
+  - release: "2002-05-30: A State of Trance #50"
     liked:
       - Yet Another Day - [Armin van Buuren] feat. [Ray Wilson]
     tracks: 19
     urls:
       - https://1001.tl/2464ggyt
 
-  - number: 51
-    date: 2002-06-06
+  - release: "2002-06-06: A State of Trance #51"
     liked:
       - Dreaming of You {[Svenson & Gielen] Remix} - The Thrillseekers
       - Riva - Time Is The Healer ([Armin van Buuren] Vocal Remix)
@@ -163,20 +141,17 @@ episodes:
     urls:
       - https://1001.tl/2qu67301
 
-  - number: 52
-    date: 2002-06-13
+  - release: "2002-06-13: A State of Trance #52"
     tracks: 19
     urls:
       - https://1001.tl/17b8unh9
 
-  - number: 53
-    date: 2002-06-27
+  - release: "2002-06-27: A State of Trance #53"
     tracks: 10
     urls:
       - https://1001.tl/1uwpqydk
 
-  - number: 54
-    date: 2002-07-04
+  - release: "2002-07-04: A State of Trance #54"
     liked:
       - Silver Bath - Plastic Boy
       - Yet Another Day - [Armin van Buuren] feat. [Ray Wilson]
@@ -184,22 +159,19 @@ episodes:
     urls:
       - https://1001.tl/15gphkft
 
-  - number: 55
-    date: 2002-07-11
+  - release: "2002-07-11: A State of Trance #55"
     liked:
       - <10> Synaesthesia - The Thrillseekers
     tracks: 18
     urls:
       - https://1001.tl/27xcfyx1
 
-  - number: 56
-    date: 2002-07-18
+  - release: "2002-07-18: A State of Trance #56"
     tracks: 18
     urls:
       - https://1001.tl/2j9lj6d9
 
-  - number: 57
-    date: 2002-08-01
+  - release: "2002-08-01: A State of Trance #57"
     tracks: 21
     urls:
       - https://1001.tl/2sptlfvk
