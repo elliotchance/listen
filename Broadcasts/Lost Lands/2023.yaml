@@ -2,108 +2,127 @@ series:
   status: complete
 
 episodes:
-  - title: Prehistoric Stage
-    date: 2023-09-22
-    parts:
-      - artist: NGHTMARE
-        tracks: 72
-        liked:
-          - Menticide / Drugs From Amsterdam {[Ray Volpe] Remix} - [Mau P], [Yakz] & [SampliFire]
-          - Signal - [Ray Volpe] & [NGHTMRE]
-      - artist: PEEKABOO
-        tracks: 46
-      - artist: Champagne Drip
-        tracks: 50
-      - artist: G-Rex
-        tracks: 23
-      - artist: DirtySnatcha
-        tracks: 45
-      - artist: Excision
-        tracks: 105
-        liked:
-          - Zombie - [Illenium], [Excision] & [Wooli] feat. [Valerie Broussard]
-          - RATATA {[Mike's Revenge] Remix} - [Mr. Oizo], [Skrillex] & [Missy Elliott]
-          - Fall Apart - [Excision] & [Sullivan King]
-      - artist: Flux Pavilion
-        tracks: 40
-      - artist: FuntCase & PhaseOne
-        tracks: 60
-      - artist: Blanke
-        tracks: 73
-        liked:
-          - Gorgeous / Bring Me to Life - [Illenium], [Blanke], [Bipolar Sunshine] & [Evanescence]
-      - artist: Excision b2b Liquid Stranger
-        tracks: 70
-        liked:
-          - Faded {[ID] Remix} - ZHU
-      - artist: Virtual Riot b2b Barely Alive
-        tracks: 61
-        liked:
-          - One More Time {[Barely Alive] Remix} / Mosh Pit - [Daft Punk] & [Flosstradamus] feat. [Casino]
-      - artist: Tape B
-        tracks: 52
-      - artist: GHENGAR
-        tracks: 58
-        liked:
-          - Down with the Sickness {[SYN] Remix} / Octopussy - [Disturbed] & [Ghastly]
-      - artist: BENDA
-        tracks: 69
-      - artist: ARMNHMR
-        tracks: 53
-        liked:
-          - Starfall {[VLCN] Remix} - Illenium
-      - artist: Eliminate
-        tracks: 61
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [NGHTMARE]"'
+    tracks: 72
+    liked:
+      - Menticide / Drugs From Amsterdam {[Ray Volpe] Remix} - [Mau P], [Yakz] & [SampliFire]
+      - Signal - [Ray Volpe] & [NGHTMRE]
 
-  - title: Wompy Woods
-    date: 2023-09-22
-    parts:
-      - artist: Grabbitz
-        tracks: 49
-        liked:
-          - Sleaze / Ballin' - [Grabbitz] & [Knife Party] feat. [MistaJam]
-          - ID - ID
-      - artist: Godlands
-        tracks: 56
-        liked:
-          - Lights / Jewel - [RL Grime], [ISOxo] & [Ellie Goulding]
-          - Untouched {[ID] Remix} - The Veronicas
-      - artist: SoDown
-        tracks: 42
-      - artist: Kayzo
-        tracks: 77
-        liked:
-          - Numb {[Kayzo] Remix} - Linkin Park
-          - A Brief Tutorial on Dubstep Production {[Kayzo] Remix} - [Dubba Jonny] & [Kayzo]
-      - artist: Wooli
-        tracks: 69
-        liked:
-          - Name Drop {VIP} - [Excision] & [Wooli]
-          - Song of the Year {VIP} / Breakn' a Sweat - [Wooli], [Kill the Noise], [The Doors] & [Skrillex]
-          - Zombie - [Illenium], [Excision] & [Wooli] feat. [Valerie Broussard]
-          - Walk On Water {[Wooli] & [Trivecta] Remix} - [Slander], [Trivecta] & [Wooli] feat. [Dylan Matthew] & [Røry]
-      - artist: Chime & Au5
-        tracks: 41
-        liked:
-          - Remember - [Crystal Skies], [Au5] & [Seven Lions]
-          - Paradise / Bangarang - [Au5], [HA!L], [Derpcat] & [Skrillex] feat. [Sirah]
-          - Snowblind {VIP} - [Au5] feat. [Tasha Baxter]
-          - Wasteland {[Au5] & [Chime] Remix} - Trivecta
-      - artist: Fransis Derelle
-        tracks: 36
-        liked:
-          - Forget Me - [AFTERMYFALL] & [Fransis Derelle]
-          - Where You Are {[Junkie Kid] Remix} - [Hayla] & [John Summit]
-          - Kingslayer - [Bring Me The Horizon] feat. [BABYMETAL]
-      - artist: AtLiens
-        tracks: 85
-      - artist: Boogie T B2B Dirt Monkey B2B Jantsen
-        tracks: 41
-      - artist: Cyclops
-        tracks: 71
-        liked:
-          - Rail Breaker {[Cyclops] Remix} - [Riot Ten] feat. [Rico Act]
-      - artist: Excision b2b Dion Timmer
-        tracks: 58
-        liked:
-          - I Found You - [Sub Focus] feat. [Hayla]
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [PEEKABOO]"'
+    tracks: 46
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Champagne Drip]"'
+    tracks: 50
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [G-Rex]"'
+    tracks: 23
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [DirtySnatcha]"'
+    tracks: 45
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Excision]"'
+    tracks: 105
+    liked:
+      - Zombie - [Illenium], [Excision] & [Wooli] feat. [Valerie Broussard]
+      - RATATA {[Mike's Revenge] Remix} - [Mr. Oizo], [Skrillex] & [Missy Elliott]
+      - Fall Apart - [Excision] & [Sullivan King]
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Flux Pavilion]"'
+    tracks: 40
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [FuntCase] & [PhaseOne]"'
+    tracks: 60
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Blanke]"'
+    tracks: 73
+    liked:
+      - Gorgeous / Bring Me to Life - [Illenium], [Blanke], [Bipolar Sunshine] & [Evanescence]
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Excision] b2b [Liquid Stranger]"'
+    tracks: 70
+    liked:
+      - Faded {[ID] Remix} - ZHU
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Virtual Riot] b2b [Barely Alive]"'
+    tracks: 61
+    liked:
+      - One More Time {[Barely Alive] Remix} / Mosh Pit - [Daft Punk] & [Flosstradamus] feat. [Casino]
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Tape B]"'
+    tracks: 52
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [GHENGAR]"'
+    tracks: 58
+    liked:
+      - Down with the Sickness {[SYN] Remix} / Octopussy - [Disturbed] & [Ghastly]
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [BENDA]"'
+    tracks: 69
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [ARMNHMR]"'
+    tracks: 53
+    liked:
+      - Starfall {[VLCN] Remix} - Illenium
+
+  - release: '2023-09-22: Lost Lands, "Prehistoric Stage: [Eliminate]"'
+    tracks: 61
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Grabbitz]"'
+    tracks: 49
+    liked:
+      - Sleaze / Ballin' - [Grabbitz] & [Knife Party] feat. [MistaJam]
+      - ID - ID
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Godlands]"'
+    tracks: 56
+    liked:
+      - Lights / Jewel - [RL Grime], [ISOxo] & [Ellie Goulding]
+      - Untouched {[ID] Remix} - The Veronicas
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [SoDown]"'
+    tracks: 42
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Kayzo]"'
+    tracks: 77
+    liked:
+      - Numb {[Kayzo] Remix} - Linkin Park
+      - A Brief Tutorial on Dubstep Production {[Kayzo] Remix} - [Dubba Jonny] & [Kayzo]
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Wooli]"'
+    tracks: 69
+    liked:
+      - Name Drop {VIP} - [Excision] & [Wooli]
+      - Song of the Year {VIP} / Breakn' a Sweat - [Wooli], [Kill the Noise], [The Doors] & [Skrillex]
+      - Zombie - [Illenium], [Excision] & [Wooli] feat. [Valerie Broussard]
+      - Walk On Water {[Wooli] & [Trivecta] Remix} - [Slander], [Trivecta] & [Wooli] feat. [Dylan Matthew] & [Røry]
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Chime] & [Au5]"'
+    tracks: 41
+    liked:
+      - Remember - [Crystal Skies], [Au5] & [Seven Lions]
+      - Paradise / Bangarang - [Au5], [HA!L], [Derpcat] & [Skrillex] feat. [Sirah]
+      - Snowblind {VIP} - [Au5] feat. [Tasha Baxter]
+      - Wasteland {[Au5] & [Chime] Remix} - Trivecta
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Fransis Derelle]"'
+    tracks: 36
+    liked:
+      - Forget Me - [AFTERMYFALL] & [Fransis Derelle]
+      - Where You Are {[Junkie Kid] Remix} - [Hayla] & [John Summit]
+      - Kingslayer - [Bring Me The Horizon] feat. [BABYMETAL]
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [AtLiens]"'
+    tracks: 85
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Boogie T] b2b [Dirt Monkey] b2b [Jantsen]"'
+    tracks: 41
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Cyclops]"'
+    tracks: 71
+    liked:
+      - Rail Breaker {[Cyclops] Remix} - [Riot Ten] feat. [Rico Act]
+
+  - release: '2023-09-22: Lost Lands, "Wompy Woods: [Excision] b2b [Dion Timmer]"'
+    tracks: 58
+    liked:
+      - I Found You - [Sub Focus] feat. [Hayla]

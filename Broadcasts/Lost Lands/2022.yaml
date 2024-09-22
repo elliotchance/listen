@@ -2,62 +2,66 @@ series:
   status: complete
 
 episodes:
-  - title: The Prehistoric Paradox
-    date: 2022-09-23
-    parts:
-      - artist: Knife Party
-        rating: 7/10
-        tracks: 33
+  - release: '2022-09-23: Lost Lands, "The Prehistoric Paradox: [Knife Party]"'
+    rating: 7/10
+    tracks: 33
 
-  - title: Prehistoric Evolution
-    date: 2022-09-23
-    parts:
-      - artist: SWARM
-        rating: 9/10
-        tracks: 40
-      - artist: Shaquille O'Neal - DIESEL
-        rating: 6/10
-        tracks: 46
-      - artist: Excision b2b Sullivan King
-        rating: 6/10
-        tracks: 61
-      - artist: Excision - Excision Live (2 Hour Set)
-        rating: 6/10
-        tracks: 93
-      - artist: Eliminate
-        rating: 5/10
-        tracks: 47
-      - artist: Dion Timmer
-        rating: 7/10
-        tracks: 43
-      - artist: Ace Aura
-        rating: 6/10
-        tracks: 52
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [SWARM]"'
+    rating: 9/10
+    tracks: 40
 
-  - title: Wompy Woods
-    date: 2022-09-23
-    parts:
-      - artist: VAMPA
-        rating: 6/10
-        tracks: 54
-      - artist: Ray Volpe
-        rating: 8/10
-        tracks: 54
-      - artist: Kompany
-        rating: 6/10
-        tracks: 51
-      - artist: Kill the Noise
-        rating: 7/10
-        tracks: 38
-      - artist: Jessica Audiffred
-        rating: 7/10
-        tracks: 61
-      - artist: Illenium
-        rating: 7/10
-        tracks: 50
-      - artist: heRobust
-        rating: 6/10
-        tracks: 51
-      - artist: Excision - Excision Detox Set
-        rating: 5/10
-        tracks: 52
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [DIESEL]"'
+    rating: 6/10
+    tracks: 46
+
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Excision] b2b [Sullivan King]"'
+    rating: 6/10
+    tracks: 61
+
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Excision] Live (2 Hour Set)"'
+    rating: 6/10
+    tracks: 93
+
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Eliminate]"'
+    rating: 5/10
+    tracks: 47
+
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Dion Timmer]"'
+    rating: 7/10
+    tracks: 43
+
+  - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Ace Aura]"'
+    rating: 6/10
+    tracks: 52
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [VAMPA]"'
+    rating: 6/10
+    tracks: 54
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [Ray Volpe]"'
+    rating: 8/10
+    tracks: 54
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [Kompany]"'
+    rating: 6/10
+    tracks: 51
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [Kill the Noise]"'
+    rating: 7/10
+    tracks: 38
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [Jessica Audiffred]"'
+    rating: 7/10
+    tracks: 61
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [Illenium]"'
+    rating: 7/10
+    tracks: 50
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [heRobust]"'
+    rating: 6/10
+    tracks: 51
+
+  - release: '2022-09-23: Lost Lands, "Wompy Woods: [Excision] Detox Set"'
+    rating: 5/10
+    tracks: 52

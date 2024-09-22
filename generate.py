@@ -479,15 +479,15 @@ class Episode:
             self.total_liked += part.total_liked
             append_artists(self.artists, part.artists)
 
-    def calculate_rating(self):
+    def star_rating(self):
         if self.tracks == 0:
-            return '⚪'
+            return '<span class="staroff">★</span><span class="staroff">★</span>'
         rating = int(len(self.liked) / self.tracks * 100)
         if rating > 20:
-            return '❤️'
+            return '<span class="star">★</span><span class="star">★</span>'
         if rating > 10:
-            return '👍'
-        return '⚪'
+            return '<span class="star">★</span><span class="staroff">★</span>'
+        return '<span class="staroff">★</span><span class="staroff">★</span>'
 
     def formatted_title(self, full_name):
         if self.release != '':
@@ -891,6 +891,12 @@ with open('date.html', "w") as f:
     a:link, a:visited {
         color: SlateBlue;
     }
+    .star {
+        color: #FFDF00;
+    }
+    .staroff {
+        color: white;
+    }
     """)
     w(f, "</style>")
     w(f, "</head>")
@@ -921,7 +927,7 @@ with open('date.html', "w") as f:
         w(f, "<ol start='%d'>" % i)
         for episode in years[year]:
             w(f, "<li>%s <span class='release'>%s</span></li>" % (
-                '', #episode.calculate_rating(),
+                episode.star_rating(),
                 apply_artists(episode.formatted_title(True), artist_repo)))
             i += 1
         w(f, "</ol>")

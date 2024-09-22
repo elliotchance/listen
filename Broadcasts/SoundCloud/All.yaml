@@ -2,8 +2,6 @@ series:
   status: incomplete
 
 episodes:
-  - artist: Chillosophy
-    title: "Essential Dance Set: TBA Brooklyn"
-    date: 2023-12-01
+  - release: '2023-12-01: [Chillosophy], "Essential Dance Set": TBA Brooklyn'
     url: https://soundcloud.com/chillosophy-bk/essential-dance-set-tba-brooklyn-12123
     rating: 7/10

@@ -4,25 +4,22 @@ series:
     - https://music.apple.com/us/curator/tomorrowland-live-sets/1524337266
 
 episodes:
-  - title: Around the World 2021
-    date: 2021-07-16
-    parts:
-      - artist: Sam Feldt
-        rating: 7/10
-        tracks: 25
+  - release: '2021-07-16: Tomorrowland, "Around the World 2021: [Sam Feldt]"'
+    rating: 7/10
+    tracks: 25
 
-      - artist: Koven
-        rating: 6/10
-        tracks: 29
+  - release: '2021-07-16: Tomorrowland, "Around the World 2021: [Koven]"'
+    rating: 6/10
+    tracks: 29
 
-      - artist: Sound Rush
-        rating: 8/10
-        tracks: 16
+  - release: '2021-07-16: Tomorrowland, "Around the World 2021: [Sound Rush]"'
+    rating: 8/10
+    tracks: 16
 
-      - artist: Fox Stevenson
-        rating: 7/10
-        tracks: 33
+  - release: '2021-07-16: Tomorrowland, "Around the World 2021: [Fox Stevenson]"'
+    rating: 7/10
+    tracks: 33
 
-      - artist: Angerfist
-        rating: 8/10
-        tracks: 22
+  - release: '2021-07-16: Tomorrowland, "Around the World 2021: [Angerfist]"'
+    rating: 8/10
+    tracks: 22

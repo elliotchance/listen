@@ -4,53 +4,38 @@ series:
     - https://music.apple.com/us/curator/tomorrowland-live-sets/1524337266
 
 episodes:
-  - title: "Winter 2022: Mainstage"
-    date: 2022-03-19
-    parts:
-      - artist: Armin van Buuren
-        rating: 6/10
-        rating: 19
-      - artist: Mike Williams
-        rating: 7/10
-        rating: 29
+  - release: '2022-03-19: Tomorrowland, "Winter 2022: Mainstage: [Armin van Buuren]"'
+    rating: 6/10
+    rating: 19
 
-  - title: "Winter 2022: Cage"
-    date: 2022-03-19
-    parts:
-      - artist: Netsky
-        rating: 8/10
-        rating: 44
-      - artist: Sub Zero Project
-        rating: 8/10
-        rating: 26
+  - release: '2022-03-19: Tomorrowland, "Winter 2022: Mainstage: [Mike Williams]"'
+    rating: 7/10
+    rating: 29
 
-  - title: "Winter 2022: Crystal Garden"
-    date: 2022-03-19
-    parts:
-      - artist: Netsky
-        rating: 7/10
-        rating: 41
+  - release: '2022-03-19: Tomorrowland, "Winter 2022: Cage: [Netsky]"'
+    rating: 8/10
+    rating: 44
 
-  - title: "2022: Mainstage, Weekend 2"
-    date: 2022-07-15
-    parts:
-      - artist: Armin van Buuren
-        rating: 4/10
-        rating: 24
-      - artist: Alan Walker
-        rating: 5/10
-        rating: 37
+  - release: '2022-03-19: Tomorrowland, "Winter 2022: Cage: [Sub Zero Project]"'
+    rating: 8/10
+    rating: 26
 
-  - title: "2022: Atmosphere, Weekend 1"
-    date: 2022-07-15
-    parts:
-      - artist: Charlotte de Witte
-        rating: 7/10
-        rating: 26
+  - release: '2022-03-19: Tomorrowland, "Winter 2022: Crystal Garden: [Netsky]"'
+    rating: 7/10
+    rating: 41
+
+  - release: '2022-07-15: Tomorrowland, "Mainstage, Weekend 2: [Armin van Buuren]"'
+    rating: 4/10
+    rating: 24
+
+  - release: '2022-07-15: Tomorrowland, "Mainstage, Weekend 2: [Alan Walker]"'
+    rating: 5/10
+    rating: 37
+
+  - release: '2022-07-15: Tomorrowland, "Atmosphere, Weekend 1: [Charlotte de Witte]"'
+    rating: 7/10
+    rating: 26
         
-  - title: "2022: Library, Weekend 1"
-    date: 2022-07-15
-    parts:
-      - artist: Paris Hilton
-        rating: 6/10
-        rating: 20
+  - release: '2022-07-15: Tomorrowland, "Library, Weekend 1: [Paris Hilton]"'
+    rating: 6/10
+    rating: 20
