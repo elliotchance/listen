@@ -5,6 +5,7 @@ series:
 
 episodes:
   - release: "2001-05-18: A State of Trance #0"
+    duration: 1 hour 47 minutes 39 seconds
     urls:
       - https://1001.tl/2xbh9b9
     tracks: 18
@@ -12,6 +13,7 @@ episodes:
       - ID - ID
 
   - release: "2001-06-01: A State of Trance #1"
+    duration: 1 hour 59 minutes 58 seconds
     urls:
       - https://1001.tl/38zxw8k
     tracks: 19

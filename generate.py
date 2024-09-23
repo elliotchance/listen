@@ -1,6 +1,7 @@
 import yaml
 import os
 import re
+import math
 from typing import List, Set, Dict, Tuple
 
 class Artist:
@@ -436,6 +437,7 @@ class Episode:
         self.series = series
         self.date = ''
         self.release = ''
+        self.duration = 0
         
         if 'release' in entries:
             r = Release(entries['release'])
@@ -453,6 +455,9 @@ class Episode:
             self.rating = entries['rating']
         if 'urls' in entries:
             self.urls = entries['urls']
+        if 'duration' in entries:
+            if match := re.search(r'(\d+) hours? (\d+) minutes? (\d+) seconds?', entries['duration'], re.IGNORECASE):
+                self.duration = int(match.group(1)) * 60 + int(match.group(2)) + round((float(match.group(3)) / 60))
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -462,15 +467,32 @@ class Episode:
         for track in self.liked:
             append_artist(self.artists, track, self.formatted_title(True))
 
-    def star_rating(self):
-        if self.tracks == 0:
-            return '<span class="staroff">★</span><span class="staroff">★</span>'
-        rating = int(len(self.liked) / self.tracks * 100)
-        if rating > 20:
-            return '<span class="star">★</span><span class="star">★</span>'
-        if rating > 10:
-            return '<span class="star">★</span><span class="staroff">★</span>'
-        return '<span class="staroff">★</span><span class="staroff">★</span>'
+    def score(self):
+        if len(self.liked) == 0:
+            return 0
+        
+        if self.duration > 0:
+            hours = self.duration / 60
+        else:
+            hours = float(self.tracks) / 14
+        if hours < 1:
+            hours = 1.0
+        
+        final = round(float(len(self.liked)) / hours * 2)
+        if final > 9:
+            final = 9
+        
+        return final
+
+    def score_html(self):
+        return '<span class="r%d">&nbsp;</span>' % self.score()
+
+    def duration_str(self):
+        if self.duration == 0:
+            return '?'
+        h = int(self.duration / 60)
+        m = self.duration - (h * 60)
+        return '%dh%02dm' % (h, m)
 
     def formatted_title(self, full_name):
         if self.release != '':
@@ -786,6 +808,10 @@ with open('date.html', "w") as f:
       font-family: Monaco;
       font-size: 14px;
     }
+    .duration {
+      font-size: 12px;
+      color: gray;
+    }
     table, th, td {
         border: 1px solid black;
         border-collapse: collapse;
@@ -793,12 +819,18 @@ with open('date.html', "w") as f:
     a:link, a:visited {
         color: SlateBlue;
     }
-    .star {
-        color: #FFDF00;
-    }
-    .staroff {
-        color: white;
-    }
+      
+    /* https://loading.io/color/feature/Spectral-10/ */
+    .r0 { background-color: #9e0142; padding-left: 5px; padding-right: 5px }
+    .r1 { background-color: #d53e4f; padding-left: 5px; padding-right: 5px }
+    .r2 { background-color: #f46d43; padding-left: 5px; padding-right: 5px }
+    .r3 { background-color: #fdae61; padding-left: 5px; padding-right: 5px }
+    .r4 { background-color: #fee08b; padding-left: 5px; padding-right: 5px }
+    .r5 { background-color: #e6f598; padding-left: 5px; padding-right: 5px }
+    .r6 { background-color: #abdda4; padding-left: 5px; padding-right: 5px }
+    .r7 { background-color: #66c2a5; padding-left: 5px; padding-right: 5px }
+    .r8 { background-color: #3288bd; padding-left: 5px; padding-right: 5px }
+    .r9 { background-color: #5e4fa2; padding-left: 5px; padding-right: 5px }
     """)
     w(f, "</style>")
     w(f, "</head>")
@@ -828,9 +860,16 @@ with open('date.html', "w") as f:
         w(f, "<h1 id='%s'>%s</h1>" % (year, year))
         w(f, "<ol start='%d'>" % i)
         for episode in years[year]:
-            w(f, "<li>%s <span class='release'>%s</span></li>" % (
-                episode.star_rating(),
-                apply_artists(episode.formatted_title(True), artist_repo)))
+            duration = episode.duration_str()
+            if duration != '?':
+                duration = " <span class='duration'>(%s)</span>" % duration
+            else:
+                duration = ''
+            
+            w(f, "<li>%s <span class='release'>%s</span>%s</li>" % (
+                episode.score_html(),
+                apply_artists(episode.formatted_title(True), artist_repo),
+                duration))
             i += 1
         w(f, "</ol>")
 
