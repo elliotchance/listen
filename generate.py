@@ -690,7 +690,7 @@ with open('top1000.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000 | <a href='date.html'>By Date</a><br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000 | <a href='releases.html'>Releases</a><br/><br/>")
     broadcasts.write_top1000(f)
     w(f, "</body>")
     w(f, "</html>")
@@ -717,7 +717,7 @@ with open('tracks.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | Tracks | <a href='top1000.html'>Top 1000</a> | <a href='date.html'>By Date</a><br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | Tracks | <a href='top1000.html'>Top 1000</a> | <a href='releases.html'>Releases</a><br/><br/>")
     w(f, "<table style='border: 1px solid black'>")
     w(f, "<tr style='border: 1px solid black'>")
     w(f, "<th>&nbsp;</th>")
@@ -778,7 +778,7 @@ with open('top1000.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000 | <a href='date.html'>By Date</a><br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | Top 1000 | <a href='releases.html'>Releases</a><br/><br/>")
 
     w(f, "<ol>")
     for version in track_repo.top1000():
@@ -794,7 +794,7 @@ with open('top1000.html', "w") as f:
     w(f, "</body>")
     w(f, "</html>")
 
-with open('date.html', "w") as f:
+with open('releases.html', "w") as f:
     w(f, "<html>")
 
     w(f, "<head>")
@@ -819,6 +819,8 @@ with open('date.html', "w") as f:
     a:link, a:visited {
         color: SlateBlue;
     }
+
+    .n { text-align: right; width: 30px; display: inline-block; padding-right: 10px; }
       
     /* https://loading.io/color/feature/Spectral-10/ */
     .r0 { background-color: #9e0142; padding-left: 5px; padding-right: 5px }
@@ -836,42 +838,50 @@ with open('date.html', "w") as f:
     w(f, "</head>")
 
     w(f, "<body>")
-    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a> | By Date<br/><br/>")
+    w(f, "<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a> | Releases<br/><br/>")
 
     all = []
     for series in broadcasts.series:
         for subseries in series.subseries:
             all.extend([e for e in subseries.episodes if e.date])
-    
-    all = sorted(all, key=lambda x: x.formatted_title(True))
-    years = {}
-    for episode in all:
-        year = episode.date[:4]
-        if year not in years:
-            years[year] = []
-        
-        years[year].append(episode)
-    
-    for year in years:
-        w(f, "<a href='#%s'>%s</a> (%d episodes)<br/>" % (year, year, len(years[year])))
 
+    all = sorted(all, key=lambda x: x.formatted_title(True))
+
+    w(f, "<form>")
+    w(f, "Rating: <select id='minrating'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option></select>")
+    w(f, "- <select id='maxrating'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>")
+    w(f, "<button onclick='refresh()' type='button'>Refresh</button>")
+    w(f, "</form>")
+
+    w(f, "<div id='results'></div>")
+
+    w(f, '<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>')
+    w(f, "<script>const releases = [")
     i = 1
-    for year in years:
-        w(f, "<h1 id='%s'>%s</h1>" % (year, year))
-        w(f, "<ol start='%d'>" % i)
-        for episode in years[year]:
-            duration = episode.duration_str()
-            if duration != '?':
-                duration = " <span class='duration'>(%s)</span>" % duration
-            else:
-                duration = ''
-            
-            w(f, "<li>%s <span class='release'>%s</span>%s</li>" % (
-                episode.score_html(),
-                apply_artists(episode.formatted_title(True), artist_repo),
-                duration))
-            i += 1
-        w(f, "</ol>")
+    for release in all:
+        w(f, "{n: %d, rating: %d, release: \"%s\", html: \"%s\"}," % (
+            i, release.score(), release.formatted_title(True).replace('"', '\\"'),
+            apply_artists(release.formatted_title(True), artist_repo).replace('"', '\\"')))
+        i += 1
+    w(f, """
+    ];
+      
+    function refresh() {
+        const minRating = $('#minrating option:selected').text();
+        const maxRating = $('#maxrating option:selected').text();
+        let html = '';
+        releases.sort((a, b) => a.release.localeCompare(b.release));
+        for (const release of releases) {
+            if (release.rating >= minRating && release.rating <= maxRating) {
+                html += '<span class="n">' + release.n + ". </span>" + `<span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span><br/>';
+            }
+        }
+        $('#results').html(html);
+    }
+      
+    refresh();
+    </script>
+    """)
 
     w(f, "</body>")
     w(f, "</html>")
