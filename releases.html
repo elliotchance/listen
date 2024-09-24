@@ -37,45 +37,6 @@
     .r9 { background-color: #5e4fa2; padding-left: 5px; padding-right: 5px }
     
 </style>
-</head>
-<body>
-<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a> | Releases<br/><br/>
-<form>
-Rating: <select id='minrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option></select>
-- <select id='maxrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>
-Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option>><option>2021</option><option>2022</option><option>2023</option><option>2024</option></select>
-- <select id='maxyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><<option>2021</option><option>2022</option><option>2023</option><option selected>2024</option></select>
-Series: <select id='series' onchange='refresh()'>
-<option>All</option>
-<option>A State of Trance</option>
-<option>Apple NYE 2021</option>
-<option>Boiler Room</option>
-<option>Cercle</option>
-<option>Chillosophy</option>
-<option>Electric Daisy Carnival</option>
-<option>Fear N Loathing</option>
-<option>FeelMyBicep</option>
-<option>Future Sound of Egypt</option>
-<option>Group Therapy</option>
-<option>HARD Summer 2022</option>
-<option>Lane 8</option>
-<option>Lost Lands</option>
-<option>Ophelia's Odyssey</option>
-<option>Phoenix Radio</option>
-<option>RA</option>
-<option>Sophie Sugar's Symphony</option>
-<option>The Anjuna Mix</option>
-<option>The Anjunadeep Edition</option>
-<option>Tomorrowland</option>
-<option>Tritonia</option>
-<option>VONYC Sessions</option>
-</select>
-Sort: <select id='sort' onchange='refresh()'>
-<option>Title</option>
-<option>Rating</option>
-</select>
-</form>
-<div id='results'></div>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <script>const releases = [
 {n: 1, rating: 1, year: 2001, release: "2001-05-18: A State of Trance #0", html: "2001-05-18: A State of Trance #0", series: "A State of Trance"},
@@ -1031,9 +992,47 @@ Sort: <select id='sort' onchange='refresh()'>
         }
         $('#results').html(html);
     }
-      
-    refresh();
     </script>
     
+</head>
+<body>
+<a href='index.html'>Episodes</a> | <a href='tracks.html'>Tracks</a> | <a href='top1000.html'>Top 1000</a> | Releases<br/><br/>
+<form>
+Rating: <select id='minrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option></select>
+- <select id='maxrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>
+Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option>><option>2021</option><option>2022</option><option>2023</option><option>2024</option></select>
+- <select id='maxyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><<option>2021</option><option>2022</option><option>2023</option><option selected>2024</option></select>
+Series: <select id='series' onchange='refresh()'>
+<option>All</option>
+<option>A State of Trance</option>
+<option>Apple NYE 2021</option>
+<option>Boiler Room</option>
+<option>Cercle</option>
+<option>Chillosophy</option>
+<option>Electric Daisy Carnival</option>
+<option>Fear N Loathing</option>
+<option>FeelMyBicep</option>
+<option>Future Sound of Egypt</option>
+<option>Group Therapy</option>
+<option>HARD Summer 2022</option>
+<option>Lane 8</option>
+<option>Lost Lands</option>
+<option>Ophelia's Odyssey</option>
+<option>Phoenix Radio</option>
+<option>RA</option>
+<option>Sophie Sugar's Symphony</option>
+<option>The Anjuna Mix</option>
+<option>The Anjunadeep Edition</option>
+<option>Tomorrowland</option>
+<option>Tritonia</option>
+<option>VONYC Sessions</option>
+</select>
+Sort: <select id='sort' onchange='refresh()'>
+<option>Title</option>
+<option>Rating</option>
+</select>
+</form>
+<div id='results'></div>
+<script>refresh();</script>
 </body>
 </html>
