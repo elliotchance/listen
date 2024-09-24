@@ -285,7 +285,7 @@ class Broadcasts:
                         if loved:
                             tracks[title]['loved'] = True
 
-                        appears = episode.formatted_title(True)
+                        appears = episode.formatted_title()
                         if tracks[title]['earliest'] == '' or appears < tracks[title]['earliest']:
                             tracks[title]['earliest'] = appears
 
@@ -395,7 +395,7 @@ class Subseries:
             if 'to' in entries['series']:
                 self.to_number = entries['series']['to']
         if 'episodes' in entries:
-            self.episodes = [Episode(self.parent_series, **e) for e in entries['episodes']]
+            self.episodes = [Episode(**e) for e in entries['episodes']]
 
     def refresh(self):
         self.total_tracks = 0
@@ -425,7 +425,7 @@ class Subseries:
             episode.write(f, artist_repo)
 
 class Episode:
-    def __init__(self, series, **entries):
+    def __init__(self, **entries):
         self.number = 0
         self.tracks = 0
         self.liked = []
@@ -434,7 +434,7 @@ class Episode:
         self.total_liked = 0
         self.urls = []
         self.artists = {}
-        self.series = series
+        self.series = ''
         self.date = ''
         self.release = ''
         self.duration = 0
@@ -445,6 +445,7 @@ class Episode:
             self.number = r.number
             self.title = r.title
             self.date = r.date
+            self.series = r.series
         if 'number' in entries:
             self.number = entries['number']
         if 'tracks' in entries:
@@ -465,7 +466,7 @@ class Episode:
         self.artists = {}
 
         for track in self.liked:
-            append_artist(self.artists, track, self.formatted_title(True))
+            append_artist(self.artists, track, self.formatted_title())
 
     def score(self):
         if len(self.liked) == 0:
@@ -494,29 +495,15 @@ class Episode:
         m = self.duration - (h * 60)
         return '%dh%02dm' % (h, m)
 
-    def formatted_title(self, full_name):
-        if self.release != '':
-            return self.release
-
-        title = ''
-
-        if self.date != '':
-            title = self.date + ': '
-
-        if full_name:
-            title += self.series.name + ' '
-
-        if self.number:
-            title += '#' + str(self.number)
-
-        return title
+    def formatted_title(self):
+        return self.release
 
     def write(self, f, artist_repo):
         tracks = '?'
         if self.tracks:
             tracks = self.tracks
 
-        title = self.formatted_title(False)
+        title = self.formatted_title()
 
         urls = []
         for url in self.urls:
@@ -845,12 +832,26 @@ with open('releases.html', "w") as f:
         for subseries in series.subseries:
             all.extend([e for e in subseries.episodes if e.date])
 
-    all = sorted(all, key=lambda x: x.formatted_title(True))
+    all = sorted(all, key=lambda x: x.formatted_title())
+
+    all_series = {}
+    for release in all:
+        all_series[release.series] = True
 
     w(f, "<form>")
-    w(f, "Rating: <select id='minrating'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option></select>")
-    w(f, "- <select id='maxrating'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>")
-    w(f, "<button onclick='refresh()' type='button'>Refresh</button>")
+    w(f, "Rating: <select id='minrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option></select>")
+    w(f, "- <select id='maxrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>")
+    w(f, "Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option>><option>2021</option><option>2022</option><option>2023</option><option>2024</option></select>")
+    w(f, "- <select id='maxyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><<option>2021</option><option>2022</option><option>2023</option><option selected>2024</option></select>")
+    w(f, "Series: <select id='series' onchange='refresh()'>")
+    w(f, '<option>%s</option>' % 'All')
+    for series in sorted(all_series.keys()):
+        w(f, '<option>%s</option>' % series)
+    w(f, "</select>")
+    w(f, "Sort: <select id='sort' onchange='refresh()'>")
+    w(f, '<option>Title</option>')
+    w(f, '<option>Rating</option>')
+    w(f, "</select>")
     w(f, "</form>")
 
     w(f, "<div id='results'></div>")
@@ -859,9 +860,10 @@ with open('releases.html', "w") as f:
     w(f, "<script>const releases = [")
     i = 1
     for release in all:
-        w(f, "{n: %d, rating: %d, release: \"%s\", html: \"%s\"}," % (
-            i, release.score(), release.formatted_title(True).replace('"', '\\"'),
-            apply_artists(release.formatted_title(True), artist_repo).replace('"', '\\"')))
+        w(f, "{n: %d, rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\"}," % (
+            i, release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
+            apply_artists(release.formatted_title(), artist_repo).replace('"', '\\"'),
+            release.series))
         i += 1
     w(f, """
     ];
@@ -869,10 +871,25 @@ with open('releases.html', "w") as f:
     function refresh() {
         const minRating = $('#minrating option:selected').text();
         const maxRating = $('#maxrating option:selected').text();
+        const minYear = $('#minyear option:selected').text();
+        const maxYear = $('#maxyear option:selected').text();
+        const series = $('#series option:selected').text();
         let html = '';
-        releases.sort((a, b) => a.release.localeCompare(b.release));
+    
+        const sort = $('#sort option:selected').text();
+        if (sort == 'Title') {
+            releases.sort((a, b) => a.release.localeCompare(b.release));
+        }
+        if (sort == 'Rating') {
+            releases.sort((a, b) => b.rating - a.rating);
+        }
+
         for (const release of releases) {
-            if (release.rating >= minRating && release.rating <= maxRating) {
+            if (series != 'All' && release.series != series) {
+                continue;
+            }
+            if (release.rating >= minRating && release.rating <= maxRating &&
+                release.year >= minYear && release.year <= maxYear) {
                 html += '<span class="n">' + release.n + ". </span>" + `<span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span><br/>';
             }
         }
