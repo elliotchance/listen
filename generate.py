@@ -834,7 +834,7 @@ with open('releases.html', "w") as f:
     for release in all:
         all_series[release.series] = True
 
-    w(f, '<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>')
+    w(f, '<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>')
     w(f, "<script>const releases = [")
     i = 1
     for release in all:
