@@ -836,6 +836,17 @@ with open('top1000.html', "w") as f:
     w(f, "</body>")
     w(f, "</html>")
 
+def write_location_options(f, location, indent, path):
+    if path == "":
+        w(f, '<option value="%s">%s%s</option>' % (location.name, indent, location.name))
+    else:
+        w(f, '<option value="%s">%s%s</option>' % (location.name + ', ' + path, indent, location.name))
+    for l in location.contains:
+        if path == "":
+            write_location_options(f, l, indent+'&nbsp;&nbsp;&nbsp;', location.name)
+        else:
+            write_location_options(f, l, indent+'&nbsp;&nbsp;&nbsp;', location.name + ', ' + path)
+
 with open('releases.html', "w") as f:
     w(f, "<html>")
 
@@ -912,6 +923,7 @@ with open('releases.html', "w") as f:
         const maxYear = $('#maxyear option:selected').text();
         const series = $('#series option:selected').text();
         const artist = $('#artist option:selected').text();
+        const location = $('#location option:selected').val();
         let html = '<ol>';
     
         const sort = $('#sort option:selected').text();
@@ -923,10 +935,13 @@ with open('releases.html', "w") as f:
         }
 
         for (const release of releases) {
-            if (series != 'All' && release.series != series) {
+            if (series != 'All Series' && release.series != series) {
                 continue;
             }
-            if (artist != 'All' && !release.release.includes('[' + artist + ']')) {
+            if (artist != 'All Artists' && !release.release.includes('[' + artist + ']')) {
+                continue;
+            }
+            if (!release.release.includes(location)) {
                 continue;
             }
             if (release.rating >= minRating && release.rating <= maxRating &&
@@ -949,15 +964,20 @@ with open('releases.html', "w") as f:
     w(f, "- <select id='maxrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>")
     w(f, "Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option>><option>2021</option><option>2022</option><option>2023</option><option>2024</option></select>")
     w(f, "- <select id='maxyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><<option>2021</option><option>2022</option><option>2023</option><option selected>2024</option></select>")
-    w(f, "Series: <select id='series' onchange='refresh()'>")
-    w(f, '<option>%s</option>' % 'All')
+    w(f, "<select id='series' onchange='refresh()'>")
+    w(f, '<option>%s</option>' % 'All Series')
     for series in sorted(all_series.keys()):
         w(f, '<option>%s</option>' % series)
     w(f, "</select>")
-    w(f, "Artist: <select id='artist' onchange='refresh()'>")
-    w(f, '<option>%s</option>' % 'All')
+    w(f, "<select id='artist' onchange='refresh()'>")
+    w(f, '<option>%s</option>' % 'All Artists')
     for artist in sorted(all_artists.keys()):
         w(f, '<option>%s</option>' % artist)
+    w(f, "</select>")
+    w(f, "<select id='location' onchange='refresh()'>")
+    w(f, '<option value="">%s</option>' % 'All Locations')
+    for l in location_repo.root.contains:
+        write_location_options(f, l, '', '')
     w(f, "</select>")
     w(f, "Sort: <select id='sort' onchange='refresh()'>")
     w(f, '<option>Title</option>')

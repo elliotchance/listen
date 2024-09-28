@@ -984,6 +984,7 @@
         const maxYear = $('#maxyear option:selected').text();
         const series = $('#series option:selected').text();
         const artist = $('#artist option:selected').text();
+        const location = $('#location option:selected').val();
         let html = '<ol>';
     
         const sort = $('#sort option:selected').text();
@@ -995,10 +996,13 @@
         }
 
         for (const release of releases) {
-            if (series != 'All' && release.series != series) {
+            if (series != 'All Series' && release.series != series) {
                 continue;
             }
-            if (artist != 'All' && !release.release.includes('[' + artist + ']')) {
+            if (artist != 'All Artists' && !release.release.includes('[' + artist + ']')) {
+                continue;
+            }
+            if (!release.release.includes(location)) {
                 continue;
             }
             if (release.rating >= minRating && release.rating <= maxRating &&
@@ -1019,8 +1023,8 @@ Rating: <select id='minrating' onchange='refresh()'><option>0</option><option>1<
 - <select id='maxrating' onchange='refresh()'><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option selected>9</option></select>
 Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option>><option>2021</option><option>2022</option><option>2023</option><option>2024</option></select>
 - <select id='maxyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><<option>2021</option><option>2022</option><option>2023</option><option selected>2024</option></select>
-Series: <select id='series' onchange='refresh()'>
-<option>All</option>
+<select id='series' onchange='refresh()'>
+<option>All Series</option>
 <option>A State of Trance</option>
 <option>Apple NYE 2021</option>
 <option>Boiler Room</option>
@@ -1044,8 +1048,8 @@ Series: <select id='series' onchange='refresh()'>
 <option>Tritonia</option>
 <option>VONYC Sessions</option>
 </select>
-Artist: <select id='artist' onchange='refresh()'>
-<option>All</option>
+<select id='artist' onchange='refresh()'>
+<option>All Artists</option>
 <option>12th Planet</option>
 <option>ALPHA 9</option>
 <option>AMIDY</option>
@@ -1235,6 +1239,76 @@ Artist: <select id='artist' onchange='refresh()'>
 <option>ilan Bluestone</option>
 <option>tyDi</option>
 <option>Âme</option>
+</select>
+<select id='location' onchange='refresh()'>
+<option value="">All Locations</option>
+<option value="Australia">Australia</option>
+<option value="NSW, Australia">&nbsp;&nbsp;&nbsp;NSW</option>
+<option value="Sydney, NSW, Australia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sydney</option>
+<option value="Acer Arena, Sydney, NSW, Australia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acer Arena</option>
+<option value="VIC, Australia">&nbsp;&nbsp;&nbsp;VIC</option>
+<option value="Melbourne, VIC, Australia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Melbourne</option>
+<option value="Belarus">Belarus</option>
+<option value="Minsk, Belarus">&nbsp;&nbsp;&nbsp;Minsk</option>
+<option value="Brazil">Brazil</option>
+<option value="São Paulo, Brazil">&nbsp;&nbsp;&nbsp;São Paulo</option>
+<option value="Bulgaria">Bulgaria</option>
+<option value="Sofia, Bulgaria">&nbsp;&nbsp;&nbsp;Sofia</option>
+<option value="Canada">Canada</option>
+<option value="Montreal, Canada">&nbsp;&nbsp;&nbsp;Montreal</option>
+<option value="Igloofest, Montreal, Canada">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Igloofest</option>
+<option value="France">France</option>
+<option value="Arènes de Nîmes, France">&nbsp;&nbsp;&nbsp;Arènes de Nîmes</option>
+<option value="Marseille, France">&nbsp;&nbsp;&nbsp;Marseille</option>
+<option value="Paris, France">&nbsp;&nbsp;&nbsp;Paris</option>
+<option value="Guatemala">Guatemala</option>
+<option value="Guatemala City, Guatemala">&nbsp;&nbsp;&nbsp;Guatemala City</option>
+<option value="Germany">Germany</option>
+<option value="Berlin, Germany">&nbsp;&nbsp;&nbsp;Berlin</option>
+<option value="India">India</option>
+<option value="Mumbai, India">&nbsp;&nbsp;&nbsp;Mumbai</option>
+<option value="Japan">Japan</option>
+<option value="Tokyo, Japan">&nbsp;&nbsp;&nbsp;Tokyo</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Beirut, Lebanon">&nbsp;&nbsp;&nbsp;Beirut</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Kuala Lumpur, Malaysia">&nbsp;&nbsp;&nbsp;Kuala Lumpur</option>
+<option value="Mexico">Mexico</option>
+<option value="Mexico City, Mexico">&nbsp;&nbsp;&nbsp;Mexico City</option>
+<option value="Portugal">Portugal</option>
+<option value="Lisbon, Portugal">&nbsp;&nbsp;&nbsp;Lisbon</option>
+<option value="Russia">Russia</option>
+<option value="Moscow, Russia">&nbsp;&nbsp;&nbsp;Moscow</option>
+<option value="Expocenter, Moscow, Russia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expocenter</option>
+<option value="Spain">Spain</option>
+<option value="Madrid, Spain">&nbsp;&nbsp;&nbsp;Madrid</option>
+<option value="The Netherlands">The Netherlands</option>
+<option value="Den Bosch, The Netherlands">&nbsp;&nbsp;&nbsp;Den Bosch</option>
+<option value="Brabanthallen, Den Bosch, The Netherlands">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brabanthallen</option>
+<option value="Utrecht, The Netherlands">&nbsp;&nbsp;&nbsp;Utrecht</option>
+<option value="Turkey">Turkey</option>
+<option value="Cappadocia, Turkey">&nbsp;&nbsp;&nbsp;Cappadocia</option>
+<option value="UK">UK</option>
+<option value="England, UK">&nbsp;&nbsp;&nbsp;England</option>
+<option value="London, England, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London</option>
+<option value="Birmingham, England, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Birmingham</option>
+<option value="Godskitchen Air, Birmingham, England, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Godskitchen Air</option>
+<option value="Ireland, UK">&nbsp;&nbsp;&nbsp;Ireland</option>
+<option value="Belfast, Ireland, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belfast</option>
+<option value="AVA, Belfast, Ireland, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AVA</option>
+<option value="Ukraine">Ukraine</option>
+<option value="Kiev, Ukraine">&nbsp;&nbsp;&nbsp;Kiev</option>
+<option value="Exhib Center, Kiev, Ukraine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhib Center</option>
+<option value="USA">USA</option>
+<option value="FL, USA">&nbsp;&nbsp;&nbsp;FL</option>
+<option value="Miami, FL, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miami</option>
+<option value="Ultra Music Festival, Miami, FL, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ultra Music Festival</option>
+<option value="IL, USA">&nbsp;&nbsp;&nbsp;IL</option>
+<option value="Chicago, IL, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicago</option>
+<option value="LA, USA">&nbsp;&nbsp;&nbsp;LA</option>
+<option value="Beyond Wonderland, LA, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond Wonderland</option>
+<option value="NY, USA">&nbsp;&nbsp;&nbsp;NY</option>
+<option value="TBA Brooklyn, NY, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TBA Brooklyn</option>
 </select>
 Sort: <select id='sort' onchange='refresh()'>
 <option>Title</option>
