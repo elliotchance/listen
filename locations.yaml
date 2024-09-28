@@ -1,0 +1,105 @@
+locations:
+  - name: Australia
+    contains:
+      - name: NSW
+        contains:
+          - name: Sydney
+            contains:
+              - name: Acer Arena
+      - name: VIC
+        contains:
+          - name: Melbourne
+  - name: Belarus
+    contains:
+      - name: Minsk
+  - name: Brazil
+    contains:
+      - name: São Paulo
+  - name: Bulgaria
+    contains:
+      - name: Sofia
+  - name: Canada
+    contains:
+      - name: Montreal
+        contains:
+          - name: Igloofest
+  - name: France
+    contains:
+      - name: Arènes de Nîmes
+      - name: Marseille
+      - name: Paris
+  - name: Guatemala
+    contains:
+      - name: Guatemala City
+  - name: Germany
+    contains:
+      - name: Berlin
+  - name: India
+    contains:
+      - name: Mumbai
+  - name: Japan
+    contains:
+      - name: Tokyo
+  - name: Lebanon
+    contains:
+      - name: Beirut
+  - name: Malaysia
+    contains:
+      - name: Kuala Lumpur
+  - name: Mexico
+    contains:
+      - name: Mexico City
+  - name: Portugal
+    contains:
+      - name: Lisbon
+  - name: Russia
+    contains:
+      - name: Moscow
+        contains:
+          - name: Expocenter
+  - name: Spain
+    contains:
+      - name: Madrid
+  - name: The Netherlands
+    contains:
+      - name: Den Bosch
+        contains:
+          - name: Brabanthallen
+      - name: Utrecht
+  - name: Turkey
+    contains:
+      - name: Cappadocia
+  - name: UK
+    contains:
+      - name: England
+        contains:
+          - name: London
+          - name: Birmingham
+            contains:
+              - name: Godskitchen Air
+      - name: Ireland
+        contains:
+          - name: Belfast
+            contains:
+              - name: AVA
+  - name: Ukraine
+    contains:
+      - name: Kiev
+        contains:
+          - name: Exhib Center
+  - name: USA
+    contains:
+      - name: FL
+        contains:
+          - name: Miami
+            contains:
+              - name: Ultra Music Festival
+      - name: IL
+        contains:
+          - name: Chicago
+      - name: LA
+        contains:
+          - name: Beyond Wonderland
+      - name: NY
+        contains:
+          - name: TBA Brooklyn

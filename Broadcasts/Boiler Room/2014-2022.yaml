@@ -18,7 +18,7 @@ episodes:
     rating: 6/10
     tracks: 14
 
-  - release: '2015-05-30: Boiler Room, "[Bicep]": AVA: Belfast'
+  - release: '2015-05-30: Boiler Room, "[Bicep]": AVA, Belfast, Ireland, UK'
     rating: 6/10
     tracks: 14
 
@@ -34,15 +34,15 @@ episodes:
     rating: 6/10
     tracks: 29
 
-  - release: '2016-07-04: Boiler Room, "[DJ Marky]": Lisbon Portugal'
+  - release: '2016-07-04: Boiler Room, "[DJ Marky]": Lisbon, Portugal'
     rating: 5/10
     tracks: 26
 
-  - release: '2016-08-18: Boiler Room, "[Bicep]": London, UK'
+  - release: '2016-08-18: Boiler Room, "[Bicep]": London, England, UK'
     rating: 6/10
     tracks: 12
 
-  - release: '2017-03-28: Boiler Room, "[DJ Craze]": London, UK'
+  - release: '2017-03-28: Boiler Room, "[DJ Craze]": London, England, UK'
     rating: 4/10
     tracks: 57
 
@@ -50,7 +50,7 @@ episodes:
     rating: 6/10
     tracks: 10
 
-  - release: '2018-03-25: Boiler Room, "[Basenji]": Melbourne, Victoria, Australia'
+  - release: '2018-03-25: Boiler Room, "[Basenji]": Melbourne, VIC, Australia'
     rating: 8/10
     tracks: 19
 
@@ -58,7 +58,7 @@ episodes:
     rating: 5/10
     tracks: 22
 
-  - release: '2019-03-15: Boiler Room, "[DJ Bus Replacement Service]": London, UK'
+  - release: '2019-03-15: Boiler Room, "[DJ Bus Replacement Service]": London, England, UK'
     rating: 6/10
     tracks: 20
 
@@ -70,6 +70,6 @@ episodes:
     rating: 9/10
     tracks: 14
 
-  - release: '2022-07-29: Boiler Room, "[Fred again..]": London, UK'
+  - release: '2022-07-29: Boiler Room, "[Fred again..]": London, England, UK'
     rating: 10/10
     tracks: 22

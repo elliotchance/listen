@@ -204,6 +204,43 @@ class Release:
         self.location = match_first("\": (.*)", original, '')
         self.artists = re.findall(r"\[(.*?)\]", original)
 
+class Location:
+    name: str
+    contains: List # List[Location]
+
+    def __init__(self, location) -> None:
+        self.name = location['name']
+        self.contains = []
+        if 'contains' in location:
+            self.contains = [Location(l) for l in location['contains']]
+
+    def __repr__(self) -> str:
+        return self.name
+
+class LocationRepo:
+    root: Location
+
+    def __init__(self) -> None:
+        with open("locations.yaml") as locations_file:
+            locations_details = yaml.safe_load(locations_file)
+            self.root = Location({'name': 'Root', 'contains': locations_details['locations']})
+
+    def check_location(self, name):
+        parts = name.split(', ')
+        root = self.root
+        for part in reversed(parts):
+            found = False
+            for location in root.contains:
+                if location.name == part:
+                    root = location
+                    found = True
+
+            if not found:
+                print("missing location: %s (%s)" % (name, part))
+                return False
+
+        return True
+
 def match_first(regex, s, default):
     m = re.findall(regex, s)
     if len(m) > 0:
@@ -438,6 +475,7 @@ class Episode:
         self.date = ''
         self.release = ''
         self.duration = 0
+        self.location = ''
         
         if 'release' in entries:
             r = Release(entries['release'])
@@ -446,6 +484,7 @@ class Episode:
             self.title = r.title
             self.date = r.date
             self.series = r.series
+            self.location = r.location
         if 'number' in entries:
             self.number = entries['number']
         if 'tracks' in entries:
@@ -469,21 +508,36 @@ class Episode:
             append_artist(self.artists, track, self.formatted_title())
 
     def score(self):
+        if self.rating != '':
+            if isinstance(self.rating, int):
+                return self.rating - 1
+            
+            return int(self.rating.split('/')[0]) - 1
+
         if len(self.liked) == 0:
             return 0
         
-        if self.duration > 0:
-            hours = self.duration / 60
-        else:
-            hours = float(self.tracks) / 14
-        if hours < 1:
-            hours = 1.0
-        
+        hours = self.hours()
         final = round(float(len(self.liked)) / hours * 2)
         if final > 9:
             final = 9
         
         return final
+    
+    def hours(self):
+        if self.duration > 0:
+            return self.duration / 60
+        
+        if self.tracks > 0:
+            return float(self.tracks) / 14
+        
+        if 'A State of Trance' in self.release:
+            return 2
+        
+        if 'Tritonia' in self.release:
+            return 1
+        
+        return 1
 
     def score_html(self):
         return '<span class="r%d">&nbsp;</span>' % self.score()
@@ -593,6 +647,7 @@ def status_emoji(status):
 
 artist_repo = ArtistRepo()
 track_repo = TrackRepo()
+location_repo = LocationRepo()
 
 broadcasts = Broadcasts(artist_repo)
 for s in sorted(os.listdir("Broadcasts")):
@@ -838,6 +893,9 @@ with open('releases.html', "w") as f:
     w(f, "<script>const releases = [")
     i = 1
     for release in all:
+        if release.location:
+            location_repo.check_location(release.location)
+
         w(f, "{n: %d, rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\"}," % (
             i, release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
             apply_artists(release.formatted_title(), artist_repo).replace('"', '\\"'),

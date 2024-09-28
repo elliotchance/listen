@@ -1,0 +1,15 @@
+series:
+  status: incomplete
+
+episodes:
+  - release: '2020-08-31: Cercle, "[Ben Böhmer]": Cappadocia, Turkey'
+    url: https://www.youtube.com/watch?v=RvRhUHTV_8k
+    tl: https://1001.tl/2k8m3j59
+    duration: 1 hour 24 minutes 30 seconds
+    rating: 10/10
+
+  - release: '2022-04-18: Cercle, "[Boris Brejcha]": Arènes de Nîmes, France'
+    url: https://www.youtube.com/watch?v=1MobY_vR7-g
+    tl: https://1001.tl/1vygzr01
+    duration: https://1001.tl/1vygzr01
+    rating: 7/10
