@@ -865,16 +865,16 @@ with open('releases.html', "w") as f:
     .n { text-align: right; width: 30px; display: inline-block; padding-right: 10px; }
       
     /* https://loading.io/color/feature/Spectral-10/ */
-    .r0 { background-color: #9e0142; padding-left: 5px; padding-right: 5px }
-    .r1 { background-color: #d53e4f; padding-left: 5px; padding-right: 5px }
-    .r2 { background-color: #f46d43; padding-left: 5px; padding-right: 5px }
-    .r3 { background-color: #fdae61; padding-left: 5px; padding-right: 5px }
-    .r4 { background-color: #fee08b; padding-left: 5px; padding-right: 5px }
-    .r5 { background-color: #e6f598; padding-left: 5px; padding-right: 5px }
-    .r6 { background-color: #abdda4; padding-left: 5px; padding-right: 5px }
-    .r7 { background-color: #66c2a5; padding-left: 5px; padding-right: 5px }
-    .r8 { background-color: #3288bd; padding-left: 5px; padding-right: 5px }
-    .r9 { background-color: #5e4fa2; padding-left: 5px; padding-right: 5px }
+    .r0 { background-color: #9e0142; padding-left: 5px; padding-right: 5px; color: #61febd; }
+    .r1 { background-color: #d53e4f; padding-left: 5px; padding-right: 5px; color: #2ac1b0; }
+    .r2 { background-color: #f46d43; padding-left: 5px; padding-right: 5px; color: #0b92bc; }
+    .r3 { background-color: #fdae61; padding-left: 5px; padding-right: 5px; color: #02519e; }
+    .r4 { background-color: #fee08b; padding-left: 5px; padding-right: 5px; color: #011f74; }
+    .r5 { background-color: #e6f598; padding-left: 5px; padding-right: 5px; color: #190a67; }
+    .r6 { background-color: #abdda4; padding-left: 5px; padding-right: 5px; color: #54225b; }
+    .r7 { background-color: #66c2a5; padding-left: 5px; padding-right: 5px; color: #993d5a; }
+    .r8 { background-color: #3288bd; padding-left: 5px; padding-right: 5px; color: #cd7742; }
+    .r9 { background-color: #5e4fa2; padding-left: 5px; padding-right: 5px; color: #a1b05d; }
     """)
     w(f, "</style>")
 
@@ -886,21 +886,22 @@ with open('releases.html', "w") as f:
     all = sorted(all, key=lambda x: x.formatted_title())
 
     all_series = {}
+    all_artists = {}
     for release in all:
         all_series[release.series] = True
+        for artist in Release(release.release).artists:
+            all_artists[artist] = True
 
     w(f, '<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>')
     w(f, "<script>const releases = [")
-    i = 1
     for release in all:
         if release.location:
             location_repo.check_location(release.location)
 
-        w(f, "{n: %d, rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\"}," % (
-            i, release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
+        w(f, "{rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\"}," % (
+            release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
             apply_artists(release.formatted_title(), artist_repo).replace('"', '\\"'),
             release.series))
-        i += 1
     w(f, """
     ];
       
@@ -910,7 +911,8 @@ with open('releases.html', "w") as f:
         const minYear = $('#minyear option:selected').text();
         const maxYear = $('#maxyear option:selected').text();
         const series = $('#series option:selected').text();
-        let html = '';
+        const artist = $('#artist option:selected').text();
+        let html = '<ol>';
     
         const sort = $('#sort option:selected').text();
         if (sort == 'Title') {
@@ -924,12 +926,15 @@ with open('releases.html', "w") as f:
             if (series != 'All' && release.series != series) {
                 continue;
             }
+            if (artist != 'All' && !release.release.includes('[' + artist + ']')) {
+                continue;
+            }
             if (release.rating >= minRating && release.rating <= maxRating &&
                 release.year >= minYear && release.year <= maxYear) {
-                html += '<span class="n">' + release.n + ". </span>" + `<span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span><br/>';
+                html += `<li><span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span></li>';
             }
         }
-        $('#results').html(html);
+        $('#results').html(html + '</ol>');
     }
     </script>
     """)
@@ -948,6 +953,11 @@ with open('releases.html', "w") as f:
     w(f, '<option>%s</option>' % 'All')
     for series in sorted(all_series.keys()):
         w(f, '<option>%s</option>' % series)
+    w(f, "</select>")
+    w(f, "Artist: <select id='artist' onchange='refresh()'>")
+    w(f, '<option>%s</option>' % 'All')
+    for artist in sorted(all_artists.keys()):
+        w(f, '<option>%s</option>' % artist)
     w(f, "</select>")
     w(f, "Sort: <select id='sort' onchange='refresh()'>")
     w(f, '<option>Title</option>')
