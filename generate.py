@@ -184,6 +184,19 @@ class TrackRepo:
         
         return versions[:1000]
 
+class URL:
+    url: str
+
+    def __init__(self, url) -> None:
+        self.url = url
+
+    def html(self) -> str:
+        host = self.url.split('/')[2]
+        if host == '1001.tl':
+            return '<a href="%s" class="tracklists">&nbsp;</a>' % self.url
+        else:
+            raise Exception("unknown host: %s" % host)
+
 class Release:
     original: str
     date: str
@@ -872,8 +885,14 @@ with open('releases.html', "w") as f:
     a:link, a:visited {
         color: SlateBlue;
     }
-
-    .n { text-align: right; width: 30px; display: inline-block; padding-right: 10px; }
+    a.tracklists {
+      background-image: url("https://cdn.1001tracklists.com/images/static/1001icon_s.png");
+      background-size: 16px 16px;
+      text-decoration: none;
+      background-repeat: no-repeat;
+      width: 16px;
+      display: inline-block;
+    }
       
     /* https://loading.io/color/feature/Spectral-10/ */
     .r0 { background-color: #9e0142; padding-left: 5px; padding-right: 5px; color: #61febd; }
@@ -909,9 +928,13 @@ with open('releases.html', "w") as f:
         if release.location:
             location_repo.check_location(release.location)
 
+        duration = ''
+        if release.duration:
+            duration = ' <span class="duration">(' + release.duration_str() + ')</a>'
+
         w(f, "{rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\"}," % (
             release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
-            apply_artists(release.formatted_title(), artist_repo).replace('"', '\\"'),
+            (apply_artists(release.formatted_title(), artist_repo) + ' ' + ''.join([URL(url).html() for url in release.urls]) + duration).replace('"', '\\"'),
             release.series))
     w(f, """
     ];
