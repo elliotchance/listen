@@ -3,34 +3,45 @@ series:
 
 episodes:
   - release: '2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [12th Planet] Throwback Set"'
+    duration: 1h # approx
     rating: 2/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Quantum Valley Stage: [ALPHA 9]"'
+    duration: 1h # approx
     rating: 7/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Stereo Bloom Stage: [Dr. Fresch]"'
+    duration: 1h # approx
     rating: 7/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Kinetic Field Stage: [Jason Ross]"'
+    duration: 1h # approx
     rating: 8/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [Kayzo] b2b [Knife Party]"'
+    duration: 1h # approx
     rating: 9/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Cosmic Meadow Stage: [Knife Party]"'
+    duration: 1h # approx
     rating: 9/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Kinetic Field Stage: [Kygo]"'
+    duration: 1h # approx
     rating: 6/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [Pendulum]"'
+    duration: 1h # approx
     rating: 8/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Stereo Bloom Stage: [Qrion]"'
+    duration: 1h # approx
     rating: 6/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Waste Land Stage: [SAYMYNAME] Hardstyle Set"'
+    duration: 1h # approx
     rating: 7/10
 
   - release: '2021-10-26: Electric Daisy Carnival, "Cosmic Meadow Stage: [William Black]"'
+    duration: 1h # approx
     rating: 8/10

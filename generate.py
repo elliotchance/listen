@@ -509,8 +509,15 @@ class Episode:
         if 'urls' in entries:
             self.urls = entries['urls']
         if 'duration' in entries:
-            if match := re.search(r'(\d+) hours? (\d+) minutes? (\d+) seconds?', entries['duration'], re.IGNORECASE):
-                self.duration = int(match.group(1)) * 60 + int(match.group(2)) + round((float(match.group(3)) / 60))
+            if match := re.search(r'(\d+)\s*h', entries['duration'], re.IGNORECASE):
+                self.duration += int(match.group(1)) * 60
+            if match := re.search(r'(\d+)\s*m', entries['duration'], re.IGNORECASE):
+                self.duration += int(match.group(1))
+            if match := re.search(r'(\d+)\s*s', entries['duration'], re.IGNORECASE):
+                self.duration += round((float(match.group(1)) / 60))
+
+        if self.duration == 0:
+            print("missing duration: %s" % self.release)
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -538,19 +545,7 @@ class Episode:
         return final
     
     def hours(self):
-        if self.duration > 0:
-            return self.duration / 60
-        
-        if self.tracks > 0:
-            return float(self.tracks) / 14
-        
-        if 'A State of Trance' in self.release:
-            return 2
-        
-        if 'Tritonia' in self.release:
-            return 1
-        
-        return 1
+        return self.duration / 60
 
     def score_html(self):
         return '<span class="r%d">&nbsp;</span>' % self.score()
@@ -560,6 +555,8 @@ class Episode:
             return '?'
         h = int(self.duration / 60)
         m = self.duration - (h * 60)
+        if m == 0:
+            return '%dh' % h
         return '%dh%02dm' % (h, m)
 
     def formatted_title(self):
@@ -922,8 +919,9 @@ with open('releases.html', "w") as f:
     for release in all:
         if artist_repo.get_artist(release.series) is None:
             if release.series not in all_series:
-                all_series[release.series] = 0
-            all_series[release.series] += 1
+                all_series[release.series] = [0, 0]
+            all_series[release.series][0] += 1
+            all_series[release.series][1] += release.duration
 
         for artist in Release(release.release).artists:
             if artist not in all_artists:
@@ -940,10 +938,10 @@ with open('releases.html', "w") as f:
         if release.duration:
             duration = ' <span class="duration">(' + release.duration_str() + ')</a>'
 
-        w(f, "{rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\"}," % (
+        w(f, "{rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\", tracks: %d, duration: %f}," % (
             release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
             (apply_artists(release.formatted_title(), artist_repo) + ' ' + ''.join([URL(url).html() for url in release.urls]) + duration).replace('"', '\\"'),
-            release.series))
+            release.series, release.tracks, release.duration))
     w(f, """
     ];
       
@@ -965,6 +963,9 @@ with open('releases.html', "w") as f:
             releases.sort((a, b) => b.rating - a.rating);
         }
 
+        let releaseCount = 0;
+        let trackCount = 0;
+        let duration = 0;
         for (const release of releases) {
             if (series != 'All Series' && release.series != series) {
                 continue;
@@ -978,9 +979,12 @@ with open('releases.html', "w") as f:
             if (release.rating >= minRating && release.rating <= maxRating &&
                 release.year >= minYear && release.year <= maxYear) {
                 html += `<li><span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span></li>';
+                releaseCount++;
+                trackCount += release.tracks;
+                duration += release.duration;
             }
         }
-        $('#results').html(html + '</ol>');
+        $('#results').html(`<p>${releaseCount} releases, ${trackCount} tracks, ${Math.round(duration / 60)} hours:</p>` + html + '</ol>');
     }
     </script>
     """)
@@ -998,7 +1002,7 @@ with open('releases.html', "w") as f:
     w(f, "<select id='series' onchange='refresh()'>")
     w(f, '<option>%s</option>' % 'All Series')
     for series in sorted(all_series.keys()):
-        w(f, '<option value="%s">%s (%d)</option>' % (series, series, all_series[series]))
+        w(f, '<option value="%s">%s (%d / %dh)</option>' % (series, series, all_series[series][0], round(all_series[series][1] / 60)))
     w(f, "</select>")
     w(f, "<select id='artist' onchange='refresh()'>")
     w(f, '<option>%s</option>' % 'All Artists')

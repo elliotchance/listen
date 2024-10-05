@@ -5,20 +5,24 @@ series:
 
 episodes:
   - release: "2023-01-05: A State of Trance #1102"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Cyclone - Lustral
       - Bloodstream {[Cubicore] Remix} - [Ferry Corsten] & [Ruben de Ronde]
 
   - release: "2023-01-12: A State of Trance #1103"
+    duration: 2h # approx
     tracks: 24
     liked:
       - There Is Purpose - [Ronski Speed] & [Bixx]
 
   - release: "2023-01-19: A State of Trance #1104"
+    duration: 2h # approx
     tracks: 24
 
   - release: "2023-01-26: A State of Trance #1105"
+    duration: 2h # approx
     tracks: 29
     liked:
       - Equinox - [Kay Wilder] & [Wldr]
@@ -26,6 +30,7 @@ episodes:
       - Air - AA Meeting
 
   - release: "2023-02-02: A State of Trance #1106"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Questions Must Be Asked {[Modeā] Remix} - David Forbes
@@ -35,6 +40,7 @@ episodes:
       - Horizon - [Zack Martino] feat. [Bertie Scott]
 
   - release: "2023-02-09: A State of Trance #1107"
+    duration: 2h # approx
     tracks: 30
     liked:
       - Out of Nowhere {[Connor Woodford] Remix} - [John O'Callaghan] feat. [Josie]
@@ -42,6 +48,7 @@ episodes:
       - Black Hole {[Giuseppe Ottaviani] Remix} - [Craig Connelly] & [Christina Novelli]
 
   - release: "2023-02-16: A State of Trance #1108"
+    duration: 2h # approx
     tracks: 3
     liked:
       - Ignite - Symmetrik
@@ -49,35 +56,43 @@ episodes:
       - I Wish - [Andrew Rayel], [Robbie Seed] & [Jimmy Chou] feat. [That Girl]
 
   - release: "2023-02-23: A State of Trance #1109"
+    duration: 2h # approx
     tracks: 27
 
   - release: "2023-03-02: A State of Trance #1110"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Us Against The World - [Stowers & Cooper] & [That Girl]
       - Life Is Back - [Daniel Kandi] & [Prox]
 
   - release: "2023-03-09: A State of Trance #1111"
+    duration: 2h # approx
     tracks: 28
 
   - release: "2023-03-16: A State of Trance #1112"
+    duration: 2h # approx
     tracks: 28
     liked:
       - What's Left Of Me - Nicolas Menicou
       - Song I Sing - [Armin van Buuren] feat. [HALIENE]
 
   - release: "2023-03-23: A State of Trance #1113"
+    duration: 2h # approx
     tracks: 31
 
   - release: "2023-03-30: A State of Trance #1114"
+    duration: 2h # approx
     tracks: 29
     liked:
       - Find a Place - Cold Blue
 
   - release: "2023-04-06: A State of Trance #1115"
+    duration: 2h # approx
     tracks: 29
 
   - release: "2023-04-13: A State of Trance #1116"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Lifted - Volaris
@@ -87,12 +102,14 @@ episodes:
       - Sapphire Skies - [Adam Ellis] & [Lucid Blue]
 
   - release: "2023-04-20: A State of Trance #1117"
+    duration: 2h # approx
     tracks: 30
     liked:
       - Heavy {[Daxson] Remix} - Christina Novelli
       - Exhilarate - [Will Rees] & [Asteroid]
 
   - release: "2023-04-27: A State of Trance #1118"
+    duration: 2h # approx
     tracks: 26
     liked:
       - Burned With Desire {[Bryan Kearney] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -100,12 +117,14 @@ episodes:
       - U Ready? - Sam Jones
 
   - release: "2023-05-04: A State of Trance #1119"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Dayglow {[Bryan Kearney] Remix} - [Armin van Buuren] feat. [Stuart Crichton]
       - Burned With Desire {[Bryan Kearney] Remix} - [Armin van Buuren] feat. [Justine Suissa]
 
   - release: "2023-05-11: A State of Trance #1120"
+    duration: 2h # approx
     tracks: 30
     liked:
       - Kalopsia {[Matt Fax] Remix} - The Blizzard
@@ -113,14 +132,17 @@ episodes:
       - Ignite - [Paul Webster] & [NoSo]
 
   - release: "2023-05-18: A State of Trance #1121"
+    duration: 2h # approx
     tracks: 30
     liked:
       - Burned With Desire {[Bryan Kearney] Remix} - [Armin van Buuren] feat. [Justine Suissa]
 
   - release: "2023-05-25: A State of Trance #1122"
+    duration: 2h # approx
     tracks: 16
 
   - release: "2023-06-01: A State of Trance #1123"
+    duration: 2h # approx
     tracks: 26
     liked:
       - Everlasting - [Emma Hewitt] & [XiJaro & Pitch]
@@ -129,25 +151,30 @@ episodes:
       - Hold on to This - [Hel:sløwed] & [That Girl]
 
   - release: "2023-06-08: A State of Trance #1124"
+    duration: 2h # approx
     tracks: 25
     liked:
       - Wave Force - Perry O'Neil
       - Carte Blanche - [Dirty South] & [Ferry Corsten]
 
   - release: "2023-06-15: A State of Trance #1125"
+    duration: 2h # approx
     tracks: 28
 
   - release: "2023-06-22: A State of Trance #1126"
+    duration: 2h # approx
     tracks: 21
     liked:
       - Hold on to This - [Hel:sløwed] & [That Girl]
 
   - release: "2023-06-29: A State of Trance #1127"
+    duration: 2h # approx
     tracks: 33
     liked:
       - Other Side of the World - [Craig Connelly] & [HALIENE]
 
   - release: "2023-07-06: A State of Trance #1128"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Kiss the Night - MurZo
@@ -155,6 +182,7 @@ episodes:
       - Anywhere {Road Trippin'} - anamē
 
   - release: "2023-07-13: A State of Trance #1129"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Launching - [Achilles] & [Boris Foong]
@@ -162,6 +190,7 @@ episodes:
       - Healing - Mhammed El Alami
 
   - release: "2023-07-20: A State of Trance #1130"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Forever Young - Paul Kold
@@ -172,15 +201,18 @@ episodes:
       - Black Magic - Steve Dekay
 
   - release: "2023-07-27: A State of Trance #1131"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Rest of Our Lives {[Paul Webster] Remix} - Ben Gold
       - Shine a Light - [Bryan Kearney] & [Bo Bruce]
 
   - release: "2023-08-03: A State of Trance #1132"
+    duration: 2h # approx
     tracks: 29
 
   - release: "2023-08-10: A State of Trance #1133"
+    duration: 2h # approx
     tracks: 29
     liked:
       - Kalopsia {[Matt Fax] Remix} - The Blizzard
@@ -189,6 +221,7 @@ episodes:
       - Renegade - [David Forbes] & [Allen Watts]
 
   - release: "2023-08-17: A State of Trance #1134"
+    duration: 2h # approx
     tracks: 29
     liked:
       - Eye of the Storm - [Aly & Fila] & [Alex M.O.R.P.H.] feat. [Cheryl Barnes]
@@ -196,6 +229,7 @@ episodes:
       - Borderline - [MaRLo] & [Roxanne Emery]
 
   - release: "2023-08-24: A State of Trance #1135"
+    duration: 2h # approx
     tracks: 33
     liked:
       - Breathless - [ReOrder] & [Ghost Etiquette] feat. [Miss Geist]
@@ -203,17 +237,20 @@ episodes:
       - Warrior {[Marsh] Remix} - Warrior
 
   - release: "2023-08-31: A State of Trance #1136"
+    duration: 2h # approx
     tracks: 33
     liked:
       - Kamehameha - [Lucas Deyong] & [0Gravity]
 
   - release: "2023-09-07: A State of Trance #1137"
+    duration: 2h # approx
     tracks: 30
     liked:
       - Piece of Art {[Darren Porter] Remix} - Kryder
       - Feel Alive - Morgin Madison
 
   - release: "2023-09-14: A State of Trance #1138"
+    duration: 2h # approx
     tracks: 30
     liked:
       - After All These Years - Doppenberg
@@ -223,21 +260,25 @@ episodes:
       - The One - [David Elston] & [Jodie Poye]
 
   - release: "2023-09-21: A State of Trance #1139"
+    duration: 2h # approx
     tracks: 32
     liked:
       - A Moment of Melancholy {[Cold Blue] Remix} - [Factor B] & [Highlandr]
 
   - release: "2023-09-28: A State of Trance #1140"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Coming Home {[Arctic Moon] Remix} - Armin van Buuren
 
   - release: "2023-10-05: A State of Trance #1141"
+    duration: 2h # approx
     tracks: 29
     liked:
       - Via Infinita {[Marsh] Remix} - Estiva
 
   - release: "2023-10-12: A State of Trance #1142"
+    duration: 2h # approx
     tracks: 28
     liked:
       - God Is in the Soundwaves - [Armin van Buuren] & [Xoro] feat. [Yola Recoba]
@@ -245,27 +286,32 @@ episodes:
       - Let the Light Shine in - [Darren Tate] & [Jono Grant]
 
   - release: "2023-10-19: A State of Trance #1143"
+    duration: 2h # approx
     tracks: 29
     liked:
       - Feel Again {[ID] Remix} - [Armin van Buuren] feat. [Wrabel]
 
   - release: "2023-10-26: A State of Trance #1144"
+    duration: 2h # approx
     tracks: 29
     liked:
       - God Is in the Soundwaves {Harder Mix} - [Armin van Buuren] & [Xoro] feat. [Yola Recoba]
 
   - release: "2023-11-02: A State of Trance #1145"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Breathing (Airwave) {[Alchimyst] Remix} - Rank 1
       - All Over Again {[Sean Tyas] & [David Elston] Remix} - [Bryan Kearney] & [Plumb]
 
   - release: "2023-11-09: A State of Trance #1146"
+    duration: 2h # approx
     tracks: 30
     liked:
       - Take My Breath - [Alex M.O.R.P.H.] & [Marjan]
 
   - release: "2023-11-16: A State of Trance #1147"
+    duration: 2h # approx
     tracks: 33
     liked:
       - Te Amo {[Cold Blue] Remix} - Bryan Kearney
@@ -274,11 +320,13 @@ episodes:
       - Reputation - Maria Healy
 
   - release: "2023-11-23: A State of Trance #1148"
+    duration: 2h # approx
     tracks: 27
     liked:
       - You - Asteroid
 
   - release: "2023-11-30: A State of Trance #1149"
+    duration: 2h # approx
     tracks: 23
     liked:
       - Fiji {[Allan Morrow] Remix} - Atlantis
@@ -286,12 +334,15 @@ episodes:
       - ID - Hel:sløwed
 
   - release: "2023-12-07: A State of Trance #1150"
+    duration: 2h # approx
     tracks: 29
 
   - release: "2023-12-14: A State of Trance #1151"
+    duration: 2h # approx
     tracks: 35
 
   - release: '2023-12-21: A State of Trance #1152, "Top 50"'
+    duration: 2h # approx
     tracks: 50
     liked:
       - Connected {[Lostly]'s Change of Season Remix} - [Factor B] & [Arielle Maren]
@@ -306,3 +357,4 @@ episodes:
       - Rest of Our Lives {[Paul Webster] Remix} - Ben Gold
 
   - release: '2023-12-28: A State of Trance #1153, "Yearmix"'
+    duration: 2h # approx

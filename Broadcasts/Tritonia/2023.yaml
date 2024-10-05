@@ -5,32 +5,39 @@ series:
 
 episodes:
   - release: "2023-01-13: Tritonia #410"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-01-16: Tritonia #411"
+    duration: 1h # approx
     tracks: 13
 
   - release: "2023-01-27: Tritonia #412"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Into the Night - [Kapera] feat. [Daniel Robinson]
       - By My Side - Sunny Lax
 
   - release: "2023-02-03: Tritonia #413"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Ease My Pain - [SOLR] & [Cece Mix]
       - Horizon - [Zack Martino] feat. [Bertie Scott]
 
   - release: "2023-02-10: Tritonia #414"
+    duration: 1h # approx
     tracks: 16
     liked:
       - Forever {[Bogdan Vix] & [Claudiu Adam] Remix} - [Bogdan Vix] & [Renee Stahl]
 
   - release: "2023-02-16: Tritonia #415"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-02-24: Tritonia #416"
+    duration: 1h # approx
     tracks: 15
     liked:
       - Catch You When You Fall - [DJ T.H.] & [Sharon Valerona]
@@ -38,30 +45,37 @@ episodes:
       - Better Place - [Modera] & [Lauren L'aimant]
 
   - release: "2023-03-03: Tritonia #417"
+    duration: 1h # approx
     tracks: 13
     liked:
       - Lophorina - Romain Garcia
 
   - release: "2023-03-10: Tritonia #418"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-03-17: Tritonia #419"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Beyond - Different Stage
 
   - release: "2023-03-24: Tritonia #420"
+    duration: 1h # approx
     tracks: 13
     liked:
       - In the Silence {[LKX] Remix} - [Luminn] & [Roxanne Emery]
 
   - release: "2023-03-31: Tritonia #421"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-04-07: Tritonia #422"
+    duration: 1h # approx
     tracks: 14
 
   - release: '2023-04-14: Tritonia #423, "WE ARE PRAANA"'
+    duration: 1h # approx
     tracks: 18
     liked:
       - Asylum - PRAANA
@@ -70,54 +84,66 @@ episodes:
       - Samadhi - PRAANA
 
   - release: "2023-04-21: Tritonia #424"
+    duration: 1h # approx
     tracks: 12
 
   - release: "2023-04-28: Tritonia #425"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-05-05: Tritonia #426"
+    duration: 1h # approx
     tracks: 13
 
   - release: "2023-05-12: Tritonia #427"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Something New {[Rafaël Frost] Remix} - [Tritonal] feat. [Jenry R]
 
   - release: "2023-05-19: Tritonia #428"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-05-26: Tritonia #429"
+    duration: 1h # approx
     tracks: 13
     liked:
       - By My Side - Sunny Lax
       - Hit & Run - [Marcus Santoro] feat. [Darla Jade]
 
   - release: "2023-06-02: Tritonia #430"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Illusions - Lipless
 
   - release: "2023-06-09: Tritonia #431"
+    duration: 1h # approx
     tracks: 13
     liked:
       - Illusions - Lipless
 
   - release: "2023-06-16: Tritonia #432"
+    duration: 1h # approx
     tracks: 13
     liked:
       - BLACKOUT - [ASHER SWISSA], [Zvika Brand] & [Lusil]
 
   - release: "2023-06-23: Tritonia #433"
+    duration: 1h # approx
     tracks: 13
     liked:
       - Carte Blanche - [Dirty South] & [Ferry Corsten]
 
   - release: "2023-06-30: Tritonia #434"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Healing - Mhammed El Alami
 
   - release: "2023-07-07: Tritonia #435"
+    duration: 1h # approx
     tracks: 12
     liked:
       - Set Us Free - Modera
@@ -125,23 +151,27 @@ episodes:
       - Breathing {[David Broaders] Remix} - [Boom Jinx], [Nitrous Oxide] & [Einar K] feat. [Vintage & Morelli]
 
   - release: "2023-07-14: Tritonia #436"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Arctic - Mino Safy
 
   - release: "2023-07-21: Tritonia #437"
+    duration: 1h # approx
     tracks: 14
     liked:
       - All Mine - [Katzz], [Marcel Scott] & [ALLKNIGHT]
       - Connection - Datskie
 
   - release: "2023-07-28: Tritonia #438"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Futuro - [Giuseppe Ottaviani] & [ilan Bluestone]
       - All Mine - [Katzz], [Marcel Scott] & [ALLKNIGHT]
 
   - release: "2023-08-04: Tritonia #439"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Someone We Used to Love - [anamē] & [Lydmor]
@@ -149,37 +179,45 @@ episodes:
       - Futuro - [Giuseppe Ottaviani] & [ilan Bluestone]
 
   - release: "2023-08-11: Tritonia #440"
+    duration: 1h # approx
     tracks: 15
 
   - release: "2023-08-18: Tritonia #441"
+    duration: 1h # approx
     tracks: 12
     liked:
       - Anywhere {Road Trippin'} - anamē
       - Back Into Your Arms - [Modera] & [Blonde Maze]
 
   - release: "2023-08-25: Tritonia #442"
+    duration: 1h # approx
     tracks: 15
 
   - release: "2023-09-01: Tritonia #443"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-09-06: Tritonia #444"
+    duration: 1h # approx
     tracks: 15
     liked:
       - Moving Mountains - [Aurosonic], [Mully], [Shvman] & [M3GA]
       - Blitzar - NrgMind
 
   - release: "2023-09-15: Tritonia #445"
+    duration: 1h # approx
     tracks: 15
     liked:
       - Kalopsia {[Matt Fax] Remix} - The Blizzard
 
   - release: "2023-09-22: Tritonia #446"
+    duration: 1h # approx
     tracks: 15
     liked:
       - Via Infinita {[Marsh] Remix} - Estiva
 
   - release: "2023-09-29: Tritonia #447"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Self Luminous - PRAANA
@@ -187,57 +225,68 @@ episodes:
       - Via Infinita {[Marsh] Remix} - Estiva
 
   - release: "2023-10-06: Tritonia #448"
+    duration: 1h # approx
     tracks: 12
     liked:
       - Sanctuary - [PRAANA] & [Ed Graves]
 
   - release: "2023-10-13: Tritonia #449"
+    duration: 1h # approx
     tracks: 14
     liked:
       - I Am {[atDusk] Remix} - Chakra
 
   - release: "2023-10-20: Tritonia #450"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Sanctuary - [PRAANA] & [Ed Graves]
 
   - release: "2023-10-27: Tritonia #451"
+    duration: 1h # approx
     tracks: 15
     liked:
       - Phantom Love - [MitiS] feat. [Sarah de Warren]
 
   - release: "2023-11-03: Tritonia #452"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Give Me a Feeling - Mark Novas
       - Everything Is Beautiful - [Tritonal] & [Kwesi]
 
   - release: "2023-11-10: Tritonia #453"
+    duration: 1h # approx
     tracks: 14
 
   - release: "2023-11-17: Tritonia #454"
+    duration: 1h # approx
     tracks: 15
     liked:
       - Dancing in the Dark - Blonde Maze
 
   - release: "2023-11-23: Tritonia #455"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Horizon - [Seven Lions], [Tritonal] & [Kill the Noise] feat. [HALIENE]
 
   - release: "2023-12-07: Tritonia #456"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Time Marches On - L.GU.
       - Happy Where We Are {[ilan Bluestone] Remix} - [Tritonal], [Dylan Matthew] & [Au5]
 
   - release: "2023-12-14: Tritonia #457"
+    duration: 1h # approx
     tracks: 15
     liked:
       - The Morning After - [Miss Monique] & [Paul Thomas]
       - Autumn - [Seelo] & [George Gleeson]
 
   - release: "2023-12-21: Tritonia #458"
+    duration: 1h # approx
     tracks: 14
     liked:
       - Songs of Our Ancestors - [Datskie] & [HAUMS]

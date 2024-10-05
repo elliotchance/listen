@@ -5,6 +5,7 @@ series:
 
 episodes:
   - release: '2013-02-14: A State of Trance #600, "Official Pre-Party": Madrid, Spain'
+    duration: 2h # approx
     tracks: 22
     liked:
       - D# Fat - [Armin van Buuren] & [W&W]
@@ -12,6 +13,7 @@ episodes:
       - The Expedition {[Andrew Rayel] Remix} - [Armin van Buuren] & [Markus Schulz]
 
   - release: '2013-02-14: A State of Trance #600, "[Alexander Popov]": Madrid, Spain'
+    duration: 2h # approx
     tracks: 13
     liked:
       - ID - ID
@@ -20,6 +22,7 @@ episodes:
       - ID - [Eximinds] vs. [Alexander Popov]
 
   - release: '2013-02-14: A State of Trance #600, "[Lange]": Madrid, Spain'
+    duration: 2h # approx
     tracks: 13
     liked:
       - Perlas vs. Chilldren, Robert Miles {[Maison & Dragen] 2012 Reboot} - [Mark Sixma] vs. [Fisherman & Hawkins]
@@ -27,6 +30,7 @@ episodes:
       - Neptune's Siren - [Darren Porter] & [Ferry Tayle]
 
   - release: '2013-02-14: A State of Trance #600, "[Armin van Buuren]": Madrid, Spain'
+    duration: 2h # approx
     tracks: 27
     liked:
       - Waiting for the Night {[Beat Service] Remix} - [Armin van Buuren] feat. [Fiora]
@@ -39,6 +43,7 @@ episodes:
       - Jewel {[Daniel Kandi]'s Emotive mix} - [Solarstone] & [Clare Stagg]
 
   - release: '2013-02-14: A State of Trance #600, "[Giuseppe Ottaviani]": Madrid, Spain'
+    duration: 2h # approx
     tracks: 12
     liked:
       - Just for You - [Giuseppe Ottaviani] feat. [Linnea Schössow]
@@ -47,6 +52,7 @@ episodes:
       - ID - ID
 
   - release: '2013-02-16: A State of Trance #600, "[Max Graham] & [Protoculture]": Mexico City, Mexico'
+    duration: 2h # approx
     tracks: 20
     liked:
       - ID - ID
@@ -58,6 +64,7 @@ episodes:
       - Sol - Björn Åkesson
 
   - release: '2013-02-16: A State of Trance #600, "[W&W]": Mexico City, Mexico'
+    duration: 2h # approx
     tracks: 19
     liked:
       - Rewind the Fuse {[Mikkas] Remix} - [Emma Hewitt] vs. [Omnia]
@@ -68,6 +75,7 @@ episodes:
       - The Code - [W&W] & [Ummet Ozcan]
 
   - release: '2013-02-16: A State of Trance #600, "[Markus Schulz]": Mexico City, Mexico'
+    duration: 2h # approx
     tracks: 18
     liked:
       - Apache - Fisherman & Hawkins
@@ -77,6 +85,7 @@ episodes:
       - Loops & Tings - [Markus Schulz] & [Ferry Corsten]
 
   - release: '2013-02-16: A State of Trance #600, "[Armin van Buuren]": Mexico City, Mexico'
+    duration: 2h # approx
     tracks: 26
     liked:
       - Waiting for the Night {[Beat Service] Remix} - [Armin van Buuren] feat. [Fiora]
@@ -89,6 +98,7 @@ episodes:
       - Game Over - Heatbeat
 
   - release: '2013-02-16: A State of Trance #600, "[Dash Berlin]": Mexico City, Mexico'
+    duration: 2h # approx
     tracks: 18
     liked:
       - Waiting Sun & Moon {Dashup} - [Dash Berlin] vs. [Above & Beyond]
@@ -101,17 +111,20 @@ episodes:
       - The Funeral - [Dash Berlin] feat. [Band of Horses]
 
   - release: '2013-03-01: A State of Trance #600, "[Ruben de Ronde]": São Paulo, Brazil'
+    duration: 2h # approx
     tracks: 11
     liked:
       - Sinai - ilan Bluestone
       - Timide {[Craving] Remix} - Ruben de Ronde
 
   - release: '2013-03-01: A State of Trance #600, "[Tomas Heredia]": São Paulo, Brazil'
+    duration: 2h # approx
     tracks: 15
     liked:
       - Liquid Love vs. Lost {[Tomas Heredia] Mashup} - [Above & Beyond] feat. [Richard Bedford] vs. [Tomas Heredia]
 
   - release: '2013-03-01: A State of Trance #600, "[Markus Schulz]": São Paulo, Brazil'
+    duration: 2h # approx
     tracks: 21
     liked:
       - The Light vs. Tempted - [Omnia] vs. [Markus Schulz] feat. [Sarah Howells]
@@ -119,6 +132,7 @@ episodes:
       - Out of My Mind vs. Spaceman vs. The Fusion - [Bingo Players] vs. [Hardwell] vs. [Omnia] & [Ira]
 
   - release: '2013-03-01: A State of Trance #600, "[Armin van Buuren]": São Paulo, Brazil'
+    duration: 2h # approx
     tracks: 27
     liked:
       - Suddenly Smash {[Armin van Buuren] Mashup} - [Armin van Buuren] & [Ana Criado] vs. [Broning]
@@ -127,6 +141,7 @@ episodes:
       - Humming the Lights - Gaia
 
   - release: '2013-03-01: A State of Trance #600, "[Jorn van Deynhoven]": São Paulo, Brazil'
+    duration: 2h # approx
     tracks: 210
     liked:
       - Follow Me {[Darren Porter] 2012 rework} - Lange
@@ -137,6 +152,7 @@ episodes:
       - In Her Eyes - Temple One
 
   - release: '2013-03-07: A State of Trance #600, "[Eximinds]": Minsk, Belarus'
+    duration: 2h # approx
     tracks: 15
     liked:
       - Senses {[Jonas Hornblad] Remix} - [NDS & Blue] vs. [Spark7]
@@ -146,12 +162,14 @@ episodes:
       - Something New {[Rafaël Frost] Remix} - [Tritonal] feat. [Jenry R]
 
   - release: '2013-03-07: A State of Trance #600, "[Sied van Riel]": Minsk, Belarus'
+    duration: 2h # approx
     tracks: 20
     liked:
       - ID - Sied van Riel
       - Fallen Angel {[Lange] Remix} - [Dennis Sheperd] & [Cold Blue] feat. [Ana Criado]
 
   - release: '2013-03-07: A State of Trance #600, "[Dash Berlin]": Minsk, Belarus'
+    duration: 2h # approx
     tracks: 21
     liked:
       - Till the Sky Falls Down - Dash Berlin
@@ -164,23 +182,27 @@ episodes:
       - Ticking Clocks {[Dash Berlin]'s Essential 'Warmplay' Rework} - [Dash Berlin] vs. [Coldplay]
 
   - release: '2013-03-07: A State of Trance #600, "[Sean Tyas]": Minsk, Belarus'
+    duration: 2h # approx
     tracks: 15
     liked:
       - Sound of Goodbye {[Abstract Vision & Elite Electronic] Bootleg Mix} - Armin van Buuren
       - Lost in Berlin {[Giuseppe Ottaviani] Remix} - [Paul van Dyk] feat. [Michelle Leonard]
 
   - release: '2013-03-08: A State of Trance #600, "[Myon & Shane 54]": Sofia, Bulgaria'
+    duration: 2h # approx
     tracks: 15
     liked:
       - Surrender Sweet Disposition {[Myon & Shane 54] Mashup} - [Paul Oakenfold] vs. [The Temper Trap]
 
   - release: '2013-03-09: A State of Trance #600, "[Antillas]": Beirut, Lebanon'
+    duration: 2h # approx
     tracks: 14
     liked:
       - Silence in Your Heart {[Antillas] Remix} - [Dash Berlin] feat. [Chris Madin]
       - Rewind {[Mikkas] Remix} - Emma Hewitt
 
   - release: '2013-03-09: A State of Trance #600, "[Dash Berlin]": Beirut, Lebanon'
+    duration: 2h # approx
     tracks: 17
     liked:
       - Never Rain Down Again {Dashup} - [Markus Schulz] feat. [Seri] & [Myon & Shane 54] vs. [Dash Berlin]
@@ -191,11 +213,13 @@ episodes:
       - Man on the Run - [Dash Berlin] with [Cerf, Mitiska & Jaren]
 
   - release: '2013-03-09: A State of Trance #600, "[MaRLo]": Beirut, Lebanon'
+    duration: 2h # approx
     tracks: 22
     liked:
       - You Belong to Megalodon {[Xabi Only] Mashup} - [Bobina] & [Betsie Larkin] vs. [MaRLo]
 
   - release: '2013-03-15: A State of Trance #600, "[Ben Gold]": Kuala Lumpur, Malaysia'
+    duration: 2h # approx
     tracks: 16
     liked:
       - Slave {[Tritonal] & [Ben Gold] Club Dub} - [Tritonal] feat. [Fisher]
@@ -203,6 +227,7 @@ episodes:
       - Platinum {[Ben Gold] Remix} - [Nenez] & [Pascal Feliz]
 
   - release: '2013-03-15: A State of Trance #600, "[Super8 & Tab]": Kuala Lumpur, Malaysia'
+    duration: 2h # approx
     tracks: 14
     liked:
       - Your Secret's Safe - [Super8 & Tab] feat. [Julie Thompson]
@@ -212,6 +237,7 @@ episodes:
       - Sinai - ilan Bluestone
 
   - release: '2013-03-15: A State of Trance #600, "[W&W]": Kuala Lumpur, Malaysia'
+    duration: 2h # approx
     tracks: 18
     liked:
       - Thing Called Spaceman {[W&W] Mashup} - [Hardwell] vs. [Above & Beyond]
@@ -223,12 +249,14 @@ episodes:
       - Sinai - ilan Bluestone
 
   - release: '2013-03-15: A State of Trance #600, "[Cosmic Gate]": Kuala Lumpur, Malaysia'
+    duration: 2h # approx
     tracks: 16
     liked:
       - Wake Your Mind vs. Easy - [Cosmic Gate] vs. [Mat Zo] & [Porter Robinson]
       - Over the Rainbow {[W&W] Remix} - [Cosmic Gate] & [J'Something]
 
   - release: '2013-03-15: A State of Trance #600, "[Armin van Buuren]": Kuala Lumpur, Malaysia'
+    duration: 2h # approx
     tracks: 27
     liked:
       - Fool for Life {[Tomas Heredia] Remix} - [Dash Berlin] feat. [Chris Madin]
@@ -238,12 +266,14 @@ episodes:
       - Are Am Eye Stresstest {[John Askew] Remix} {[Armin van Buuren] Mashup} - [John O'Callaghan] vs. [Commander Tom]
 
   - release: '2013-03-16: A State of Trance #600, "[Rank 1]": Mumbai, India'
+    duration: 2h # approx
     tracks: 12
     liked:
       - Elements of Nature - [Rank 1] vs. [M.I.K.E.]
       - Wild and Perfect Day - [Rank 1] & [Jochen Miller] feat. [Sarah Bettens]
 
   - release: '2013-03-24: A State of Trance #600, "[Tritonal]": Ultra Music Festival, Miami, FL, USA'
+    duration: 2h # approx
     tracks: 15
     liked:
       - Yin-Yang - Ashley Wallbridge
@@ -257,6 +287,7 @@ episodes:
       - ID - Estiva
 
   - release: '2013-03-24: A State of Trance #600, "[W&W]": Ultra Music Festival, Miami, FL, USA'
+    duration: 2h # approx
     tracks: 17
     liked:
       - Apollo {[Lucky Date] vs. [Noisecontrollers] Remix} - [Hardwell] feat. [Amba Shepherd]
@@ -265,11 +296,13 @@ episodes:
       - ID - ID
 
   - release: '2013-03-24: A State of Trance #600, "[Cosmic Gate]": Ultra Music Festival, Miami, FL, USA'
+    duration: 2h # approx
     tracks: 14
     liked:
       - Wake Your Mind vs. Easy - [Cosmic Gate] feat. [Cary Brothers] vs. [Mat Zo] & [Porter Robinson]
 
   - release: '2013-03-24: A State of Trance #600, "[Dash Berlin]": Ultra Music Festival, Miami, FL, USA'
+    duration: 2h # approx
     tracks: 16
     liked:
       - My World - [Alexander Popov] feat. [Kyler England]
@@ -278,11 +311,13 @@ episodes:
       - Better Off Alone {Dash Berlin Rework} - Alice Deejay
 
   - release: '2013-03-24: A State of Trance #600, "[Markus Schulz]": Ultra Music Festival, Miami, FL, USA'
+    duration: 2h # approx
     tracks: 15
     liked:
       - Love Rain Down {[4 Strings] Remix} - [Markus Schulz] feat. [Seri]
 
   - release: '2013-03-24: A State of Trance #600, "[Paul van Dyk]": Ultra Music Festival, Miami, FL, USA'
+    duration: 2h # approx
     tracks: 17
     liked:
       - Symmetries {[Maarten de Jong] Remix} - [Paul van Dyk] feat. [Austin Leeds]
@@ -293,12 +328,14 @@ episodes:
       - ID - ID
 
   - release: '2013-03-27: A State of Trance #600, "[Eco]": Guatemala City, Guatemala'
+    duration: 2h # approx
     tracks: 18
     liked:
       - Alonism - DJ Eco
       - As the Desert Rush Comes {[Bilal El Aly] & [Vince Aoun] Mashup} - [DJ Eco] vs. [Motorcycle]
 
   - release: '2013-04-06: A State of Trance #600, "Who''s Afraid of 138?!: [Arctic Moon]": Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 16
     liked:
       - Queensland {[Arctic Moon] Remix} vs. Clarity {a cappella} - [Dimension] vs. [Zedd] feat. [Foxes]
@@ -307,17 +344,20 @@ episodes:
       - Valhalla - [Arctic Moon] & [Paul Webster]
 
   - release: '2013-04-06: A State of Trance #600, "Expedition Stage: [Estiva]": Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 17
     liked:
       - Vision vs. Children vs. Nothing Else Matters vs. The Fusion {[Estiva] Mashup} - [Ashley Wallbridge] vs. [Robert Miles] vs. [Max Graham] vs. [Omnia] & [Ira]
       - Wait Forever {[Estiva] Remix} - [Estiva] & [Cardinal] feat. [Arielle Maren]
 
   - release: '2013-04-06: A State of Trance #600, "Main Stage: [Omnia]": Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 23
     liked:
       - Yin-Yang - Ashley Wallbridge
 
   - release: '2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor: [Heatbeat]": Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 18
     liked:
       - ID - ID
@@ -325,6 +365,7 @@ episodes:
       - Hurricane - Daddy's Groove
 
   - release: '2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor: [Tenishia]": Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 13
     liked:
       - The Saga vs. This Moment - [Gareth Emery] vs. [Nic Chagall] feat. [Jonathan Mendelsohn]
@@ -333,12 +374,15 @@ episodes:
       - Sun in Your Eyes {[Mark Sherry] Argentinian Sun Edit} - Above & Beyond
 
   - release: "2013-03-07: A State of Trance #603"
+    duration: 2h # approx
     tracks: 27
 
   - release: "2013-04-04: A State of Trance #607"
+    duration: 2h # approx
     tracks: 28
 
   - release: "2013-04-11: A State of Trance #608"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Change The World {[Estiva] Remix} - [Daniel Kandi] feat. [Sarah Russell]
@@ -352,6 +396,7 @@ episodes:
       - There And Back - Robbie Van Doe
 
   - release: "2013-04-25: A State of Trance #610"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Who's Afraid Of 138?! - Armin van Buuren
@@ -359,9 +404,11 @@ episodes:
       - If I Lose Myself Coming Home {[Shura Vlasov] Mashup} - [Armin van Buuren] vs. [Arctic Moon] vs. [OneRepublic]
 
   - release: "2013-05-02: A State of Trance #611"
+    duration: 2h # approx
     tracks: 24
 
   - release: "2013-05-09: A State of Trance #612"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Violetta - Ørjan Nilsen
@@ -373,6 +420,7 @@ episodes:
       - As It Was Meant To Be {[Darren Porter] Remix} - [Dreamy] feat. [Magdalen Silvestra]
 
   - release: "2013-05-16: A State of Trance #613"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Plazma - Mixail
@@ -382,6 +430,7 @@ episodes:
       - Close Horizon - Thomas Bronzwaer
 
   - release: "2013-05-23: A State of Trance #614"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Plazma - Mixail
@@ -394,14 +443,17 @@ episodes:
       - Ganymede - Andres Sanchez
 
   - release: "2013-06-06: A State of Trance #616"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Gamemaster {[Protoculture] Reconstruction} - Lost Tribe
 
   - release: "2013-06-20: A State of Trance #618"
+    duration: 2h # approx
     tracks: 30
 
   - release: "2013-07-25: A State of Trance #623"
+    duration: 2h # approx
     tracks: 30
     liked:
       - <10> Beautiful Life {[Mikkas] Remix} - [Armin van Buuren] feat. [Cindy Alma]
@@ -420,6 +472,7 @@ episodes:
       - Infinitude - Onova
 
   - release: "2013-09-12: A State of Trance #630"
+    duration: 2h # approx
     tracks: 32
     liked:
       - World Falls Apart {[Jorn van Deynhoven] Remix} - [Dash Berlin] feat. [Jonathan Mendelsohn]

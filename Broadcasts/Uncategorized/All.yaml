@@ -3,21 +3,25 @@ series:
 
 episodes:
   - release: '2021-09-15: [Lane 8], "Fall 2021 Mixtape"'
+    duration: 1h # approx
     urls:
       - https://1001.tl/1fy61y0k
     rating: 7/10
 
   - release: '2022-04-28: The Anjuna Mix, "[ilan Bluestone]"'
+    duration: 1h # approx
     urls:
       - https://1001.tl/14phjgz9
     rating: 7/10
 
   - release: '2022-07-22: The Anjuna Mix, "[Tinlicker]"'
+    duration: 1h # approx
     urls:
       - https://1001.tl/2swt1pqk
     rating: 7/10
 
   - release: '2022-07-29: HARD Summer 2022, "[Montell2099]"'
+    duration: 1h # approx
     urls:
       - https://1001.tl/10z7nfjt
     rating: 8/10

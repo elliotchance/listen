@@ -5,5 +5,6 @@ series:
 
 episodes:
   - release: '2020-07-09: Boiler Room, "[Dito]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 15

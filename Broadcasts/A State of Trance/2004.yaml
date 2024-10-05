@@ -5,6 +5,7 @@ series:
 
 episodes:
   - release: "2004-01-08: A State of Trance #130"
+    duration: 2h # approx
     tracks: 32
     liked:
       - Burned With Desire {[Ronski Speed] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -13,25 +14,31 @@ episodes:
       - Satellite {[Above & Beyond] Remix} - OceanLab
 
   - release: "2004-01-15: A State of Trance #131"
+    duration: 2h # approx
     tracks: 32
 
   - release: "2004-01-22: A State of Trance #132"
+    duration: 2h # approx
     tracks: 20
     liked:
       - Escape {[Fictivision] Remix} - [Fictivision] vs. [Phynn]
 
   - release: "2004-01-29: A State of Trance #133"
+    duration: 2h # approx
     tracks: 17
 
   - release: "2004-02-05: A State of Trance #134"
+    duration: 2h # approx
     tracks: 33
 
   - release: "2004-02-12: A State of Trance #135"
+    duration: 2h # approx
     tracks: 18
     liked:
       - Sonic Breeze - Maharishi
 
   - release: "2004-02-19: A State of Trance #136"
+    duration: 2h # approx
     tracks: 19
     liked:
       - Burned With Desire {[Brian Cross] Remix} - [Armin van Buuren] feat. [Justine Suissa]

@@ -5,21 +5,26 @@ series:
 
 episodes:
   - release: '2020-12-31: Tomorrowland, "31.12.2020: [Netsky]"'
+    duration: 1h # approx
     tracks: 30
     rating: 8/10
 
   - release: '2020-07-25: Tomorrowland, "Around the World 2020: [Cellini]"'
+    duration: 1h # approx
     tracks: 10
     rating: 5/10
 
   - release: '2020-07-25: Tomorrowland, "Around the World 2020: [Mr. E]"'
+    duration: 1h # approx
     tracks: 37
     rating: 6/10
 
   - release: '2020-07-25: Tomorrowland, "Around the World 2020: [Netsky]"'
+    duration: 1h # approx
     tracks: 24
     rating: 7/10
 
   - release: '2020-07-25: Tomorrowland, "Around the World 2020: [Robin Schulz]"'
+    duration: 1h # approx
     tracks: 28
     rating: 6/10

@@ -4,6 +4,7 @@ series:
 
 episodes:
   - release: "2023-09-15: Future Sound of Egypt #800"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Existence - Paul Denton

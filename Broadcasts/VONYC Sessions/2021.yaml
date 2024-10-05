@@ -3,6 +3,7 @@ series:
 
 episodes:
   - release: "2021-03-02: VONYC Sessions #748"
+    duration: 2h # approx
     urls:
       - https://1001.tl/1d1gq29k
     tracks: 24
@@ -12,6 +13,7 @@ episodes:
       - Square One - [Madwave], [Drivel]
 
   - release: "2021-03-16: VONYC Sessions #750"
+    duration: 2h # approx
     urls:
       - https://1001.tl/15jxt2n9
     tracks: 24

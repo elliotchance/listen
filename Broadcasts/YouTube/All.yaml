@@ -3,9 +3,11 @@ series:
 
 episodes:
   - release: '2018-07-20: Fear N Loathing #51: "German Underground Techno | Dark & Hard | München Ostbahnhof"'
+    duration: 2h # approx
     url: https://www.youtube.com/watch?v=lJ_aqxOU6Kg
     rating: 8/10
 
   - release: '2018-08-15: Fear N Loathing #52: "The Sound Of Hamburg | x | Progressive Trance Set"'
+    duration: 2h # approx
     url: https://www.youtube.com/watch?v=fUWql3hIBQQ
     rating: 6/10

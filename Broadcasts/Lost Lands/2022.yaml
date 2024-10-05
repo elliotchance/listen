@@ -3,65 +3,81 @@ series:
 
 episodes:
   - release: '2022-09-23: Lost Lands, "The Prehistoric Paradox: [Knife Party]"'
+    duration: 1h # approx
     rating: 7/10
     tracks: 33
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [SWARM]"'
+    duration: 1h # approx
     rating: 9/10
     tracks: 40
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Diesel]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 46
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Excision] b2b [Sullivan King]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 61
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Excision] Live (2 Hour Set)"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 93
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Eliminate]"'
+    duration: 1h # approx
     rating: 5/10
     tracks: 47
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Dion Timmer]"'
+    duration: 1h # approx
     rating: 7/10
     tracks: 43
 
   - release: '2022-09-23: Lost Lands, "Prehistoric Evolution: [Ace Aura]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 52
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [VAMPA]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 54
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [Ray Volpe]"'
+    duration: 1h # approx
     rating: 8/10
     tracks: 54
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [Kompany]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 51
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [Kill the Noise]"'
+    duration: 1h # approx
     rating: 7/10
     tracks: 38
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [Jessica Audiffred]"'
+    duration: 1h # approx
     rating: 7/10
     tracks: 61
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [Illenium]"'
+    duration: 1h # approx
     rating: 7/10
     tracks: 50
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [heRobust]"'
+    duration: 1h # approx
     rating: 6/10
     tracks: 51
 
   - release: '2022-09-23: Lost Lands, "Wompy Woods: [Excision] Detox Set"'
+    duration: 1h # approx
     rating: 5/10
     tracks: 52

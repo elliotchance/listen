@@ -19,26 +19,31 @@ episodes:
     tracks: 19
 
   - release: "2001-06-08: A State of Trance #2"
+    duration: 2h # approx
     tracks: 18
     urls:
       - https://1001.tl/6d4sbw1
 
   - release: "2001-06-15: A State of Trance #3"
+    duration: 2h # approx
     tracks: 19
     urls:
       - https://1001.tl/2kyq9m9
 
   - release: "2001-06-22: A State of Trance #4"
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/2gzblbk
 
   - release: "2001-06-29: A State of Trance #5"
+    duration: 2h # approx
     tracks: 23
     urls:
       - https://1001.tl/1g698kt
 
   - release: "2001-07-20: A State of Trance #6"
+    duration: 2h # approx
     tracks: 23
     urls:
       - https://1001.tl/1r4r82k
@@ -47,26 +52,31 @@ episodes:
       - The Legacy - Push
 
   - release: "2001-07-27: A State of Trance #7"
+    duration: 2h # approx
     tracks: 22
     urls:
       - https://1001.tl/6y1b1tk
 
   - release: "2001-08-03: A State of Trance #8"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/qk214j1
 
   - release: "2001-08-10: A State of Trance #9"
+    duration: 2h # approx
     tracks: 22
     urls:
       - https://1001.tl/2ukblgl1
 
   - release: "2001-08-17: A State of Trance #10"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/qkscbzt
 
   - release: "2001-08-24: A State of Trance #11"
+    duration: 2h # approx
     tracks: 18
     urls:
       - https://1001.tl/1mfn8hbk
@@ -74,21 +84,25 @@ episodes:
       - Ibeatza - Poison Club
 
   - release: "2001-09-07: A State of Trance #12"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/9jjz4k9
 
   - release: "2001-09-14: A State of Trance #13"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/2pwbbsuk
 
   - release: "2001-09-21: A State of Trance #14"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/22bh95mk
 
   - release: "2001-09-28: A State of Trance #15"
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/28v30b19
@@ -96,11 +110,13 @@ episodes:
       - Razorfish {[Above & Beyond] Progressive Mix} - [Tranquility Base]
 
   - release: "2001-10-05: A State of Trance #16"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/jyypws9
 
   - release: "2001-10-11: A State of Trance #17"
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/11rducqt
@@ -108,6 +124,7 @@ episodes:
       - Rapture {[Armin van Buuren] Remix} - iiO
 
   - release: "2001-10-18: A State of Trance #18"
+    duration: 2h # approx
     tracks: 22
     urls:
       - https://1001.tl/f7ssvc9
@@ -115,6 +132,7 @@ episodes:
       - Rapture {[Armin van Buuren] Remix} - iiO
 
   - release: "2001-10-25: A State of Trance #19"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/2dlbn79t
@@ -123,11 +141,13 @@ episodes:
       - Resurection {Space Club Mix} - ППК
 
   - release: "2001-11-01: A State of Trance #20"
+    duration: 2h # approx
     tracks: 9
     urls:
       - https://1001.tl/1mfpfsq1
 
   - release: "2001-11-08: A State of Trance #21"
+    duration: 2h # approx
     tracks: 18
     urls:
       - https://1001.tl/1lhvs759
@@ -136,11 +156,13 @@ episodes:
       - Resurection - ППК
 
   - release: "2001-11-15: A State of Trance #22"
+    duration: 2h # approx
     tracks: 19
     urls:
       - https://1001.tl/nq65t3t
 
   - release: "2001-11-22: A State of Trance #23"
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/2nykqqm1
@@ -149,16 +171,19 @@ episodes:
       - Resurection {Space Club Mix} - ППК
 
   - release: "2001-11-29: A State of Trance #24"
+    duration: 2h # approx
     tracks: 18
     urls:
       - https://1001.tl/2n0s1529
 
   - release: "2001-12-06: A State of Trance #25"
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/1zk36j0t
 
   - release: "2001-12-13: A State of Trance #26"
+    duration: 2h # approx
     tracks: 21
     urls:
       - https://1001.tl/u90qp91
@@ -166,6 +191,7 @@ episodes:
       - Drifting Away - [Lange] feat. [Skye]
 
   - release: "2001-12-20: A State of Trance #27"
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/1ymb07s9
@@ -173,6 +199,7 @@ episodes:
       - Moments Are Forever - Moon Project
 
   - release: '2001-12-27: A State of Trance #28, "Top 20 of 2001"'
+    duration: 2h # approx
     tracks: 20
     urls:
       - https://1001.tl/5wtkfzt

@@ -5,6 +5,7 @@ series:
 
 episodes:
   - release: "2015-02-19: A State of Trance #701"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Cynical Orange - Kago Pengchi
@@ -15,6 +16,7 @@ episodes:
       - Fragments - Cold Rush
 
   - release: "2015-02-26: A State of Trance #702"
+    duration: 2h # approx
     tracks: 31
     liked:
       - This Will Be Your Happiness {[Steve Brian] Remix} - [Cosmic Gate] feat. [Jennifer Cooke]
@@ -39,6 +41,7 @@ episodes:
       - <10> Slave To Doubt - [Matt Bukovski] feat. [Cynthia Hall]
 
   - release: "2015-03-05: A State of Trance #703"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Ashes - [Denis Kenzo] feat. [Sarah Lynn]
@@ -56,6 +59,7 @@ episodes:
       - Aztec {[Neptune Project]'s Future Mix} - Neptune Project
 
   - release: "2015-03-12: A State of Trance #704"
+    duration: 2h # approx
     tracks: 32
     liked:
       - The Same - Kyau & Albert
@@ -75,6 +79,7 @@ episodes:
       - Endless - Illitheas
 
   - release: "2015-03-19: A State of Trance #705"
+    duration: 2h # approx
     tracks: 32
     liked:
       - Someone Like You - [RAM] feat. [Susana]
@@ -93,6 +98,7 @@ episodes:
       - Marrakech {Club Mix} - ATB
 
   - release: "2015-03-26: A State of Trance #706"
+    duration: 2h # approx
     tracks: 36
     liked:
       - Awake {[Jakko] Remix} - [Killogy] & [Matthew White] feat. [Angelika Vee]
@@ -109,6 +115,7 @@ episodes:
       - <10> Magic Light - [STANDERWICK] & [Philippe El Sisi] feat. [Ana Criado]
 
   - release: "2015-04-09: A State of Trance #708"
+    duration: 2h # approx
     tracks: 35
     liked:
       - Generate - Eric Prydz
@@ -123,6 +130,7 @@ episodes:
       - Snapshot - [Kinetica] & [Dave Wright]
 
   - release: "2015-04-16: A State of Trance #709"
+    duration: 2h # approx
     tracks: 34
     liked:
       - Another You - [Armin van Buuren] feat. [Mr. Probz]
@@ -136,6 +144,7 @@ episodes:
       - Vivid - [Re:locate] vs. [Robert Nickson]
 
   - release: "2015-04-30: A State of Trance #711"
+    duration: 2h # approx
     tracks: 32
     liked:
       - Are You With Me {[Dash Berlin] Remix} - Lost Frequencies
@@ -149,6 +158,7 @@ episodes:
       - All Of Us - [STANDERWICK] feat. [Jennifer Rene]
 
   - release: "2015-05-07: A State of Trance #712"
+    duration: 2h # approx
     tracks: 34
     liked:
       - The Other Shore {[Aruna] vs. [Steve Kaetzel] Remix} - [Aly & Fila] feat. [Aruna]
@@ -167,6 +177,7 @@ episodes:
       - New York City - [Paul van Dyk] & [Starkillers] & [Austin Leeds] feat. [Ashley Tomberlin]
 
   - release: "2015-05-14: A State of Trance #713"
+    duration: 2h # approx
     tracks: 34
     liked:
       - It's In Your Heart {Club Mix} - [David Gravell] feat. [Christon]
@@ -184,6 +195,7 @@ episodes:
       - Don't Leave - Andres Sanchez
 
   - release: "2015-05-21: A State of Trance #714"
+    duration: 2h # approx
     tracks: 34
     liked:
       - Huracan {[Ben Gold] Remix} - Gareth Emery
@@ -192,3 +204,4 @@ episodes:
       - Let Loose - Sam Jones
 
   - release: '2015-12-31: A State of Trance #746, "Yearmix"'
+    duration: 2h # approx

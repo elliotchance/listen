@@ -5,8 +5,10 @@ series:
 
 episodes:
   - release: '2005-01-06: A State of Trance #182, "Yearmix"'
+    duration: 2h # approx
 
   - release: "2005-05-26: A State of Trance #198"
+    duration: 2h # approx
     tracks: 20
     liked:
       - <10> Butterfly Effect {[Lucas & Beltram] Mix} - [Niklas Harding] and [Tyu]
@@ -20,12 +22,14 @@ episodes:
       - ID {[M.I.K.E.] Remix} - Armin van Buuren
 
   - release: "2005-06-16: A State of Trance #201"
+    duration: 2h # approx
     tracks: 21
     liked:
       - Majestic {[Arizona] vs. [Passiva] Remix} - Sayla
       - Aedena {[Octagen] Remix} - Matti Kotala
 
   - release: "2005-06-23: A State of Trance #202"
+    duration: 2h # approx
     tracks: 25
     liked:
       - Zocalo - [Armin van Buuren] feat. [Gabriel and Dresden]
@@ -34,6 +38,7 @@ episodes:
       - Gods Keyboard {[Coldware Cold] Remix} - Daniel B.
 
   - release: "2005-06-30: A State of Trance #203"
+    duration: 2h # approx
     tracks: 21
     liked:
       - Ghost vs. Eighties {[Filo & Peri] Remix vs. Original Mix} - [Deepsky] feat. [Jes] vs. [Yilmaz Altanhan]
@@ -49,6 +54,7 @@ episodes:
       - Now You See {[Ross Essenheim] Remix} - Mark Thornton
 
   - release: "2005-07-07: A State of Trance #204"
+    duration: 2h # approx
     tracks: 21
     liked:
       - Forum of Love {[DJ Danjo & Rob Styles] Remix} - Txitxarro
@@ -60,6 +66,7 @@ episodes:
       - Labyrinth - Arizona
 
   - release: "2005-07-17: A State of Trance #205"
+    duration: 2h # approx
     tracks: 20
     liked:
       - Back in The Days - Leon Bolier
@@ -67,6 +74,7 @@ episodes:
       - Angels and Demons {[Carl B] Remix} - Armaz
 
   - release: "2005-07-21: A State of Trance #206"
+    duration: 2h # approx
     tracks: 20
     liked:
       - One for The Road vs. We Will Rock {[Gabriel and Dresden] Remix vs. Acapella} - [Grayarea] vs. [Queen]
@@ -78,11 +86,13 @@ episodes:
       - Humanity {[Rank 1] Remix} - ATB
 
   - release: "2005-07-28: A State of Trance #207"
+    duration: 2h # approx
     tracks: 21
     liked:
       - Halcyon {[Alex M.O.R.P.H.] Remix} - Andy Moor
 
   - release: "2005-08-04: A State of Trance #208"
+    duration: 2h # approx
     tracks: 22
     liked:
       - Netherworld (2005) {[Oliver Prime] Remix} - L.S.G.
@@ -91,6 +101,7 @@ episodes:
       - Find {[Kyau & Albert] Remix} - [Ridgewalkers] feat. [El]
 
   - release: "2005-08-11: A State of Trance #209"
+    duration: 2h # approx
     tracks: 23
     liked:
       - Talk - [Max Graham] vs. [Coldplay]
@@ -100,6 +111,7 @@ episodes:
       - Insider - Angelstyle
 
   - release: "2005-08-18: A State of Trance #210"
+    duration: 2h # approx
     tracks: 27
     liked:
       - Distant Dreams {[Alex M.O.R.P.H.] Remix} - Nautical Imagery
@@ -109,6 +121,7 @@ episodes:
       - Endorphine {[Arizona] Remix} - C-Quence
 
   - release: "2005-08-25: A State of Trance #211"
+    duration: 2h # approx
     tracks: 24
     liked:
       - Need For Cognition - Hawk
@@ -119,6 +132,7 @@ episodes:
       - Summer Dream {[Stoneface & Terminal] Remix} - Kuffdam & Plant
 
   - release: "2005-09-01: A State of Trance #212"
+    duration: 2h # approx
     tracks: 20
     liked:
       - Another Situation - [Terry Bones] vs. [Precision]
@@ -126,6 +140,7 @@ episodes:
       - Babylon {[Icone] Remix} - Hemstock & Jennings
 
   - release: "2005-09-08: A State of Trance #213"
+    duration: 2h # approx
     tracks: 20
     liked:
       - You Are Here - Ija
@@ -135,9 +150,11 @@ episodes:
       - Timeless {[Deepwide] Remix} - Will Holland
 
   - release: "2005-09-15: A State of Trance #214"
+    duration: 2h # approx
     tracks: 19
     liked:
       - Remember Me {[Terry Bones] Remix} - Interstate
       - Summer Dream {[Stoneface & Terminal] Remix} - Kuffdam & Plant
 
   - release: '2005-12-29: A State of Trance #229, "Yearmix"'
+    duration: 2h # approx

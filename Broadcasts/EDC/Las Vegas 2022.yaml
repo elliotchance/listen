@@ -3,25 +3,33 @@ series:
 
 episodes:
   - release: '2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: [Andrew Rayel]"'
+    duration: 1h # approx
     rating: 6/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Kinetic Field Stage: [Illenium]"'
+    duration: 1h # approx
     rating: 9/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Circuit Grounds Stage: [Jason Ross]"'
+    duration: 1h # approx
     rating: 7/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: [Matt Fax]"'
+    duration: 1h # approx
     rating: 7/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Cosmic Meadow Stage: [MitiS]"'
+    duration: 1h # approx
     rating: 10/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Cosmic Meadow Stage: [Qrion]"'
+    duration: 1h # approx
     rating: 6/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Circuit Grounds Stage: [Tinlicker]"'
+    duration: 1h # approx
     rating: 8/10
 
   - release: '2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: [Tritonal]"'
+    duration: 1h # approx
     rating: 8/10

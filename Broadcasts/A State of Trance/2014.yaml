@@ -5,6 +5,7 @@ series:
 
 episodes:
   - release: "2014-01-02: A State of Trance #646"
+    duration: 2h # approx
     tracks: 32
     liked:
       - ID - ID
@@ -14,6 +15,7 @@ episodes:
       - ID - ID
 
   - release: '2014-02-15: A State of Trance #650, "Invites Stage: [Protoculture]": Utrecht, The Netherlands'
+    duration: 2h # approx
     tracks: 17
     liked:
       - Beautiful Life {[Protoculture] & [Mikkas] Remix Mashup} - [Armin van Buuren] feat. [Cindy Alma]
@@ -24,14 +26,17 @@ episodes:
       - Last Stop Before Heaven {[Maarten de Jong] Remix} - Armin van Buuren
 
   - release: '2014-02-15: A State of Trance #650, "Invites Stage: [Ben Gold]": Utrecht, The Netherlands'
+    duration: 2h # approx
     tracks: 19
     liked:
       - Sectioned - [Solis] & [Sean Truby]
       - Where Life Takes Us - Ben Gold
 
   - release: "2014-09-18: A State of Trance #681"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Gravity - Parker & Hanson
 
   - release: '2014-12-19: A State of Trance #695, "Yearmix"'
+    duration: 2h # approx

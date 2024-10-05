@@ -5,16 +5,19 @@ series:
 
 episodes:
   - release: "2011-03-10: A State of Trance #499"
+    duration: 2h # approx
     tracks: 22
     liked:
       - Winter Stayed {[Armin van Buuren]'s On The Beach Mix} - Triple A
 
   - release: '2011-04-16: A State of Trance #500, "Warm up": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 9
     liked:
       - ID - ID
 
   - release: '2011-04-16: A State of Trance #500, "[Shogun]": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 10
     liked:
       - ID - ID
@@ -22,29 +25,34 @@ episodes:
       - ID - ID
 
   - release: '2011-04-16: A State of Trance #500, "[tyDi]": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 13
     liked:
       - ID - ID
       - ID - ID
 
   - release: '2011-04-16: A State of Trance #500, "[Menno De Jong]": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 13
     liked:
       - ID - ID
       - ID - ID
 
   - release: '2011-04-16: A State of Trance #500, "[Aly & Fila]": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 17
     liked:
       - ID - ID
       - ID - ID
 
   - release: '2011-04-16: A State of Trance #500, "[Alex M.O.R.P.H.]": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 12
     liked:
       - ID - ID
 
   - release: '2011-04-16: A State of Trance #500, "[Armin van Buuren]": Acer Arena, Sydney, NSW, Australia'
+    duration: 2h # approx
     tracks: 34
     liked:
       - ID - ID
@@ -53,11 +61,13 @@ episodes:
       - ID - ID
 
   - release: '2011-04-09: A State of Trance #500, "A State of Blue: [Mat Zo]": Brabanthallen, Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 11
     liked:
       - Superman - Mat Zo
 
   - release: '2011-04-09: A State of Trance #500, "A State of Blue: [Above & Beyond]": Brabanthallen, Den Bosch, The Netherlands'
+    duration: 2h # approx
     tracks: 16
     liked:
       - Everything From Me (Promises) {[Myon & Shane 54] Demo Remix} - Andain
@@ -70,6 +80,7 @@ episodes:
       - Sun in Your Eyes - Above & Beyond
 
   - release: "2011-03-31: A State of Trance #502"
+    duration: 2h # approx
     tracks: 23
     liked:
       - HR 8938 Cephei - deadmau5
@@ -84,6 +95,7 @@ episodes:
       - Carabella {[Galen Behr] vs [Ørjan Nilsen] Remix} - [Galen Behr] vs [Hydroid]
 
   - release: "2011-04-07: A State of Trance #503"
+    duration: 2h # approx
     tracks: 24
     liked:
       - Surreal {[Omnia] Remix} - [Markus Schulz] feat. [Ana Criado]
@@ -104,6 +116,7 @@ episodes:
       - Love Theme Dusk - [Mike Foyle] vs [Signalrunners]
 
   - release: "2011-04-14: A State of Trance #504"
+    duration: 2h # approx
     tracks: 23
     liked:
       - Surreal {[Omnia] Remix} - [Markus Schulz] feat. [Ana Criado]
@@ -117,6 +130,7 @@ episodes:
       - ID - ID
 
   - release: "2011-04-21: A State of Trance #505"
+    duration: 2h # approx
     tracks: 22
     liked:
       - Luna System {[Tritonal] Remix} - [Steve Brian] & [Noel Gitman]
@@ -126,6 +140,7 @@ episodes:
       - Onyx - Advanced
 
   - release: "2011-04-28: A State of Trance #506"
+    duration: 2h # approx
     tracks: 25
     liked:
       - Heart Is My Religion {[Blake Jarrell] Mashup} - [Axwell] vs. [R.E.M.]
@@ -145,6 +160,7 @@ episodes:
       - Made Of Sun {Hard Dub} - Kyau & Albert
 
   - release: "2011-05-12: A State of Trance #508"
+    duration: 2h # approx
     tracks: 23
     liked:
       - Feels So Good {[Tristan Garner] Remix} - [Armin van Buuren] feat. [Nadia Ali]
@@ -158,6 +174,7 @@ episodes:
       - Only For You {[Arctic Moon] Remix} - Ahmed Romel
 
   - release: "2011-05-19: A State of Trance #509"
+    duration: 2h # approx
     tracks: 23
     liked:
       - Promises {[Myon & Shane 54] Summer Of Love Mix} - Andain
@@ -169,6 +186,7 @@ episodes:
       - Magnetica - Vol Deeman
 
   - release: "2011-05-26: A State of Trance #510"
+    duration: 2h # approx
     tracks: 23
     liked:
       - Feels So Good {[Tristan Garner] Remix} - [Armin van Buuren] feat. [Nadia Ali]
@@ -182,6 +200,7 @@ episodes:
       - Will Be {[Dave202] & [Virtual Vault] Remix} - DJ Butterfly
 
   - release: "2011-06-02: A State of Trance #511"
+    duration: 2h # approx
     tracks: 22
     liked:
       - The Island - [MaRLo] feat. [Jano]
@@ -196,6 +215,7 @@ episodes:
       - Symbols - [Fictivision] vs [C-Quence]
 
   - release: "2011-06-09: A State of Trance #512"
+    duration: 2h # approx
     tracks: 23
     liked:
       - My Inner Island {[Yuri Kane] Remix} - [The Blizzard] & [Omnia]
@@ -208,6 +228,7 @@ episodes:
       - On The Run {Ocean To Shore Club Extended} - Tillmann Uhrmacher
 
   - release: "2011-06-16: A State of Trance #513"
+    duration: 2h # approx
     tracks: 21
     liked:
       - Youtopia {[Blake Jarrell] Remix} - [Armin van Buuren] feat. [Adam Young]
@@ -221,6 +242,7 @@ episodes:
       - Touch Me {[Sebastian Brandt] Remix} - Rising Star
 
   - release: "2011-06-23: A State of Trance #514"
+    duration: 2h # approx
     tracks: 22
     liked:
       - Timezone - [Purple Haze] feat. [Colin Janz]
@@ -228,3 +250,4 @@ episodes:
       - All We Have Is Now - [Betsie Larkin] with [Super8 & Tab]
 
   - release: '2011-12-29: A State of Trance #541, "Yearmix"'
+    duration: 2h # approx

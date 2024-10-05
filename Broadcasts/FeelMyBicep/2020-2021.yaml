@@ -7,23 +7,29 @@ episodes:
   - release: "2020-10-15: FeelMyBicep #1"
     rating: 6/10
     tracks: 12
+    duration: 57 minutes 48 seconds
 
   - release: "2020-11-12: FeelMyBicep #2"
     rating: 7/10
     tracks: 13
+    duration: 58m 48s
 
   - release: "2020-12-10: FeelMyBicep #3"
     rating: 4/10
     tracks: 16
+    duration: 58 minutes
 
   - release: "2021-01-07: FeelMyBicep #4"
     rating: 5/10
     tracks: 12
+    duration: 58 minutes 43 seconds
 
   - release: "2021-02-11: FeelMyBicep #5"
     rating: 6/10
     tracks: 12
+    duration: 58 minutes 3 seconds
 
   - release: "2021-03-11: FeelMyBicep #6"
     rating: 7/10
     tracks: 15
+    duration: 58 minutes 1 second

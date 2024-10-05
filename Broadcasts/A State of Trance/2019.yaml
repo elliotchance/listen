@@ -5,17 +5,20 @@ series:
 
 episodes:
   - release: "2019-01-03: A State of Trance #897"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Youtopia - [Armin van Buuren] feat. [Adam Young]
 
   - release: "2019-01-10: A State of Trance #898"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Show Me The Way {[Dan Thompson] Remix} - [Allure] feat. [Jes]
       - Vortex - [Richard Durand] & [Marco V]
 
   - release: "2019-01-17: A State of Trance #899"
+    duration: 2h # approx
     tracks: 33
     liked:
       - Among Us - [Greg Downey] & [Alex Di Stefano]
@@ -23,11 +26,13 @@ episodes:
       - Striker {[Liam Wilson] Remix} - John O'Callaghan
 
   - release: "2019-02-14: A State of Trance #901"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Need to Feel Loved - [Cosmic Gate] & [Forêt]
 
   - release: "2019-02-21: A State of Trance #902"
+    duration: 2h # approx
     tracks: 45
     liked:
       - Allegro - Paul Thomas
@@ -39,12 +44,14 @@ episodes:
       - Lights Around the World - [Craig Connelly] feat. [Megan McDuffee]
 
   - release: "2019-02-28: A State of Trance #903"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Panama - Giuseppe Ottaviani
       - Take My Breath - [Alex M.O.R.P.H.] & [Marjan]
 
   - release: "2019-03-07: A State of Trance #904"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Resurection {[Maurice West] Remix} - Planet Perfecto Knights
@@ -52,6 +59,7 @@ episodes:
       - Stay {[Sneijder] Remix} - [Ben Gold] & [Sivan]
 
   - release: "2019-03-14: A State of Trance #905"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Redemption - [Protoculture] & [Mino Safy]
@@ -60,14 +68,17 @@ episodes:
       - Trans Karoo {[Allen Watts] Remix} - Lostly
 
   - release: "2019-03-21: A State of Trance #906"
+    duration: 2h # approx
     tracks: 31
     liked:
       - Perception {[Johan Gielen] Remix} - [Markus Schulz] feat. [Justine Suissa]
 
   - release: "2019-04-04: A State of Trance #908"
+    duration: 2h # approx
     tracks: 28
     liked:
       - Temple of Artemis {[Rated R] Remix} - Neptune Project
       - Phase One - Chris Schweizer
 
   - release: '2019-12-26: A State of Trance #946, "Yearmix"'
+    duration: 2h # approx

@@ -5,17 +5,20 @@ series:
 
 episodes:
   - release: "2017-01-05: A State of Trance #797"
+    duration: 2h # approx
     liked:
       - Shelter - [Dash Berlin] feat. [Roxanne Emery]
       - Exalted - gerome
       - Fly Away {[M6] Remix} - Vincent de Moor
 
   - release: "2017-12-14: A State of Trance #844"
+    duration: 2h # approx
     tracks: 32
     liked:
       - Christmas Days {Encore Version} - [Armin van Buuren] feat. [Josh Cumbee]
 
   - release: "2017-12-21: A State of Trance #845"
+    duration: 2h # approx
     tracks: 53
     liked:
       - Concrete Angel {[ReOrder] Remix} - [Gareth Emery] feat. [Christina Novelli]
@@ -23,3 +26,4 @@ episodes:
       - Spectrum - [James Dymond] & [Chris Schweizer]
 
   - release: '2017-12-28: A State of Trance #846, "Yearmix"'
+    duration: 2h # approx
