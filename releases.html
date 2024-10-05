@@ -988,8 +988,8 @@
         const maxRating = $('#maxrating option:selected').text();
         const minYear = $('#minyear option:selected').text();
         const maxYear = $('#maxyear option:selected').text();
-        const series = $('#series option:selected').text();
-        const artist = $('#artist option:selected').text();
+        const series = $('#series option:selected').val();
+        const artist = $('#artist option:selected').val();
         const location = $('#location option:selected').val();
         let html = '<ol>';
     
@@ -1031,239 +1031,234 @@ Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>200
 - <select id='maxyear' onchange='refresh()'><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><<option>2021</option><option>2022</option><option>2023</option><option selected>2024</option></select>
 <select id='series' onchange='refresh()'>
 <option>All Series</option>
-<option>A State of Trance</option>
-<option>Apple NYE 2021</option>
-<option>Boiler Room</option>
-<option>Cercle</option>
-<option>Chillosophy</option>
-<option>Electric Daisy Carnival</option>
-<option>Fear N Loathing</option>
-<option>FeelMyBicep</option>
-<option>Future Sound of Egypt</option>
-<option>Group Therapy</option>
-<option>HARD Summer 2022</option>
-<option>Lane 8</option>
-<option>Lost Lands</option>
-<option>Ophelia's Odyssey</option>
-<option>Phoenix Radio</option>
-<option>RA</option>
-<option>Sophie Sugar's Symphony</option>
-<option>The Anjuna Mix</option>
-<option>The Anjunadeep Edition</option>
-<option>Tomorrowland</option>
-<option>Tritonia</option>
-<option>VONYC Sessions</option>
+<option value="A State of Trance">A State of Trance (495)</option>
+<option value="Apple NYE 2021">Apple NYE 2021 (21)</option>
+<option value="Boiler Room">Boiler Room (19)</option>
+<option value="Cercle">Cercle (2)</option>
+<option value="Electric Daisy Carnival">Electric Daisy Carnival (19)</option>
+<option value="Fear N Loathing">Fear N Loathing (2)</option>
+<option value="FeelMyBicep">FeelMyBicep (6)</option>
+<option value="Future Sound of Egypt">Future Sound of Egypt (1)</option>
+<option value="Group Therapy">Group Therapy (3)</option>
+<option value="HARD Summer 2022">HARD Summer 2022 (1)</option>
+<option value="Lost Lands">Lost Lands (43)</option>
+<option value="Ophelia's Odyssey">Ophelia's Odyssey (38)</option>
+<option value="Phoenix Radio">Phoenix Radio (20)</option>
+<option value="RA">RA (1)</option>
+<option value="Sophie Sugar's Symphony">Sophie Sugar's Symphony (13)</option>
+<option value="The Anjuna Mix">The Anjuna Mix (2)</option>
+<option value="The Anjunadeep Edition">The Anjunadeep Edition (1)</option>
+<option value="Tomorrowland">Tomorrowland (19)</option>
+<option value="Tritonia">Tritonia (225)</option>
+<option value="VONYC Sessions">VONYC Sessions (2)</option>
 </select>
 <select id='artist' onchange='refresh()'>
 <option>All Artists</option>
-<option>12th Planet</option>
-<option>ALPHA 9</option>
-<option>AMIDY</option>
-<option>ARMNHMR</option>
-<option>ATB</option>
-<option>ATLiens</option>
-<option>Above & Beyond</option>
-<option>Ace Aura</option>
-<option>AceMoMa</option>
-<option>Acid Pauli</option>
-<option>Adriatique</option>
-<option>Alan Walker</option>
-<option>Alex M.O.R.P.H.</option>
-<option>Alexander Popov</option>
-<option>Aly & Fila</option>
-<option>Andrew Rayel</option>
-<option>Angerfist</option>
-<option>Antillas</option>
-<option>Arctic Moon</option>
-<option>Armin van Buuren</option>
-<option>Au5</option>
-<option>Awakened</option>
-<option>BENDA</option>
-<option>Barely Alive</option>
-<option>Basenji</option>
-<option>Ben Böhmer</option>
-<option>Ben Gold</option>
-<option>Bexxie</option>
-<option>Bicep</option>
-<option>Blanke</option>
-<option>Blastoyz</option>
-<option>Blosso</option>
-<option>Bobina</option>
-<option>Boogie T.</option>
-<option>Boris Brejcha</option>
-<option>Camelphat</option>
-<option>Caster</option>
-<option>Casual Gabberz Army</option>
-<option>Cellini</option>
-<option>Champagne Drip</option>
-<option>Channel Tres</option>
-<option>Charlotte de Witte</option>
-<option>Chillosophy</option>
-<option>Chime</option>
-<option>Chris Lake</option>
-<option>Christian Löffler</option>
-<option>Codeko</option>
-<option>Conducta</option>
-<option>Cosmic Gate</option>
-<option>Crystal Skies</option>
-<option>Cyclops</option>
-<option>DJ Bus Replacement Service</option>
-<option>DJ Craze</option>
-<option>DJ Marky</option>
-<option>Dash Berlin</option>
-<option>Diesel</option>
-<option>Dimibo</option>
-<option>Dion Timmer</option>
-<option>Dirt Monkey</option>
-<option>DirtySnatcha</option>
-<option>Disclosure</option>
-<option>Dito</option>
-<option>Dixon</option>
-<option>Dr. Fresch</option>
-<option>ENA</option>
-<option>Eco</option>
-<option>Eliminate</option>
-<option>Estiva</option>
-<option>Excision</option>
-<option>Eximinds</option>
-<option>FJAAK</option>
-<option>Far Out</option>
-<option>Feed Me</option>
-<option>Ferry Corsten</option>
-<option>Flux Pavilion</option>
-<option>Fox Stevenson</option>
-<option>Fransis Derelle</option>
-<option>Fred again..</option>
-<option>FuntCase</option>
-<option>G-REX</option>
-<option>GHENGAR</option>
-<option>Gareth Emery</option>
-<option>Gem & Tauri</option>
-<option>Gene Farris</option>
-<option>Giorgia Angiuli</option>
-<option>Giuseppe Ottaviani</option>
-<option>Godlands</option>
-<option>Grabbitz</option>
-<option>Heatbeat</option>
-<option>Honey Dijon</option>
-<option>Illenium</option>
-<option>Inukshuk</option>
-<option>Ironheart</option>
-<option>Jamie Jones</option>
-<option>Jantsen</option>
-<option>Jason Ross</option>
-<option>Jessica Audiffred</option>
-<option>Jorn van Deynhoven</option>
-<option>Juliet Fox</option>
-<option>KEPIK</option>
-<option>Kayzo</option>
-<option>Kill the Noise</option>
-<option>Klur</option>
-<option>Knife Party</option>
-<option>Kompany</option>
-<option>Koven</option>
-<option>Kygo</option>
-<option>Lane 8</option>
-<option>Lange</option>
-<option>Last Heroes</option>
-<option>Laura van Dam</option>
-<option>Liquid Stranger</option>
-<option>Logic1000</option>
-<option>MRPHLNDR</option>
-<option>MaRLo</option>
-<option>Maarten de Jong</option>
-<option>Madeon</option>
-<option>Man Cub</option>
-<option>Manila Killa</option>
-<option>Mark Sixma</option>
-<option>Markus Schulz</option>
-<option>Mat Zo</option>
-<option>Matt Fax</option>
-<option>Max Graham</option>
-<option>Mazare</option>
-<option>Menno De Jong</option>
-<option>Mike Williams</option>
-<option>MitiS</option>
-<option>Montell2099</option>
-<option>Morgin Madison</option>
-<option>Mr. E</option>
-<option>Myon & Shane 54</option>
-<option>NGHTMARE</option>
-<option>Netsky</option>
-<option>Nurko</option>
-<option>Omnia</option>
-<option>Outwild</option>
-<option>Paris Hilton</option>
-<option>Paul van Dyk</option>
-<option>Peekaboo</option>
-<option>Peggy Gou</option>
-<option>Pendulum</option>
-<option>PhaseOne</option>
-<option>Protoculture</option>
-<option>Qrion</option>
-<option>Quackson</option>
-<option>RIOT</option>
-<option>Rank 1</option>
-<option>Ray Volpe</option>
-<option>Rival</option>
-<option>Robin Schulz</option>
-<option>Romy</option>
-<option>Roy Knox</option>
-<option>Ruben de Ronde</option>
-<option>Rüfüs Du Sol</option>
-<option>SAYMYNAME</option>
-<option>STAR SEED</option>
-<option>SWARM</option>
-<option>Sabai</option>
-<option>Sam Feldt</option>
-<option>Sean Tyas</option>
-<option>Shogun</option>
-<option>Sied van Riel</option>
-<option>Silva City</option>
-<option>Simon Patterson</option>
-<option>SoDown</option>
-<option>Soul Summit</option>
-<option>Sound Rush</option>
-<option>Stephan Bodzin</option>
-<option>Sub Zero Project</option>
-<option>Sullivan King</option>
-<option>Super8 & Tab</option>
-<option>Sven Väth</option>
-<option>THEMBA</option>
-<option>TSHA</option>
-<option>Tale of Us</option>
-<option>Tape B</option>
-<option>Tenishia</option>
-<option>The Blessed Madonna</option>
-<option>The Blizzard</option>
-<option>Tinlicker</option>
-<option>Tomas Heredia</option>
-<option>Trance Wax</option>
-<option>Tritonal</option>
-<option>Trivecta</option>
-<option>UUFO</option>
-<option>VAMPA</option>
-<option>Virtual Riot</option>
-<option>W&W</option>
-<option>William Black</option>
-<option>Wooli</option>
-<option>Xavi</option>
-<option>Yetep</option>
-<option>York</option>
-<option>dBridge</option>
-<option>heRobust</option>
-<option>ilan Bluestone</option>
-<option>tyDi</option>
-<option>Âme</option>
+<option value="12th Planet">12th Planet (1)</option>
+<option value="ALPHA 9">ALPHA 9 (2)</option>
+<option value="AMIDY">AMIDY (1)</option>
+<option value="ARMNHMR">ARMNHMR (1)</option>
+<option value="ATB">ATB (1)</option>
+<option value="ATLiens">ATLiens (1)</option>
+<option value="Above & Beyond">Above & Beyond (1)</option>
+<option value="Ace Aura">Ace Aura (2)</option>
+<option value="AceMoMa">AceMoMa (1)</option>
+<option value="Acid Pauli">Acid Pauli (1)</option>
+<option value="Adriatique">Adriatique (1)</option>
+<option value="Alan Walker">Alan Walker (1)</option>
+<option value="Alex M.O.R.P.H.">Alex M.O.R.P.H. (1)</option>
+<option value="Alexander Popov">Alexander Popov (1)</option>
+<option value="Aly & Fila">Aly & Fila (2)</option>
+<option value="Andrew Rayel">Andrew Rayel (1)</option>
+<option value="Angerfist">Angerfist (1)</option>
+<option value="Antillas">Antillas (1)</option>
+<option value="Arctic Moon">Arctic Moon (1)</option>
+<option value="Armin van Buuren">Armin van Buuren (8)</option>
+<option value="Au5">Au5 (3)</option>
+<option value="Awakened">Awakened (1)</option>
+<option value="BENDA">BENDA (1)</option>
+<option value="Barely Alive">Barely Alive (1)</option>
+<option value="Basenji">Basenji (1)</option>
+<option value="Ben Böhmer">Ben Böhmer (1)</option>
+<option value="Ben Gold">Ben Gold (2)</option>
+<option value="Bexxie">Bexxie (1)</option>
+<option value="Bicep">Bicep (2)</option>
+<option value="Blanke">Blanke (2)</option>
+<option value="Blastoyz">Blastoyz (1)</option>
+<option value="Blosso">Blosso (1)</option>
+<option value="Bobina">Bobina (1)</option>
+<option value="Boogie T.">Boogie T. (1)</option>
+<option value="Boris Brejcha">Boris Brejcha (1)</option>
+<option value="Camelphat">Camelphat (1)</option>
+<option value="Caster">Caster (1)</option>
+<option value="Casual Gabberz Army">Casual Gabberz Army (1)</option>
+<option value="Cellini">Cellini (1)</option>
+<option value="Champagne Drip">Champagne Drip (1)</option>
+<option value="Channel Tres">Channel Tres (1)</option>
+<option value="Charlotte de Witte">Charlotte de Witte (2)</option>
+<option value="Chillosophy">Chillosophy (1)</option>
+<option value="Chime">Chime (1)</option>
+<option value="Chris Lake">Chris Lake (1)</option>
+<option value="Christian Löffler">Christian Löffler (1)</option>
+<option value="Codeko">Codeko (1)</option>
+<option value="Conducta">Conducta (1)</option>
+<option value="Cosmic Gate">Cosmic Gate (2)</option>
+<option value="Crystal Skies">Crystal Skies (1)</option>
+<option value="Cyclops">Cyclops (1)</option>
+<option value="DJ Bus Replacement Service">DJ Bus Replacement Service (1)</option>
+<option value="DJ Craze">DJ Craze (1)</option>
+<option value="DJ Marky">DJ Marky (1)</option>
+<option value="Dash Berlin">Dash Berlin (5)</option>
+<option value="Diesel">Diesel (1)</option>
+<option value="Dimibo">Dimibo (1)</option>
+<option value="Dion Timmer">Dion Timmer (2)</option>
+<option value="Dirt Monkey">Dirt Monkey (1)</option>
+<option value="DirtySnatcha">DirtySnatcha (1)</option>
+<option value="Disclosure">Disclosure (1)</option>
+<option value="Dito">Dito (1)</option>
+<option value="Dixon">Dixon (1)</option>
+<option value="Dr. Fresch">Dr. Fresch (1)</option>
+<option value="ENA">ENA (1)</option>
+<option value="Eco">Eco (1)</option>
+<option value="Eliminate">Eliminate (2)</option>
+<option value="Estiva">Estiva (1)</option>
+<option value="Excision">Excision (6)</option>
+<option value="Eximinds">Eximinds (1)</option>
+<option value="FJAAK">FJAAK (1)</option>
+<option value="Far Out">Far Out (1)</option>
+<option value="Feed Me">Feed Me (1)</option>
+<option value="Ferry Corsten">Ferry Corsten (3)</option>
+<option value="Flux Pavilion">Flux Pavilion (1)</option>
+<option value="Fox Stevenson">Fox Stevenson (1)</option>
+<option value="Fransis Derelle">Fransis Derelle (1)</option>
+<option value="Fred again..">Fred again.. (2)</option>
+<option value="FuntCase">FuntCase (1)</option>
+<option value="G-REX">G-REX (1)</option>
+<option value="GHENGAR">GHENGAR (1)</option>
+<option value="Gareth Emery">Gareth Emery (1)</option>
+<option value="Gem & Tauri">Gem & Tauri (2)</option>
+<option value="Gene Farris">Gene Farris (1)</option>
+<option value="Giorgia Angiuli">Giorgia Angiuli (1)</option>
+<option value="Giuseppe Ottaviani">Giuseppe Ottaviani (1)</option>
+<option value="Godlands">Godlands (1)</option>
+<option value="Grabbitz">Grabbitz (1)</option>
+<option value="Heatbeat">Heatbeat (1)</option>
+<option value="Honey Dijon">Honey Dijon (1)</option>
+<option value="Illenium">Illenium (2)</option>
+<option value="Inukshuk">Inukshuk (1)</option>
+<option value="Ironheart">Ironheart (1)</option>
+<option value="Jamie Jones">Jamie Jones (1)</option>
+<option value="Jantsen">Jantsen (1)</option>
+<option value="Jason Ross">Jason Ross (3)</option>
+<option value="Jessica Audiffred">Jessica Audiffred (1)</option>
+<option value="Jorn van Deynhoven">Jorn van Deynhoven (1)</option>
+<option value="Juliet Fox">Juliet Fox (1)</option>
+<option value="KEPIK">KEPIK (1)</option>
+<option value="Kayzo">Kayzo (2)</option>
+<option value="Kill the Noise">Kill the Noise (1)</option>
+<option value="Klur">Klur (1)</option>
+<option value="Knife Party">Knife Party (3)</option>
+<option value="Kompany">Kompany (1)</option>
+<option value="Koven">Koven (1)</option>
+<option value="Kygo">Kygo (1)</option>
+<option value="Lane 8">Lane 8 (2)</option>
+<option value="Lange">Lange (1)</option>
+<option value="Last Heroes">Last Heroes (1)</option>
+<option value="Laura van Dam">Laura van Dam (1)</option>
+<option value="Liquid Stranger">Liquid Stranger (1)</option>
+<option value="Logic1000">Logic1000 (1)</option>
+<option value="MRPHLNDR">MRPHLNDR (1)</option>
+<option value="MaRLo">MaRLo (1)</option>
+<option value="Maarten de Jong">Maarten de Jong (1)</option>
+<option value="Madeon">Madeon (1)</option>
+<option value="Man Cub">Man Cub (1)</option>
+<option value="Manila Killa">Manila Killa (1)</option>
+<option value="Mark Sixma">Mark Sixma (1)</option>
+<option value="Markus Schulz">Markus Schulz (4)</option>
+<option value="Mat Zo">Mat Zo (1)</option>
+<option value="Matt Fax">Matt Fax (2)</option>
+<option value="Max Graham">Max Graham (1)</option>
+<option value="Mazare">Mazare (1)</option>
+<option value="Menno De Jong">Menno De Jong (1)</option>
+<option value="Mike Williams">Mike Williams (1)</option>
+<option value="MitiS">MitiS (2)</option>
+<option value="Montell2099">Montell2099 (1)</option>
+<option value="Morgin Madison">Morgin Madison (1)</option>
+<option value="Mr. E">Mr. E (1)</option>
+<option value="Myon & Shane 54">Myon & Shane 54 (1)</option>
+<option value="NGHTMARE">NGHTMARE (1)</option>
+<option value="Netsky">Netsky (4)</option>
+<option value="Nurko">Nurko (1)</option>
+<option value="Omnia">Omnia (2)</option>
+<option value="Outwild">Outwild (1)</option>
+<option value="Paris Hilton">Paris Hilton (1)</option>
+<option value="Paul van Dyk">Paul van Dyk (1)</option>
+<option value="Peekaboo">Peekaboo (1)</option>
+<option value="Peggy Gou">Peggy Gou (1)</option>
+<option value="Pendulum">Pendulum (1)</option>
+<option value="PhaseOne">PhaseOne (1)</option>
+<option value="Protoculture">Protoculture (3)</option>
+<option value="Qrion">Qrion (2)</option>
+<option value="Quackson">Quackson (1)</option>
+<option value="RIOT">RIOT (1)</option>
+<option value="Rank 1">Rank 1 (1)</option>
+<option value="Ray Volpe">Ray Volpe (1)</option>
+<option value="Rival">Rival (1)</option>
+<option value="Robin Schulz">Robin Schulz (1)</option>
+<option value="Romy">Romy (1)</option>
+<option value="Roy Knox">Roy Knox (1)</option>
+<option value="Ruben de Ronde">Ruben de Ronde (2)</option>
+<option value="Rüfüs Du Sol">Rüfüs Du Sol (1)</option>
+<option value="SAYMYNAME">SAYMYNAME (1)</option>
+<option value="STAR SEED">STAR SEED (1)</option>
+<option value="SWARM">SWARM (1)</option>
+<option value="Sabai">Sabai (1)</option>
+<option value="Sam Feldt">Sam Feldt (1)</option>
+<option value="Sean Tyas">Sean Tyas (1)</option>
+<option value="Shogun">Shogun (1)</option>
+<option value="Sied van Riel">Sied van Riel (1)</option>
+<option value="Silva City">Silva City (1)</option>
+<option value="Simon Patterson">Simon Patterson (1)</option>
+<option value="SoDown">SoDown (1)</option>
+<option value="Soul Summit">Soul Summit (1)</option>
+<option value="Sound Rush">Sound Rush (1)</option>
+<option value="Stephan Bodzin">Stephan Bodzin (1)</option>
+<option value="Sub Zero Project">Sub Zero Project (1)</option>
+<option value="Sullivan King">Sullivan King (1)</option>
+<option value="Super8 & Tab">Super8 & Tab (1)</option>
+<option value="Sven Väth">Sven Väth (1)</option>
+<option value="THEMBA">THEMBA (1)</option>
+<option value="TSHA">TSHA (1)</option>
+<option value="Tale of Us">Tale of Us (1)</option>
+<option value="Tape B">Tape B (1)</option>
+<option value="Tenishia">Tenishia (1)</option>
+<option value="The Blessed Madonna">The Blessed Madonna (1)</option>
+<option value="The Blizzard">The Blizzard (1)</option>
+<option value="Tinlicker">Tinlicker (2)</option>
+<option value="Tomas Heredia">Tomas Heredia (1)</option>
+<option value="Trance Wax">Trance Wax (1)</option>
+<option value="Tritonal">Tritonal (2)</option>
+<option value="Trivecta">Trivecta (1)</option>
+<option value="UUFO">UUFO (1)</option>
+<option value="VAMPA">VAMPA (1)</option>
+<option value="Virtual Riot">Virtual Riot (1)</option>
+<option value="W&W">W&W (3)</option>
+<option value="William Black">William Black (1)</option>
+<option value="Wooli">Wooli (1)</option>
+<option value="Xavi">Xavi (2)</option>
+<option value="Yetep">Yetep (1)</option>
+<option value="York">York (1)</option>
+<option value="dBridge">dBridge (1)</option>
+<option value="heRobust">heRobust (1)</option>
+<option value="ilan Bluestone">ilan Bluestone (1)</option>
+<option value="tyDi">tyDi (2)</option>
+<option value="Âme">Âme (1)</option>
 </select>
 <select id='location' onchange='refresh()'>
 <option value="">All Locations</option>
 <option value="Australia">Australia</option>
 <option value="NSW, Australia">&nbsp;&nbsp;&nbsp;NSW</option>
-<option value="Sydney, NSW, Australia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sydney</option>
-<option value="Acer Arena, Sydney, NSW, Australia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acer Arena</option>
 <option value="VIC, Australia">&nbsp;&nbsp;&nbsp;VIC</option>
-<option value="Melbourne, VIC, Australia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Melbourne</option>
 <option value="Belarus">Belarus</option>
 <option value="Minsk, Belarus">&nbsp;&nbsp;&nbsp;Minsk</option>
 <option value="Brazil">Brazil</option>
@@ -1272,7 +1267,6 @@ Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>200
 <option value="Sofia, Bulgaria">&nbsp;&nbsp;&nbsp;Sofia</option>
 <option value="Canada">Canada</option>
 <option value="Montreal, Canada">&nbsp;&nbsp;&nbsp;Montreal</option>
-<option value="Igloofest, Montreal, Canada">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Igloofest</option>
 <option value="France">France</option>
 <option value="Arènes de Nîmes, France">&nbsp;&nbsp;&nbsp;Arènes de Nîmes</option>
 <option value="Marseille, France">&nbsp;&nbsp;&nbsp;Marseille</option>
@@ -1295,36 +1289,23 @@ Year: <select id='minyear' onchange='refresh()'><option>2001</option><option>200
 <option value="Lisbon, Portugal">&nbsp;&nbsp;&nbsp;Lisbon</option>
 <option value="Russia">Russia</option>
 <option value="Moscow, Russia">&nbsp;&nbsp;&nbsp;Moscow</option>
-<option value="Expocenter, Moscow, Russia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expocenter</option>
 <option value="Spain">Spain</option>
 <option value="Madrid, Spain">&nbsp;&nbsp;&nbsp;Madrid</option>
 <option value="The Netherlands">The Netherlands</option>
 <option value="Den Bosch, The Netherlands">&nbsp;&nbsp;&nbsp;Den Bosch</option>
-<option value="Brabanthallen, Den Bosch, The Netherlands">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brabanthallen</option>
 <option value="Utrecht, The Netherlands">&nbsp;&nbsp;&nbsp;Utrecht</option>
 <option value="Turkey">Turkey</option>
 <option value="Cappadocia, Turkey">&nbsp;&nbsp;&nbsp;Cappadocia</option>
 <option value="UK">UK</option>
 <option value="England, UK">&nbsp;&nbsp;&nbsp;England</option>
-<option value="London, England, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London</option>
-<option value="Birmingham, England, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Birmingham</option>
-<option value="Godskitchen Air, Birmingham, England, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Godskitchen Air</option>
 <option value="Ireland, UK">&nbsp;&nbsp;&nbsp;Ireland</option>
-<option value="Belfast, Ireland, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belfast</option>
-<option value="AVA, Belfast, Ireland, UK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AVA</option>
 <option value="Ukraine">Ukraine</option>
 <option value="Kiev, Ukraine">&nbsp;&nbsp;&nbsp;Kiev</option>
-<option value="Exhib Center, Kiev, Ukraine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhib Center</option>
 <option value="USA">USA</option>
 <option value="FL, USA">&nbsp;&nbsp;&nbsp;FL</option>
-<option value="Miami, FL, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miami</option>
-<option value="Ultra Music Festival, Miami, FL, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ultra Music Festival</option>
 <option value="IL, USA">&nbsp;&nbsp;&nbsp;IL</option>
-<option value="Chicago, IL, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicago</option>
 <option value="LA, USA">&nbsp;&nbsp;&nbsp;LA</option>
-<option value="Beyond Wonderland, LA, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond Wonderland</option>
 <option value="NY, USA">&nbsp;&nbsp;&nbsp;NY</option>
-<option value="TBA Brooklyn, NY, USA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TBA Brooklyn</option>
 </select>
 Sort: <select id='sort' onchange='refresh()'>
 <option>Title</option>

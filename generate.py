@@ -850,6 +850,8 @@ with open('top1000.html', "w") as f:
     w(f, "</html>")
 
 def write_location_options(f, location, indent, path):
+    if len(indent) > 18:
+        return
     if path == "":
         w(f, '<option value="%s">%s%s</option>' % (location.name, indent, location.name))
     else:
@@ -918,9 +920,15 @@ with open('releases.html', "w") as f:
     all_series = {}
     all_artists = {}
     for release in all:
-        all_series[release.series] = True
+        if artist_repo.get_artist(release.series) is None:
+            if release.series not in all_series:
+                all_series[release.series] = 0
+            all_series[release.series] += 1
+
         for artist in Release(release.release).artists:
-            all_artists[artist] = True
+            if artist not in all_artists:
+                all_artists[artist] = 0
+            all_artists[artist] += 1
 
     w(f, '<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>')
     w(f, "<script>const releases = [")
@@ -944,8 +952,8 @@ with open('releases.html', "w") as f:
         const maxRating = $('#maxrating option:selected').text();
         const minYear = $('#minyear option:selected').text();
         const maxYear = $('#maxyear option:selected').text();
-        const series = $('#series option:selected').text();
-        const artist = $('#artist option:selected').text();
+        const series = $('#series option:selected').val();
+        const artist = $('#artist option:selected').val();
         const location = $('#location option:selected').val();
         let html = '<ol>';
     
@@ -990,12 +998,12 @@ with open('releases.html', "w") as f:
     w(f, "<select id='series' onchange='refresh()'>")
     w(f, '<option>%s</option>' % 'All Series')
     for series in sorted(all_series.keys()):
-        w(f, '<option>%s</option>' % series)
+        w(f, '<option value="%s">%s (%d)</option>' % (series, series, all_series[series]))
     w(f, "</select>")
     w(f, "<select id='artist' onchange='refresh()'>")
     w(f, '<option>%s</option>' % 'All Artists')
     for artist in sorted(all_artists.keys()):
-        w(f, '<option>%s</option>' % artist)
+        w(f, '<option value="%s">%s (%d)</option>' % (artist, artist, all_artists[artist]))
     w(f, "</select>")
     w(f, "<select id='location' onchange='refresh()'>")
     w(f, '<option value="">%s</option>' % 'All Locations')
