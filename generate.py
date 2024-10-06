@@ -515,6 +515,8 @@ class Episode:
                 self.duration += int(match.group(1))
             if match := re.search(r'(\d+)\s*s', entries['duration'], re.IGNORECASE):
                 self.duration += round((float(match.group(1)) / 60))
+            if match := re.search(r'(\d+):(\d+):(\d+)', entries['duration'], re.IGNORECASE):
+                self.duration = int(match.group(1)) * 60 + int(match.group(2)) + round((float(match.group(3)) / 60))
 
         if self.duration == 0:
             print("missing duration: %s" % self.release)
@@ -555,6 +557,8 @@ class Episode:
             return '?'
         h = int(self.duration / 60)
         m = self.duration - (h * 60)
+        if h == 0:
+            return '%dm' % m
         if m == 0:
             return '%dh' % h
         return '%dh%02dm' % (h, m)

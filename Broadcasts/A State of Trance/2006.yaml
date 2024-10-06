@@ -5,7 +5,7 @@ series:
 
 episodes:
   - release: "2006-03-30: A State of Trance #242"
-    duration: 2h # approx
+    duration: 7203s
     tracks: 21
     liked:
       - From The Heart - Xposure
@@ -14,7 +14,7 @@ episodes:
       - Kiksu - Kyau & Albert
 
   - release: "2006-04-13: A State of Trance #244"
-    duration: 2h # approx
+    duration: 7103s
     tracks: 19
     liked:
       - Muhanjala - Duderstadt
@@ -25,8 +25,8 @@ episodes:
       - Tabla Mizma - [Thomas Datt] vs. [Robert Nickson]
 
   - release: "2006-04-27: A State of Trance #246"
-    duration: 2h # approx
+    duration: 7327s
     tracks: 20
 
   - release: '2006-12-28: A State of Trance #281, "Yearmix"'
-    duration: 2h # approx
+    duration: 7277s

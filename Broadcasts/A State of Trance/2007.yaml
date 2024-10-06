@@ -5,7 +5,7 @@ series:
 
 episodes:
   - release: "2007-01-04: A State of Trance #282"
-    duration: 2h # approx
+    duration: 7415s
     tracks: 22
     urls:
       - https://1001.tl/1c2l3vd1
@@ -16,7 +16,7 @@ episodes:
       - E.O.S. vs. Satellite {[Armin van Buuren]'s Laptop DJ Mashup} - [Ronski Speed] vs. [OceanLab]
 
   - release: "2007-01-11: A State of Trance #283"
-    duration: 2h # approx
+    duration: 7247s
     tracks: 20
     urls:
       - https://1001.tl/1ndlvw61
@@ -26,7 +26,7 @@ episodes:
       - ID - ID
 
   - release: "2007-01-18: A State of Trance #284"
-    duration: 2h # approx
+    duration: 7220s
     tracks: 20
     urls:
       - https://1001.tl/262upwp9
@@ -36,13 +36,13 @@ episodes:
       - Ascent - Michael Dow
 
   - release: "2007-04-19: A State of Trance #297"
-    duration: 2h # approx
+    duration: 7267s
     tracks: 20
     liked:
       - Quicksand - Bissen
 
   - release: "2007-05-24: A State of Trance #301"
-    duration: 2h # approx
+    duration: 7360s
     tracks: 20
     liked:
       - <10> Who Will Find Me? - [DJ Shah] feat. [Adrina Thorpe]
@@ -53,7 +53,7 @@ episodes:
       - I Found A Way - Daniel Kandi
 
   - release: "2007-05-31: A State of Trance #302"
-    duration: 2h # approx
+    duration: 7410s
     tracks: 20
     liked:
       - Another Day On The Terrace - Sunlounger
@@ -68,7 +68,7 @@ episodes:
       - Ultima - [Kyo] & [Gil]
 
   - release: "2007-06-07: A State of Trance #303"
-    duration: 2h # approx
+    duration: 7350s
     tracks: 19
     liked:
       - Kalopsia - The Blizzard
@@ -79,7 +79,7 @@ episodes:
       - Black Mamba - [Dominic Dominion]
 
   - release: "2007-06-14: A State of Trance #304"
-    duration: 2h # approx
+    duration: 7439s
     tracks: 22
     liked:
       - Till The Sky Falls Down {Dub Mix} - Dash Berlin
@@ -92,7 +92,7 @@ episodes:
       - Alone In The Dark - Airwave
 
   - release: "2007-06-21: A State of Trance #305"
-    duration: 2h # approx
+    duration: 7164s
     tracks: 19
     liked:
       - One Night In Tokyo {[DJ Shah] Savannah Mix} - [DJ Shah] & [Purple Mood]
@@ -104,7 +104,7 @@ episodes:
       - Flaming June - BT
 
   - release: "2007-06-28: A State of Trance #306"
-    duration: 2h # approx
+    duration: 7186s
     tracks: 19
     liked:
       - Till The Sky Falls Down {Dub Mix} - Dash Berlin
@@ -115,7 +115,7 @@ episodes:
       - Mirage (Of Hope) {[Lange] Remix} - Hemstock & Jennings
 
   - release: "2007-07-05: A State of Trance #307"
-    duration: 2h # approx
+    duration: 7294s
     tracks: 20
     liked:
       - Minerva - Supuer
@@ -128,7 +128,7 @@ episodes:
       - How Long? - [Aly & Fila] vs. [FKN] feat. [Jahala]
 
   - release: "2007-07-12: A State of Trance #308"
-    duration: 2h # approx
+    duration: 7236s
     tracks: 19
     liked:
       - Fly Away {[Cosmic Gate] Remix} - Vincent de Moor
@@ -137,7 +137,7 @@ episodes:
       - Anthem {[John O'Callaghan] Remix} - [Filo & Peri] feat. [Eric Lumiere]
 
   - release: "2007-07-19: A State of Trance #309"
-    duration: 2h # approx
+    duration: 7194s
     tracks: 20
     liked:
       - Runaway {Magic Bells Mix} - [Second Skin] feat. [Vera Ostrova]
@@ -148,7 +148,7 @@ episodes:
       - <10> Saltwater - [Chicane] feat. [Moya Brennan]
 
   - release: "2007-07-26: A State of Trance #310"
-    duration: 2h # approx
+    duration: 7273s
     tracks: 20
     liked:
       - Ride {[Blake Jarrell] Remix} - Cary Brothers
@@ -159,7 +159,7 @@ episodes:
       - Drop - Sean Tyas
 
   - release: "2007-08-02: A State of Trance #311"
-    duration: 2h # approx
+    duration: 7618s
     tracks: 20
     liked:
       - Maya - Eddie Sender
@@ -171,7 +171,7 @@ episodes:
       - Fly Away {[Cosmic Gate] Remix} - Vincent de Moor
 
   - release: "2007-08-09: A State of Trance #312"
-    duration: 2h # approx
+    duration: 7381s
     tracks: 23
     liked:
       - Soul Symbol - Rue De Gar
@@ -182,7 +182,7 @@ episodes:
       - 7 Cities {[Armin van Buuren] Remix} - Solarstone
 
   - release: "2007-08-16: A State of Trance #313"
-    duration: 2h # approx
+    duration: 7341s
     tracks: 19
     liked:
       - For You {[The Blizzard] Remix} - Envio
@@ -190,10 +190,10 @@ episodes:
       - Till The Sky Falls Down {Dub Mix} - Dash Berlin
 
   - release: "2007-08-23: A State of Trance #314"
-    duration: 2h # approx
+    duration: 7339s
     tracks: 20
     liked:
       - <10> Home {Club Mix} - Above & Beyond
 
   - release: '2007-12-27: A State of Trance #332, "Yearmix"'
-    duration: 2h # approx
+    duration: 7327s

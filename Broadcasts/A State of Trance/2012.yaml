@@ -5,45 +5,45 @@ series:
 
 episodes:
   - release: '2012-03-07: A State of Trance #550, "[Ruben de Ronde]": Expocenter, Moscow, Russia'
-    duration: 2h # approx
+    duration: 3580s
     tracks: 11
     liked:
       - She's Already Gone - [Ruben de Ronde] feat. [Aelyn]
 
   - release: '2012-03-07: A State of Trance #550, "[ATB]": Expocenter, Moscow, Russia'
-    duration: 2h # approx
+    duration: 4636s
     tracks: 13
     liked:
       - Summerlives - [SAINT X] feat. [Sandel]
       - Enjoy the Silence {reinterpreted by [Mike Shinoda]} - Depeche Mode
 
   - release: '2012-03-10: A State of Trance #550, "[Omnia]": Exhib Center, Kiev, Ukraine'
-    duration: 2h # approx
+    duration: 3405s
     tracks: 13
     liked:
       - Tokyo - Gareth Emery
 
   - release: '2012-03-10: A State of Trance #550, "[tyDi]": Exhib Center, Kiev, Ukraine'
-    duration: 2h # approx
+    duration: 3521s
     tracks: 12
     liked:
       - Talking to Myself {[Maison & Dragen] Remix} - [tyDi] feat. [DJ Rap]
       - Greater Heights {[ID] Remix} - [tyDi] feat. [Jennifer Rene] & [Tenishia]
 
   - release: '2012-03-10: A State of Trance #550, "[Markus Schulz]": Exhib Center, Kiev, Ukraine'
-    duration: 2h # approx
+    duration: 4509s
     tracks: 16
     liked:
       - Cheesecake - 4 Strings
 
   - release: '2012-03-17: A State of Trance #550, "[Aly & Fila]": Beyond Wonderland, LA, USA'
-    duration: 2h # approx
+    duration: 4475s
     tracks: 15
     liked:
       - Need To Feel Loved {[Adam K & Soha] Remix} - [Reflekt] feat. [Delline Bass]
 
   - release: '2012-03-17: A State of Trance #550, "[Gareth Emery]": Beyond Wonderland, LA, USA'
-    duration: 2h # approx
+    duration: 4476s
     tracks: 18
     liked:
       - Spaceman Slam the Door {[First State] Bashup} - [Hardwell] vs. [Zedd]
@@ -51,13 +51,13 @@ episodes:
       - World to Turn {Inner Me Mix} - [Ashley Wallbridge] & [Andy Moor] feat. [Gabriela]
 
   - release: '2012-03-25: A State of Trance #550, "[Dash Berlin]": Ultra Music Festival, Miami, FL, USA'
-    duration: 2h # approx
+    duration: 3503s
     tracks: 13
     liked:
       - Callisto - [Dash Berlin] & [Shogun]
 
   - release: '2012-03-31: A State of Trance #550, "A State of Yellow: [Protoculture]": Brabanthallen, Den Bosch, The Netherlands'
-    duration: 2h # approx
+    duration: 3564s
     tracks: 10
     liked:
       - Waking Up the Stars vs. Sun Gone Down {a cappella} {[Protoculture] Mashup} - [Alex M.O.R.P.H.] vs. [Protoculture] feat. [Shannon Hurley]
@@ -68,19 +68,19 @@ episodes:
       - Ode to the Oceans - Protoculture
 
   - release: '2012-03-31: A State of Trance #550, "A State of Yellow: [Bobina]": Brabanthallen, Den Bosch, The Netherlands'
-    duration: 2h # approx
+    duration: 3591s
     tracks: 14
     liked:
       - Quattro 372 - Bobina
 
   - release: '2012-03-31: A State of Trance #550, "A State of Red: [Mark Sixma]": Brabanthallen, Den Bosch, The Netherlands'
-    duration: 2h # approx
+    duration: 3380s
     tracks: 16
     liked:
       - As the Quasar Comes {[Tekno] Mashup} - [Hard Rock Sofa] vs. [Motorcycle]
 
   - release: '2012-03-31: A State of Trance #550, "A State of Red: [The Blizzard]": Brabanthallen, Den Bosch, The Netherlands'
-    duration: 2h # approx
+    duration: 3619s
     tracks: 15
     liked:
       - ID - ID
@@ -88,7 +88,7 @@ episodes:
       - Walking Alone {[ARTY] Remix} - [Dirty South] & [Those Usual Suspects] feat. [Erik Hecht]
 
   - release: '2012-03-31: A State of Trance #550, "A State of Blue: [Armin van Buuren]": Brabanthallen, Den Bosch, The Netherlands'
-    duration: 2h # approx
+    duration: 4205s
     tracks: 16
     liked:
       - Epic Hyperfocus {[Armin van Buuren] Mashup} - [Sandro Silva] & [Quintino] vs. [Mark Otten]
@@ -96,18 +96,18 @@ episodes:
       - Premonition - A.R.D.I.
 
   - release: "2012-09-13: A State of Trance #578"
-    duration: 2h # approx
+    duration: 7182s
     tracks: 30
 
   - release: "2012-11-08: A State of Trance #586"
-    duration: 2h # approx
+    duration: 7137s
     tracks: 28
     liked:
       - Whispers - [Ana Criado] & [Beat Service]
       - Alchemy {[Above & Beyond] Club Mix} - [Above & Beyond] feat. [Zoe Johnston]
 
   - release: "2012-12-06: A State of Trance #590"
-    duration: 2h # approx
+    duration: 7264s
     tracks: 27
     liked:
       - Ambrosia - [Mike Danis] & [Johnny Yono]
@@ -122,4 +122,4 @@ episodes:
       - Colours {[Amir Hussain] Remix} - [Nymark] & [Dryden]
 
   - release: '2012-12-27: A State of Trance #593, "Yearmix"'
-    duration: 2h # approx
+    duration: 7291s

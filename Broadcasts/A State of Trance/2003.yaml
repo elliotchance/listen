@@ -5,18 +5,18 @@ series:
 
 episodes:
   - release: "2003-06-05: A State of Trance #100"
-    duration: 2h # approx
+    duration: 13526s
     tracks: 46
     liked:
       - As The Rush Comes {[Sweeping Strings] Remix} - Motorcycle
       - 5th Dimension - [Masters & Nickson] & [Justine Suissa]
 
   - release: "2003-06-12: A State of Trance #101"
-    duration: 2h # approx
+    duration: 7127s
     tracks: 19
 
   - release: "2003-06-19: A State of Trance #102"
-    duration: 2h # approx
+    duration: 6396s
     tracks: 18
     liked:
       - Symbols - [Fictivision] vs [C-Quence]
@@ -24,7 +24,7 @@ episodes:
       - Twisted Reality - Empyreal Sun
 
   - release: "2003-06-26: A State of Trance #103"
-    duration: 2h # approx
+    duration: 6673s
     tracks: 17
     liked:
       - Amazon - Midway
@@ -32,27 +32,27 @@ episodes:
       - Gamemaster {[Matt Darey] 2003 Remix} - Lost Tribe
 
   - release: "2003-07-10: A State of Trance #105"
-    duration: 2h # approx
+    duration: 6943s
     tracks: 25
     liked:
       - Symbols - [Fictivision] vs [C-Quence]
       - Vagabond - The Scarab
 
   - release: "2003-07-17: A State of Trance #106"
-    duration: 2h # approx
+    duration: 6178s
     tracks: 17
     liked:
       - Mental Theme {Ultra Trance Mix} - Ace's Delight
       - Timeless - Ron van den Beuken
 
   - release: "2003-07-24: A State of Trance #107"
-    duration: 2h # approx
+    duration: 6693s
     tracks: 18
     liked:
       - Mental Theme {Ultra Trance Mix} - Ace's Delight
 
   - release: "2003-07-31: A State of Trance #108"
-    duration: 2h # approx
+    duration: 6918s
     tracks: 18
     liked:
       - Vagabond - The Scarab
@@ -63,11 +63,11 @@ episodes:
       - Nocturnal Creatures {[Jono Grant] Remix} - [Darren Tate] vs [Jono Grant]
 
   - release: "2003-08-07: A State of Trance #109"
-    duration: 2h # approx
+    duration: 7046s
     tracks: 37
 
   - release: "2003-08-14: A State of Trance #110"
-    duration: 2h # approx
+    duration: 6936s
     tracks: 19
     liked:
       - Future Fun Land 2003 {[Astura] Remix} - Perpetuous Dreamer
@@ -75,7 +75,7 @@ episodes:
       - Dreamin' - Urban Voodoo
 
   - release: "2003-08-21: A State of Trance #111"
-    duration: 2h # approx
+    duration: 6805s
     tracks: 18
     liked:
       - Beautiful Together {[Seraque] Remix} - [OceanLab] feat. [Justine Suissa]
@@ -84,7 +84,7 @@ episodes:
       - Reverence - Hemstock & Jennings
 
   - release: "2003-08-28: A State of Trance #112"
-    duration: 2h # approx
+    duration: 6539s
     tracks: 17
     liked:
       - Burned With Desire {[Rising Star] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -93,7 +93,7 @@ episodes:
       - As The Rush Comes {[Armin van Buuren] Universal Religion Remix} - Motorcycle
 
   - release: "2003-09-04: A State of Trance #113"
-    duration: 2h # approx
+    duration: 13817s
     tracks: 31
     liked:
       - Burned With Desire {[Rising Star] Remix} - [Armin van Buuren] feat. [Justine Suissa]
@@ -102,5 +102,5 @@ episodes:
       - Sincere - Firewall
 
   - release: "2003-09-11: A State of Trance #114"
-    duration: 2h # approx
+    duration: 6705s
     tracks: 17
