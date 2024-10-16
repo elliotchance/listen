@@ -1,4 +1,10 @@
 locations:
+  - name: Argentina
+    contains:
+      - name: Buenos Aires
+        contains:
+          - name: Mandarine Park & Tent
+
   - name: Australia
     contains:
       - name: NSW
@@ -9,90 +15,175 @@ locations:
       - name: VIC
         contains:
           - name: Melbourne
+
   - name: Belarus
     contains:
       - name: Minsk
+
   - name: Brazil
     contains:
       - name: São Paulo
+
   - name: Bulgaria
     contains:
       - name: Sofia
+
   - name: Canada
     contains:
       - name: Montreal
         contains:
           - name: Igloofest
+
   - name: France
     contains:
       - name: Arènes de Nîmes
       - name: Marseille
       - name: Paris
+
   - name: Guatemala
     contains:
       - name: Guatemala City
+
   - name: Germany
     contains:
       - name: Berlin
+
+  - name: Finland
+    contains:
+      - name: Uusimaa
+        contains:
+          - name: Helsinki
+            contains:
+              - name: Freda 51
+
   - name: India
     contains:
       - name: Mumbai
+
   - name: Japan
     contains:
       - name: Tokyo
+
   - name: Lebanon
     contains:
       - name: Beirut
+
   - name: Malaysia
     contains:
       - name: Kuala Lumpur
+
   - name: Mexico
     contains:
       - name: Mexico City
+
   - name: Portugal
     contains:
       - name: Lisbon
+
   - name: Russia
     contains:
       - name: Moscow
         contains:
           - name: Expocenter
+          - name: The Artist Club
+
+  - name: Slovenia
+    contains:
+      - name: Ljubljana
+        contains:
+          - name: Ljubljana
+            contains:
+              - name: Hala Tivoli
+
   - name: Spain
     contains:
+      - name: Comunidad de Madrid
+        contains:
+          - name: Madrid
+            contains:
+              - name: New Garamond
+      - name: Illes Balears
+        contains:
+          - name: Ibiza
+            contains:
+              - name: Amnesia
+              - name: Armada
+          - name: Sant Antoni de Portmany
+            contains:
+              - name: Privilege Ibiza
+          - name: Ses Salines
+            contains:
+              - name: Ushuaïa Ibiza
       - name: Madrid
+
   - name: The Netherlands
     contains:
       - name: Den Bosch
         contains:
           - name: Brabanthallen
+      - name: Noord-Brabant
+        contains:
+          - name: "'s-Hertogenbosch"
+            contains:
+              - name: Brabanthallen
+      - name: Noord-Holland
+        contains:
+          - name: Amsterdam
+            contains:
+              - name: Armada Office Club
+              - name: Melkweg
       - name: Utrecht
+        contains:
+          - name: Jaarbeurs
+      - name: Zuid-Holland
+        contains:
+          - name: Den Haag
+            contains:
+              - name: AStA
+
   - name: Turkey
     contains:
       - name: Cappadocia
+
   - name: UK
     contains:
       - name: England
         contains:
-          - name: London
           - name: Birmingham
             contains:
+              - name: AIR
               - name: Godskitchen Air
+          - name: Coalville
+            contains:
+              - name: The Emporium
+          - name: London
+          - name: Warwickshire
+            contains:
+              - name: Long Marston Airfield
       - name: Ireland
         contains:
           - name: Belfast
             contains:
               - name: AVA
+
   - name: Ukraine
     contains:
       - name: Kiev
         contains:
-          - name: Exhib Center
+          - name: International Exhibition Centre
+
   - name: USA
     contains:
+      - name: CA
+        contains:
+          - name: San Francisco
+            contains:
+              - name: 1015 Folsom
       - name: FL
         contains:
           - name: Miami
             contains:
+              - name: Bayfront Park
               - name: Ultra Music Festival
       - name: IL
         contains:

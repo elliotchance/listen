@@ -1,8 +1,7 @@
 import yaml
 import os
 import re
-import math
-from typing import List, Set, Dict, Tuple
+from typing import List, Set, Dict
 
 class Artist:
     name: str
@@ -489,6 +488,7 @@ class Episode:
         self.release = ''
         self.duration = 0
         self.location = ''
+        self.listened = True
         
         if 'release' in entries:
             r = Release(entries['release'])
@@ -520,6 +520,9 @@ class Episode:
 
         if self.duration == 0:
             print("missing duration: %s" % self.release)
+
+        if 'listened' in entries:
+            self.listened = entries['listened']
 
     def refresh(self):
         self.total_tracks = self.tracks
@@ -921,6 +924,9 @@ with open('releases.html', "w") as f:
     all_series = {}
     all_artists = {}
     for release in all:
+        if not release.listened:
+            continue
+        
         if artist_repo.get_artist(release.series) is None:
             if release.series not in all_series:
                 all_series[release.series] = [0, 0]
@@ -942,10 +948,14 @@ with open('releases.html', "w") as f:
         if release.duration:
             duration = ' <span class="duration">(' + release.duration_str() + ')</a>'
 
-        w(f, "{rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\", tracks: %d, duration: %f}," % (
+        listened = 'false'
+        if release.listened:
+            listened = 'true'
+
+        w(f, "{rating: %d, year: %s, release: \"%s\", html: \"%s\", series: \"%s\", tracks: %d, duration: %f, listened: %s}," % (
             release.score(), release.date[:4], release.formatted_title().replace('"', '\\"'),
             (apply_artists(release.formatted_title(), artist_repo) + ' ' + ''.join([URL(url).html() for url in release.urls]) + duration).replace('"', '\\"'),
-            release.series, release.tracks, release.duration))
+            release.series, release.tracks, release.duration, listened))
     w(f, """
     ];
       
@@ -968,8 +978,10 @@ with open('releases.html', "w") as f:
         }
 
         let releaseCount = 0;
+        let totalReleaseCount = 0;
         let trackCount = 0;
         let duration = 0;
+        let totalDuration = 0;
         for (const release of releases) {
             if (series != 'All Series' && release.series != series) {
                 continue;
@@ -980,6 +992,12 @@ with open('releases.html', "w") as f:
             if (!release.release.includes(location)) {
                 continue;
             }
+      
+            ++totalReleaseCount;
+            totalDuration += release.duration;
+            if (!release.listened) {
+                continue;
+            }
             if (release.rating >= minRating && release.rating <= maxRating &&
                 release.year >= minYear && release.year <= maxYear) {
                 html += `<li><span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span></li>';
@@ -988,7 +1006,7 @@ with open('releases.html', "w") as f:
                 duration += release.duration;
             }
         }
-        $('#results').html(`<p>${releaseCount} releases, ${trackCount} tracks, ${Math.round(duration / 60)} hours:</p>` + html + '</ol>');
+        $('#results').html(`<p>${releaseCount} of ${totalReleaseCount} releases, ${trackCount} tracks, ${Math.round(duration / 60)} of ${Math.round(totalDuration / 60)} hours:</p>` + html + '</ol>');
     }
     </script>
     """)

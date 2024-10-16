@@ -4,6 +4,42 @@ series:
   status: incomplete
 
 episodes:
+  - release: "2011-01-06: A State of Trance #490"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-01-13: A State of Trance #491"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-01-20: A State of Trance #492"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-01-27: A State of Trance #493"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-02-03: A State of Trance #494"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-02-10: A State of Trance #495"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-02-17: A State of Trance #496"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-02-24: A State of Trance #497"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-03-03: A State of Trance #498"
+    duration: 2h # approx
+    listened: false
+
   - release: "2011-03-10: A State of Trance #499"
     duration: 7173s
     tracks: 22
@@ -78,6 +114,10 @@ episodes:
       - Can't Sleep {[Super8 & Tab] Remix} - [Above & Beyond] feat. [Ashley Tomberlin]
       - My Enemy {club mix} - [Super8 & Tab] feat. [Julie Thompson]
       - Sun in Your Eyes - Above & Beyond
+
+  - release: "2011-03-24: A State of Trance #501"
+    duration: 2h # approx
+    listened: false
 
   - release: "2011-03-31: A State of Trance #502"
     duration: 7201s
@@ -158,6 +198,10 @@ episodes:
       - Eastern Thrace {[Arctic Moon] Remix} - [Faruk Sabanci] & [Ken Loi]
       - Tokyo {[Beatman & Ludmilla] Remix} - Paul Oakenfold
       - Made Of Sun {Hard Dub} - Kyau & Albert
+
+  - release: "2011-05-04: A State of Trance #507"
+    duration: 2h # approx
+    listened: false
 
   - release: "2011-05-12: A State of Trance #508"
     duration: 7270s
@@ -248,6 +292,110 @@ episodes:
       - Timezone - [Purple Haze] feat. [Colin Janz]
       - My Inner Island {[Yuri Kane] Remix} - [The Blizzard] & [Omnia]
       - All We Have Is Now - [Betsie Larkin] with [Super8 & Tab]
+
+  - release: "2011-06-30: A State of Trance #515"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-07-07: A State of Trance #516"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-07-14: A State of Trance #517"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-07-21: A State of Trance #518: Space, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-07-28: A State of Trance #519"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-08-04: A State of Trance #520"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-08-11: A State of Trance #521"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-08-18: A State of Trance #522"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-08-25: A State of Trance #523"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-09-01: A State of Trance #524"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-09-08: A State of Trance #525"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-09-15: A State of Trance #526: Space, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-09-22: A State of Trance #527: Space, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2011-09-29: A State of Trance #528, "Universal Religion Chapter 5 Release Special"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-10-06: A State of Trance #529"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-10-13: A State of Trance #530"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-10-20: A State of Trance #531"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-10-27: A State of Trance #532"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-11-03: A State of Trance #533"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-11-10: A State of Trance #534"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-11-17: A State of Trance #535"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-11-24: A State of Trance #536"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-12-01: A State of Trance #537"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-12-08: A State of Trance #538"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2011-12-15: A State of Trance #539"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2011-12-22: A State of Trance #540, "Top 20 of 2011"'
+    duration: 2h # approx
+    listened: false
 
   - release: '2011-12-29: A State of Trance #541, "Yearmix"'
     duration: 7188s

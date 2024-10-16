@@ -4,6 +4,90 @@ series:
   status: incomplete
 
 episodes:
+  - release: "2003-01-03: A State of Trance #79: Club Eau, Den Haag, Zuid-Holland, The Netherlands"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-01-16: A State of Trance #80"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-01-23: A State of Trance #81"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-01-30: A State of Trance #82"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-02-06: A State of Trance #83"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-02-13: A State of Trance #84"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-02-20: A State of Trance #85"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-02-27: A State of Trance #86"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-03-06: A State of Trance #87: Glow, Washington, DC, USA"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-03-13: A State of Trance #88"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-03-20: A State of Trance #89"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-03-27: A State of Trance #90"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-04-03: A State of Trance #91"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-04-10: A State of Trance #92"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-04-17: A State of Trance #93"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-04-24: A State of Trance #94"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-05-01: A State of Trance #95"
+    listened: false
+    duration: 2h # approx
+
+  - release: '2003-05-08: A State of Trance #96, "Passion": The Emporium, Coalville, England, UK'
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-05-15: A State of Trance #97"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-05-22: A State of Trance #98"
+    listened: false
+    duration: 2h # approx
+
+  - release: "2003-05-29: A State of Trance #99"
+    listened: false
+    duration: 2h # approx
+
   - release: "2003-06-05: A State of Trance #100"
     duration: 13526s
     tracks: 46
@@ -30,6 +114,10 @@ episodes:
       - Amazon - Midway
       - Symbols - [Fictivision] vs [C-Quence]
       - Gamemaster {[Matt Darey] 2003 Remix} - Lost Tribe
+
+  - release: "2003-07-04: A State of Trance #104"
+    duration: 2h # approx
+    listened: false
 
   - release: "2003-07-10: A State of Trance #105"
     duration: 6943s
@@ -104,3 +192,63 @@ episodes:
   - release: "2003-09-11: A State of Trance #114"
     duration: 6705s
     tracks: 17
+
+  - release: '2003-09-18: A State of Trance #115, "Exposure Festival 2003_"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-09-25: A State of Trance #116"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-10-02: A State of Trance #117"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-10-09: A State of Trance #118"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-10-16: A State of Trance #119: Ra Nightclub, Las Vegas, NV, USA"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-10-23: A State of Trance #120"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-10-30: A State of Trance #121"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-11-06: A State of Trance #122"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-11-13: A State of Trance #123"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-11-20: A State of Trance #124"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-11-27: A State of Trance #125"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-12-04: A State of Trance #126"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2003-12-11: A State of Trance #127, "Armin Only": AStA, Den Haag, Zuid-Holland, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2003-12-18: A State of Trance #128"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2003-12-25: A State of Trance #129, "Top 20 of 2003"'
+    duration: 2h # approx
+    listened: false

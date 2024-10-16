@@ -28,6 +28,18 @@ episodes:
       - When You Smile - Furkan Senol
       - Free Fall - Metrik
 
+  - release: '2018-01-25: A State of Trance #850, "Part 1"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-02-01: A State of Trance #850, "Part 2"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-02-08: A State of Trance #850, "Part 3"'
+    duration: 2h # approx
+    listened: false
+
   - release: "2018-02-15: A State of Trance #851"
     duration: 7199s
     tracks: 29
@@ -35,6 +47,26 @@ episodes:
       - If Not Now {Club Mix} - [Cosmic Gate] & [Jes]
       - Circa Forever {[Radion 6] Remix} - Rapid Eye
       - Ghost Voices {[Solis & Sean Truby] Rework} - Virtual Self
+
+  - release: '2018-02-17: A State of Trance #850, "Mainstage": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-02-17: A State of Trance #850, "Progressive": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-02-17: A State of Trance #850, "Psy": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-02-17: A State of Trance #850, "Road to 1000": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-02-17: A State of Trance #850, "Who''s Afraid of 138!?": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
 
   - release: "2018-02-22: A State of Trance #852"
     duration: 10791s
@@ -67,12 +99,172 @@ episodes:
     liked:
       - Lovingly - [Oliver Smith] feat. [Amy J Price]
 
+  - release: '2018-03-25: A State of Trance #850, "Ultra Music Festival 2018": Bayfront Park, Miami, FL, USA'
+    duration: 2h # approx
+    listened: false
+
   - release: "2018-03-29: A State of Trance #857"
     duration: 7204s
     tracks: 30
     liked:
       - Ethereal - [DRYM] & [Omnia]
       - Hallucination - [André Visior] & [Mind X]
+
+  - release: "2018-04-05: A State of Trance #858"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-04-12: A State of Trance #859"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-04-19: A State of Trance #860"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-04-26: A State of Trance #861"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-05-03: A State of Trance #862"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-05-10: A State of Trance #863, "Aly & Fila TakeOver"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-05-17: A State of Trance #864"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-05-24: A State of Trance #865"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-05-31: A State of Trance #866"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-06-07: A State of Trance #867"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-06-14: A State of Trance #868"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-06-21: A State of Trance #869"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-06-28: A State of Trance #870"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-07-05: A State of Trance #871"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-07-12: A State of Trance #872"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-07-19: A State of Trance #873"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-07-26: A State of Trance #874"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-08-02: A State of Trance #875"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-08-09: A State of Trance #876, "ASOT Ibiza 2018 Special"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-08-16: A State of Trance #877, "NWYR & MaRLo TakeOver Episode"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-08-23: A State of Trance #878, "Cosmic Gate & Vini Vici TakeOver Episode"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-08-30: A State of Trance #879"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-09-06: A State of Trance #880"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-09-13: A State of Trance #881"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-09-20: A State of Trance #882"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-09-27: A State of Trance #883"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-10-04: A State of Trance #884"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-10-11: A State of Trance #885"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-10-18: A State of Trance #886, "ADE Special Part 1"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-10-18: A State of Trance #886, "ADE Special Part 2"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-10-25: A State of Trance #887"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-11-01: A State of Trance #888"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-11-08: A State of Trance #889"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-11-15: A State of Trance #890"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-11-22: A State of Trance #891"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-11-29: A State of Trance #892"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-12-06: A State of Trance #893"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2018-12-13: A State of Trance #894"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2018-12-20: A State of Trance #895, "Top 50 of 2018"'
+    duration: 2h # approx
+    listened: false
 
   - release: '2018-12-27: A State of Trance #896, "Yearmix"'
     duration: 7218s

@@ -373,13 +373,117 @@ episodes:
       - ID vs. Yet Another Day - ID vs. [Armin van Buuren] feat. [Ray Wilson]
       - Sun in Your Eyes {[Mark Sherry] Argentinian Sun Edit} - Above & Beyond
 
+  - release: "2013-01-03: A State of Trance #594"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-01-10: A State of Trance #595"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-01-17: A State of Trance #596"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-01-24: A State of Trance #597"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-01-31: A State of Trance #598"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-02-07: A State of Trance #599"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-02-14: A State of Trance #600, "Preparty": New Garamond, Madrid, Comunidad de Madrid, Spain'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-02-16: A State of Trance #600: Mexico City Arena, Mexico City, Mexico"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-02-21: A State of Trance #601"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-02-28: A State of Trance #602"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-01: A State of Trance #600: Espaço das Américas, São Paulo, Brazil"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-07: A State of Trance #600: Minsk Arena, Minsk, Belarus"
+    duration: 2h # approx
+    listened: false
+
   - release: "2013-03-07: A State of Trance #603"
     duration: 7211s
     tracks: 27
 
+  - release: "2013-03-08: A State of Trance #600: Arena Armeets Sofia, Sofia, Sofia-Grad, Bulgaria"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-09: A State of Trance #600: Forum de Beyrouth, Beirut, Beyrouth, Lebanon"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-14: A State of Trance #604"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-15: A State of Trance #600: Sepang International Circuit, Selangor, Malaysia"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-16: A State of Trance #600: Royal Western India Turf Club, Mumbai, Maharashtra, India"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-03-21: A State of Trance #605, "A State of Trance 600" The Expedition__ Mumbai, Maharashtra, India'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-03-24: A State of Trance #600, "Ultra Music Festival 2013": Bayfront Park, Miami, FL, USA'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-27: A State of Trance #600: Super 24, Guatemala City, Guatemala, Guatemala"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-28: A State of Trance #606"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-03-30: A State of Trance #600: Madison Square Garden, New York City, USA"
+    duration: 2h # approx
+    listened: false
+
   - release: "2013-04-04: A State of Trance #607"
     duration: 7215s
     tracks: 28
+
+  - release: '2013-04-06: A State of Trance #600, "Expedition Stage": Brabanthallen, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-04-06: A State of Trance #600, "Main Stage": Brabanthallen, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor Stage": Brabanthallen, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-04-06: A State of Trance #600, "Who''s Afraid of 138?! Stage": Brabanthallen, Den Bosch, The Netherlands'
+    duration: 2h # approx
+    listened: false
 
   - release: "2013-04-11: A State of Trance #608"
     duration: 7082s
@@ -394,6 +498,10 @@ episodes:
       - Orion - Johnny Yono
       - On The Edge - Beat Service
       - There And Back - Robbie Van Doe
+
+  - release: '2013-04-18: A State of Trance #609, "Who''s Afraid of 138?! Special"'
+    duration: 2h # approx
+    listened: false
 
   - release: "2013-04-25: A State of Trance #610"
     duration: 7320s
@@ -442,15 +550,39 @@ episodes:
       - Few Nights - Ultimate
       - Ganymede - Andres Sanchez
 
+  - release: "2013-05-30: A State of Trance #615"
+    duration: 2h # approx
+    listened: false
+
   - release: "2013-06-06: A State of Trance #616"
     duration: 7337s
     tracks: 27
     liked:
       - Gamemaster {[Protoculture] Reconstruction} - Lost Tribe
 
+  - release: '2013-06-13: A State of Trance #617, "Who''s Afraid of 138?! Special"'
+    duration: 2h # approx
+    listened: false
+
   - release: "2013-06-20: A State of Trance #618"
     duration: 7219s
     tracks: 30
+
+  - release: "2013-06-27: A State of Trance #619"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-07-04: A State of Trance #620: Privilege Ibiza, Sant Antoni de Portmany, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-07-11: A State of Trance #621"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-07-18: A State of Trance #622"
+    duration: 2h # approx
+    listened: false
 
   - release: "2013-07-25: A State of Trance #623"
     duration: 7302s
@@ -471,6 +603,30 @@ episodes:
       - Slingshot - James Dymond
       - Infinitude - Onova
 
+  - release: "2013-08-01: A State of Trance #624"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-08-08: A State of Trance #625"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-08-15: A State of Trance #626"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-08-22: A State of Trance #627"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-08-29: A State of Trance #628"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-09-05: A State of Trance #629: Berlin, Germany"
+    duration: 2h # approx
+    listened: false
+
   - release: "2013-09-12: A State of Trance #630"
     duration: 7328s
     tracks: 32
@@ -479,3 +635,63 @@ episodes:
       - Black Hole {[Jorn van Deynhoven] Remix} - [Craig Connelly] & [Christina Novelli]
       - Apprehension {[Aly & Fila] Mix} - [Simon O'Shine] & [Sergey Nevone]
       - As The Rush Comes - Motorcycle
+
+  - release: "2013-09-19: A State of Trance #631"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-09-26: A State of Trance #632"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-10-03: A State of Trance #633: Jaarbeurs, Utrecht, The Netherlands"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-10-10: A State of Trance #634"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-10-17: A State of Trance #635"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-10-24: A State of Trance #636"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-10-31: A State of Trance #637"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-11-07: A State of Trance #638"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-11-14: A State of Trance #639"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-11-21: A State of Trance #640"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-11-28: A State of Trance #641"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-12-05: A State of Trance #642"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2013-12-12: A State of Trance #643"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-12-19: A State of Trance #644, "Top 20 of 2013"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2013-12-26: A State of Trance #645, "Yearmix 2013"'
+    duration: 2h # approx
+    listened: false

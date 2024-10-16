@@ -35,11 +35,75 @@ episodes:
       - Louder {[Jon O'Bir] Bootleg Mix} - [Jose Amnesia] feat. [Jennifer Rene]
       - Ascent - Michael Dow
 
+  - release: "2007-01-25: A State of Trance #285"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-02-01: A State of Trance #286"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-02-08: A State of Trance #287"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-02-15: A State of Trance #288"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-02-22: A State of Trance #289"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-03-01: A State of Trance #290"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-03-09: A State of Trance #291"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-03-15: A State of Trance #292"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-03-22: A State of Trance #293"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-03-29: A State of Trance #294"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-04-05: A State of Trance #295"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-04-12: A State of Trance #296"
+    duration: 2h # approx
+    listened: false
+
   - release: "2007-04-19: A State of Trance #297"
     duration: 7267s
     tracks: 20
     liked:
       - Quicksand - Bissen
+
+  - release: "2007-04-26: A State of Trance #298"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-05-03: A State of Trance #299"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2007-05-10: A State of Trance #300, "Classics Mix"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-05-17: A State of Trance #300: Pettelaarse Schans, 's-Hertogenbosch, Noord-Brabant, The Netherlands"
+    duration: 2h # approx
+    listened: false
 
   - release: "2007-05-24: A State of Trance #301"
     duration: 7360s
@@ -194,6 +258,74 @@ episodes:
     tracks: 20
     liked:
       - <10> Home {Club Mix} - Above & Beyond
+
+  - release: "2007-08-30: A State of Trance #315: Amnesia, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-09-06: A State of Trance #316"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-09-13: A State of Trance #317: Amnesia, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-09-20: A State of Trance #318"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-09-27: A State of Trance #319"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-10-04: A State of Trance #320"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-10-11: A State of Trance #321"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-10-19: A State of Trance #322"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2007-10-25: A State of Trance #323, "ADE 2007": Melkweg, Amsterdam, Noord-Holland, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-11-01: A State of Trance #324"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-11-08: A State of Trance #325"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-11-15: A State of Trance #326"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-11-22: A State of Trance #327"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-11-29: A State of Trance #328"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-12-06: A State of Trance #329"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2007-12-13: A State of Trance #330"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2007-12-20: A State of Trance #331, "Top 20 of 2007"'
+    duration: 2h # approx
+    listened: false
 
   - release: '2007-12-27: A State of Trance #332, "Yearmix"'
     duration: 7327s

@@ -7,6 +7,66 @@ episodes:
   - release: '2005-01-06: A State of Trance #182, "Yearmix"'
     duration: 7112s
 
+  - release: "2005-02-10: A State of Trance #183"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-02-17: A State of Trance #184"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-02-24: A State of Trance #185"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-03-03: A State of Trance #186"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-03-10: A State of Trance #187"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-03-17: A State of Trance #188"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-03-24: A State of Trance #189"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-03-31: A State of Trance #190"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-04-07: A State of Trance #191"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-04-14: A State of Trance #192"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-04-21: A State of Trance #193"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-04-28: A State of Trance #194"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-05-05: A State of Trance #195"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-05-12: A State of Trance #196"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-05-19: A State of Trance #197"
+    duration: 2h # approx
+    listened: false
+
   - release: "2005-05-26: A State of Trance #198"
     duration: 7251s
     tracks: 20
@@ -20,6 +80,14 @@ episodes:
       - New Harvest - Alex M.O.R.P.H.
       - The Day after Tomorrow - Musikman
       - ID {[M.I.K.E.] Remix} - Armin van Buuren
+
+  - release: "2005-06-02: A State of Trance #199"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-06-09: A State of Trance #200"
+    duration: 2h # approx
+    listened: false
 
   - release: "2005-06-16: A State of Trance #201"
     duration: 7300s
@@ -155,6 +223,62 @@ episodes:
     liked:
       - Remember Me {[Terry Bones] Remix} - Interstate
       - Summer Dream {[Stoneface & Terminal] Remix} - Kuffdam & Plant
+
+  - release: "2005-09-22: A State of Trance #215"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-09-29: A State of Trance #216"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-10-06: A State of Trance #217"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-10-13: A State of Trance #218"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-10-20: A State of Trance #219"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-10-27: A State of Trance #220"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-11-03: A State of Trance #221"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-11-10: A State of Trance #222"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-11-17: A State of Trance #223"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-11-24: A State of Trance #224"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-12-01: A State of Trance #225"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-12-08: A State of Trance #226"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2005-12-15: A State of Trance #227"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2005-12-22: A State of Trance #228, "Top 20 of 2005"'
+    duration: 2h # approx
+    listened: false
 
   - release: '2005-12-29: A State of Trance #229, "Yearmix"'
     duration: 7380s

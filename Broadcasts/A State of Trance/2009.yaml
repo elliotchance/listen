@@ -4,6 +4,14 @@ series:
   status: incomplete
 
 episodes:
+  - release: "2009-01-01: A State of Trance #385"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-01-08: A State of Trance #386: Armin Only Imagine, Los Angeles, California"
+    duration: 2h # approx
+    listened: false
+
   - release: "2009-01-15: A State of Trance #387"
     duration: 7280s
     tracks: 19
@@ -18,6 +26,46 @@ episodes:
       - <10> Delusion - [Super8 & Tab] feat. [Alyna]
       - <10> Infinite Horizon - Sequentia
       - Melbourne {[David Newsum] Remix} - Sean Tyas
+
+  - release: "2009-01-22: A State of Trance #388"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-01-29: A State of Trance #389"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-02-05: A State of Trance #390"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-02-12: A State of Trance #391"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-02-19: A State of Trance #392"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-02-26: A State of Trance #393"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-03-05: A State of Trance #394"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-03-12: A State of Trance #395"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-03-19: A State of Trance #396"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-03-26: A State of Trance #397"
+    duration: 2h # approx
+    listened: false
 
   - release: "2009-04-02: A State of Trance #398"
     duration: 7290s
@@ -43,9 +91,216 @@ episodes:
       - Collapse {[Cesar Lugo] Remix} - Robert Burian
       - Never Be Alone {[Nitrous Oxide] Remix} - [System Bot vs. 33] feat. [Costa]
 
-  - release: '2009-04-19: A State of Trance #400, "[Simon Patterson]": Godskitchen Air, Birmingham, England, UK'
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Myon & Shane 54"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Arnej"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Duderstadt"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Roger Shah"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Gareth Emery"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Armin van Buuren"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Super8 & Tab"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Daniel Kandi"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sied van Riel"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: ASOT 250 Classic Mix"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sean Tyas"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Marcus Schossow"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Rank 1"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Thomas Bronzwaer"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: W&W"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: ASOT 250"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Robert Nickson"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Mike Foyle"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Heatbeat"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: First State"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Signalrunners"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Dash Berlin"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: ASOT 200 Megamix"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Ferry Corsten"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sander van Doorn"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Arnej"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sied van Riel"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Gareth Emery"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Armin van Buuren"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Markus Schulz"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Daniel Kandi"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Simon Patterson"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: ASOT 004"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Wippenberg"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Airbase"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: M.I.K.E."'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Alex M.O.R.P.H. & Woody van Eyden"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Signum"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: ASOT 182 Yearmix 2004"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Blake Jarrell"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: The Blizzard"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sebastian Brandt"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Ørjan Nilsen"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Kyau & Albert"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Above & Beyond"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Roger Shah"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sied van Riel"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Mr Sam"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Armin van Buuren"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Aly & Fila"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Cosmic Gate"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Richard Durant"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Simon Patterson"'
     duration: 1717s
-    rating: 5/10
     liked:
       - Affrimation {[Tom Colontonio] Remix} - Activa
       - Distant Destiny - Reverse
@@ -55,6 +310,58 @@ episodes:
       - Thump - Simon Patterson
       - Us - Simon Patterson
       - Exactly - [John O'Callaghan] & [Russell Kearney]
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Trance.nu Feature"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Randy Boyer"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Genix"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Stoneface & Terminal"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Cerf, Mitiska & Jaren"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Glenn Morrison"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: tyDi"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Sophie Sugar"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Leon Bolier"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Martin Roth"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: Tenishia"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: John O''Callaghan"'
+    duration: 1h # approx
+    listened: false
+
+  - release: '2009-04-16: A State of Trance #400, "72 Hours Radio: ASOT 00"'
+    duration: 1h # approx
+    listened: false
 
   - release: "2009-04-24: A State of Trance #401"
     duration: 7272s
@@ -213,6 +520,90 @@ episodes:
     liked:
       - Poppiholla {[The Thrillseekers] Remix} - Chicane
       - Deja Vu - [Talla 2XLC] vs. [Robert Burian]
+
+  - release: "2009-07-30: A State of Trance #415"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-08-06: A State of Trance #416: Amnesia, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-08-13: A State of Trance #417"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-08-20: A State of Trance #418"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-08-27: A State of Trance #419"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-09-03: A State of Trance #420"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-09-10: A State of Trance #421: Amnesia, Ibiza, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-09-17: A State of Trance #422"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2009-09-24: A State of Trance #423, "A State of Trance Classics Volume 4 Release Special"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2009-10-01: A State of Trance #424, "The Takeover"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-10-08: A State of Trance #425"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-10-15: A State of Trance #426"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-10-22: A State of Trance #427"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2009-10-22: A State of Trance #428, "Godskitchen Boombox": Hala Tivoli, Ljubljana, Ljubljana, Slovenia'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-10-29: A State of Trance #429"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-11-12: A State of Trance #430"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-11-19: A State of Trance #431"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-11-26: A State of Trance #432"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-12-03: A State of Trance #433"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-12-10: A State of Trance #434"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2009-12-17: A State of Trance #435"
+    duration: 2h # approx
+    listened: false
 
   - release: "2009-12-24: A State of Trance #436"
     duration: 7202s

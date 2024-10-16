@@ -14,6 +14,38 @@ episodes:
       - ID - ID
       - ID - ID
 
+  - release: "2014-01-09: A State of Trance #647"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-01-16: A State of Trance #648"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-01-23: A State of Trance #649"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-01-30: A State of Trance #650, "Official Pre-Party": The Artist Club, Moscow, Russia'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-01-31: A State of Trance #650: Atakent International Exhibition Centre, Almaty, Kazakhstan"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-02-01: A State of Trance #650: Yekaterinburg-Ekspo, Yekaterinburg, Sverdlovskaya oblast', Russia"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-02-06: A State of Trance #650, "Part 2"'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-02-13: A State of Trance #650, "Part 3"'
+    duration: 2h # approx
+    listened: false
+
   - release: '2014-02-15: A State of Trance #650, "Invites Stage: [Protoculture]": Utrecht, The Netherlands'
     duration: 4505s
     tracks: 17
@@ -32,11 +64,211 @@ episodes:
       - Sectioned - [Solis] & [Sean Truby]
       - Where Life Takes Us - Ben Gold
 
+  - release: '2014-02-15: A State of Trance #650, "Mainstage": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-02-15: A State of Trance #650, "Talent Room": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-02-15: A State of Trance #650, "Who''s Afraid of 138!?": Jaarbeurs, Utrecht, The Netherlands'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-02-20: A State of Trance #651"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-02-27: A State of Trance #652"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-02-28: A State of Trance #650: Espacio Broadway, Santiago, Región Metropolitana de Santiago, Chile"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-01: A State of Trance #650: Club Ciudad de Buenos Aires, Buenos Aires, Argentina"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-06: A State of Trance #653"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-13: A State of Trance #654"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-15: A State of Trance #650: Allianz Eco Park, Jakarta, Jawa, Indonesia"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-20: A State of Trance #655"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-27: A State of Trance #656"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-03-30: A State of Trance #650: Ultra Music Festival, Miami, USA"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-04-03: A State of Trance #657"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-04-10: A State of Trance #658"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-04-17: A State of Trance #659, "Who''s Afraid of 138?! Special"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-04-24: A State of Trance #660"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-05-01: A State of Trance #661"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-05-08: A State of Trance #662"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-05-15: A State of Trance #663"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-05-22: A State of Trance #664"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-05-29: A State of Trance #665"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-06-05: A State of Trance #666"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-06-12: A State of Trance #667"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-06-19: A State of Trance #668"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-06-26: A State of Trance #669"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-07-03: A State of Trance #670: Ushuaïa Ibiza, Ses Salines, Illes Balears, Spain"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-07-10: A State of Trance #671"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-07-17: A State of Trance #672"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-07-24: A State of Trance #673"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-07-31: A State of Trance #674"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-08-07: A State of Trance #675, "Ushuaia Album Special"'
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-08-14: A State of Trance #676"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-08-21: A State of Trance #677"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-08-28: A State of Trance #678"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-09-04: A State of Trance #679"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-09-11: A State of Trance #680, "Who''s Afraid Of 138?! Special"'
+    duration: 2h # approx
+    listened: false
+
   - release: "2014-09-18: A State of Trance #681"
     duration: 7107s
     tracks: 28
     liked:
       - Gravity - Parker & Hanson
+
+  - release: "2014-09-25: A State of Trance #682"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-10-02: A State of Trance #683"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-10-09: A State of Trance #684"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-10-16: A State of Trance #685"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-10-23: A State of Trance #686"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-10-30: A State of Trance #687"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-11-06: A State of Trance #688"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-11-13: A State of Trance #689"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-11-20: A State of Trance #690"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-11-27: A State of Trance #691"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-12-04: A State of Trance #692"
+    duration: 2h # approx
+    listened: false
+
+  - release: "2014-12-11: A State of Trance #693"
+    duration: 2h # approx
+    listened: false
+
+  - release: '2014-12-18: A State of Trance #694, "Top 25 of 2014"'
+    duration: 2h # approx
+    listened: false
 
   - release: '2014-12-19: A State of Trance #695, "Yearmix"'
     duration: 7381s
