@@ -284,19 +284,17 @@ episodes:
       - https://1001.tl/20gztyft
 
   - release: "2002-11-07: A State of Trance #71"
-    listened: false
     duration: 2h # approx
+    liked:
+      - Mistral - GTR
 
   - release: "2002-11-14: A State of Trance #72"
-    listened: false
     duration: 2h # approx
 
   - release: "2002-11-21: A State of Trance #73"
-    listened: false
     duration: 2h # approx
 
   - release: "2002-11-28: A State of Trance #74"
-    listened: false
     duration: 2h # approx
 
   - release: "2002-12-05: A State of Trance #75"
