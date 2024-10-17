@@ -33,6 +33,9 @@ locations:
       - name: Montreal
         contains:
           - name: Igloofest
+      - name: Toronto
+        contains:
+          - name: The Guvernment
 
   - name: France
     contains:
@@ -76,6 +79,12 @@ locations:
     contains:
       - name: Mexico City
 
+  - name: Poland
+    contains:
+      - name: Wroclaw
+        contains:
+          - name: Hala Stulecia
+
   - name: Portugal
     contains:
       - name: Lisbon
@@ -94,6 +103,12 @@ locations:
           - name: Ljubljana
             contains:
               - name: Hala Tivoli
+
+  - name: Slovakia
+    contains:
+      - name: Bratislava
+        contains:
+          - name: Expo Arena
 
   - name: Spain
     contains:
@@ -126,6 +141,7 @@ locations:
           - name: "'s-Hertogenbosch"
             contains:
               - name: Brabanthallen
+              - name: Pettelaarse Schans
       - name: Noord-Holland
         contains:
           - name: Amsterdam
@@ -193,4 +209,5 @@ locations:
           - name: Beyond Wonderland
       - name: NY
         contains:
+          - name: Roseland Ballroom
           - name: TBA Brooklyn

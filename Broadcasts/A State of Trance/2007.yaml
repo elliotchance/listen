@@ -36,51 +36,51 @@ episodes:
       - Ascent - Michael Dow
 
   - release: "2007-01-25: A State of Trance #285"
-    duration: 2h # approx
+    duration: 7363s
     listened: false
 
   - release: "2007-02-01: A State of Trance #286"
-    duration: 2h # approx
+    duration: 7315s
     listened: false
 
   - release: "2007-02-08: A State of Trance #287"
-    duration: 2h # approx
+    duration: 7184s
     listened: false
 
   - release: "2007-02-15: A State of Trance #288"
-    duration: 2h # approx
+    duration: 7266s
     listened: false
 
   - release: "2007-02-22: A State of Trance #289"
-    duration: 2h # approx
+    duration: 7116s
     listened: false
 
   - release: "2007-03-01: A State of Trance #290"
-    duration: 2h # approx
+    duration: 7368s
     listened: false
 
   - release: "2007-03-09: A State of Trance #291"
-    duration: 2h # approx
+    duration: 7533s
     listened: false
 
   - release: "2007-03-15: A State of Trance #292"
-    duration: 2h # approx
+    duration: 7239s
     listened: false
 
   - release: "2007-03-22: A State of Trance #293"
-    duration: 2h # approx
+    duration: 7288s
     listened: false
 
   - release: "2007-03-29: A State of Trance #294"
-    duration: 2h # approx
+    duration: 7460s
     listened: false
 
   - release: "2007-04-05: A State of Trance #295"
-    duration: 2h # approx
+    duration: 7255s
     listened: false
 
   - release: "2007-04-12: A State of Trance #296"
-    duration: 2h # approx
+    duration: 7332s
     listened: false
 
   - release: "2007-04-19: A State of Trance #297"
@@ -90,19 +90,39 @@ episodes:
       - Quicksand - Bissen
 
   - release: "2007-04-26: A State of Trance #298"
-    duration: 2h # approx
+    duration: 7117s
     listened: false
 
   - release: "2007-05-03: A State of Trance #299"
-    duration: 2h # approx
+    duration: 7217s
     listened: false
 
   - release: '2007-05-10: A State of Trance #300, "Classics Mix"'
-    duration: 2h # approx
+    duration: 6938s
     listened: false
 
-  - release: "2007-05-17: A State of Trance #300: Pettelaarse Schans, 's-Hertogenbosch, Noord-Brabant, The Netherlands"
-    duration: 2h # approx
+  - release: '2007-05-17: A State of Trance #300, "[Aly & Fila]": Pettelaarse Schans, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 3898s
+    listened: false
+
+  - release: '2007-05-17: A State of Trance #300, "[Sean Tyas]": Pettelaarse Schans, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 3250s
+    listened: false
+
+  - release: '2007-05-17: A State of Trance #300, "[Menno De Jong]": Pettelaarse Schans, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 3487s
+    listened: false
+
+  - release: '2007-05-17: A State of Trance #300, "[Marcel Woods]": Pettelaarse Schans, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 3611s
+    listened: false
+
+  - release: '2007-05-17: A State of Trance #300, "[Markus Schulz]": Pettelaarse Schans, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 3691s
+    listened: false
+
+  - release: '2007-05-17: A State of Trance #300, "[Armin van Buuren]": Pettelaarse Schans, ''s-Hertogenbosch, Noord-Brabant, The Netherlands'
+    duration: 7678s
     listened: false
 
   - release: "2007-05-24: A State of Trance #301"
@@ -260,71 +280,71 @@ episodes:
       - <10> Home {Club Mix} - Above & Beyond
 
   - release: "2007-08-30: A State of Trance #315: Amnesia, Ibiza, Illes Balears, Spain"
-    duration: 2h # approx
+    duration: 7385s
     listened: false
 
   - release: "2007-09-06: A State of Trance #316"
-    duration: 2h # approx
+    duration: 7321s
     listened: false
 
   - release: "2007-09-13: A State of Trance #317: Amnesia, Ibiza, Illes Balears, Spain"
-    duration: 2h # approx
+    duration: 7347s
     listened: false
 
   - release: "2007-09-20: A State of Trance #318"
-    duration: 2h # approx
+    duration: 7443s
     listened: false
 
   - release: "2007-09-27: A State of Trance #319"
-    duration: 2h # approx
+    duration: 7430s
     listened: false
 
   - release: "2007-10-04: A State of Trance #320"
-    duration: 2h # approx
+    duration: 7275s
     listened: false
 
   - release: "2007-10-11: A State of Trance #321"
-    duration: 2h # approx
+    duration: 7232s
     listened: false
 
   - release: "2007-10-19: A State of Trance #322"
-    duration: 2h # approx
+    duration: 7232s
     listened: false
 
   - release: '2007-10-25: A State of Trance #323, "ADE 2007": Melkweg, Amsterdam, Noord-Holland, The Netherlands'
-    duration: 2h # approx
+    duration: 7940s
     listened: false
 
   - release: "2007-11-01: A State of Trance #324"
-    duration: 2h # approx
+    duration: 7242s
     listened: false
 
   - release: "2007-11-08: A State of Trance #325"
-    duration: 2h # approx
+    duration: 7222s
     listened: false
 
   - release: "2007-11-15: A State of Trance #326"
-    duration: 2h # approx
+    duration: 7201s
     listened: false
 
   - release: "2007-11-22: A State of Trance #327"
-    duration: 2h # approx
+    duration: 7276s
     listened: false
 
   - release: "2007-11-29: A State of Trance #328"
-    duration: 2h # approx
+    duration: 7202s
     listened: false
 
   - release: "2007-12-06: A State of Trance #329"
-    duration: 2h # approx
+    duration: 7420s
     listened: false
 
   - release: "2007-12-13: A State of Trance #330"
-    duration: 2h # approx
+    duration: 7210s
     listened: false
 
   - release: '2007-12-20: A State of Trance #331, "Top 20 of 2007"'
-    duration: 2h # approx
+    duration: 7284s
     listened: false
 
   - release: '2007-12-27: A State of Trance #332, "Yearmix"'
