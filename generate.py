@@ -1047,3 +1047,59 @@ with open('releases.html', "w") as f:
 
     w(f, "</body>")
     w(f, "</html>")
+
+def square(score):
+    if score <= 1:
+        return '🟥'
+    if score <= 3:
+        return '🟧'
+    if score <= 5:
+        return '🟨'
+    if score <= 7:
+        return '🟩'
+    if score <= 8:
+        return '🟦'
+
+    return '🟪'
+
+with open('releases.md', "w") as f:
+    all = []
+    for series in broadcasts.series:
+        for subseries in series.subseries:
+            all.extend([e for e in subseries.episodes if e.date])
+
+    all = sorted(all, key=lambda x: x.formatted_title())
+
+    for release in all:
+        # if release.location:
+        #     location_repo.check_location(release.location)
+
+        # duration = ''
+        # if release.duration:
+        #     duration = ' <span class="duration">(' +  + ')</a>'
+
+        # listened = 'false'
+        if not release.listened:
+            continue
+
+        w(f, "### %s\n" % release.formatted_title())
+        if release.tracks > 0:
+            w(f, "> %s %d/10 | %s | %d tracks" % (square(release.score()), release.score()+1, release.duration_str(), release.tracks))
+        else:
+            w(f, "> %s %d/10 | %s" % (square(release.score()), release.score()+1, release.duration_str()))
+
+        if release.urls:
+            w(f, "> | [1001tracklists](%s)" % release.urls[0])
+
+        w(f, "")
+        for t in release.liked:
+            t = t.replace('{', '_(')
+            t = t.replace('}', ')_')
+            t = t.replace(']', '](#)')
+            w(f, "- %s" % t)
+
+        if len(release.liked) > 0:
+            w(f, "")
+
+            # (apply_artists(release.formatted_title(), artist_repo) + ' ' + ''.join([URL(url).html() for url in release.urls]) + duration).replace('"', '\\"'),
+            # release.series, , , listened))
