@@ -1979,7 +1979,7 @@
             }
             if (release.rating >= minRating && release.rating <= maxRating &&
                 release.year >= minYear && release.year <= maxYear) {
-                html += `<li><span class="r${release.rating}">&nbsp;</span> <span class='release'>` + release.html + '</span></li>';
+                html += `<li><span class="r${release.rating}">&nbsp;</span> ${Math.floor(release.rating/2)+1} <span class='release'>` + release.html + '</span></li>';
                 releaseCount++;
                 trackCount += release.tracks;
                 duration += release.duration;
