@@ -2149,6 +2149,12 @@
 - Solarcoaster _([Protoculture](#) Remix)_ - Solarstone
 - Last Stop Before Heaven _([Maarten de Jong](#) Remix)_ - Armin van Buuren
 
+### 2014-09-18: A State of Trance #681
+
+> 🟥 2/10 | 1h58m | 28 tracks
+
+- Gravity - Parker & Hanson
+
 ### 2014-12-19: A State of Trance #695, "Yearmix"
 
 > 🟥 1/10 | 2h03m
@@ -3648,3 +3654,322 @@
 - God Is in the Soundwaves - [Armin van Buuren](#) & [Xoro](#) feat. [Yola Recoba](#)
 - Lose This Feeling _([Dimension](#) Remix)_ - Armin van Buuren
 - Let the Light Shine in - [Darren Tate](#) & [Jono Grant](#)
+
+### 2023-10-19: A State of Trance #1143
+
+> 🟥 2/10 | 2h | 29 tracks
+
+- Feel Again _([ID](#) Remix)_ - [Armin van Buuren](#) feat. [Wrabel](#)
+
+### 2023-10-26: A State of Trance #1144
+
+> 🟥 2/10 | 2h | 29 tracks
+
+- God Is in the Soundwaves _(Harder Mix)_ - [Armin van Buuren](#) & [Xoro](#) feat. [Yola Recoba](#)
+
+### 2023-11-02: A State of Trance #1145
+
+> 🟧 3/10 | 2h | 28 tracks
+
+- Breathing (Airwave) _([Alchimyst](#) Remix)_ - Rank 1
+- All Over Again _([Sean Tyas](#) & [David Elston](#) Remix)_ - [Bryan Kearney](#) & [Plumb](#)
+
+### 2023-11-09: A State of Trance #1146
+
+> 🟥 2/10 | 2h | 30 tracks
+
+- Take My Breath - [Alex M.O.R.P.H.](#) & [Marjan](#)
+
+### 2023-11-16: A State of Trance #1147
+
+> 🟨 5/10 | 2h | 33 tracks
+
+- Te Amo _([Cold Blue](#) Remix)_ - Bryan Kearney
+- Godspeed _([Maria Healy](#) Remix)_ - BT
+- ID - ID
+- Reputation - Maria Healy
+
+### 2023-11-23: A State of Trance #1148
+
+> 🟥 2/10 | 2h | 27 tracks
+
+- You - Asteroid
+
+### 2023-11-30: A State of Trance #1149
+
+> 🟧 4/10 | 2h | 23 tracks
+
+- Fiji _([Allan Morrow](#) Remix)_ - Atlantis
+- If You Only Knew _([Mitch de Klein](#) Remix)_ - [Hel:sløwed](#) & [Amber Revival](#)
+- ID - Hel:sløwed
+
+### 2023-12-07: A State of Trance #1150
+
+> 🟥 1/10 | 2h | 29 tracks
+
+### 2023-12-14: A State of Trance #1151
+
+> 🟥 1/10 | 2h | 35 tracks
+
+### 2023-12-21: A State of Trance #1152, "Top 50"
+
+> 🟪 10/10 | 2h | 50 tracks
+
+- Connected _([Lostly](#)'s Change of Season Remix)_ - [Factor B](#) & [Arielle Maren](#)
+- EVERLASTING - [Emma Hewitt](#) X [XiJaro & Pitch](#)
+- Anywhere _(Road Trippin')_ - anamē
+- Saltwater _([ilan Bluestone](#) Remix)_ - [Chicane](#) feat. [Moya Brennan](#)
+- Kiss the Night - MurZo
+- To The Stars - Giuseppe Ottaviani
+- Black Hole _([Giuseppe Ottaviani](#) Remix)_ - [Craig Connelly](#) & [Christina Novelli](#)
+- If You Only Knew - [Hel:sløwed](#) & [Amber Revival](#)
+- Shine a Light - [Bryan Kearney](#) & [Bo Bruce](#)
+- Rest of Our Lives _([Paul Webster](#) Remix)_ - Ben Gold
+
+### 2023-12-28: A State of Trance #1153, "Yearmix"
+
+> 🟥 1/10 | 2h
+
+### 2024-01-04: A State of Trance #1154
+
+> 🟨 5/10 | 2h
+
+- Take Me Home - [C-Systems](#) & [Aina](#)
+- Anywhere _(Road Trippin')_ - anamē
+- Carte Blanche - [Dirty South](#) & [Ferry Corsten](#)
+- If You Only Knew - [Hel:sløwed](#) & [Amber Revival](#)
+
+### 2024-01-11: A State of Trance #1155
+
+> 🟧 4/10 | 2h
+
+- Dayglow _([Bryan Kearney](#) Remix)_ - [Armin van Buuren](#) feat. [Stuart Crichton](#)
+- Run - [Liam Melly](#), [Code 2](#) & [Chelsea Holland](#)
+- Hector - Silva City
+
+### 2024-01-18: A State of Trance #1156
+
+> 🟧 3/10 | 2h
+
+- Northern Soul _([ilan Bluestone](#) Remix)_ - [Above & Beyond](#) feat. [Richard Bedford](#)
+- Rebel Anthem _([Black Xs](#) Remix)_ - Obie Fernandez
+
+### 2024-01-25: A State of Trance #1157
+
+> 🟥 2/10 | 2h
+
+- Here I Am _([Richard Durand](#) Remix)_ - [Nicholas Gunn](#) & [Harshil Kamdar](#) feat. [Alina Renae](#)
+
+### 2024-02-01: A State of Trance #1158
+
+> 🟥 2/10 | 2h
+
+- Nano - Sønin
+
+### 2024-02-08: A State of Trance #1159
+
+> 🟥 2/10 | 2h
+
+- Need to Feel Loved - [Cosmic Gate](#) & [Forêt](#)
+
+### 2024-02-15: A State of Trance #1160
+
+> 🟥 2/10 | 2h
+
+- Castles in the Sky - i_o
+
+### 2024-02-22: A State of Trance #1161
+
+> 🟪 10/10 | 2h
+
+- Flashpoint - Taylor Torrence
+- Now or Never _([Craig Connelly](#) Remix)_ - [Daxson](#) & [Nation of One](#)
+- Tremor - Paul Denton
+- Saving Light - [Gareth Emery](#), [STANDERWICK](#), [HALIENE](#)
+- Children - [Tinlicker](#), [Robert Miles](#)
+- Fly Away _([Cosmic Gate](#) Remix)_ - Vincent de Moor
+- Castles in the Sky - i_o
+- The Air I Breathe - [Richard Durand](#), [Christina Novelli](#)
+- Rest of Our Lives - Ben Gold
+
+### 2024-02-29: A State of Trance #1162
+
+> 🟥 2/10 | 2h
+
+- Forever - [Bogdan Vix](#) & [Renee Stahl](#)
+
+### 2024-03-07: A State of Trance #1163
+
+> 🟥 2/10 | 2h
+
+- I Wish - [Andrew Rayel](#), [Robbie Seed](#) & [Jimmy Chou](#) feat. [That Girl](#)
+
+### 2024-03-14: A State of Trance #1164
+
+> 🟥 1/10 | 2h
+
+### 2024-03-21: A State of Trance #1165
+
+> 🟥 2/10 | 2h
+
+- Just As You Are - [Armin van Buuren](#) & [Rising Star](#) feat. [Fiora](#)
+
+### 2024-03-28: A State of Trance #1166
+
+> 🟥 1/10 | 2h
+
+### 2024-04-04: A State of Trance #1167
+
+> 🟥 1/10 | 2h
+
+### 2024-04-11: A State of Trance #1168
+
+> 🟥 1/10 | 2h
+
+### 2024-04-18: A State of Trance #1169
+
+> 🟥 2/10 | 2h
+
+- Temple Voices - Steve Dekay
+
+### 2024-04-25: A State of Trance #1170
+
+> 🟦 9/10 | 2h
+
+- All Over Again - [Bryan Kearney](#) & [Plumb](#)
+- <10> Amsterdam _([Smith & Pledger](#) Remix)_ - Luminary
+- Bloodstream - [Ferry Corsten](#) & [Ruben de Ronde](#)
+- Rest of Our Lives - Ben Gold
+- Ramelia (Tribute to Amelia) - [RAM](#) & [Susana](#)
+- Burned With Desire _([Rising Star](#) Vocal Mix)_ - [Armin van Buuren](#) feat. [Justine Suissa](#)
+- Satellite _([Above & Beyond](#) Remix)_ - OceanLab
+- Silence _([Tiësto](#)'s in Search of Sunrise Remix)_ - [Delerium](#) feat. [Sarah McLachlan](#)
+
+### 2024-05-02: A State of Trance #1171
+
+> 🟧 3/10 | 2h
+
+- Piece of Art _([Darren Porter](#) Remix)_ - Kryder
+- Out of the Sky _([Chris Schweizer](#) Remix)_ - [Lange](#) & [Sarah Howells](#)
+
+### 2024-05-09: A State of Trance #1172, "[Silva City]"
+
+> 🟥 2/10 | 2h | 27 tracks
+> | [1001tracklists](https://1001.tl/11zy9vl1)
+
+- ID - Silva City
+
+### 2024-05-16: A State of Trance #1173, "[Matt Fax]"
+
+> 🟧 3/10 | 2h | 29 tracks
+> | [1001tracklists](https://1001.tl/2vrr84lk)
+
+- By Now _(VIP Mix)_ - [Armin van Buuren](#) & [D.O.D](#) feat. [Laura Welsh](#)
+- Kalopsia _([Matt Fax](#) Remix)_ - The Blizzard
+
+### 2024-05-23: A State of Trance #1174, "[Giorgia Angiuli]"
+
+> 🟥 1/10 | 2h | 29 tracks
+> | [1001tracklists](https://1001.tl/1u6w7tj1)
+
+### 2024-05-30: A State of Trance #1175, "[Laura van Dam]"
+
+> 🟥 2/10 | 2h | 32 tracks
+> | [1001tracklists](https://1001.tl/quft7sk)
+
+- Into the Night - [Audorn](#) & [Sarah de Warren](#)
+
+### 2024-06-06: A State of Trance #1176, "[Ferry Corsten]"
+
+> 🟥 1/10 | 2h | 31 tracks
+> | [1001tracklists](https://1001.tl/9t7pbd1)
+
+### 2024-06-13: A State of Trance #1177, "[MRPHLNDR]"
+
+> 🟥 2/10 | 2h | 29 tracks
+> | [1001tracklists](https://1001.tl/1hz5ju2t)
+
+- Castles in the Sky - [P.O.U](#) & [Scott Forshaw](#)
+
+### 2024-06-20: A State of Trance #1178, "[UUFO]"
+
+> 🟥 2/10 | 2h | 32 tracks
+> | [1001tracklists](https://1001.tl/2vrxc0x1)
+
+- Out There _([Uufo](#) Remix)_ - [Masters & Nickson](#) feat. [Justine Suissa](#)
+
+### 2024-06-27: A State of Trance #1179, "[Maarten de Jong]"
+
+> 🟧 4/10 | 2h
+> | [1001tracklists](https://1001.tl/1pl1wuuk)
+
+- Take My Breath - 0Gravity
+- I Don't Deserve You _([John O'Callaghan](#) Remix)_ - [Paul van Dyk](#) feat. [Plumb](#)
+- Galaxy - Maarten de Jong
+
+### 2024-07-04: A State of Trance #1180, "[Ferry Corsten]"
+
+> 🟩 7/10 | 2h
+> | [1001tracklists](https://1001.tl/z6v2dh9)
+
+- Feel Alive - [Eugenio Tokarev](#) & [Bruno Oloviani](#)
+- Like You - [Richard Durand](#) & [Sarah de Warren](#)
+- Miss You - [Craig Connelly](#) & [Nicholas Gunn](#) feat. [Alina Renae](#)
+- Shai-Hulud - Davey Asprey
+- Lie Smile Fly - [Db Mokk](#) & [DNY'L](#)
+- Sun & Moon _(Club Mix)_ - [Above & Beyond](#) feat. [Richard Bedford](#)
+
+### 2024-07-11: A State of Trance #1181, "[York]"
+
+> 🟧 4/10 | 2h
+> | [1001tracklists](https://1001.tl/hd7s0z1)
+
+- 1984 - ReOrder
+- Interstellar _([York](#)'s Back in the Past Mix)_ - Torsten Stenzel
+- On the Beach 2013 _([York](#)'s Uplifting Rework)_ - York
+
+### 2024-07-18: A State of Trance #1182, "[Morgin Madison]"
+
+> 🟥 1/10 | 2h
+> | [1001tracklists](https://1001.tl/y93ntq1)
+
+### 2024-07-18: A State of Trance #1183, "[Juliet Fox]"
+
+> 🟥 2/10 | 2h
+> | [1001tracklists](https://1001.tl/y93ntq1)
+
+- Survive It - [Ben Nicky](#) & [Creeds](#)
+
+### 2024-07-25: A State of Trance #1183
+
+> 🟥 2/10 | 2h
+> | [1001tracklists](https://1001.tl/15rlcbj9)
+
+- Survive It - [Ben Nicky](#) & [Creeds](#)
+
+### 2024-07-25: A State of Trance #1184, "[Ferry Corsten]"
+
+> 🟧 4/10 | 2h
+> | [1001tracklists](https://1001.tl/15rlcbj9)
+
+- The Journey - Silva City
+- Bioluminescent - [Asteroid](#) & [Transaphonic](#)
+- Watching Over Me _([Disco Citizens](#) Mix)_ - Chicane
+
+### 2024-08-01: A State of Trance #1184
+
+> 🟧 4/10 | 2h
+> | [1001tracklists](https://1001.tl/fjry5y9)
+
+- The Journey - Silva City
+- Bioluminescent - [Asteroid](#) & [Transaphonic](#)
+- Watching Over Me _([Disco Citizens](#) Mix)_ - Chicane
+
+### 2024-08-08: A State of Trance #1185
+
+> 🟧 4/10 | 2h
+> | [1001tracklists](https://1001.tl/1lsw2m9t)
+
+- High on the Low - Will Atkinson
+- Just Breathe - [Alan Fullmer](#) feat. [Alina Renae](#)
+- All on You - David Forbes
