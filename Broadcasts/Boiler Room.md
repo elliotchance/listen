@@ -1,24 +1,24 @@
 # Boiler Room
 
-### 2015-01-12: Boiler Room, "[Acid Pauli]"
+### 2015-01-12: Boiler Room, "Acid Pauli"
 
-> 🟩 7/10 | 1h | 33 tracks
+> 🟩 7/10 | 1h | 33 tracks | [Acid Pauli](#)
 
-### 2015-01-14: Boiler Room, "[Adriatique]"
+### 2015-01-14: Boiler Room, "Adriatique"
 
-> 🟩 7/10 | 1h | 11 tracks
+> 🟩 7/10 | 1h | 11 tracks | [Adriatique](#)
 
-### 2015-01-29: Boiler Room, "[ENA]": Tokyo, Japan
+### 2015-01-29: Boiler Room, "ENA": Tokyo, Japan
 
-> 🟧 4/10 | 1h | 23 tracks
+> 🟧 4/10 | 1h | 23 tracks | [ENA](#)
 
-### 2015-03-30: Boiler Room, "[Gene Farris]": Chicago, IL, USA
+### 2015-03-30: Boiler Room, "Gene Farris": Chicago, IL, USA
 
-> 🟨 6/10 | 1h | 14 tracks
+> 🟨 6/10 | 1h | 14 tracks | [Gene Farris](#)
 
-### 2015-05-30: Boiler Room, "[Bicep]": AVA, Belfast, Ireland, UK
+### 2015-05-30: Boiler Room, "Bicep": AVA, Belfast, Ireland, UK
 
-> 🟨 6/10 | 1h | 14 tracks
+> 🟨 6/10 | 1h | 14 tracks | [Bicep](#)
 
 ### 2015-08-12: Boiler Room, "[Stephan Bodzin]": Berlin, Germany
 
