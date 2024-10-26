@@ -5,7 +5,7 @@
 **19 mixes, 19h**
 
 - [All](#all) (18 mixes, 18h)
-- [Streaming in Isolation](#streaming-in-isolation) (1 mixes, 1h)
+- [Streaming in Isolation](#streaming-in-isolation) (1 mix, 1h)
 <!-- toc:end -->
 
 ## All

@@ -4,7 +4,7 @@
 
 **19 mixes, 19h**
 
-- [31.12.2020](#31.12.2020) (1 mixes, 1h)
+- [31.12.2020](#31.12.2020) (1 mix, 1h)
 - [Around the World 2020](#around-the-world-2020) (4 mixes, 4h)
 - [Around the World 2021](#around-the-world-2021) (5 mixes, 5h)
 - [Tomorrowland 2022](#tomorrowland-2022) (4 mixes, 4h)

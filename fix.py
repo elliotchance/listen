@@ -5,6 +5,16 @@ from typing import List, Set, Dict
 
 dir = "Broadcasts"
 
+
+def plural(word, n):
+  if word == 'mix':
+    if n == 1:
+        return '1 mix'
+    return '%d mixes' % n
+  if n == 1:
+      return '1 %s' % word
+  return '%d %ss' % (n, word)
+
 class Artist:
     name: str
     rym: str
@@ -130,7 +140,7 @@ for name in sorted(os.listdir(dir)):
     final_mixes += len(mixes[h2]['mixes'])
     primary_toc[name]['mix_count'] += len(mixes[h2]['mixes'])
 
-  toc = '**%d mixes, %s**' % (total_mixes, format_duration(total_duration)) + '\n\n'
+  toc = '**%s, %s**' % (plural('mix', total_mixes), format_duration(total_duration)) + '\n\n'
 
   def tohref(s):
      return s.lower().replace(' ', '-')
@@ -146,7 +156,7 @@ for name in sorted(os.listdir(dir)):
     duration = 0
     for mix in mixes[h2]['mixes']:
       duration += mixes[h2]['mixes'][mix]['duration']
-    toc += '- [%s](#%s) (%d mixes, %s)' % (h2, tohref(h2), len(mixes[h2]['mixes']), format_duration(duration)) + '\n'
+    toc += '- [%s](#%s) (%s, %s)' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration)) + '\n'
 
   with open(path) as fd:
     content = fd.read()
@@ -159,14 +169,14 @@ for name in sorted(os.listdir(dir)):
 with open('All.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
   for path in sorted(primary_toc):
-    f.write('- [%s](%s/%s) (%d mixes, %s)\n' % (path[:-3], dir, to_url(path), primary_toc[path]['mix_count'], format_duration(primary_toc[path]['duration'])))
-  f.write('\n')
+    f.write('- [%s](%s/%s) (%s, %s)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration'])))
+  f.write('\n---\n\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
-    f.write('1. %s `%s`\n' % (mix['emoji'], title))
+    f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
 
 with open('README.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
   f.write('[All Mixes](All.md)\n\n')
   for path in sorted(primary_toc):
-    f.write('- [%s](%s/%s) (%d mixes, %s)\n' % (path[:-3], dir, to_url(path), primary_toc[path]['mix_count'], format_duration(primary_toc[path]['duration'])))
+    f.write('- [%s](%s/%s) (%s, %s)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration'])))
