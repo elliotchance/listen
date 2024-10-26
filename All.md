@@ -959,7 +959,7 @@
 1. 🟩 `2024-05-23: Tritonia #476` (1h)
 1. 🟥 `2024-05-30: A State of Trance #1175, "Laura van Dam"` (2h)
 1. 🟥 `2024-06-06: A State of Trance #1176, "Ferry Corsten"` (2h)
-1. 🟥 `2024-06-13: A State of Trance #1177, MRPHLNDR"` (2h)
+1. 🟥 `2024-06-13: A State of Trance #1177, "MRPHLNDR"` (2h)
 1. 🟥 `2024-06-20: A State of Trance #1178, "UUFO"` (2h)
 1. 🟧 `2024-06-27: A State of Trance #1179, "Maarten de Jong"` (2h)
 1. 🟩 `2024-07-04: A State of Trance #1180, "Ferry Corsten"` (2h)
