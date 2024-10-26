@@ -3,6 +3,8 @@ import re
 import os
 from typing import List, Set, Dict
 
+dir = "Broadcasts"
+
 class Artist:
     name: str
     rym: str
@@ -43,11 +45,13 @@ artist_repo = ArtistRepo()
 all_mixes = {}
 final_duration = 0
 final_mixes = 0
-for name in sorted(os.listdir("Broadcasts")):
+primary_toc = {}
+for name in sorted(os.listdir(dir)):
   if not name.endswith('.md'):
      continue
 
-  path = "Broadcasts/%s" % (name)
+  path = "%s/%s" % (dir, name)
+  primary_toc[name] = {'mix_count': 0, 'duration': 0}
 
   header = ''
   mixes = {}
@@ -121,8 +125,10 @@ for name in sorted(os.listdir("Broadcasts")):
     for mix in mixes[h2]['mixes']:
       total_duration += mixes[h2]['mixes'][mix]['duration']
       final_duration += mixes[h2]['mixes'][mix]['duration']
+      primary_toc[name]['duration'] += len(mixes[h2]['mixes'])
     total_mixes += len(mixes[h2]['mixes'])
     final_mixes += len(mixes[h2]['mixes'])
+    primary_toc[name]['mix_count'] += len(mixes[h2]['mixes'])
 
   toc = '**%d mixes, %s**' % (total_mixes, format_duration(total_duration)) + '\n\n'
 
@@ -149,6 +155,9 @@ for name in sorted(os.listdir("Broadcasts")):
 
 with open('All.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
+  for path in sorted(primary_toc):
+    f.write('- [%s](%s/%s) (%d mixes, %s)\n' % (path[:-3], dir, path, primary_toc[path]['mix_count'], format_duration(primary_toc[path]['duration'])))
+  f.write('\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
-    f.write('1. %s %s\n' % (mix['emoji'], title))
+    f.write('1. %s `%s`\n' % (mix['emoji'], title))
