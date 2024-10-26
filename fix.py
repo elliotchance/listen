@@ -40,12 +40,14 @@ def format_duration(d):
 
 artist_repo = ArtistRepo()
 
+all_mixes = {}
+final_duration = 0
+final_mixes = 0
 for name in sorted(os.listdir("Broadcasts")):
   if not name.endswith('.md'):
      continue
 
   path = "Broadcasts/%s" % (name)
-  print(path)
 
   header = ''
   mixes = {}
@@ -64,6 +66,10 @@ for name in sorted(os.listdir("Broadcasts")):
       elif line.startswith('> ') and h2 != '':
         mixes[h2]['mixes'][h3]['quote'] += line
         mixes[h2]['mixes'][h3]['content'] += line
+        s = re.search(r"(.) (\d+)/10", line)
+        if s is not None:
+          mixes[h2]['mixes'][h3]['emoji'] = s.group(1)
+          mixes[h2]['mixes'][h3]['rating'] = int(s.group(2))
         if 'duration' not in mixes[h2]['mixes'][h3]:
           mixes[h2]['mixes'][h3]['duration'] = 0
           duration = re.search(r"(\d+)h(\d+)m", line)
@@ -114,12 +120,18 @@ for name in sorted(os.listdir("Broadcasts")):
   for h2 in sorted(mixes):
     for mix in mixes[h2]['mixes']:
       total_duration += mixes[h2]['mixes'][mix]['duration']
+      final_duration += mixes[h2]['mixes'][mix]['duration']
     total_mixes += len(mixes[h2]['mixes'])
+    final_mixes += len(mixes[h2]['mixes'])
 
   toc = '**%d mixes, %s**' % (total_mixes, format_duration(total_duration)) + '\n\n'
 
   def tohref(s):
      return s.lower().replace(' ', '-')
+  
+  for h2 in sorted(mixes):
+     for mix in mixes[h2]['mixes']:
+        all_mixes[mix] = mixes[h2]['mixes'][mix]
 
   for h2 in sorted(mixes):
     duration = 0
@@ -134,3 +146,9 @@ for name in sorted(os.listdir("Broadcasts")):
                    "<!-- toc:start -->\n" + toc + "<!-- toc:end -->", content, 0, re.DOTALL)
   with open(path, "w") as f:
     f.write(content)
+
+with open('All.md', "w") as f:
+  f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
+  for title in sorted(all_mixes):
+    mix = all_mixes[title]
+    f.write('1. %s %s\n' % (mix['emoji'], title))
