@@ -1,5 +1,11 @@
 # Ophelia's Odyssey
 
+<!-- toc:start -->
+**38 mixes, 38h**
+
+- [All](#all) (38 mixes, 38h)
+<!-- toc:end -->
+
 ## All
 
 ### 2020-04-08: Ophelia's Odyssey #1, "[MitiS]"

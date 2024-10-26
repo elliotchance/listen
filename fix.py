@@ -29,9 +29,18 @@ class ArtistRepo:
 
         return None
 
+def format_duration(d):
+  h = int(d / 60)
+  m = d - (h * 60)
+  if h == 0:
+      return '%dm' % m
+  if m == 0:
+      return '%dh' % h
+  return '%dh%02dm' % (h, m)
+
 artist_repo = ArtistRepo()
 
-for name in os.listdir("Broadcasts"):
+for name in sorted(os.listdir("Broadcasts")):
   if not name.endswith('.md'):
      continue
 
@@ -55,6 +64,19 @@ for name in os.listdir("Broadcasts"):
       elif line.startswith('> ') and h2 != '':
         mixes[h2]['mixes'][h3]['quote'] += line
         mixes[h2]['mixes'][h3]['content'] += line
+        if 'duration' not in mixes[h2]['mixes'][h3]:
+          mixes[h2]['mixes'][h3]['duration'] = 0
+          duration = re.search(r"(\d+)h(\d+)m", line)
+          if duration is not None:
+            mixes[h2]['mixes'][h3]['duration'] = int(duration.group(1)) * 60 + int(duration.group(2))
+          else:
+            duration = re.search(r"(\d+)h", line)
+            if duration is not None:
+              mixes[h2]['mixes'][h3]['duration'] = int(duration.group(1)) * 60
+            else:
+              duration = re.search(r"(\d+)m", line)
+              if duration is not None:
+                mixes[h2]['mixes'][h3]['duration'] = int(duration.group(1))
       elif line.startswith('- ') and h2 != '':
         mixes[h2]['mixes'][h3]['liked'].append(line.strip())
         mixes[h2]['mixes'][h3]['content'] += line
@@ -85,3 +107,30 @@ for name in os.listdir("Broadcasts"):
         content = mixes[h2]['mixes'][h3]['content']
         content = re.sub(r"^- (.*)$", track_line, content, 0, re.MULTILINE)
         f.write('### ' + h3 + '\n' + content)
+
+  toc = ''
+  total_duration = 0
+  total_mixes = 0
+  for h2 in sorted(mixes):
+    for mix in mixes[h2]['mixes']:
+      total_duration += mixes[h2]['mixes'][mix]['duration']
+    total_mixes += len(mixes[h2]['mixes'])
+
+  toc = '**%d mixes, %s**' % (total_mixes, format_duration(total_duration)) + '\n\n'
+
+  def tohref(s):
+     return s.lower().replace(' ', '-')
+
+  for h2 in sorted(mixes):
+    duration = 0
+    for mix in mixes[h2]['mixes']:
+      duration += mixes[h2]['mixes'][mix]['duration']
+    toc += '- [%s](#%s) (%d mixes, %s)' % (h2, tohref(h2), len(mixes[h2]['mixes']), format_duration(duration)) + '\n'
+
+  with open(path) as fd:
+    content = fd.read()
+  
+  content = re.sub(r"<!-- toc:start -->(.*?)<!-- toc:end -->",
+                   "<!-- toc:start -->\n" + toc + "<!-- toc:end -->", content, 0, re.DOTALL)
+  with open(path, "w") as f:
+    f.write(content)

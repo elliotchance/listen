@@ -1,5 +1,11 @@
 # Electric Daisy Carnival
 
+<!-- toc:start -->
+**19 mixes, 19h**
+
+- [2021](#2021) (19 mixes, 19h)
+<!-- toc:end -->
+
 ## 2021
 
 ### 2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: [12th Planet] Throwback Set"

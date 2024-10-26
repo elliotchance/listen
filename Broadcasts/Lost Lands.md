@@ -1,5 +1,12 @@
 # Lost Lands
 
+<!-- toc:start -->
+**43 mixes, 43h**
+
+- [2022](#2022) (16 mixes, 16h)
+- [2023](#2023) (27 mixes, 27h)
+<!-- toc:end -->
+
 ## 2022
 
 ### 2022-09-23: Lost Lands, "Prehistoric Evolution: [Ace Aura]"

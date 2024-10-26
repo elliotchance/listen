@@ -1,5 +1,11 @@
 # Boiler Room
 
+<!-- toc:start -->
+**19 mixes, 19h**
+
+- [All](#all) (19 mixes, 19h)
+<!-- toc:end -->
+
 ## All
 
 ### 2015-01-12: Boiler Room, "Acid Pauli"

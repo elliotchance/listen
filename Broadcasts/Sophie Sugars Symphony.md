@@ -1,5 +1,11 @@
 # Sophie Sugar's Symphony
 
+<!-- toc:start -->
+**13 mixes, 13h**
+
+- [All](#all) (13 mixes, 13h)
+<!-- toc:end -->
+
 ## All
 
 ### 2010-05-07: Sophie Sugar's Symphony #10

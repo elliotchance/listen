@@ -1,5 +1,11 @@
 # Phoenix Radio
 
+<!-- toc:start -->
+**20 mixes, 20h**
+
+- [2018](#2018) (20 mixes, 20h)
+<!-- toc:end -->
+
 ## 2018
 
 ### 2018-03-26: Phoenix Radio #1
