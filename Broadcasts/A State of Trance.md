@@ -1,10 +1,13 @@
 # A State of Trance
 
+<!-- toc:start -->
+<!-- toc:end -->
+
 ## 2001
 
 ### 2001-05-18: A State of Trance #0
 
-> 🔴 1/10 | 1h46m | 18 tracks
+> 🟥 1/10 | 1h46m | 18 tracks
 > | [MusicBrainz](https://musicbrainz.org/recording/3aa15651-819c-48b6-9c3b-f55e6be77e40)
 > | [1001tracklists](https://1001.tl/2xbh9b9)
 
@@ -40,8 +43,8 @@
 > 🟧 3/10 | 1h48m | 23 tracks
 > | [1001tracklists](https://1001.tl/1r4r82k)
 
-- Into The Night - 4 Strings
-- The Legacy - Push
+- Into The Night - [4 Strings](#)
+- The Legacy - [Push](#)
 
 ### 2001-07-27: A State of Trance #7
 
@@ -68,7 +71,7 @@
 > 🟥 2/10 | 2h06m | 18 tracks
 > | [1001tracklists](https://1001.tl/1mfn8hbk)
 
-- Ibeatza - Poison Club
+- Ibeatza - [Poison Club](#)
 
 ### 2001-09-07: A State of Trance #12
 
@@ -102,22 +105,22 @@
 > 🟥 2/10 | 2h03m | 20 tracks
 > | [1001tracklists](https://1001.tl/11rducqt)
 
-- Rapture _([Armin van Buuren](#) Remix)_ - iiO
+- Rapture _([Armin van Buuren](#) Remix)_ - [iiO](#)
 
 ### 2001-10-18: A State of Trance #18
 
 > 🟥 2/10 | 2h03m | 22 tracks
 > | [1001tracklists](https://1001.tl/f7ssvc9)
 
-- Rapture _([Armin van Buuren](#) Remix)_ - iiO
+- Rapture _([Armin van Buuren](#) Remix)_ - [iiO](#)
 
 ### 2001-10-25: A State of Trance #19
 
 > 🟧 3/10 | 1h59m | 21 tracks
 > | [1001tracklists](https://1001.tl/2dlbn79t)
 
-- Clear Blue Water _([Ferry Corsten](#) Remix)_ - OceanLab
-- Resurection _(Space Club Mix)_ - ППК
+- Clear Blue Water _([Ferry Corsten](#) Remix)_ - [OceanLab](#)
+- Resurection _(Space Club Mix)_ - [ППК](#)
 
 ### 2001-11-01: A State of Trance #20
 
@@ -129,8 +132,8 @@
 > 🟧 3/10 | 2h02m | 18 tracks
 > | [1001tracklists](https://1001.tl/1lhvs759)
 
-- Clear Blue Water _([Ferry Corsten](#) Remix)_ - OceanLab
-- Resurection - ППК
+- Clear Blue Water _([Ferry Corsten](#) Remix)_ - [OceanLab](#)
+- Resurection - [ППК](#)
 
 ### 2001-11-15: A State of Trance #22
 
@@ -142,8 +145,8 @@
 > 🟧 3/10 | 1h53m | 20 tracks
 > | [1001tracklists](https://1001.tl/2nykqqm1)
 
-- Clear Blue Water _([Ferry Corsten](#) Remix)_ - OceanLab
-- Resurection _(Space Club Mix)_ - ППК
+- Clear Blue Water _([Ferry Corsten](#) Remix)_ - [OceanLab](#)
+- Resurection _(Space Club Mix)_ - [ППК](#)
 
 ### 2001-11-29: A State of Trance #24
 
@@ -167,7 +170,7 @@
 > 🟥 2/10 | 2h | 20 tracks
 > | [1001tracklists](https://1001.tl/1ymb07s9)
 
-- Moments Are Forever - Moon Project
+- Moments Are Forever - [Moon Project](#)
 
 ### 2001-12-27: A State of Trance #28, "Top 20 of 2001"
 
@@ -177,6 +180,8 @@
 - Clear Blue Water _([Ferry Corsten](#) Remix)_ - OceanLab
 - Rapture _([Armin van Buuren](#) Remix)_ - iiO
 - The Sound of Goodbye _(Armin's Tribal Feel)_ - Perpetuous Dreamer
+
+## 2002
 
 ### 2002-01-03: A State of Trance #29
 
@@ -457,6 +462,8 @@
 
 > 🟥 1/10 | 1h59m
 
+## 2003
+
 ### 2003-06-05: A State of Trance #100
 
 > 🟥 2/10 | 3h45m | 46 tracks
@@ -558,6 +565,8 @@
 
 > 🟥 1/10 | 1h52m | 17 tracks
 
+## 2004
+
 ### 2004-01-08: A State of Trance #130
 
 > 🟧 3/10 | 3h52m | 32 tracks
@@ -596,6 +605,8 @@
 > 🟥 2/10 | 1h50m | 19 tracks
 
 - Burned With Desire _([Brian Cross](#) Remix)_ - [Armin van Buuren](#) feat. [Justine Suissa](#)
+
+## 2005
 
 ### 2005-01-06: A State of Trance #182, "Yearmix"
 
@@ -754,6 +765,8 @@
 
 > 🟥 1/10 | 2h03m
 
+## 2006
+
 ### 2006-03-30: A State of Trance #242
 
 > 🟨 5/10 | 2h | 21 tracks
@@ -781,6 +794,8 @@
 ### 2006-12-28: A State of Trance #281, "Yearmix"
 
 > 🟥 1/10 | 2h01m
+
+## 2007
 
 ### 2007-01-04: A State of Trance #282
 
@@ -974,6 +989,8 @@
 
 > 🟥 1/10 | 2h02m
 
+## 2008
+
 ### 2008-12-18: A State of Trance #383
 
 > 🟪 10/10 | 1h59m | 24 tracks
@@ -995,6 +1012,8 @@
 ### 2008-12-25: A State of Trance #384, "Yearmix"
 
 > 🟥 1/10 | 2h02m
+
+## 2009
 
 ### 2009-01-15: A State of Trance #387
 
@@ -1214,6 +1233,8 @@
 
 > 🟥 1/10 | 2h
 
+## 2010
+
 ### 2010-07-22: A State of Trance #466
 
 > 🟥 2/10 | 2h02m | 22 tracks
@@ -1274,6 +1295,8 @@
 ### 2010-12-30: A State of Trance #489, "Yearmix"
 
 > 🟥 1/10 | 2h02m
+
+## 2011
 
 ### 2011-03-10: A State of Trance #499
 
@@ -1524,6 +1547,8 @@
 
 > 🟥 1/10 | 2h
 
+## 2012
+
 ### 2012-03-07: A State of Trance #550, "[ATB]": Expocenter, Moscow, Russia
 
 > 🟧 4/10 | 1h17m | 13 tracks
@@ -1644,6 +1669,8 @@
 ### 2012-12-27: A State of Trance #593, "Yearmix"
 
 > 🟥 1/10 | 2h02m
+
+## 2013
 
 ### 2013-02-14: A State of Trance #600, "Official Pre-Party": Madrid, Spain
 
@@ -2121,6 +2148,8 @@
 - Apprehension _([Aly & Fila](#) Mix)_ - [Simon O'Shine](#) & [Sergey Nevone](#)
 - As The Rush Comes - Motorcycle
 
+## 2014
+
 ### 2014-01-02: A State of Trance #646
 
 > 🟨 6/10 | 2h02m | 32 tracks
@@ -2158,6 +2187,8 @@
 ### 2014-12-19: A State of Trance #695, "Yearmix"
 
 > 🟥 1/10 | 2h03m
+
+## 2015
 
 ### 2015-02-19: A State of Trance #701
 
@@ -2362,6 +2393,8 @@
 
 > 🟥 1/10 | 2h02m
 
+## 2016
+
 ### 2016-01-07: A State of Trance #747
 
 > 🟨 6/10 | 2h
@@ -2423,6 +2456,8 @@
 
 > 🟥 1/10 | 2h02m
 
+## 2017
+
 ### 2017-01-05: A State of Trance #797
 
 > 🟧 4/10 | 2h03m
@@ -2448,6 +2483,8 @@
 ### 2017-12-28: A State of Trance #846, "Yearmix"
 
 > 🟥 1/10 | 1h59m
+
+## 2018
 
 ### 2018-01-04: A State of Trance #847
 
@@ -2522,6 +2559,8 @@
 ### 2018-12-27: A State of Trance #896, "Yearmix"
 
 > 🟥 1/10 | 2h
+
+## 2019
 
 ### 2019-01-03: A State of Trance #897
 
@@ -2603,6 +2642,8 @@
 
 > 🟥 1/10 | 2h02m
 
+## 2020
+
 ### 2020-01-02: A State of Trance #947
 
 > 🟥 2/10 | 2h01m
@@ -2655,6 +2696,8 @@
 ### 2020-12-31: A State of Trance #997, "Yearmix"
 
 > 🟥 1/10 | 2h02m
+
+## 2021
 
 ### 2021-01-07: A State of Trance #998
 
@@ -3000,6 +3043,8 @@
 ### 2021-12-30: A State of Trance #1049, "Yearmix"
 
 > 🟥 1/10 | 2h
+
+## 2022
 
 ### 2022-01-06: A State of Trance #1050
 
@@ -3374,6 +3419,8 @@
 
 > 🟥 1/10 | 2h
 
+## 2023
+
 ### 2023-01-05: A State of Trance #1102
 
 > 🟧 3/10 | 2h | 27 tracks
@@ -3729,6 +3776,8 @@
 ### 2023-12-28: A State of Trance #1153, "Yearmix"
 
 > 🟥 1/10 | 2h
+
+## 2024
 
 ### 2024-01-04: A State of Trance #1154
 
