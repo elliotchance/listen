@@ -114,6 +114,8 @@ for name in sorted(os.listdir(dir)):
       f.write('## ' + h2 + '\n' + mixes[h2]['content'])
       for h3 in sorted(mixes[h2]['mixes']):
         def lookup_artist(m):
+          if m.group(1) == '1001tracklists' or m.group(1) == 'MusicBrainz':
+            return '[%s](%s)' % (m.group(1), m.group(2))
           artist = artist_repo.get_artist(m.group(1))
           if artist is None:
             print('missing artist: ' + m.group(1))
@@ -122,10 +124,8 @@ for name in sorted(os.listdir(dir)):
             return '[%s](#)' % m.group(1)
           else:
             return '[%s](%s)' % (m.group(1), artist.rym)
-        def track_line(m):
-          return '- ' + re.sub(r"\[(.*?)\]\((.*?)\)", lookup_artist,  m.group(1), re.MULTILINE)
         content = mixes[h2]['mixes'][h3]['content']
-        content = re.sub(r"^- (.*)$", track_line, content, 0, re.MULTILINE)
+        content = re.sub(r"\[(.*?)\]\((.*?)\)", lookup_artist, content, 0, re.MULTILINE)
         f.write('### ' + h3 + '\n' + content)
 
   toc = ''

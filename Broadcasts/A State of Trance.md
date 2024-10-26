@@ -3955,64 +3955,73 @@
 - Piece of Art _([Darren Porter](https://rateyourmusic.com/artist/darren_porter) Remix)_ - Kryder
 - Out of the Sky _([Chris Schweizer](https://rateyourmusic.com/artist/chris-schweizer) Remix)_ - [Lange](https://rateyourmusic.com/artist/lange) & [Sarah Howells](https://rateyourmusic.com/artist/sarah_howells)
 
-### 2024-05-09: A State of Trance #1172, "[Silva City]"
+### 2024-05-09: A State of Trance #1172, "Silva City"
 
 > 🟥 2/10 | ~2h | 27 tracks
+> | [Silva City](https://rateyourmusic.com/artist/silva-city)
 > | [1001tracklists](https://1001.tl/11zy9vl1)
 
 - ID - Silva City
 
-### 2024-05-16: A State of Trance #1173, "[Matt Fax]"
+### 2024-05-16: A State of Trance #1173, "Matt Fax"
 
 > 🟧 3/10 | ~2h | 29 tracks
+> | [Matt Fax](https://rateyourmusic.com/artist/matt_fax)
 > | [1001tracklists](https://1001.tl/2vrr84lk)
 
 - By Now _(VIP Mix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [D.O.D](https://rateyourmusic.com/artist/d_o_d-1) feat. [Laura Welsh](https://rateyourmusic.com/artist/laura_welsh)
 - Kalopsia _([Matt Fax](https://rateyourmusic.com/artist/matt_fax) Remix)_ - The Blizzard
 
-### 2024-05-23: A State of Trance #1174, "[Giorgia Angiuli]"
+### 2024-05-23: A State of Trance #1174, "Giorgia Angiuli"
 
 > 🟥 1/10 | ~2h | 29 tracks
+> | [Giorgia Angiuli](https://rateyourmusic.com/artist/giorgia-angiuli)
 > | [1001tracklists](https://1001.tl/1u6w7tj1)
 
-### 2024-05-30: A State of Trance #1175, "[Laura van Dam]"
+### 2024-05-30: A State of Trance #1175, "Laura van Dam"
 
 > 🟥 2/10 | ~2h | 32 tracks
+> | [Laura van Dam](https://rateyourmusic.com/artist/laura-van-dam)
 > | [1001tracklists](https://1001.tl/quft7sk)
 
 - Into the Night - [Audorn](#) & [Sarah de Warren](https://rateyourmusic.com/artist/sarah-de-warren)
 
-### 2024-06-06: A State of Trance #1176, "[Ferry Corsten]"
+### 2024-06-06: A State of Trance #1176, "Ferry Corsten"
 
 > 🟥 1/10 | ~2h | 31 tracks
+> | [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
 > | [1001tracklists](https://1001.tl/9t7pbd1)
 
-### 2024-06-13: A State of Trance #1177, "[MRPHLNDR]"
+### 2024-06-13: A State of Trance #1177, MRPHLNDR"
 
 > 🟥 2/10 | ~2h | 29 tracks
+> | [MRPHLNDR](#)
 > | [1001tracklists](https://1001.tl/1hz5ju2t)
 
 - Castles in the Sky - [P.O.U](#) & [Scott Forshaw](#)
 
-### 2024-06-20: A State of Trance #1178, "[UUFO]"
+### 2024-06-20: A State of Trance #1178, "UUFO"
 
 > 🟥 2/10 | ~2h | 32 tracks
+> | [UUFO](https://rateyourmusic.com/artist/uufo)
 > | [1001tracklists](https://1001.tl/2vrxc0x1)
 
 - Out There _([Uufo](#) Remix)_ - [Masters & Nickson](#) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
-### 2024-06-27: A State of Trance #1179, "[Maarten de Jong]"
+### 2024-06-27: A State of Trance #1179, "Maarten de Jong"
 
 > 🟧 4/10 | ~2h
+> | [Maarten de Jong](https://rateyourmusic.com/artist/maarten_de_jong)
 > | [1001tracklists](https://1001.tl/1pl1wuuk)
 
 - Take My Breath - 0Gravity
 - I Don't Deserve You _([John O'Callaghan](https://rateyourmusic.com/artist/john_ocallaghan) Remix)_ - [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk) feat. [Plumb](#)
 - Galaxy - Maarten de Jong
 
-### 2024-07-04: A State of Trance #1180, "[Ferry Corsten]"
+### 2024-07-04: A State of Trance #1180, "Ferry Corsten"
 
 > 🟩 7/10 | ~2h
+> | [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
 > | [1001tracklists](https://1001.tl/z6v2dh9)
 
 - Feel Alive - [Eugenio Tokarev](https://rateyourmusic.com/artist/eugenio-tokarev) & [Bruno Oloviani](https://rateyourmusic.com/artist/bruno-oloviani)
@@ -4022,23 +4031,26 @@
 - Lie Smile Fly - [Db Mokk](https://rateyourmusic.com/artist/db-mokk) & [DNY'L](#)
 - Sun & Moon _(Club Mix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
 
-### 2024-07-11: A State of Trance #1181, "[York]"
+### 2024-07-11: A State of Trance #1181, "York"
 
 > 🟧 4/10 | ~2h
+> | [York](https://rateyourmusic.com/artist/york)
 > | [1001tracklists](https://1001.tl/hd7s0z1)
 
 - 1984 - ReOrder
 - Interstellar _([York](https://rateyourmusic.com/artist/york)'s Back in the Past Mix)_ - Torsten Stenzel
 - On the Beach 2013 _([York](https://rateyourmusic.com/artist/york)'s Uplifting Rework)_ - York
 
-### 2024-07-18: A State of Trance #1182, "[Morgin Madison]"
+### 2024-07-18: A State of Trance #1182, "Morgin Madison"
 
 > 🟥 1/10 | ~2h
+> | [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison)
 > | [1001tracklists](https://1001.tl/y93ntq1)
 
-### 2024-07-18: A State of Trance #1183, "[Juliet Fox]"
+### 2024-07-18: A State of Trance #1183, "Juliet Fox"
 
 > 🟥 2/10 | ~2h
+> | [Juliet Fox](https://rateyourmusic.com/artist/juliet-fox)
 > | [1001tracklists](https://1001.tl/y93ntq1)
 
 - Survive It - [Ben Nicky](https://rateyourmusic.com/artist/ben-nicky) & [Creeds](https://rateyourmusic.com/artist/creeds)
@@ -4050,9 +4062,10 @@
 
 - Survive It - [Ben Nicky](https://rateyourmusic.com/artist/ben-nicky) & [Creeds](https://rateyourmusic.com/artist/creeds)
 
-### 2024-07-25: A State of Trance #1184, "[Ferry Corsten]"
+### 2024-07-25: A State of Trance #1184, "Ferry Corsten"
 
 > 🟧 4/10 | ~2h
+> | [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
 > | [1001tracklists](https://1001.tl/15rlcbj9)
 
 - The Journey - Silva City
