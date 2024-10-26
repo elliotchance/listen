@@ -18,7 +18,7 @@
 > 🟧 3/10 | 1h | 18 tracks
 > | [1001tracklists](https://1001.tl/2bskwc31)
 
-- Controller _([Walker & Royce](#) Remix)_ - Channel Tres
+- Controller _([Walker & Royce](https://rateyourmusic.com/artist/walker-and-royce) Remix)_ - Channel Tres
 
 ### 2020-12-23: Apple NYE 2021, "[Charlotte de Witte]"
 
@@ -58,9 +58,9 @@
 > | [1001tracklists](https://1001.tl/2dq770gk)
 
 - Roze (Forgive) - Fred again..
-- Kahan (Last Year) - [Fred again..](#) feat. [Kodak Black](#)
+- Kahan (Last Year) - [Fred again..](https://rateyourmusic.com/artist/fred-again) feat. [Kodak Black](https://rateyourmusic.com/artist/kodak-black)
 - Faisal (Envelops Me) - Fred again..
-- Marea (We've Lost Dancing) - [Fred again..](#) & [The Blessed Madonna](#)
+- Marea (We've Lost Dancing) - [Fred again..](https://rateyourmusic.com/artist/fred-again) & [The Blessed Madonna](https://rateyourmusic.com/artist/the-blessed-madonna)
 
 ### 2020-12-23: Apple NYE 2021, "[Honey Dijon]"
 
@@ -92,7 +92,7 @@
 > | [1001tracklists](https://1001.tl/15jg8kyt)
 
 - The Prince - Madeon
-- Feedback - [Dr. Fresch](#) feat. [Mina Knock](#)
+- Feedback - [Dr. Fresch](https://rateyourmusic.com/artist/dr-fresch) feat. [Mina Knock](https://rateyourmusic.com/artist/mina-knock)
 
 ### 2020-12-23: Apple NYE 2021, "[Peggy Gou]"
 

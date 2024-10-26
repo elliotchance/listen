@@ -1,5 +1,7 @@
 # Boiler Room
 
+## All
+
 ### 2015-01-12: Boiler Room, "Acid Pauli"
 
 > 🟩 7/10 | 1h | 33 tracks | [Acid Pauli](#)

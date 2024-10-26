@@ -53,8 +53,8 @@
 > 🟧 4/10 | 2h | 27 tracks
 
 - Existence - Paul Denton
-- Running - [Aly & Fila](#), [Skypatrol](#) & [Sue McLaren](#)
-- You & I - [Ciaran McAuley](#), [Roger Shah](#) & [Hannah Brine](#)
+- Running - [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila), [Skypatrol](https://rateyourmusic.com/artist/skypatrol) & [Sue McLaren](https://rateyourmusic.com/artist/sue-mclaren)
+- You & I - [Ciaran McAuley](https://rateyourmusic.com/artist/ciaran-mcauley), [Roger Shah](https://rateyourmusic.com/artist/roger_shah) & [Hannah Brine](#)
 
 ## Group Therapy
 
@@ -63,14 +63,14 @@
 > 🟧 4/10 | 2h | 28 tracks
 
 - Follow Me - DT8 Project
-- Sun & Moon _([ilan Bluestone](#) Remix)_ - [Above & Beyond](#) feat. [Richard Bedford](#)
-- On & On - [Above & Beyond](#) feat. [Louise Rademakers](#)
+- Sun & Moon _([ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone) Remix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
+- On & On - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Louise Rademakers](https://rateyourmusic.com/artist/louise-rademakers)
 
 ### 2021-12-17: Group Therapy #465, "[THEMBA]"
 
 > 🟧 3/10 | 2h | 25 tracks
 
-- The Other Side - [DT8 Project](#), [Tephra](#)
+- The Other Side - [DT8 Project](https://rateyourmusic.com/artist/dt8_project), [Tephra](https://rateyourmusic.com/artist/tephra)
 - Seeking Blue - Fatum
 
 ### 2022-01-07: Group Therapy #466, "[Bexxie]"
@@ -122,7 +122,7 @@
 > 🟥 2/10 | 1h01m
 > | [1001tracklists](https://1001.tl/2s0vdm89)
 
-- You're Not Alone _([James Carter](#) Remix)_ - [Punctual](#) & [Ry X](#)
+- You're Not Alone _([James Carter](https://rateyourmusic.com/artist/james-carter-1) Remix)_ - [Punctual](https://rateyourmusic.com/artist/punctual) & [Ry X](https://rateyourmusic.com/artist/ry-x)
 - Eclipse - Klur
 
 ## VONYC Sessions
@@ -134,7 +134,7 @@
 
 - Deep State - Jardin
 - Inspiration - Eclipse
-- Square One - [Madwave](#), [Drivel](#)
+- Square One - [Madwave](https://rateyourmusic.com/artist/madwave), [Drivel](#)
 
 ### 2021-03-16: VONYC Sessions #750
 

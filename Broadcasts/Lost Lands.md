@@ -72,7 +72,7 @@
 
 > 🟧 3/10 | 1h | 53 tracks
 
-- Starfall _([VLCN](#) Remix)_ - Illenium
+- Starfall _([VLCN](https://rateyourmusic.com/artist/vlcn) Remix)_ - Illenium
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [BENDA]"
 
@@ -82,7 +82,7 @@
 
 > 🟧 3/10 | 1h | 73 tracks
 
-- Gorgeous / Bring Me to Life - [Illenium](#), [Blanke](#), [Bipolar Sunshine](#) & [Evanescence](#)
+- Gorgeous / Bring Me to Life - [Illenium](https://rateyourmusic.com/artist/illenium), [Blanke](https://rateyourmusic.com/artist/blanke), [Bipolar Sunshine](https://rateyourmusic.com/artist/bipolar_sunshine) & [Evanescence](https://rateyourmusic.com/artist/evanescence)
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [Champagne Drip]"
 
@@ -106,9 +106,9 @@
 
 > 🟩 7/10 | 1h | 105 tracks
 
-- Zombie - [Illenium](#), [Excision](#) & [Wooli](#) feat. [Valerie Broussard](#)
-- RATATA _([Mike's Revenge](#) Remix)_ - [Mr. Oizo](#), [Skrillex](#) & [Missy Elliott](#)
-- Fall Apart - [Excision](#) & [Sullivan King](#)
+- Zombie - [Illenium](https://rateyourmusic.com/artist/illenium), [Excision](https://rateyourmusic.com/artist/excision-1) & [Wooli](https://rateyourmusic.com/artist/wooli) feat. [Valerie Broussard](https://rateyourmusic.com/artist/valerie-broussard)
+- RATATA _([Mike's Revenge](https://rateyourmusic.com/artist/mikes-revenge) Remix)_ - [Mr. Oizo](https://rateyourmusic.com/artist/mr-oizo), [Skrillex](https://rateyourmusic.com/artist/skrillex) & [Missy Elliott](https://rateyourmusic.com/artist/missy-elliott)
+- Fall Apart - [Excision](https://rateyourmusic.com/artist/excision-1) & [Sullivan King](https://rateyourmusic.com/artist/sullivan_king)
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [Flux Pavilion]"
 
@@ -126,14 +126,14 @@
 
 > 🟧 3/10 | 1h | 58 tracks
 
-- Down with the Sickness _([SYN](#) Remix)_ / Octopussy - [Disturbed](#) & [Ghastly](#)
+- Down with the Sickness _([SYN](https://rateyourmusic.com/artist/syn-3) Remix)_ / Octopussy - [Disturbed](https://rateyourmusic.com/artist/disturbed) & [Ghastly](https://rateyourmusic.com/artist/ghastly_f3)
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [NGHTMARE]"
 
 > 🟨 5/10 | 1h | 72 tracks
 
-- Menticide / Drugs From Amsterdam _([Ray Volpe](#) Remix)_ - [Mau P](#), [Yakz](#) & [SampliFire](#)
-- Signal - [Ray Volpe](#) & [NGHTMRE](#)
+- Menticide / Drugs From Amsterdam _([Ray Volpe](https://rateyourmusic.com/artist/ray_volpe_f1) Remix)_ - [Mau P](https://rateyourmusic.com/artist/mau-p), [Yakz](https://rateyourmusic.com/artist/yakz) & [SampliFire](https://rateyourmusic.com/artist/samplifire)
+- Signal - [Ray Volpe](https://rateyourmusic.com/artist/ray_volpe_f1) & [NGHTMRE](https://rateyourmusic.com/artist/nghtmre)
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [Peekaboo]"
 
@@ -147,7 +147,7 @@
 
 > 🟧 3/10 | 1h | 61 tracks
 
-- One More Time _([Barely Alive](#) Remix)_ / Mosh Pit - [Daft Punk](#) & [Flosstradamus](#) feat. [Casino](#)
+- One More Time _([Barely Alive](https://rateyourmusic.com/artist/barely_alive) Remix)_ / Mosh Pit - [Daft Punk](https://rateyourmusic.com/artist/daft-punk) & [Flosstradamus](https://rateyourmusic.com/artist/flosstradamus) feat. [Casino](https://rateyourmusic.com/artist/casino-2)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [ATLiens]"
 
@@ -161,51 +161,51 @@
 
 > 🟦 9/10 | 1h | 41 tracks
 
-- Remember - [Crystal Skies](#), [Au5](#) & [Seven Lions](#)
-- Paradise / Bangarang - [Au5](#), [HA!L](#), [Derpcat](#) & [Skrillex](#) feat. [Sirah](#)
-- Snowblind _(VIP)_ - [Au5](#) feat. [Tasha Baxter](#)
-- Wasteland _([Au5](#) & [Chime](#) Remix)_ - Trivecta
+- Remember - [Crystal Skies](https://rateyourmusic.com/artist/crystal-skies), [Au5](https://rateyourmusic.com/artist/au5) & [Seven Lions](https://rateyourmusic.com/artist/seven-lions)
+- Paradise / Bangarang - [Au5](https://rateyourmusic.com/artist/au5), [HA!L](#), [Derpcat](https://rateyourmusic.com/artist/derpcat) & [Skrillex](https://rateyourmusic.com/artist/skrillex) feat. [Sirah](https://rateyourmusic.com/artist/sirah)
+- Snowblind _(VIP)_ - [Au5](https://rateyourmusic.com/artist/au5) feat. [Tasha Baxter](https://rateyourmusic.com/artist/tasha-baxter)
+- Wasteland _([Au5](https://rateyourmusic.com/artist/au5) & [Chime](https://rateyourmusic.com/artist/chime-1) Remix)_ - Trivecta
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Cyclops]"
 
 > 🟧 3/10 | 1h | 71 tracks
 
-- Rail Breaker _([Cyclops](#) Remix)_ - [Riot Ten](#) feat. [Rico Act](#)
+- Rail Breaker _([Cyclops](https://rateyourmusic.com/artist/cyclops-1) Remix)_ - [Riot Ten](https://rateyourmusic.com/artist/riot_ten) feat. [Rico Act](https://rateyourmusic.com/artist/rico-act)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Excision] b2b [Dion Timmer]"
 
 > 🟧 3/10 | 1h | 58 tracks
 
-- I Found You - [Sub Focus](#) feat. [Hayla](#)
+- I Found You - [Sub Focus](https://rateyourmusic.com/artist/sub-focus) feat. [Hayla](https://rateyourmusic.com/artist/hayla)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Fransis Derelle]"
 
 > 🟩 7/10 | 1h | 36 tracks
 
-- Forget Me - [AFTERMYFALL](#) & [Fransis Derelle](#)
-- Where You Are _([Junkie Kid](#) Remix)_ - [Hayla](#) & [John Summit](#)
-- Kingslayer - [Bring Me The Horizon](#) feat. [BABYMETAL](#)
+- Forget Me - [AFTERMYFALL](https://rateyourmusic.com/artist/aftermyfall-2) & [Fransis Derelle](https://rateyourmusic.com/artist/fransis-derelle)
+- Where You Are _([Junkie Kid](https://rateyourmusic.com/artist/junkie_kid) Remix)_ - [Hayla](https://rateyourmusic.com/artist/hayla) & [John Summit](https://rateyourmusic.com/artist/john-summit)
+- Kingslayer - [Bring Me The Horizon](https://rateyourmusic.com/artist/bring-me-the-horizon) feat. [BABYMETAL](https://rateyourmusic.com/artist/babymetal)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Godlands]"
 
 > 🟨 5/10 | 1h | 56 tracks
 
-- Lights / Jewel - [RL Grime](#), [ISOxo](#) & [Ellie Goulding](#)
+- Lights / Jewel - [RL Grime](https://rateyourmusic.com/artist/rl-grime), [ISOxo](https://rateyourmusic.com/artist/isoxo) & [Ellie Goulding](https://rateyourmusic.com/artist/ellie-goulding)
 - Untouched _([ID](#) Remix)_ - The Veronicas
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Grabbitz]"
 
 > 🟨 5/10 | 1h | 49 tracks
 
-- Sleaze / Ballin' - [Grabbitz](#) & [Knife Party](#) feat. [MistaJam](#)
+- Sleaze / Ballin' - [Grabbitz](https://rateyourmusic.com/artist/grabbitz) & [Knife Party](https://rateyourmusic.com/artist/knife-party) feat. [MistaJam](https://rateyourmusic.com/artist/mistajam)
 - ID - ID
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Kayzo]"
 
 > 🟨 5/10 | 1h | 77 tracks
 
-- Numb _([Kayzo](#) Remix)_ - Linkin Park
-- A Brief Tutorial on Dubstep Production _([Kayzo](#) Remix)_ - [Dubba Jonny](#) & [Kayzo](#)
+- Numb _([Kayzo](https://rateyourmusic.com/artist/kayzo) Remix)_ - Linkin Park
+- A Brief Tutorial on Dubstep Production _([Kayzo](https://rateyourmusic.com/artist/kayzo) Remix)_ - [Dubba Jonny](https://rateyourmusic.com/artist/dubba_jonny) & [Kayzo](https://rateyourmusic.com/artist/kayzo)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [SoDown]"
 
@@ -215,7 +215,7 @@
 
 > 🟦 9/10 | 1h | 69 tracks
 
-- Name Drop _(VIP)_ - [Excision](#) & [Wooli](#)
-- Song of the Year _(VIP)_ / Breakn' a Sweat - [Wooli](#), [Kill the Noise](#), [The Doors](#) & [Skrillex](#)
-- Zombie - [Illenium](#), [Excision](#) & [Wooli](#) feat. [Valerie Broussard](#)
-- Walk On Water _([Wooli](#) & [Trivecta](#) Remix)_ - [Slander](#), [Trivecta](#) & [Wooli](#) feat. [Dylan Matthew](#) & [Røry](#)
+- Name Drop _(VIP)_ - [Excision](https://rateyourmusic.com/artist/excision-1) & [Wooli](https://rateyourmusic.com/artist/wooli)
+- Song of the Year _(VIP)_ / Breakn' a Sweat - [Wooli](https://rateyourmusic.com/artist/wooli), [Kill the Noise](https://rateyourmusic.com/artist/kill-the-noise), [The Doors](https://rateyourmusic.com/artist/the-doors) & [Skrillex](https://rateyourmusic.com/artist/skrillex)
+- Zombie - [Illenium](https://rateyourmusic.com/artist/illenium), [Excision](https://rateyourmusic.com/artist/excision-1) & [Wooli](https://rateyourmusic.com/artist/wooli) feat. [Valerie Broussard](https://rateyourmusic.com/artist/valerie-broussard)
+- Walk On Water _([Wooli](https://rateyourmusic.com/artist/wooli) & [Trivecta](https://rateyourmusic.com/artist/trivecta) Remix)_ - [Slander](https://rateyourmusic.com/artist/slander-1), [Trivecta](https://rateyourmusic.com/artist/trivecta) & [Wooli](https://rateyourmusic.com/artist/wooli) feat. [Dylan Matthew](https://rateyourmusic.com/artist/dylan-matthew) & [Røry](https://rateyourmusic.com/artist/rory-2)
