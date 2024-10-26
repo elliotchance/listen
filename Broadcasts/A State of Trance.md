@@ -2,10 +2,10 @@
 
 <!-- toc:start -->
 
-**507 mixes, 999h45m**
+**515 mixes, 1015h45m**
 
 - [2001](#2001) (29 mixes, 56h24m)
-- [2002](#2002) (45 mixes, 93h45m)
+- [2002](#2002) (50 mixes, 103h45m)
 - [2003](#2003) (14 mixes, 30h05m)
 - [2004](#2004) (7 mixes, 18h52m)
 - [2005](#2005) (17 mixes, 34h45m)
@@ -27,7 +27,7 @@
 - [2021](#2021) (52 mixes, 115h47m)
 - [2022](#2022) (52 mixes, 112h51m)
 - [2023](#2023) (52 mixes, 104h)
-- [2024](#2024) (34 mixes, 68h)
+- [2024](#2024) (37 mixes, 74h)
 <!-- toc:end -->
 
 ## 2001
@@ -252,6 +252,12 @@
 
 - Tranzy State of Mind - Push
 - Love Washes Over _(Dub Mix)_ - [Art of Trance](https://rateyourmusic.com/artist/art_of_trance) feat. [M. Adamson](#)
+
+### 2002-02-21: A State of Trance #36
+
+> ~2h
+
+- Reachin' Out - [M-Diva](https://rateyourmusic.com/artist/m-diva)
 
 ### 2002-02-28: A State of Trance #37
 
@@ -488,6 +494,27 @@
 ### 2002-11-28: A State of Trance #74
 
 > 🟥 1/10 | 1h59m
+
+### 2002-12-05: A State of Trance #75
+
+> ~2h
+
+- Saltwater _([The Thrillseekers](https://rateyourmusic.com/artist/the_thrillseekers) Remix)_ - [Chicane](https://rateyourmusic.com/artist/chicane)
+
+### 2002-12-12: A State of Trance #76
+
+> ~2h
+
+### 2002-12-19: A State of Trance #77
+
+> ~2h
+
+### 2002-12-26: A State of Trance #78: "Top 20 of 2002"
+
+> ~2h
+
+- Sky Falls Down _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
+- Yet Another Day - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Ray Wilson](https://rateyourmusic.com/artist/ray-wilson-2)
 
 ## 2003
 
@@ -4049,3 +4076,18 @@
 - High on the Low - Will Atkinson
 - Just Breathe - [Alan Fullmer](#) feat. [Alina Renae](https://rateyourmusic.com/artist/alina_renae)
 - All on You - David Forbes
+
+### 2024-08-15: A State of Trance #1186
+
+> ~2h
+
+### 2024-08-22: A State of Trance #1187
+
+> ~2h
+
+- Nostalgia _([Silva City](https://rateyourmusic.com/artist/silva-city) Remix)_ - [Ben Gold](https://rateyourmusic.com/artist/ben_gold)
+- I Love You _([Karney](https://rateyourmusic.com/artist/bryan_kearney_f1) Dark Dub)_ - [Key4050](https://rateyourmusic.com/artist/key4050) & [Plumb](#)
+
+### 2024-08-29: A State of Trance #1188
+
+> ~2h

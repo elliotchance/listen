@@ -2,14 +2,15 @@
 
 <!-- toc:start -->
 
-**225 mixes, 225h**
+**233 mixes, 233h04m**
 
 - [2013](#2013) (34 mixes, 34h)
+- [2014](#2014) (5 mixes, 5h04m)
 - [2020](#2020) (43 mixes, 43h)
 - [2021](#2021) (37 mixes, 37h)
 - [2022](#2022) (44 mixes, 44h)
 - [2023](#2023) (49 mixes, 49h)
-- [2024](#2024) (18 mixes, 18h)
+- [2024](#2024) (21 mixes, 21h)
 <!-- toc:end -->
 
 ## 2013
@@ -181,6 +182,34 @@
 > 🟧 3/10 | ~1h | 34 tracks
 
 - @35:30
+
+## 2014
+
+### 2014-01-09: Tritonia #35
+
+> 1h
+
+### 2014-01-27: Tritonia #36
+
+> 1h
+
+- @35:00
+
+### 2014-02-03: Tritonia #37
+
+> 1h3m
+
+- @10:13
+- @42:07
+- @59:00
+
+### 2014-02-17: Tritonia #38
+
+> 1h
+
+### 2014-02-24: Tritonia #39
+
+> 1h1m
 
 ## 2020
 
@@ -1433,3 +1462,21 @@
 - Piercing the Fog _([Flaor](#) & [The Blizzard](https://rateyourmusic.com/artist/the-blizzard) Remix)_ - The Blizzard
 - Don't Look Back - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison), [HILYTE](https://rateyourmusic.com/artist/hilyte) & [Kayrae](https://rateyourmusic.com/artist/kayrae)
 - Still With Me _([Elevven](https://rateyourmusic.com/artist/elevven) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Cristina Soto](https://rateyourmusic.com/artist/cristina-soto)
+
+### 2024-99-99: Tritonia #477
+
+> ~1h
+
+- Falling Free _([Jordin Post](https://rateyourmusic.com/artist/jordin-post) Remix)_ - [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde) feat. [AunA](#)
+- Never Felt Like This - [Kaiyan](https://rateyourmusic.com/artist/kaiyan)
+- Don't Look Back - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison), [HILYTE](https://rateyourmusic.com/artist/hilyte) & [Kayrae](https://rateyourmusic.com/artist/kayrae)
+
+### 2024-99-99: Tritonia #478
+
+> ~1h
+
+### 2024-99-99: Tritonia #479
+
+> ~1h
+
+- Innervision - [Elliot West](#)

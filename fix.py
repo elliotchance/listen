@@ -173,7 +173,10 @@ with open('All.md', "w") as f:
   f.write('\n---\n\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
-    f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
+    emoji = '⬜'
+    if 'emoji' in mix:
+       emoji = mix['emoji']
+    f.write('1. %s `%s` (%s)\n' % (emoji, title, format_duration(mix['duration'])))
 
 with open('README.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
