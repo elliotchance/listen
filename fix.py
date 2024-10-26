@@ -125,7 +125,7 @@ for name in sorted(os.listdir(dir)):
     for mix in mixes[h2]['mixes']:
       total_duration += mixes[h2]['mixes'][mix]['duration']
       final_duration += mixes[h2]['mixes'][mix]['duration']
-      primary_toc[name]['duration'] += len(mixes[h2]['mixes'])
+      primary_toc[name]['duration'] += mixes[h2]['mixes'][mix]['duration']
     total_mixes += len(mixes[h2]['mixes'])
     final_mixes += len(mixes[h2]['mixes'])
     primary_toc[name]['mix_count'] += len(mixes[h2]['mixes'])
@@ -152,7 +152,7 @@ for name in sorted(os.listdir(dir)):
     content = fd.read()
   
   content = re.sub(r"<!-- toc:start -->(.*?)<!-- toc:end -->",
-                   "<!-- toc:start -->\n" + toc + "<!-- toc:end -->", content, 0, re.DOTALL)
+                   "<!-- toc:start -->\n\n" + toc + "<!-- toc:end -->", content, 0, re.DOTALL)
   with open(path, "w") as f:
     f.write(content)
 
@@ -167,5 +167,6 @@ with open('All.md', "w") as f:
 
 with open('README.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
+  f.write('[All Mixes](All.md)\n\n')
   for path in sorted(primary_toc):
     f.write('- [%s](%s/%s) (%d mixes, %s)\n' % (path[:-3], dir, to_url(path), primary_toc[path]['mix_count'], format_duration(primary_toc[path]['duration'])))

@@ -1,6 +1,7 @@
 # A State of Trance
 
 <!-- toc:start -->
+
 **507 mixes, 999h45m**
 
 - [2001](#2001) (29 mixes, 56h24m)
@@ -1326,13 +1327,13 @@
 
 ### 2011-03-10: A State of Trance #499
 
-> 🟥 2/10 | 2h | 22 tracks
+> 🟥 2/10 | ~2h | 22 tracks
 
 - Winter Stayed _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)'s On The Beach Mix)_ - Triple A
 
 ### 2011-03-31: A State of Trance #502
 
-> 🟪 10/10 | 2h | 23 tracks
+> 🟪 10/10 | ~2h | 23 tracks
 
 - HR 8938 Cephei - deadmau5
 - Memories - [A.R.D.I.](https://rateyourmusic.com/artist/a_r_d_i_) feat. [Irena Love](https://rateyourmusic.com/artist/irena_love)
@@ -1420,7 +1421,7 @@
 
 ### 2011-04-16: A State of Trance #500, "[Armin van Buuren]": Acer Arena, Sydney, NSW, Australia
 
-> 🟧 4/10 | 2h59m | 34 tracks
+> 🟧 4/10 | ~2h59m | 34 tracks
 
 - ID - ID
 - ID - ID
@@ -1461,7 +1462,7 @@
 
 ### 2011-04-28: A State of Trance #506
 
-> 🟪 10/10 | 2h02m | 25 tracks
+> 🟪 10/10 | ~2h02m | 25 tracks
 
 - Heart Is My Religion _([Blake Jarrell](https://rateyourmusic.com/artist/blake_jarrell) Mashup)_ - [Axwell](https://rateyourmusic.com/artist/axwell) vs. [R.E.M.](https://rateyourmusic.com/artist/r_e_m)
 - Going Deep _(Club Mix)_ - Chicane
@@ -1481,7 +1482,7 @@
 
 ### 2011-05-12: A State of Trance #508
 
-> 🟪 10/10 | 2h01m | 23 tracks
+> 🟪 10/10 | ~2h01m | 23 tracks
 
 - Feels So Good _([Tristan Garner](https://rateyourmusic.com/artist/tristan_garner) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Nadia Ali](https://rateyourmusic.com/artist/nadia-ali)
 - Skies On Fire - [First State](https://rateyourmusic.com/artist/first_state) feat. [Sarah Howells](https://rateyourmusic.com/artist/sarah_howells)
@@ -1495,7 +1496,7 @@
 
 ### 2011-05-19: A State of Trance #509
 
-> 🟩 8/10 | 2h02m | 23 tracks
+> 🟩 8/10 | ~2h02m | 23 tracks
 
 - Promises _([Myon & Shane 54](https://rateyourmusic.com/artist/myon_and_shane_54) Summer Of Love Mix)_ - Andain
 - JYNX _(Cut Edit)_ - Ashley Wallbridge
@@ -1507,7 +1508,7 @@
 
 ### 2011-05-26: A State of Trance #510
 
-> 🟪 10/10 | 2h01m | 23 tracks
+> 🟪 10/10 | ~2h01m | 23 tracks
 
 - Feels So Good _([Tristan Garner](https://rateyourmusic.com/artist/tristan_garner) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Nadia Ali](https://rateyourmusic.com/artist/nadia-ali)
 - The Thunder - [Ørjan Nilsen](https://rateyourmusic.com/artist/orjan_nilsen) feat. [Kate Louise Smith](https://rateyourmusic.com/artist/kate-louise-smith)
@@ -1521,7 +1522,7 @@
 
 ### 2011-06-02: A State of Trance #511
 
-> 🟪 10/10 | 2h | 22 tracks
+> 🟪 10/10 | ~2h | 22 tracks
 
 - The Island - [MaRLo](https://rateyourmusic.com/artist/marlo-2) feat. [Jano](https://rateyourmusic.com/artist/jano-3)
 - Ask The Angels - Heatbeat
@@ -1536,7 +1537,7 @@
 
 ### 2011-06-09: A State of Trance #512
 
-> 🟦 9/10 | 2h02m | 23 tracks
+> 🟦 9/10 | ~2h02m | 23 tracks
 
 - My Inner Island _([Yuri Kane](https://rateyourmusic.com/artist/yuri_kane) Remix)_ - [The Blizzard](https://rateyourmusic.com/artist/the-blizzard) & [Omnia](https://rateyourmusic.com/artist/omnia_f2)
 - <10> Sun Gone Down - [Protoculture](https://rateyourmusic.com/artist/protoculture) feat. [Shannon Hurley](https://rateyourmusic.com/artist/shannon_hurley)
@@ -1549,7 +1550,7 @@
 
 ### 2011-06-16: A State of Trance #513
 
-> 🟪 10/10 | 2h | 21 tracks
+> 🟪 10/10 | ~2h | 21 tracks
 
 - Youtopia _([Blake Jarrell](https://rateyourmusic.com/artist/blake_jarrell) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Adam Young](https://rateyourmusic.com/artist/adam-young)
 - Love Too Hard _([Roger Shah](https://rateyourmusic.com/artist/roger_shah) Pumpin' Island Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Jessie Morgan](#)
@@ -1571,7 +1572,7 @@
 
 ### 2011-12-29: A State of Trance #541, "Yearmix"
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ## 2012
 
@@ -1668,7 +1669,7 @@
 
 ### 2012-09-13: A State of Trance #578, "Universal Religion Chapter Six Release Special"
 
-> 🟥 1/10 | 2h | 30 tracks
+> 🟥 1/10 | ~2h | 30 tracks
 
 ### 2012-11-08: A State of Trance #586
 
@@ -1679,7 +1680,7 @@
 
 ### 2012-12-06: A State of Trance #590
 
-> 🟪 10/10 | 2h01m | 27 tracks
+> 🟪 10/10 | ~2h01m | 27 tracks
 
 - Ambrosia - [Mike Danis](https://rateyourmusic.com/artist/mike_danis) & [Johnny Yono](https://rateyourmusic.com/artist/johnny_yono)
 - Monday Morning Madness _([Alexander Popov](https://rateyourmusic.com/artist/alexander_popov) Remix)_ - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) feat. [Shannon Hurley](https://rateyourmusic.com/artist/shannon_hurley)
@@ -1694,7 +1695,7 @@
 
 ### 2012-12-27: A State of Trance #593, "Yearmix"
 
-> 🟥 1/10 | 2h02m
+> 🟥 1/10 | ~2h02m
 
 ## 2013
 
@@ -1717,7 +1718,7 @@
 
 ### 2013-02-14: A State of Trance #600, "[Armin van Buuren]": Madrid, Spain
 
-> 🟦 9/10 | 2h | 27 tracks
+> 🟦 9/10 | ~2h | 27 tracks
 
 - Waiting for the Night _([Beat Service](https://rateyourmusic.com/artist/beat_service) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Fiora](https://rateyourmusic.com/artist/fiora)
 - Gunsmoke - Björn Åkesson
@@ -1884,7 +1885,7 @@
 
 ### 2013-03-07: A State of Trance #603
 
-> 🟥 1/10 | 2h | 27 tracks
+> 🟥 1/10 | ~2h | 27 tracks
 
 ### 2013-03-08: A State of Trance #600, "[Myon & Shane 54]": Sofia, Bulgaria
 
@@ -1918,7 +1919,7 @@
 
 ### 2013-03-15: A State of Trance #600, "[Armin van Buuren]": Kuala Lumpur, Malaysia
 
-> 🟨 6/10 | 2h | 27 tracks
+> 🟨 6/10 | ~2h | 27 tracks
 
 - Fool for Life _([Tomas Heredia](https://rateyourmusic.com/artist/tomas-heredia) Remix)_ - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Chris Madin](https://rateyourmusic.com/artist/chris_madin)
 - D# Fat - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [W&W](https://rateyourmusic.com/artist/wandw)
@@ -2034,7 +2035,7 @@
 
 ### 2013-04-04: A State of Trance #607
 
-> 🟥 1/10 | 2h | 28 tracks
+> 🟥 1/10 | ~2h | 28 tracks
 
 ### 2013-04-06: A State of Trance #600, "Expedition Stage: [Estiva]": Den Bosch, The Netherlands
 
@@ -2091,7 +2092,7 @@
 
 ### 2013-04-25: A State of Trance #610
 
-> 🟧 4/10 | 2h02m | 28 tracks
+> 🟧 4/10 | ~2h02m | 28 tracks
 
 - Who's Afraid Of 138?! - Armin van Buuren
 - <10> The End - Astral
@@ -2099,11 +2100,11 @@
 
 ### 2013-05-02: A State of Trance #611
 
-> 🟥 1/10 | 2h03m | 24 tracks
+> 🟥 1/10 | ~2h03m | 24 tracks
 
 ### 2013-05-09: A State of Trance #612
 
-> 🟩 8/10 | 2h | 27 tracks
+> 🟩 8/10 | ~2h | 27 tracks
 
 - Violetta - Ørjan Nilsen
 - Uncharted - Purelight
@@ -2115,7 +2116,7 @@
 
 ### 2013-05-16: A State of Trance #613
 
-> 🟨 6/10 | 2h | 28 tracks
+> 🟨 6/10 | ~2h | 28 tracks
 
 - Plazma - Mixail
 - Blind _([Solarstone](https://rateyourmusic.com/artist/solarstone) Remix)_ - Theo Hutchcraft
@@ -2125,7 +2126,7 @@
 
 ### 2013-05-23: A State of Trance #614
 
-> 🟦 9/10 | 2h03m | 27 tracks
+> 🟦 9/10 | ~2h03m | 27 tracks
 
 - Plazma - Mixail
 - Won't Let You Go - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Aruna](https://rateyourmusic.com/artist/aruna)
@@ -2138,17 +2139,17 @@
 
 ### 2013-06-06: A State of Trance #616
 
-> 🟥 2/10 | 2h02m | 27 tracks
+> 🟥 2/10 | ~2h02m | 27 tracks
 
 - Gamemaster _([Protoculture](https://rateyourmusic.com/artist/protoculture) Reconstruction)_ - Lost Tribe
 
 ### 2013-06-20: A State of Trance #618
 
-> 🟥 1/10 | 2h | 30 tracks
+> 🟥 1/10 | ~2h | 30 tracks
 
 ### 2013-07-25: A State of Trance #623
 
-> 🟪 10/10 | 2h02m | 30 tracks
+> 🟪 10/10 | ~2h02m | 30 tracks
 
 - <10> Beautiful Life _([Mikkas](https://rateyourmusic.com/artist/mikkas) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Cindy Alma](https://rateyourmusic.com/artist/cindy_alma)
 - Wings _([Myon & Shane 54](https://rateyourmusic.com/artist/myon_and_shane_54) Summer Of Love Mix)_ - [Tom Swoon](https://rateyourmusic.com/artist/tom-swoon) feat. [Taylr Renee](https://rateyourmusic.com/artist/taylr_renee)
@@ -2167,7 +2168,7 @@
 
 ### 2013-09-12: A State of Trance #630
 
-> 🟨 5/10 | 2h02m | 32 tracks
+> 🟨 5/10 | ~2h02m | 32 tracks
 
 - World Falls Apart _([Jorn van Deynhoven](https://rateyourmusic.com/artist/jorn_van_deynhoven) Remix)_ - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Jonathan Mendelsohn](https://rateyourmusic.com/artist/jonathan_mendelsohn)
 - Black Hole _([Jorn van Deynhoven](https://rateyourmusic.com/artist/jorn_van_deynhoven) Remix)_ - [Craig Connelly](https://rateyourmusic.com/artist/craig-connelly) & [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli)
@@ -2178,7 +2179,7 @@
 
 ### 2014-01-02: A State of Trance #646
 
-> 🟨 6/10 | 2h02m | 32 tracks
+> 🟨 6/10 | ~2h02m | 32 tracks
 
 - ID - ID
 - ID - ID
@@ -2212,13 +2213,13 @@
 
 ### 2014-12-19: A State of Trance #695, "Yearmix"
 
-> 🟥 1/10 | 2h03m
+> 🟥 1/10 | ~2h03m
 
 ## 2015
 
 ### 2015-02-19: A State of Trance #701
 
-> 🟩 7/10 | 2h | 31 tracks
+> 🟩 7/10 | ~2h | 31 tracks
 
 - Cynical Orange - Kago Pengchi
 - Healing Rain _([Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) Remix)_ - [Easton](https://rateyourmusic.com/artist/easton-2) feat. [Roxanne Emery](https://rateyourmusic.com/artist/roxanne-emery)
@@ -2254,7 +2255,7 @@
 
 ### 2015-03-05: A State of Trance #703
 
-> 🟪 10/10 | 2h | 31 tracks
+> 🟪 10/10 | ~2h | 31 tracks
 
 - Ashes - [Denis Kenzo](https://rateyourmusic.com/artist/denis-kenzo) feat. [Sarah Lynn](https://rateyourmusic.com/artist/sarah-lynn)
 - Together (In A State Of Trance) _(Bogdan Vix & Airborn Bootleg)_ - Armin van Buuren
@@ -2272,7 +2273,7 @@
 
 ### 2015-03-12: A State of Trance #704
 
-> 🟪 10/10 | 2h02m | 32 tracks
+> 🟪 10/10 | ~2h02m | 32 tracks
 
 - The Same - Kyau & Albert
 - Impulse _([Omnia](https://rateyourmusic.com/artist/omnia_f2) Remix)_ - Andrew Rayel
@@ -2292,7 +2293,7 @@
 
 ### 2015-03-19: A State of Trance #705
 
-> 🟪 10/10 | 2h01m | 32 tracks
+> 🟪 10/10 | ~2h01m | 32 tracks
 
 - Someone Like You - [RAM](https://rateyourmusic.com/artist/ram_f11) feat. [Susana](https://rateyourmusic.com/artist/susana)
 - Rush - [Venom One](https://rateyourmusic.com/artist/venom-one) feat. [Sarah Howells](https://rateyourmusic.com/artist/sarah_howells)
@@ -2311,7 +2312,7 @@
 
 ### 2015-03-26: A State of Trance #706
 
-> 🟪 10/10 | 2h01m | 36 tracks
+> 🟪 10/10 | ~2h01m | 36 tracks
 
 - Awake _([Jakko](https://rateyourmusic.com/artist/jakko) Remix)_ - [Killogy](#) & [Matthew White](https://rateyourmusic.com/artist/matthew_white_f1) feat. [Angelika Vee](https://rateyourmusic.com/artist/angelika_vee)
 - <10> Someone Like You - [RAM](https://rateyourmusic.com/artist/ram_f11) feat. [Susana](https://rateyourmusic.com/artist/susana)
@@ -2328,7 +2329,7 @@
 
 ### 2015-04-09: A State of Trance #708
 
-> 🟪 10/10 | 2h | 35 tracks
+> 🟪 10/10 | ~2h | 35 tracks
 
 - Generate - Eric Prydz
 - Time Stood Still - [Simon Patterson](https://rateyourmusic.com/artist/simon_patterson) feat. [Matt Adey](#)
@@ -2343,7 +2344,7 @@
 
 ### 2015-04-16: A State of Trance #709
 
-> 🟪 10/10 | 2h | 34 tracks
+> 🟪 10/10 | ~2h | 34 tracks
 
 - Another You - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Mr. Probz](https://rateyourmusic.com/artist/mr__probz)
 - The Truth We Can't Escape - Dawn
@@ -2357,7 +2358,7 @@
 
 ### 2015-04-30: A State of Trance #711
 
-> 🟪 10/10 | 2h | 32 tracks
+> 🟪 10/10 | ~2h | 32 tracks
 
 - Are You With Me _([Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) Remix)_ - Lost Frequencies
 - 43 - ilan Bluestone
@@ -2371,7 +2372,7 @@
 
 ### 2015-05-07: A State of Trance #712
 
-> 🟪 10/10 | 2h01m | 34 tracks
+> 🟪 10/10 | ~2h01m | 34 tracks
 
 - The Other Shore _([Aruna](https://rateyourmusic.com/artist/aruna) vs. [Steve Kaetzel](https://rateyourmusic.com/artist/steve-kaetzel) Remix)_ - [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila) feat. [Aruna](https://rateyourmusic.com/artist/aruna)
 - Another You _([Headhunterz](https://rateyourmusic.com/artist/headhunterz) Remix)_ _(Hotmix Start)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Mr. Probz](https://rateyourmusic.com/artist/mr__probz)
@@ -2390,7 +2391,7 @@
 
 ### 2015-05-14: A State of Trance #713
 
-> 🟪 10/10 | 2h | 34 tracks
+> 🟪 10/10 | ~2h | 34 tracks
 
 - It's In Your Heart _(Club Mix)_ - [David Gravell](https://rateyourmusic.com/artist/david-gravell) feat. [Christon](https://rateyourmusic.com/artist/christon)
 - Fireball - Arisen Flame
@@ -2417,13 +2418,13 @@
 
 ### 2015-12-31: A State of Trance #746, "Yearmix"
 
-> 🟥 1/10 | 2h02m
+> 🟥 1/10 | ~2h02m
 
 ## 2016
 
 ### 2016-01-07: A State of Trance #747
 
-> 🟨 6/10 | 2h
+> 🟨 6/10 | ~2h
 
 - Anti Social Media - [Coming Soon!!!](https://rateyourmusic.com/artist/coming-soon) & [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1)
 - Ashes _([Cold Rush](https://rateyourmusic.com/artist/cold-rush) Remix)_ - [Denis Kenzo](https://rateyourmusic.com/artist/denis-kenzo) feat. [Sarah Lynn](https://rateyourmusic.com/artist/sarah-lynn)
@@ -2445,7 +2446,7 @@
 
 ### 2016-04-14: A State of Trance #759
 
-> 🟨 6/10 | 2h | 32 tracks
+> 🟨 6/10 | ~2h | 32 tracks
 
 - ID - ID
 - ID - ID
@@ -2455,7 +2456,7 @@
 
 ### 2016-06-09: A State of Trance #767
 
-> 🟪 10/10 | 2h | 33 tracks
+> 🟪 10/10 | ~2h | 33 tracks
 
 - Conspiracy - Lange
 - Quantum - Mino Safy
@@ -2471,7 +2472,7 @@
 
 ### 2016-12-22: A State of Trance #795, "Top 25 of 2016"
 
-> 🟨 5/10 | 2h | 31 tracks
+> 🟨 5/10 | ~2h | 31 tracks
 
 - Heading Up High _([First State](https://rateyourmusic.com/artist/first_state) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Kensington](https://rateyourmusic.com/artist/kensington)
 - Out There _([Robert Nickson](https://rateyourmusic.com/artist/robert_nickson) 2016 Remix)_ - [Masters & Nickson](#) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
@@ -2480,13 +2481,13 @@
 
 ### 2016-12-29: A State of Trance #796, "Yearmix"
 
-> 🟥 1/10 | 2h02m
+> 🟥 1/10 | ~2h02m
 
 ## 2017
 
 ### 2017-01-05: A State of Trance #797
 
-> 🟧 4/10 | 2h03m
+> 🟧 4/10 | ~2h03m
 
 - Shelter - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Roxanne Emery](https://rateyourmusic.com/artist/roxanne-emery)
 - Exalted - gerome
@@ -2494,7 +2495,7 @@
 
 ### 2017-12-14: A State of Trance #844
 
-> 🟥 2/10 | 2h03m | 32 tracks
+> 🟥 2/10 | ~2h03m | 32 tracks
 
 - Christmas Days _(Encore Version)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Josh Cumbee](https://rateyourmusic.com/artist/josh_cumbee)
 
@@ -2514,7 +2515,7 @@
 
 ### 2018-01-04: A State of Trance #847
 
-> 🟧 4/10 | 2h | 29 tracks
+> 🟧 4/10 | ~2h | 29 tracks
 
 - Fireflies - [Roman Messer](https://rateyourmusic.com/artist/roman_messer) feat. [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli)
 - Sun Gone Down - [Protoculture](https://rateyourmusic.com/artist/protoculture) feat. [Shannon Hurley](https://rateyourmusic.com/artist/shannon_hurley)
@@ -2522,7 +2523,7 @@
 
 ### 2018-01-11: A State of Trance #848
 
-> 🟥 2/10 | 2h01m | 29 tracks
+> 🟥 2/10 | ~2h01m | 29 tracks
 
 - Fireflies - [Roman Messer](https://rateyourmusic.com/artist/roman_messer) feat. [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli)
 
@@ -2538,7 +2539,7 @@
 
 ### 2018-02-15: A State of Trance #851
 
-> 🟧 4/10 | 2h | 29 tracks
+> 🟧 4/10 | ~2h | 29 tracks
 
 - If Not Now _(Club Mix)_ - [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate) & [Jes](https://rateyourmusic.com/artist/jes)
 - Circa Forever _([Radion 6](https://rateyourmusic.com/artist/radion-6) Remix)_ - Rapid Eye
@@ -2552,18 +2553,18 @@
 
 ### 2018-03-01: A State of Trance #853
 
-> 🟥 1/10 | 2h01m | 28 tracks
+> 🟥 1/10 | ~2h01m | 28 tracks
 
 ### 2018-03-08: A State of Trance #854
 
-> 🟧 3/10 | 2h01m | 28 tracks
+> 🟧 3/10 | ~2h01m | 28 tracks
 
 - Aria - Monoverse
 - Enixam - Ruddaz
 
 ### 2018-03-15: A State of Trance #855
 
-> 🟧 4/10 | 2h01m | 25 tracks
+> 🟧 4/10 | ~2h01m | 25 tracks
 
 - Ends of Time - NWYR
 - The Sun - [Neelix](https://rateyourmusic.com/artist/neelix), [Ghost Rider](https://rateyourmusic.com/artist/ghost-rider-1) & [Caroline Harrison](https://rateyourmusic.com/artist/caroline-harrison)
@@ -2571,39 +2572,39 @@
 
 ### 2018-03-22: A State of Trance #856
 
-> 🟥 2/10 | 2h02m | 32 tracks
+> 🟥 2/10 | ~2h02m | 32 tracks
 
 - Lovingly - [Oliver Smith](https://rateyourmusic.com/artist/oliver-smith) feat. [Amy J Price](https://rateyourmusic.com/artist/amy-j-pryce)
 
 ### 2018-03-29: A State of Trance #857
 
-> 🟧 3/10 | 2h | 30 tracks
+> 🟧 3/10 | ~2h | 30 tracks
 
 - Ethereal - [DRYM](https://rateyourmusic.com/artist/drym) & [Omnia](https://rateyourmusic.com/artist/omnia_f2)
 - Hallucination - [André Visior](https://rateyourmusic.com/artist/andre_visior) & [Mind X](#)
 
 ### 2018-12-27: A State of Trance #896, "Yearmix"
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ## 2019
 
 ### 2019-01-03: A State of Trance #897
 
-> 🟥 2/10 | 2h01m | 28 tracks
+> 🟥 2/10 | ~2h01m | 28 tracks
 
 - Youtopia - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Adam Young](https://rateyourmusic.com/artist/adam-young)
 
 ### 2019-01-10: A State of Trance #898
 
-> 🟧 3/10 | 2h02m | 28 tracks
+> 🟧 3/10 | ~2h02m | 28 tracks
 
 - Show Me The Way _([Dan Thompson](https://rateyourmusic.com/artist/dan-thompson-1) Remix)_ - [Allure](https://rateyourmusic.com/artist/allure-1) feat. [Jes](https://rateyourmusic.com/artist/jes)
 - Vortex - [Richard Durand](https://rateyourmusic.com/artist/richard_durand) & [Marco V](https://rateyourmusic.com/artist/marco_v)
 
 ### 2019-01-17: A State of Trance #899
 
-> 🟧 4/10 | 2h01m | 33 tracks
+> 🟧 4/10 | ~2h01m | 33 tracks
 
 - Among Us - [Greg Downey](https://rateyourmusic.com/artist/greg_downey) & [Alex Di Stefano](https://rateyourmusic.com/artist/alex_di_stefano)
 - Firewalker - The Noble Six
@@ -2611,7 +2612,7 @@
 
 ### 2019-02-14: A State of Trance #901
 
-> 🟥 2/10 | 2h03m | 28 tracks
+> 🟥 2/10 | ~2h03m | 28 tracks
 
 - Need to Feel Loved - [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate) & [Forêt](https://rateyourmusic.com/artist/foret)
 
@@ -2629,14 +2630,14 @@
 
 ### 2019-02-28: A State of Trance #903
 
-> 🟧 3/10 | 2h01m | 28 tracks
+> 🟧 3/10 | ~2h01m | 28 tracks
 
 - Panama - Giuseppe Ottaviani
 - Take My Breath - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) & [Marjan](https://rateyourmusic.com/artist/marjan-1)
 
 ### 2019-03-07: A State of Trance #904
 
-> 🟧 4/10 | 2h01m | 28 tracks
+> 🟧 4/10 | ~2h01m | 28 tracks
 
 - Resurection _([Maurice West](https://rateyourmusic.com/artist/maurice-west) Remix)_ - Planet Perfecto Knights
 - Contour - [Activa](https://rateyourmusic.com/artist/activa) & [Simon Bostock](https://rateyourmusic.com/artist/simon_bostock)
@@ -2644,7 +2645,7 @@
 
 ### 2019-03-14: A State of Trance #905
 
-> 🟨 5/10 | 2h | 28 tracks
+> 🟨 5/10 | ~2h | 28 tracks
 
 - Redemption - [Protoculture](https://rateyourmusic.com/artist/protoculture) & [Mino Safy](https://rateyourmusic.com/artist/mino_safy)
 - You're All Coming with Me! - Dan Thompson
@@ -2653,52 +2654,52 @@
 
 ### 2019-03-21: A State of Trance #906
 
-> 🟥 2/10 | 2h02m | 31 tracks
+> 🟥 2/10 | ~2h02m | 31 tracks
 
 - Perception _([Johan Gielen](https://rateyourmusic.com/artist/johan-gielen) Remix)_ - [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
 ### 2019-04-04: A State of Trance #908
 
-> 🟧 3/10 | 2h03m | 28 tracks
+> 🟧 3/10 | ~2h03m | 28 tracks
 
 - Temple of Artemis _([Rated R](https://rateyourmusic.com/artist/rated-r-1) Remix)_ - Neptune Project
 - Phase One - Chris Schweizer
 
 ### 2019-12-26: A State of Trance #946, "Yearmix"
 
-> 🟥 1/10 | 2h02m
+> 🟥 1/10 | ~2h02m
 
 ## 2020
 
 ### 2020-01-02: A State of Trance #947
 
-> 🟥 2/10 | 2h01m
+> 🟥 2/10 | ~2h01m
 
 - Epoch - [Roger Shah](https://rateyourmusic.com/artist/roger_shah), [Pierre Pienaar](https://rateyourmusic.com/artist/pierre-pienaar) & [Dirkie Coetzee](https://rateyourmusic.com/artist/dirkie-coetzee)
 
 ### 2020-01-09: A State of Trance #948
 
-> 🟧 3/10 | 2h01m
+> 🟧 3/10 | ~2h01m
 
 - Atmosphere - [Darren O'Brien](https://rateyourmusic.com/artist/darren-obrien) & [Alex Holmes](https://rateyourmusic.com/artist/alex-holmes)
 - Adrenaline _([James Dymond](https://rateyourmusic.com/artist/james_dymond) Remix)_ - Bryan Kearney
 
 ### 2020-01-16: A State of Trance #949
 
-> 🟧 3/10 | 2h
+> 🟧 3/10 | ~2h
 
 - Shine - [Rub!k](https://rateyourmusic.com/artist/rub_k) feat. [Linney](https://rateyourmusic.com/artist/linney)
 - Runaway _([Erly Tepshi](#) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Candace Sosa](https://rateyourmusic.com/artist/candace-sosa)
 
 ### 2020-02-20: A State of Trance #952
 
-> 🟥 2/10 | 2h02m
+> 🟥 2/10 | ~2h02m
 
 - Missing - [Mark Sixma](https://rateyourmusic.com/artist/mark_sixma) & [Emma Hewitt](https://rateyourmusic.com/artist/emma-hewitt)
 
 ### 2020-02-27: A State of Trance #953
 
-> 🟧 4/10 | 2h01m
+> 🟧 4/10 | ~2h01m
 
 - Saltwater _([Kevin de Vries](https://rateyourmusic.com/artist/kevin-de-vries) Remix)_ - [Chicane](https://rateyourmusic.com/artist/chicane) feat. [Moya Brennan](https://rateyourmusic.com/artist/moya_brennan)
 - After the Rain _(Club Mix)_ - [The Thrillseekers](https://rateyourmusic.com/artist/the_thrillseekers) & [Hydra](https://rateyourmusic.com/artist/hydra-14)
@@ -2706,7 +2707,7 @@
 
 ### 2020-03-05: A State of Trance #954
 
-> 🟨 5/10 | 2h
+> 🟨 5/10 | ~2h
 
 - Waiting on the Other Side _(Club Mix)_ - [Jorn van Deynhoven](https://rateyourmusic.com/artist/jorn_van_deynhoven) & [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli)
 - Miles Away _(Album Edit)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Sam Martin](https://rateyourmusic.com/artist/sam_martin)
@@ -2715,25 +2716,25 @@
 
 ### 2020-03-12: A State of Trance #955
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Someone Like You - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Susana](https://rateyourmusic.com/artist/susana)
 
 ### 2020-12-31: A State of Trance #997, "Yearmix"
 
-> 🟥 1/10 | 2h02m
+> 🟥 1/10 | ~2h02m
 
 ## 2021
 
 ### 2021-01-07: A State of Trance #998
 
-> 🟥 2/10 | 2h03m | 30 tracks
+> 🟥 2/10 | ~2h03m | 30 tracks
 
 - Carry You Home - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) & [Tensteps](https://rateyourmusic.com/artist/tensteps) feat. [Runaground](https://rateyourmusic.com/artist/runaground)
 
 ### 2021-01-14: A State of Trance #999
 
-> 🟨 6/10 | 2h01m | 30 tracks
+> 🟨 6/10 | ~2h01m | 30 tracks
 
 - Skyfire - Shogun
 - We Control the Sunlight - [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila) feat. [Jwaydan](https://rateyourmusic.com/artist/jwaydan)
@@ -2743,15 +2744,15 @@
 
 ### 2021-01-28: A State of Trance #1001
 
-> 🟥 1/10 | 2h03m | 26 tracks
+> 🟥 1/10 | ~2h03m | 26 tracks
 
 ### 2021-02-04: A State of Trance #1002
 
-> 🟥 1/10 | 2h01m | 27 tracks
+> 🟥 1/10 | ~2h01m | 27 tracks
 
 ### 2021-02-11: A State of Trance #1003
 
-> 🟧 4/10 | 2h02m | 30 tracks
+> 🟧 4/10 | ~2h02m | 30 tracks
 
 - Legend - Maywave
 - Somersault - Story of Oz
@@ -2759,7 +2760,7 @@
 
 ### 2021-02-18: A State of Trance #1004
 
-> 🟥 2/10 | 2h02m | 29 tracks
+> 🟥 2/10 | ~2h02m | 29 tracks
 
 - Timeless _([Dustin Husain](https://rateyourmusic.com/artist/dustin-husain) Remix)_ - [Solis](https://rateyourmusic.com/artist/solis_f1) & [Sean Truby](https://rateyourmusic.com/artist/sean_truby) feat. [Anthya](https://rateyourmusic.com/artist/anthya)
 
@@ -2787,24 +2788,24 @@
 
 ### 2021-03-18: A State of Trance #1008
 
-> 🟥 2/10 | 2h02m | 28 tracks
+> 🟥 2/10 | ~2h02m | 28 tracks
 
 - Bloodstream - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 
 ### 2021-03-25: A State of Trance #1009
 
-> 🟧 3/10 | 2h01m | 30 tracks
+> 🟧 3/10 | ~2h01m | 30 tracks
 
 - Hammer Time - [Chris Schweizer](https://rateyourmusic.com/artist/chris-schweizer) & [Paul Denton](https://rateyourmusic.com/artist/paul-denton)
 - Step Into The Light _([Jase Thirlwall](https://rateyourmusic.com/artist/jase-thirlwall) Remix)_ - [Fabio XB](https://rateyourmusic.com/artist/fabio_xb) & [Liuck](https://rateyourmusic.com/artist/liuck) feat. [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli)
 
 ### 2021-04-01: A State of Trance #1010
 
-> 🟥 1/10 | 2h | 27 tracks
+> 🟥 1/10 | ~2h | 27 tracks
 
 ### 2021-04-08: A State of Trance #1011
 
-> 🟧 4/10 | 2h | 29 tracks
+> 🟧 4/10 | ~2h | 29 tracks
 
 - Safe on Both Sides - Andy Moor
 - Beside You _([Sean Tyas](https://rateyourmusic.com/artist/sean-tyas) Magikal Mix)_ - [Somna](https://rateyourmusic.com/artist/somna) & [Noire Lee](https://rateyourmusic.com/artist/noire-lee)
@@ -2812,11 +2813,11 @@
 
 ### 2021-04-15: A State of Trance #1012
 
-> 🟥 1/10 | 2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks
 
 ### 2021-04-22: A State of Trance #1013
 
-> 🟥 2/10 | 2h01m | 31 tracks
+> 🟥 2/10 | ~2h01m | 31 tracks
 
 - Change the World - [Ben Gold](https://rateyourmusic.com/artist/ben_gold) & [Allen Watts](https://rateyourmusic.com/artist/allen_watts)
 
@@ -2828,19 +2829,19 @@
 
 ### 2021-05-06: A State of Trance #1015
 
-> 🟥 2/10 | 2h02m | 26 tracks
+> 🟥 2/10 | ~2h02m | 26 tracks
 
 - Alone - Ruddaz
 
 ### 2021-05-13: A State of Trance #1016
 
-> 🟥 2/10 | 2h | 30 tracks
+> 🟥 2/10 | ~2h | 30 tracks
 
 - Paradise Found - Adam Taylor
 
 ### 2021-05-20: A State of Trance #1017
 
-> 🟧 4/10 | 2h01m | 27 tracks
+> 🟧 4/10 | ~2h01m | 27 tracks
 
 - I Love You - [Key4050](https://rateyourmusic.com/artist/key4050) & [Plumb](#)
 - Are You With Me _([Sector 7](https://rateyourmusic.com/artist/sector-7) Remix)_ - [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz) & [Daimy Lotus](https://rateyourmusic.com/artist/daimy-lotus)
@@ -2854,20 +2855,20 @@
 
 ### 2021-06-03: A State of Trance #1019
 
-> 🟥 2/10 | 2h02m | 28 tracks
+> 🟥 2/10 | ~2h02m | 28 tracks
 
 - Gravity - [Tom Staar](https://rateyourmusic.com/artist/tom-staar), [Jem Cooke](https://rateyourmusic.com/artist/jem-cooke) & [AVIRA](https://rateyourmusic.com/artist/avira)
 
 ### 2021-06-10: A State of Trance #1020
 
-> 🟧 3/10 | 2h | 28 tracks
+> 🟧 3/10 | ~2h | 28 tracks
 
 - Our Desire - [Tekno](https://rateyourmusic.com/artist/tekno-2), [DJ T.H.](https://rateyourmusic.com/artist/dj-t_h) & [That Girl](https://rateyourmusic.com/artist/that-girl)
 - Lost - [Liam Melly](https://rateyourmusic.com/artist/liam_melly) & [Jessica Doherty](#)
 
 ### 2021-06-17: A State of Trance #1021
 
-> 🟥 2/10 | 2h01m | 31 tracks
+> 🟥 2/10 | ~2h01m | 31 tracks
 
 - Synaesthesia _([Umek](https://rateyourmusic.com/artist/umek) Remix)_ - The Thrillseekers
 
@@ -2879,20 +2880,20 @@
 
 ### 2021-07-01: A State of Trance #1023
 
-> 🟥 2/10 | 2h | 27 tracks
+> 🟥 2/10 | ~2h | 27 tracks
 
 - That's Life - Scorz
 
 ### 2021-07-08: A State of Trance #1024
 
-> 🟧 3/10 | 2h01m | 29 tracks
+> 🟧 3/10 | ~2h01m | 29 tracks
 
 - Be the Angel - [Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) & [Lucid Blue](#)
 - Last Goodbye - Luke Bond
 
 ### 2021-07-15: A State of Trance #1025
 
-> 🟨 6/10 | 2h01m | 29 tracks
+> 🟨 6/10 | ~2h01m | 29 tracks
 
 - Personal Jesus _([Cubicore](https://rateyourmusic.com/artist/cubicore) Deep Mix)_ - [Cubicore](https://rateyourmusic.com/artist/cubicore) & [Shane 54](https://rateyourmusic.com/artist/shane-54)
 - River - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) feat. [AIDYL](https://rateyourmusic.com/artist/aidyl)
@@ -2902,11 +2903,11 @@
 
 ### 2021-07-22: A State of Trance #1026
 
-> 🟥 1/10 | 2h02m | 30 tracks
+> 🟥 1/10 | ~2h02m | 30 tracks
 
 ### 2021-07-29: A State of Trance #1027
 
-> 🟥 1/10 | 2h | 27 tracks
+> 🟥 1/10 | ~2h | 27 tracks
 
 ### 2021-08-05: A State of Trance #1028
 
@@ -2933,7 +2934,7 @@
 
 ### 2021-08-26: A State of Trance #1031
 
-> 🟨 5/10 | 2h02m | 29 tracks
+> 🟨 5/10 | ~2h02m | 29 tracks
 
 - Holding On - Cubicore
 - Gravity _([Fabrication](https://rateyourmusic.com/artist/fabrication) Remix)_ - [Tom Staar](https://rateyourmusic.com/artist/tom-staar), [Jem Cooke](https://rateyourmusic.com/artist/jem-cooke) & [AVIRA](https://rateyourmusic.com/artist/avira)
@@ -2950,13 +2951,13 @@
 
 ### 2021-09-09: A State of Trance #1033
 
-> 🟥 2/10 | 2h01m | 26 tracks
+> 🟥 2/10 | ~2h01m | 26 tracks
 
 - My Guiding Light - [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli) & [Richard Durand](https://rateyourmusic.com/artist/richard_durand)
 
 ### 2021-09-16: A State of Trance #1034
 
-> 🟨 5/10 | 2h01m | 32 tracks
+> 🟨 5/10 | ~2h01m | 32 tracks
 
 - For All Time - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) and [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila) feat. [Kazi Jay](https://rateyourmusic.com/artist/kazi-jay)
 - Reach Me _([Ciaran McAuley](https://rateyourmusic.com/artist/ciaran-mcauley) Remix)_ - First State
@@ -2965,7 +2966,7 @@
 
 ### 2021-09-23: A State of Trance #1035
 
-> 🟨 6/10 | 2h01m | 29 tracks
+> 🟨 6/10 | ~2h01m | 29 tracks
 
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 - Radiance - Aimoon
@@ -2975,14 +2976,14 @@
 
 ### 2021-09-30: A State of Trance #1036
 
-> 🟧 3/10 | 2h01m | 26 tracks
+> 🟧 3/10 | ~2h01m | 26 tracks
 
 - Caught in a Memory - [Kojun](https://rateyourmusic.com/artist/kojun) & [Susana](https://rateyourmusic.com/artist/susana)
 - Out There _([Sean Tyas](https://rateyourmusic.com/artist/sean-tyas) Remix)_ - [Masters & Nickson](#) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
 ### 2021-10-07: A State of Trance #1037
 
-> 🟥 2/10 | 2h02m | 28 tracks
+> 🟥 2/10 | ~2h02m | 28 tracks
 
 - Hold Me _([Natrx](#) Remix)_ - Minus One
 
@@ -2994,7 +2995,7 @@
 
 ### 2021-10-21: A State of Trance #1039
 
-> 🟧 4/10 | 2h02m | 27 tracks
+> 🟧 4/10 | ~2h02m | 27 tracks
 
 - Swept Away _(Uplifting Mix)_ - [Matt Bukovski](https://rateyourmusic.com/artist/matt-bukovski) feat. [Tiff Lacey](https://rateyourmusic.com/artist/tiff_lacey)
 - Eskimo - Story of Oz
@@ -3002,7 +3003,7 @@
 
 ### 2021-10-28: A State of Trance #1040
 
-> 🟧 4/10 | 2h01m | 28 tracks
+> 🟧 4/10 | ~2h01m | 28 tracks
 
 - Miharo - Signum
 - Ghost - Signum
@@ -3010,18 +3011,18 @@
 
 ### 2021-11-04: A State of Trance #1041
 
-> 🟥 1/10 | 2h02m | 29 tracks
+> 🟥 1/10 | ~2h02m | 29 tracks
 
 ### 2021-11-11: A State of Trance #1042
 
-> 🟧 3/10 | 2h02m | 29 tracks
+> 🟧 3/10 | ~2h02m | 29 tracks
 
 - Piece of Art - Kryder
 - Rise Up _(FSOE 700 Anthem)_ - Paul Denton
 
 ### 2021-11-18: A State of Trance #1043
 
-> 🟧 4/10 | 2h02m | 29 tracks
+> 🟧 4/10 | ~2h02m | 29 tracks
 
 - Piece of Art - Kryder
 - Let the Light Shine in _([Brian Cross](https://rateyourmusic.com/artist/brian_cross) & [Abel Ramos](https://rateyourmusic.com/artist/abel-ramos) Remix)_ - [Darren Tate](https://rateyourmusic.com/artist/darren_tate_f1) & [Jono Grant](https://rateyourmusic.com/artist/jono-grant)
@@ -3033,7 +3034,7 @@
 
 ### 2021-11-25: A State of Trance #1044
 
-> 🟥 2/10 | 2h | 28 tracks
+> 🟥 2/10 | ~2h | 28 tracks
 
 - <10> Waking up the Stars - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) & [Protoculture](https://rateyourmusic.com/artist/protoculture)
 
@@ -3046,11 +3047,11 @@
 
 ### 2021-12-09: A State of Trance #1046
 
-> 🟥 1/10 | 2h | 27 tracks
+> 🟥 1/10 | ~2h | 27 tracks
 
 ### 2021-12-16: A State of Trance #1047
 
-> 🟥 2/10 | 2h02m | 29 tracks
+> 🟥 2/10 | ~2h02m | 29 tracks
 
 - Echoes - [Allen Watts](https://rateyourmusic.com/artist/allen_watts) & [SILVELA](https://rateyourmusic.com/artist/silvela)
 
@@ -3068,19 +3069,19 @@
 
 ### 2021-12-30: A State of Trance #1049, "Yearmix"
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ## 2022
 
 ### 2022-01-06: A State of Trance #1050
 
-> 🟥 2/10 | 2h | 27 tracks
+> 🟥 2/10 | ~2h | 27 tracks
 
 - Waterfall - [PRAANA](https://rateyourmusic.com/artist/praana) & [Liel Kolet](https://rateyourmusic.com/artist/liel-kolet)
 
 ### 2022-01-13: A State of Trance #1051
 
-> 🟨 6/10 | 2h01m | 27 tracks
+> 🟨 6/10 | ~2h01m | 27 tracks
 
 - Redrock - Oleg Farrier
 - Caught in a Memory _([Mike Zaloxx](https://rateyourmusic.com/artist/mike-zaloxx) Remix)_ - [Kojun](https://rateyourmusic.com/artist/kojun) & [Susana](https://rateyourmusic.com/artist/susana)
@@ -3090,21 +3091,21 @@
 
 ### 2022-01-20: A State of Trance #1052
 
-> 🟧 3/10 | 2h01m | 33 tracks
+> 🟧 3/10 | ~2h01m | 33 tracks
 
 - We Got the Fire - Cosmic Gate
 - Frozen _(Full Fire Mix)_ - Roman Messer
 
 ### 2022-01-27: A State of Trance #1053
 
-> 🟧 3/10 | 2h01m | 27 tracks
+> 🟧 3/10 | ~2h01m | 27 tracks
 
 - Rebound _([Jason Ross](https://rateyourmusic.com/artist/jason-ross) Remix)_ - [ARTY](https://rateyourmusic.com/artist/arty) & [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
 - Gamemaster _([Space Motion](https://rateyourmusic.com/artist/space-motion) Remix)_ - Lost Tribe
 
 ### 2022-02-03: A State of Trance #1054
 
-> 🟨 6/10 | 2h01m | 27 tracks
+> 🟨 6/10 | ~2h01m | 27 tracks
 
 - Jeger - Ørjan Nilsen
 - From The Sun - [Stoneface & Terminal](https://rateyourmusic.com/artist/stoneface-and-terminal) with [Robert Nickson](https://rateyourmusic.com/artist/robert_nickson)
@@ -3114,14 +3115,14 @@
 
 ### 2022-02-10: A State of Trance #1055
 
-> 🟧 3/10 | 2h01m | 28 tracks
+> 🟧 3/10 | ~2h01m | 28 tracks
 
 - In the Silence - [Luminn](https://rateyourmusic.com/artist/luminn) & [Roxanne Emery](https://rateyourmusic.com/artist/roxanne-emery)
 - Focus - [Luke Bond](https://rateyourmusic.com/artist/luke_bond) feat. [EKE](https://rateyourmusic.com/artist/eke-1)
 
 ### 2022-02-17: A State of Trance #1056
 
-> 🟧 4/10 | 2h02m | 31 tracks
+> 🟧 4/10 | ~2h02m | 31 tracks
 
 - Love You More - [Dave Neven](https://rateyourmusic.com/artist/dave-neven) & [Nicholas Gunn](https://rateyourmusic.com/artist/nicholas-gunn)
 - ID - ID
@@ -3129,7 +3130,7 @@
 
 ### 2022-02-24: A State of Trance #1057
 
-> 🟥 1/10 | 2h03m | 15 tracks
+> 🟥 1/10 | ~2h03m | 15 tracks
 
 ### 2022-03-03: A State of Trance #1058
 
@@ -3139,14 +3140,14 @@
 
 ### 2022-03-10: A State of Trance #1059
 
-> 🟧 3/10 | 2h | 31 tracks
+> 🟧 3/10 | ~2h | 31 tracks
 
 - New Beginning - ReOrder
 - Mess of a Machine _([Billy Gillies](https://rateyourmusic.com/artist/billy-gillies) Remix)_ - [John O'Callaghan](https://rateyourmusic.com/artist/john_ocallaghan) & [Kathryn Gallagher](https://rateyourmusic.com/artist/kathryn-gallagher)
 
 ### 2022-03-17: A State of Trance #1060
 
-> 🟨 5/10 | 2h | 31 tracks
+> 🟨 5/10 | ~2h | 31 tracks
 
 - You Are Enough _([Horisone](#) Remix)_ - [RAM](https://rateyourmusic.com/artist/ram_f11), [Susana](https://rateyourmusic.com/artist/susana) & [Tales of Life](https://rateyourmusic.com/artist/tales-of-life)
 - Forget Me - Thomas Knight
@@ -3162,20 +3163,20 @@
 
 ### 2022-03-31: A State of Trance #1062
 
-> 🟧 3/10 | 2h03m | 30 tracks
+> 🟧 3/10 | ~2h03m | 30 tracks
 
 - Same Sky Same Stars - [Ben Gold](https://rateyourmusic.com/artist/ben_gold) feat. [Plumb](#)
 - I Matter to You - [Richard Durand](https://rateyourmusic.com/artist/richard_durand) & [Susana](https://rateyourmusic.com/artist/susana)
 
 ### 2022-04-07: A State of Trance #1063
 
-> 🟥 2/10 | 2h | 26 tracks
+> 🟥 2/10 | ~2h | 26 tracks
 
 - Take This - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Out of the Dust](https://rateyourmusic.com/artist/out-of-the-dust) feat. [Plumb](#)
 
 ### 2022-04-14: A State of Trance #1064
 
-> 🟧 4/10 | 2h | 31 tracks
+> 🟧 4/10 | ~2h | 31 tracks
 
 - Take This - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Out of the Dust](https://rateyourmusic.com/artist/out-of-the-dust) feat. [Plumb](#)
 - Break Through the Ground - [MaRLo](https://rateyourmusic.com/artist/marlo-2) & [Avao](https://rateyourmusic.com/artist/avao)
@@ -3183,24 +3184,24 @@
 
 ### 2022-04-21: A State of Trance #1065
 
-> 🟥 2/10 | 2h | 27 tracks
+> 🟥 2/10 | ~2h | 27 tracks
 
 - You Can't Save Me - [Lasse Macbeth](https://rateyourmusic.com/artist/lasse-macbeth) & [Josie Sandfeld](#)
 
 ### 2022-04-28: A State of Trance #1066
 
-> 🟥 1/10 | 2h | 28 tracks
+> 🟥 1/10 | ~2h | 28 tracks
 
 ### 2022-05-05: A State of Trance #1067
 
-> 🟧 3/10 | 2h | 27 tracks
+> 🟧 3/10 | ~2h | 27 tracks
 
 - In Silence - Hel:sløwed
 - Love Is a Drug _([XiJaro & Pitch](https://rateyourmusic.com/artist/xijaro-and-pitch) Remix)_ - ilan Bluestone
 
 ### 2022-05-12: A State of Trance #1068
 
-> 🟧 4/10 | 2h02m | 27 tracks
+> 🟧 4/10 | ~2h02m | 27 tracks
 
 - Someone You Love _([C-Systems](https://rateyourmusic.com/artist/c_systems) Remix)_ - [SMR LVE](https://rateyourmusic.com/artist/smr-lve) & [Linney](https://rateyourmusic.com/artist/linney)
 - Rest of Our Lives - Ben Gold
@@ -3208,21 +3209,21 @@
 
 ### 2022-05-19: A State of Trance #1069
 
-> 🟧 3/10 | 2h02m | 28 tracks
+> 🟧 3/10 | ~2h02m | 28 tracks
 
 - Rest of Our Lives - Ben Gold
 - Replay - [Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) & [Natalie Shay](https://rateyourmusic.com/artist/natalie-shay)
 
 ### 2022-05-26: A State of Trance #1070
 
-> 🟧 3/10 | 2h02m | 28 tracks
+> 🟧 3/10 | ~2h02m | 28 tracks
 
 - Explorer - LÜRUM
 - Rest of Our Lives - Ben Gold
 
 ### 2022-06-02: A State of Trance #1071
 
-> 🟧 4/10 | 2h01m | 27 tracks
+> 🟧 4/10 | ~2h01m | 27 tracks
 
 - Carabella _([Galen Behr](#) vs [Ørjan Nilsen](https://rateyourmusic.com/artist/orjan_nilsen) Remix)_ - [Galen Behr](#) vs [Hydroid](#)
 - <10> Rest of Our Lives - Ben Gold
@@ -3230,19 +3231,19 @@
 
 ### 2022-06-09: A State of Trance #1072
 
-> 🟥 2/10 | 2h01m | 29 tracks
+> 🟥 2/10 | ~2h01m | 29 tracks
 
 - Can't Sleep _([Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde) & [Elevven](https://rateyourmusic.com/artist/elevven) Remix)_ - Above & Beyond
 
 ### 2022-06-16: A State of Trance #1073
 
-> 🟥 2/10 | 2h01m | 31 tracks
+> 🟥 2/10 | ~2h01m | 31 tracks
 
 - Never Forgotten _([Factoria](https://rateyourmusic.com/artist/factoria) Remix)_ - Dreamy
 
 ### 2022-06-23: A State of Trance #1074
 
-> 🟨 6/10 | 2h | 26 tracks
+> 🟨 6/10 | ~2h | 26 tracks
 
 - You and I - Firewalk
 - Cisza _(A Dreamstate Anthem)_ - Key4050
@@ -3252,30 +3253,30 @@
 
 ### 2022-06-30: A State of Trance #1075
 
-> 🟧 3/10 | 2h02m | 29 tracks
+> 🟧 3/10 | ~2h02m | 29 tracks
 
 - Never Enough - Ahmed Romel
 - Runaway - [Paul Clark](https://rateyourmusic.com/artist/paul_clark) & [Elle Mariachi](#)
 
 ### 2022-07-07: A State of Trance #1076
 
-> 🟥 2/10 | 2h01m | 28 tracks
+> 🟥 2/10 | ~2h01m | 28 tracks
 
 - Airwave - Rank 1
 
 ### 2022-07-14: A State of Trance #1077
 
-> 🟥 1/10 | 2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks
 
 ### 2022-07-21: A State of Trance #1078
 
-> 🟥 2/10 | 2h | 27 tracks
+> 🟥 2/10 | ~2h | 27 tracks
 
 - Runaway - [Paul Clark](https://rateyourmusic.com/artist/paul_clark) & [Elle Mariachi](#)
 
 ### 2022-07-28: A State of Trance #1079
 
-> 🟧 4/10 | 2h01m | 30 tracks
+> 🟧 4/10 | ~2h01m | 30 tracks
 
 - ID - ID
 - Leave Me Wanting More - Amar N
@@ -3283,17 +3284,17 @@
 
 ### 2022-08-04: A State of Trance #1080
 
-> 🟥 1/10 | 2h01m | 26 tracks
+> 🟥 1/10 | ~2h01m | 26 tracks
 
 ### 2022-08-11: A State of Trance #1081
 
-> 🟥 2/10 | 2h | 26 tracks
+> 🟥 2/10 | ~2h | 26 tracks
 
 - Forever & Always - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren), [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery) & [Owl City](https://rateyourmusic.com/artist/owl-city)
 
 ### 2022-08-18: A State of Trance #1082
 
-> 🟩 7/10 | 2h | 31 tracks
+> 🟩 7/10 | ~2h | 31 tracks
 
 - Not the Same - Markus Schulz
 - Impulse - Allen Watts
@@ -3304,7 +3305,7 @@
 
 ### 2022-08-25: A State of Trance #1083
 
-> 🟨 5/10 | 2h02m | 33 tracks
+> 🟨 5/10 | ~2h02m | 33 tracks
 
 - Yet Another Day _([The Noble Six](https://rateyourmusic.com/artist/the-noble-six) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Ray Wilson](https://rateyourmusic.com/artist/ray-wilson-2)
 - Feels Like Home - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) feat. [AIDYL](https://rateyourmusic.com/artist/aidyl)
@@ -3313,14 +3314,14 @@
 
 ### 2022-09-01: A State of Trance #1084
 
-> 🟧 3/10 | 2h02m | 25 tracks
+> 🟧 3/10 | ~2h02m | 25 tracks
 
 - For All Time - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) and [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila) feat. [Kazi Jay](https://rateyourmusic.com/artist/kazi-jay)
 - Love Shines Through _([Maarten de Jong](https://rateyourmusic.com/artist/maarten_de_jong) Remix)_ - Chakra
 
 ### 2022-09-08: A State of Trance #1085
 
-> 🟧 4/10 | 2h | 32 tracks
+> 🟧 4/10 | ~2h | 32 tracks
 
 - Void - South of the Stars
 - Esmeralda - Dreamy
@@ -3328,7 +3329,7 @@
 
 ### 2022-09-15: A State of Trance #1086
 
-> 🟨 5/10 | 2h | 28 tracks
+> 🟨 5/10 | ~2h | 28 tracks
 
 - Marvellous Universe - Bixx
 - Love Shines Through _([Maarten de Jong](https://rateyourmusic.com/artist/maarten_de_jong) Remix)_ - Chakra
@@ -3337,11 +3338,11 @@
 
 ### 2022-09-22: A State of Trance #1087
 
-> 🟥 1/10 | 2h02m | 31 tracks
+> 🟥 1/10 | ~2h02m | 31 tracks
 
 ### 2022-09-29: A State of Trance #1088
 
-> 🟨 5/10 | 2h02m | 29 tracks
+> 🟨 5/10 | ~2h02m | 29 tracks
 
 - Playfulness _(The Magic)_ - [Fisherman](https://rateyourmusic.com/artist/fisherman-1) & [Susana](https://rateyourmusic.com/artist/susana)
 - Silent Waves _([Factor B](https://rateyourmusic.com/artist/factor-b)'s Dark Waters Remix)_ - [David Forbes](https://rateyourmusic.com/artist/david_forbes) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
@@ -3350,14 +3351,14 @@
 
 ### 2022-10-06: A State of Trance #1089
 
-> 🟧 3/10 | 2h | 27 tracks
+> 🟧 3/10 | ~2h | 27 tracks
 
 - Horizon - Super8 & Tab
 - The Box - GXD
 
 ### 2022-10-13: A State of Trance #1090
 
-> 🟧 4/10 | 2h02m | 28 tracks
+> 🟧 4/10 | ~2h02m | 28 tracks
 
 - Rhythm (Of the Night) - Something Good
 - Phase One - Maarten de Jong
@@ -3372,7 +3373,7 @@
 
 ### 2022-10-27: A State of Trance #1092
 
-> 🟥 1/10 | 2h01m | 28 tracks
+> 🟥 1/10 | ~2h01m | 28 tracks
 
 ### 2022-11-03: A State of Trance #1093
 
@@ -3383,35 +3384,35 @@
 
 ### 2022-11-10: A State of Trance #1094
 
-> 🟧 3/10 | 2h04m | 30 tracks
+> 🟧 3/10 | ~2h04m | 30 tracks
 
 - I Wish - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel), [Robbie Seed](https://rateyourmusic.com/artist/robbie-seed) & [Jimmy Chou](https://rateyourmusic.com/artist/jimmy-chou) feat. [That Girl](https://rateyourmusic.com/artist/that-girl)
 - Bloodstream _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 
 ### 2022-11-17: A State of Trance #1095
 
-> 🟧 3/10 | 2h03m | 28 tracks
+> 🟧 3/10 | ~2h03m | 28 tracks
 
 - Adelphi '88 - Tritonal
 - Permission to Exhale - [Ciaran McAuley](https://rateyourmusic.com/artist/ciaran-mcauley) & [Eddie Pinero](#)
 
 ### 2022-11-24: A State of Trance #1096
 
-> 🟧 3/10 | 2h02m | 26 tracks
+> 🟧 3/10 | ~2h02m | 26 tracks
 
 - I Wish - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel), [Robbie Seed](https://rateyourmusic.com/artist/robbie-seed) & [Jimmy Chou](https://rateyourmusic.com/artist/jimmy-chou) feat. [That Girl](https://rateyourmusic.com/artist/that-girl)
 - Esperanza - Alan Morris
 
 ### 2022-12-01: A State of Trance #1097
 
-> 🟧 3/10 | 2h02m | 27 tracks
+> 🟧 3/10 | ~2h02m | 27 tracks
 
 - I See You - Hessian
 - Bloodstream _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 
 ### 2022-12-08: A State of Trance #1098
 
-> 🟨 6/10 | 2h | 35 tracks
+> 🟨 6/10 | ~2h | 35 tracks
 
 - When Darkness Falls - Inoblivion
 - Keep My Dreams Alive _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
@@ -3421,7 +3422,7 @@
 
 ### 2022-12-15: A State of Trance #1099
 
-> 🟧 3/10 | 2h02m | 27 tracks
+> 🟧 3/10 | ~2h02m | 27 tracks
 
 - Dance Mfs - [Allen Watts](https://rateyourmusic.com/artist/allen_watts) & [Jody 6](https://rateyourmusic.com/artist/jody-6)
 - Fade Away _(Onair Mix)_ - [Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) & [Mila Josef](#)
@@ -3443,30 +3444,30 @@
 
 ### 2022-12-29: A State of Trance #1101, "Yearmix"
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ## 2023
 
 ### 2023-01-05: A State of Trance #1102
 
-> 🟧 3/10 | 2h | 27 tracks
+> 🟧 3/10 | ~2h | 27 tracks
 
 - Cyclone - Lustral
 - Bloodstream _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 
 ### 2023-01-12: A State of Trance #1103
 
-> 🟥 2/10 | 2h | 24 tracks
+> 🟥 2/10 | ~2h | 24 tracks
 
 - There Is Purpose - [Ronski Speed](https://rateyourmusic.com/artist/ronski_speed) & [Bixx](https://rateyourmusic.com/artist/bixx)
 
 ### 2023-01-19: A State of Trance #1104
 
-> 🟥 1/10 | 2h | 24 tracks
+> 🟥 1/10 | ~2h | 24 tracks
 
 ### 2023-01-26: A State of Trance #1105
 
-> 🟧 4/10 | 2h | 29 tracks
+> 🟧 4/10 | ~2h | 29 tracks
 
 - Equinox - [Kay Wilder](#) & [Wldr](#)
 - Gold - Matt Fax
@@ -3474,7 +3475,7 @@
 
 ### 2023-02-02: A State of Trance #1106
 
-> 🟨 6/10 | 2h | 28 tracks
+> 🟨 6/10 | ~2h | 28 tracks
 
 - Questions Must Be Asked _([Modeā](https://rateyourmusic.com/artist/modea) Remix)_ - David Forbes
 - Stronger Together - Ivan Mateluna
@@ -3484,7 +3485,7 @@
 
 ### 2023-02-09: A State of Trance #1107
 
-> 🟧 4/10 | 2h | 30 tracks
+> 🟧 4/10 | ~2h | 30 tracks
 
 - Out of Nowhere _([Connor Woodford](https://rateyourmusic.com/artist/connor-woodford) Remix)_ - [John O'Callaghan](https://rateyourmusic.com/artist/john_ocallaghan) feat. [Josie](https://rateyourmusic.com/artist/josie_f1)
 - Forever _([Bogdan Vix](https://rateyourmusic.com/artist/bogdan-vix) & [Claudiu Adam](#) Remix)_ - [Bogdan Vix](https://rateyourmusic.com/artist/bogdan-vix) & [Renee Stahl](https://rateyourmusic.com/artist/renee_stahl)
@@ -3492,7 +3493,7 @@
 
 ### 2023-02-16: A State of Trance #1108
 
-> 🟧 4/10 | 2h | 3 tracks
+> 🟧 4/10 | ~2h | 3 tracks
 
 - Ignite - Symmetrik
 - Silence _([Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) & [Achilles](https://rateyourmusic.com/artist/achilles-2) Remix)_ - [Delerium](https://rateyourmusic.com/artist/delerium) feat. [Sarah McLachlan](https://rateyourmusic.com/artist/sarah-mclachlan)
@@ -3500,43 +3501,43 @@
 
 ### 2023-02-23: A State of Trance #1109
 
-> 🟥 1/10 | 2h | 27 tracks
+> 🟥 1/10 | ~2h | 27 tracks
 
 ### 2023-03-02: A State of Trance #1110
 
-> 🟧 3/10 | 2h | 31 tracks
+> 🟧 3/10 | ~2h | 31 tracks
 
 - Us Against The World - [Stowers & Cooper](#) & [That Girl](https://rateyourmusic.com/artist/that-girl)
 - Life Is Back - [Daniel Kandi](https://rateyourmusic.com/artist/daniel_kandi) & [Prox](https://rateyourmusic.com/artist/prox)
 
 ### 2023-03-09: A State of Trance #1111
 
-> 🟥 1/10 | 2h | 28 tracks
+> 🟥 1/10 | ~2h | 28 tracks
 
 ### 2023-03-16: A State of Trance #1112
 
-> 🟧 3/10 | 2h | 28 tracks
+> 🟧 3/10 | ~2h | 28 tracks
 
 - What's Left Of Me - Nicolas Menicou
 - Song I Sing - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [HALIENE](https://rateyourmusic.com/artist/haliene)
 
 ### 2023-03-23: A State of Trance #1113
 
-> 🟥 1/10 | 2h | 31 tracks
+> 🟥 1/10 | ~2h | 31 tracks
 
 ### 2023-03-30: A State of Trance #1114
 
-> 🟥 2/10 | 2h | 29 tracks
+> 🟥 2/10 | ~2h | 29 tracks
 
 - Find a Place - Cold Blue
 
 ### 2023-04-06: A State of Trance #1115
 
-> 🟥 1/10 | 2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks
 
 ### 2023-04-13: A State of Trance #1116
 
-> 🟨 6/10 | 2h | 28 tracks
+> 🟨 6/10 | ~2h | 28 tracks
 
 - Lifted - Volaris
 - Sunny Days _([PureNRG](https://rateyourmusic.com/artist/purenrg-1) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Josh Cumbee](https://rateyourmusic.com/artist/josh_cumbee)
@@ -3546,14 +3547,14 @@
 
 ### 2023-04-20: A State of Trance #1117
 
-> 🟧 3/10 | 2h | 30 tracks
+> 🟧 3/10 | ~2h | 30 tracks
 
 - Heavy _([Daxson](https://rateyourmusic.com/artist/daxson) Remix)_ - Christina Novelli
 - Exhilarate - [Will Rees](https://rateyourmusic.com/artist/will-rees) & [Asteroid](#)
 
 ### 2023-04-27: A State of Trance #1118
 
-> 🟧 4/10 | 2h | 26 tracks
+> 🟧 4/10 | ~2h | 26 tracks
 
 - Burned With Desire _([Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 - Shine a Light - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Bo Bruce](https://rateyourmusic.com/artist/bo-bruce)
@@ -3561,14 +3562,14 @@
 
 ### 2023-05-04: A State of Trance #1119
 
-> 🟧 3/10 | 2h | 28 tracks
+> 🟧 3/10 | ~2h | 28 tracks
 
 - Dayglow _([Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Stuart Crichton](https://rateyourmusic.com/artist/stuart-crichton)
 - Burned With Desire _([Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
 ### 2023-05-11: A State of Trance #1120
 
-> 🟧 4/10 | 2h | 30 tracks
+> 🟧 4/10 | ~2h | 30 tracks
 
 - Kalopsia _([Matt Fax](https://rateyourmusic.com/artist/matt_fax) Remix)_ - The Blizzard
 - Shine a Light - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Bo Bruce](https://rateyourmusic.com/artist/bo-bruce)
@@ -3576,17 +3577,17 @@
 
 ### 2023-05-18: A State of Trance #1121
 
-> 🟥 2/10 | 2h | 30 tracks
+> 🟥 2/10 | ~2h | 30 tracks
 
 - Burned With Desire _([Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
 ### 2023-05-25: A State of Trance #1122
 
-> 🟥 1/10 | 2h | 16 tracks
+> 🟥 1/10 | ~2h | 16 tracks
 
 ### 2023-06-01: A State of Trance #1123
 
-> 🟨 5/10 | 2h | 26 tracks
+> 🟨 5/10 | ~2h | 26 tracks
 
 - Everlasting - [Emma Hewitt](https://rateyourmusic.com/artist/emma-hewitt) & [XiJaro & Pitch](https://rateyourmusic.com/artist/xijaro-and-pitch)
 - Zenith - Greg Downey
@@ -3595,30 +3596,30 @@
 
 ### 2023-06-08: A State of Trance #1124
 
-> 🟧 3/10 | 2h | 25 tracks
+> 🟧 3/10 | ~2h | 25 tracks
 
 - Wave Force - Perry O'Neil
 - Carte Blanche - [Dirty South](https://rateyourmusic.com/artist/dirty_south) & [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
 
 ### 2023-06-15: A State of Trance #1125
 
-> 🟥 1/10 | 2h | 28 tracks
+> 🟥 1/10 | ~2h | 28 tracks
 
 ### 2023-06-22: A State of Trance #1126
 
-> 🟥 2/10 | 2h | 21 tracks
+> 🟥 2/10 | ~2h | 21 tracks
 
 - Hold on to This - [Hel:sløwed](https://rateyourmusic.com/artist/hel_slowed) & [That Girl](https://rateyourmusic.com/artist/that-girl)
 
 ### 2023-06-29: A State of Trance #1127
 
-> 🟥 2/10 | 2h | 33 tracks
+> 🟥 2/10 | ~2h | 33 tracks
 
 - Other Side of the World - [Craig Connelly](https://rateyourmusic.com/artist/craig-connelly) & [HALIENE](https://rateyourmusic.com/artist/haliene)
 
 ### 2023-07-06: A State of Trance #1128
 
-> 🟧 4/10 | 2h | 28 tracks
+> 🟧 4/10 | ~2h | 28 tracks
 
 - Kiss the Night - MurZo
 - Rest of Our Lives _([Paul Webster](https://rateyourmusic.com/artist/paul_webster_f2) Remix)_ - Ben Gold
@@ -3626,7 +3627,7 @@
 
 ### 2023-07-13: A State of Trance #1129
 
-> 🟧 4/10 | 2h | 31 tracks
+> 🟧 4/10 | ~2h | 31 tracks
 
 - Launching - [Achilles](https://rateyourmusic.com/artist/achilles-2) & [Boris Foong](https://rateyourmusic.com/artist/boris-foong)
 - You're Never Alone _(Uplifting Mix)_ - [Ciaran McAuley](https://rateyourmusic.com/artist/ciaran-mcauley) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
@@ -3634,7 +3635,7 @@
 
 ### 2023-07-20: A State of Trance #1130
 
-> 🟩 7/10 | 2h | 31 tracks
+> 🟩 7/10 | ~2h | 31 tracks
 
 - Forever Young - Paul Kold
 - Feel the Waves - Driftmoon
@@ -3645,18 +3646,18 @@
 
 ### 2023-07-27: A State of Trance #1131
 
-> 🟧 3/10 | 2h | 27 tracks
+> 🟧 3/10 | ~2h | 27 tracks
 
 - Rest of Our Lives _([Paul Webster](https://rateyourmusic.com/artist/paul_webster_f2) Remix)_ - Ben Gold
 - Shine a Light - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Bo Bruce](https://rateyourmusic.com/artist/bo-bruce)
 
 ### 2023-08-03: A State of Trance #1132
 
-> 🟥 1/10 | 2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks
 
 ### 2023-08-10: A State of Trance #1133
 
-> 🟨 5/10 | 2h | 29 tracks
+> 🟨 5/10 | ~2h | 29 tracks
 
 - Kalopsia _([Matt Fax](https://rateyourmusic.com/artist/matt_fax) Remix)_ - The Blizzard
 - Nathan's Song - Craig Connelly
@@ -3665,7 +3666,7 @@
 
 ### 2023-08-17: A State of Trance #1134
 
-> 🟧 4/10 | 2h | 29 tracks
+> 🟧 4/10 | ~2h | 29 tracks
 
 - Eye of the Storm - [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila) & [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) feat. [Cheryl Barnes](https://rateyourmusic.com/artist/cheryl_barnes)
 - Kiss the Night - MurZo
@@ -3673,7 +3674,7 @@
 
 ### 2023-08-24: A State of Trance #1135
 
-> 🟧 4/10 | 2h | 33 tracks
+> 🟧 4/10 | ~2h | 33 tracks
 
 - Breathless - [ReOrder](https://rateyourmusic.com/artist/reorder) & [Ghost Etiquette](https://rateyourmusic.com/artist/ghost-etiquette) feat. [Miss Geist](#)
 - Sirens Of The Sea _([Marsh](https://rateyourmusic.com/artist/marsh) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
@@ -3681,20 +3682,20 @@
 
 ### 2023-08-31: A State of Trance #1136
 
-> 🟥 2/10 | 2h | 33 tracks
+> 🟥 2/10 | ~2h | 33 tracks
 
 - Kamehameha - [Lucas Deyong](https://rateyourmusic.com/artist/lucas-deyong) & [0Gravity](https://rateyourmusic.com/artist/0gravity)
 
 ### 2023-09-07: A State of Trance #1137
 
-> 🟧 3/10 | 2h | 30 tracks
+> 🟧 3/10 | ~2h | 30 tracks
 
 - Piece of Art _([Darren Porter](https://rateyourmusic.com/artist/darren_porter) Remix)_ - Kryder
 - Feel Alive - Morgin Madison
 
 ### 2023-09-14: A State of Trance #1138
 
-> 🟨 6/10 | 2h | 30 tracks
+> 🟨 6/10 | ~2h | 30 tracks
 
 - After All These Years - Doppenberg
 - Your Journey - Trance Wax
@@ -3704,25 +3705,25 @@
 
 ### 2023-09-21: A State of Trance #1139
 
-> 🟥 2/10 | 2h | 32 tracks
+> 🟥 2/10 | ~2h | 32 tracks
 
 - A Moment of Melancholy _([Cold Blue](https://rateyourmusic.com/artist/cold_blue) Remix)_ - [Factor B](https://rateyourmusic.com/artist/factor-b) & [Highlandr](https://rateyourmusic.com/artist/highlandr)
 
 ### 2023-09-28: A State of Trance #1140
 
-> 🟥 2/10 | 2h | 31 tracks
+> 🟥 2/10 | ~2h | 31 tracks
 
 - Coming Home _([Arctic Moon](https://rateyourmusic.com/artist/arctic_moon) Remix)_ - Armin van Buuren
 
 ### 2023-10-05: A State of Trance #1141
 
-> 🟥 2/10 | 2h | 29 tracks
+> 🟥 2/10 | ~2h | 29 tracks
 
 - Via Infinita _([Marsh](https://rateyourmusic.com/artist/marsh) Remix)_ - Estiva
 
 ### 2023-10-12: A State of Trance #1142
 
-> 🟧 4/10 | 2h | 28 tracks
+> 🟧 4/10 | ~2h | 28 tracks
 
 - God Is in the Soundwaves - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Xoro](https://rateyourmusic.com/artist/xoro) feat. [Yola Recoba](https://rateyourmusic.com/artist/yola-recoba)
 - Lose This Feeling _([Dimension](https://rateyourmusic.com/artist/dimension_f2) Remix)_ - Armin van Buuren
@@ -3730,32 +3731,32 @@
 
 ### 2023-10-19: A State of Trance #1143
 
-> 🟥 2/10 | 2h | 29 tracks
+> 🟥 2/10 | ~2h | 29 tracks
 
 - Feel Again _([ID](#) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Wrabel](https://rateyourmusic.com/artist/wrabel)
 
 ### 2023-10-26: A State of Trance #1144
 
-> 🟥 2/10 | 2h | 29 tracks
+> 🟥 2/10 | ~2h | 29 tracks
 
 - God Is in the Soundwaves _(Harder Mix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Xoro](https://rateyourmusic.com/artist/xoro) feat. [Yola Recoba](https://rateyourmusic.com/artist/yola-recoba)
 
 ### 2023-11-02: A State of Trance #1145
 
-> 🟧 3/10 | 2h | 28 tracks
+> 🟧 3/10 | ~2h | 28 tracks
 
 - Breathing (Airwave) _([Alchimyst](https://rateyourmusic.com/artist/alchimyst) Remix)_ - Rank 1
 - All Over Again _([Sean Tyas](https://rateyourmusic.com/artist/sean-tyas) & [David Elston](#) Remix)_ - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Plumb](#)
 
 ### 2023-11-09: A State of Trance #1146
 
-> 🟥 2/10 | 2h | 30 tracks
+> 🟥 2/10 | ~2h | 30 tracks
 
 - Take My Breath - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) & [Marjan](https://rateyourmusic.com/artist/marjan-1)
 
 ### 2023-11-16: A State of Trance #1147
 
-> 🟨 5/10 | 2h | 33 tracks
+> 🟨 5/10 | ~2h | 33 tracks
 
 - Te Amo _([Cold Blue](https://rateyourmusic.com/artist/cold_blue) Remix)_ - Bryan Kearney
 - Godspeed _([Maria Healy](https://rateyourmusic.com/artist/maria-healy) Remix)_ - BT
@@ -3764,13 +3765,13 @@
 
 ### 2023-11-23: A State of Trance #1148
 
-> 🟥 2/10 | 2h | 27 tracks
+> 🟥 2/10 | ~2h | 27 tracks
 
 - You - Asteroid
 
 ### 2023-11-30: A State of Trance #1149
 
-> 🟧 4/10 | 2h | 23 tracks
+> 🟧 4/10 | ~2h | 23 tracks
 
 - Fiji _([Allan Morrow](https://rateyourmusic.com/artist/allan-morrow) Remix)_ - Atlantis
 - If You Only Knew _([Mitch de Klein](#) Remix)_ - [Hel:sløwed](https://rateyourmusic.com/artist/hel_slowed) & [Amber Revival](#)
@@ -3778,15 +3779,15 @@
 
 ### 2023-12-07: A State of Trance #1150
 
-> 🟥 1/10 | 2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks
 
 ### 2023-12-14: A State of Trance #1151
 
-> 🟥 1/10 | 2h | 35 tracks
+> 🟥 1/10 | ~2h | 35 tracks
 
 ### 2023-12-21: A State of Trance #1152, "Top 50"
 
-> 🟪 10/10 | 2h | 50 tracks
+> 🟪 10/10 | ~2h | 50 tracks
 
 - Connected _([Lostly](https://rateyourmusic.com/artist/lostly)'s Change of Season Remix)_ - [Factor B](https://rateyourmusic.com/artist/factor-b) & [Arielle Maren](https://rateyourmusic.com/artist/arielle-maren)
 - EVERLASTING - [Emma Hewitt](https://rateyourmusic.com/artist/emma-hewitt) X [XiJaro & Pitch](https://rateyourmusic.com/artist/xijaro-and-pitch)
@@ -3801,13 +3802,13 @@
 
 ### 2023-12-28: A State of Trance #1153, "Yearmix"
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ## 2024
 
 ### 2024-01-04: A State of Trance #1154
 
-> 🟨 5/10 | 2h
+> 🟨 5/10 | ~2h
 
 - Take Me Home - [C-Systems](https://rateyourmusic.com/artist/c_systems) & [Aina](https://rateyourmusic.com/artist/aina-2)
 - Anywhere _(Road Trippin')_ - anamē
@@ -3816,7 +3817,7 @@
 
 ### 2024-01-11: A State of Trance #1155
 
-> 🟧 4/10 | 2h
+> 🟧 4/10 | ~2h
 
 - Dayglow _([Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Stuart Crichton](https://rateyourmusic.com/artist/stuart-crichton)
 - Run - [Liam Melly](https://rateyourmusic.com/artist/liam_melly), [Code 2](#) & [Chelsea Holland](https://rateyourmusic.com/artist/chelsea-holland)
@@ -3824,38 +3825,38 @@
 
 ### 2024-01-18: A State of Trance #1156
 
-> 🟧 3/10 | 2h
+> 🟧 3/10 | ~2h
 
 - Northern Soul _([ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone) Remix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
 - Rebel Anthem _([Black Xs](#) Remix)_ - Obie Fernandez
 
 ### 2024-01-25: A State of Trance #1157
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Here I Am _([Richard Durand](https://rateyourmusic.com/artist/richard_durand) Remix)_ - [Nicholas Gunn](https://rateyourmusic.com/artist/nicholas-gunn) & [Harshil Kamdar](https://rateyourmusic.com/artist/harshil-kamdar) feat. [Alina Renae](https://rateyourmusic.com/artist/alina_renae)
 
 ### 2024-02-01: A State of Trance #1158
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Nano - Sønin
 
 ### 2024-02-08: A State of Trance #1159
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Need to Feel Loved - [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate) & [Forêt](https://rateyourmusic.com/artist/foret)
 
 ### 2024-02-15: A State of Trance #1160
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Castles in the Sky - i_o
 
 ### 2024-02-22: A State of Trance #1161
 
-> 🟪 10/10 | 2h
+> 🟪 10/10 | ~2h
 
 - Flashpoint - Taylor Torrence
 - Now or Never _([Craig Connelly](https://rateyourmusic.com/artist/craig-connelly) Remix)_ - [Daxson](https://rateyourmusic.com/artist/daxson) & [Nation of One](https://rateyourmusic.com/artist/nation-of-one)
@@ -3869,47 +3870,47 @@
 
 ### 2024-02-29: A State of Trance #1162
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Forever - [Bogdan Vix](https://rateyourmusic.com/artist/bogdan-vix) & [Renee Stahl](https://rateyourmusic.com/artist/renee_stahl)
 
 ### 2024-03-07: A State of Trance #1163
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - I Wish - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel), [Robbie Seed](https://rateyourmusic.com/artist/robbie-seed) & [Jimmy Chou](https://rateyourmusic.com/artist/jimmy-chou) feat. [That Girl](https://rateyourmusic.com/artist/that-girl)
 
 ### 2024-03-14: A State of Trance #1164
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ### 2024-03-21: A State of Trance #1165
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Just As You Are - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Rising Star](https://rateyourmusic.com/artist/rising-star) feat. [Fiora](https://rateyourmusic.com/artist/fiora)
 
 ### 2024-03-28: A State of Trance #1166
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ### 2024-04-04: A State of Trance #1167
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ### 2024-04-11: A State of Trance #1168
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 
 ### 2024-04-18: A State of Trance #1169
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 
 - Temple Voices - Steve Dekay
 
 ### 2024-04-25: A State of Trance #1170
 
-> 🟦 9/10 | 2h
+> 🟦 9/10 | ~2h
 
 - All Over Again - [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1) & [Plumb](#)
 - <10> Amsterdam _([Smith & Pledger](https://rateyourmusic.com/artist/smith_and_pledger) Remix)_ - Luminary
@@ -3922,21 +3923,21 @@
 
 ### 2024-05-02: A State of Trance #1171
 
-> 🟧 3/10 | 2h
+> 🟧 3/10 | ~2h
 
 - Piece of Art _([Darren Porter](https://rateyourmusic.com/artist/darren_porter) Remix)_ - Kryder
 - Out of the Sky _([Chris Schweizer](https://rateyourmusic.com/artist/chris-schweizer) Remix)_ - [Lange](https://rateyourmusic.com/artist/lange) & [Sarah Howells](https://rateyourmusic.com/artist/sarah_howells)
 
 ### 2024-05-09: A State of Trance #1172, "[Silva City]"
 
-> 🟥 2/10 | 2h | 27 tracks
+> 🟥 2/10 | ~2h | 27 tracks
 > | [1001tracklists](https://1001.tl/11zy9vl1)
 
 - ID - Silva City
 
 ### 2024-05-16: A State of Trance #1173, "[Matt Fax]"
 
-> 🟧 3/10 | 2h | 29 tracks
+> 🟧 3/10 | ~2h | 29 tracks
 > | [1001tracklists](https://1001.tl/2vrr84lk)
 
 - By Now _(VIP Mix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [D.O.D](https://rateyourmusic.com/artist/d_o_d-1) feat. [Laura Welsh](https://rateyourmusic.com/artist/laura_welsh)
@@ -3944,38 +3945,38 @@
 
 ### 2024-05-23: A State of Trance #1174, "[Giorgia Angiuli]"
 
-> 🟥 1/10 | 2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks
 > | [1001tracklists](https://1001.tl/1u6w7tj1)
 
 ### 2024-05-30: A State of Trance #1175, "[Laura van Dam]"
 
-> 🟥 2/10 | 2h | 32 tracks
+> 🟥 2/10 | ~2h | 32 tracks
 > | [1001tracklists](https://1001.tl/quft7sk)
 
 - Into the Night - [Audorn](#) & [Sarah de Warren](https://rateyourmusic.com/artist/sarah-de-warren)
 
 ### 2024-06-06: A State of Trance #1176, "[Ferry Corsten]"
 
-> 🟥 1/10 | 2h | 31 tracks
+> 🟥 1/10 | ~2h | 31 tracks
 > | [1001tracklists](https://1001.tl/9t7pbd1)
 
 ### 2024-06-13: A State of Trance #1177, "[MRPHLNDR]"
 
-> 🟥 2/10 | 2h | 29 tracks
+> 🟥 2/10 | ~2h | 29 tracks
 > | [1001tracklists](https://1001.tl/1hz5ju2t)
 
 - Castles in the Sky - [P.O.U](#) & [Scott Forshaw](#)
 
 ### 2024-06-20: A State of Trance #1178, "[UUFO]"
 
-> 🟥 2/10 | 2h | 32 tracks
+> 🟥 2/10 | ~2h | 32 tracks
 > | [1001tracklists](https://1001.tl/2vrxc0x1)
 
 - Out There _([Uufo](#) Remix)_ - [Masters & Nickson](#) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
 ### 2024-06-27: A State of Trance #1179, "[Maarten de Jong]"
 
-> 🟧 4/10 | 2h
+> 🟧 4/10 | ~2h
 > | [1001tracklists](https://1001.tl/1pl1wuuk)
 
 - Take My Breath - 0Gravity
@@ -3984,7 +3985,7 @@
 
 ### 2024-07-04: A State of Trance #1180, "[Ferry Corsten]"
 
-> 🟩 7/10 | 2h
+> 🟩 7/10 | ~2h
 > | [1001tracklists](https://1001.tl/z6v2dh9)
 
 - Feel Alive - [Eugenio Tokarev](https://rateyourmusic.com/artist/eugenio-tokarev) & [Bruno Oloviani](https://rateyourmusic.com/artist/bruno-oloviani)
@@ -3996,7 +3997,7 @@
 
 ### 2024-07-11: A State of Trance #1181, "[York]"
 
-> 🟧 4/10 | 2h
+> 🟧 4/10 | ~2h
 > | [1001tracklists](https://1001.tl/hd7s0z1)
 
 - 1984 - ReOrder
@@ -4005,26 +4006,26 @@
 
 ### 2024-07-18: A State of Trance #1182, "[Morgin Madison]"
 
-> 🟥 1/10 | 2h
+> 🟥 1/10 | ~2h
 > | [1001tracklists](https://1001.tl/y93ntq1)
 
 ### 2024-07-18: A State of Trance #1183, "[Juliet Fox]"
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 > | [1001tracklists](https://1001.tl/y93ntq1)
 
 - Survive It - [Ben Nicky](https://rateyourmusic.com/artist/ben-nicky) & [Creeds](https://rateyourmusic.com/artist/creeds)
 
 ### 2024-07-25: A State of Trance #1183
 
-> 🟥 2/10 | 2h
+> 🟥 2/10 | ~2h
 > | [1001tracklists](https://1001.tl/15rlcbj9)
 
 - Survive It - [Ben Nicky](https://rateyourmusic.com/artist/ben-nicky) & [Creeds](https://rateyourmusic.com/artist/creeds)
 
 ### 2024-07-25: A State of Trance #1184, "[Ferry Corsten]"
 
-> 🟧 4/10 | 2h
+> 🟧 4/10 | ~2h
 > | [1001tracklists](https://1001.tl/15rlcbj9)
 
 - The Journey - Silva City
@@ -4033,7 +4034,7 @@
 
 ### 2024-08-01: A State of Trance #1184
 
-> 🟧 4/10 | 2h
+> 🟧 4/10 | ~2h
 > | [1001tracklists](https://1001.tl/fjry5y9)
 
 - The Journey - Silva City
@@ -4042,7 +4043,7 @@
 
 ### 2024-08-08: A State of Trance #1185
 
-> 🟧 4/10 | 2h
+> 🟧 4/10 | ~2h
 > | [1001tracklists](https://1001.tl/1lsw2m9t)
 
 - High on the Low - Will Atkinson
