@@ -11,5 +11,5 @@
 - [Ophelias Odyssey](Broadcasts/Ophelias%20Odyssey.md) (38 mixes, 38h, 4.03/10)
 - [Phoenix Radio](Broadcasts/Phoenix%20Radio.md) (20 mixes, 20h, 3.15/10)
 - [Sophie Sugars Symphony](Broadcasts/Sophie%20Sugars%20Symphony.md) (13 mixes, 13h, 4.54/10)
-- [Tomorrowland](Broadcasts/Tomorrowland.md) (19 mixes, 19h, 17.58/10)
+- [Tomorrowland](Broadcasts/Tomorrowland.md) (19 mixes, 19h, 6.63/10)
 - [Tritonia](Broadcasts/Tritonia.md) (240 mixes, 240h04m, 3.25/10)
