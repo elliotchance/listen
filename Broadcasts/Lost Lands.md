@@ -80,7 +80,7 @@
 
 > 🟧 3/10 | ~1h | 53 tracks
 
-- Starfall _([VLCN](https://rateyourmusic.com/artist/vlcn) Remix)_ - Illenium
+- Starfall _([VLCN](https://rateyourmusic.com/artist/vlcn) Remix)_ - [Illenium](https://rateyourmusic.com/artist/illenium)
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [BENDA]"
 
@@ -108,7 +108,7 @@
 
 > 🟧 3/10 | ~1h | 70 tracks
 
-- Faded _([ID](#) Remix)_ - ZHU
+- Faded _([ID](#) Remix)_ - [ZHU](https://rateyourmusic.com/artist/zhu)
 
 ### 2023-09-22: Lost Lands, "Prehistoric Stage: [Excision]"
 
@@ -172,7 +172,7 @@
 - Remember - [Crystal Skies](https://rateyourmusic.com/artist/crystal-skies), [Au5](https://rateyourmusic.com/artist/au5) & [Seven Lions](https://rateyourmusic.com/artist/seven-lions)
 - Paradise / Bangarang - [Au5](https://rateyourmusic.com/artist/au5), [HA!L](#), [Derpcat](https://rateyourmusic.com/artist/derpcat) & [Skrillex](https://rateyourmusic.com/artist/skrillex) feat. [Sirah](https://rateyourmusic.com/artist/sirah)
 - Snowblind _(VIP)_ - [Au5](https://rateyourmusic.com/artist/au5) feat. [Tasha Baxter](https://rateyourmusic.com/artist/tasha-baxter)
-- Wasteland _([Au5](https://rateyourmusic.com/artist/au5) & [Chime](https://rateyourmusic.com/artist/chime-1) Remix)_ - Trivecta
+- Wasteland _([Au5](https://rateyourmusic.com/artist/au5) & [Chime](https://rateyourmusic.com/artist/chime-1) Remix)_ - [Trivecta](https://rateyourmusic.com/artist/trivecta)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Cyclops]"
 
@@ -199,20 +199,20 @@
 > 🟨 5/10 | ~1h | 56 tracks
 
 - Lights / Jewel - [RL Grime](https://rateyourmusic.com/artist/rl-grime), [ISOxo](https://rateyourmusic.com/artist/isoxo) & [Ellie Goulding](https://rateyourmusic.com/artist/ellie-goulding)
-- Untouched _([ID](#) Remix)_ - The Veronicas
+- Untouched _([ID](#) Remix)_ - [The Veronicas](https://rateyourmusic.com/artist/the-veronicas)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Grabbitz]"
 
 > 🟨 5/10 | ~1h | 49 tracks
 
 - Sleaze / Ballin' - [Grabbitz](https://rateyourmusic.com/artist/grabbitz) & [Knife Party](https://rateyourmusic.com/artist/knife-party) feat. [MistaJam](https://rateyourmusic.com/artist/mistajam)
-- ID - ID
+- ID - [ID](#)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [Kayzo]"
 
 > 🟨 5/10 | ~1h | 77 tracks
 
-- Numb _([Kayzo](https://rateyourmusic.com/artist/kayzo) Remix)_ - Linkin Park
+- Numb _([Kayzo](https://rateyourmusic.com/artist/kayzo) Remix)_ - [Linkin Park](https://rateyourmusic.com/artist/linkin-park)
 - A Brief Tutorial on Dubstep Production _([Kayzo](https://rateyourmusic.com/artist/kayzo) Remix)_ - [Dubba Jonny](https://rateyourmusic.com/artist/dubba_jonny) & [Kayzo](https://rateyourmusic.com/artist/kayzo)
 
 ### 2023-09-22: Lost Lands, "Wompy Woods: [SoDown]"

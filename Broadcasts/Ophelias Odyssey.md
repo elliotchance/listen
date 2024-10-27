@@ -15,14 +15,14 @@
 
 - Mercy - [MitiS](https://rateyourmusic.com/artist/mitis) & [Glasscat](https://rateyourmusic.com/artist/glasscat)
 - Try - [MitiS](https://rateyourmusic.com/artist/mitis) feat. [Røry](https://rateyourmusic.com/artist/rory-2)
-- Frameworks - MitiS
+- Frameworks - [MitiS](https://rateyourmusic.com/artist/mitis)
 - Moments - [MitiS](https://rateyourmusic.com/artist/mitis) feat. [Adara](https://rateyourmusic.com/artist/adara)
 
 ### 2020-05-01: Ophelia's Odyssey #2, "[Trivecta]"
 
 > 🟨 5/10 | ~1h | 21 tracks
 
-- Wasteland - Trivecta
+- Wasteland - [Trivecta](https://rateyourmusic.com/artist/trivecta)
 - Alive _([Trivecta](https://rateyourmusic.com/artist/trivecta) Remix)_ - [Dabin](https://rateyourmusic.com/artist/dabin) feat. [RUNN](https://rateyourmusic.com/artist/runn)
 
 ### 2020-06-10: Ophelia's Odyssey #3, "[Dimibo]"
@@ -37,7 +37,7 @@
 
 > 🟧 3/10 | ~1h | 29 tracks
 
-- Wasteland _([Wooli](https://rateyourmusic.com/artist/wooli) Remix)_ - Trivecta
+- Wasteland _([Wooli](https://rateyourmusic.com/artist/wooli) Remix)_ - [Trivecta](https://rateyourmusic.com/artist/trivecta)
 
 ### 2020-08-05: Ophelia's Odyssey #5, "[Nurko]"
 
@@ -91,7 +91,7 @@
 
 - Gorgeous vs. All Together - [Blanke](https://rateyourmusic.com/artist/blanke) & [Illenium](https://rateyourmusic.com/artist/illenium) feat. [Bipolar Sunshine](https://rateyourmusic.com/artist/bipolar_sunshine) & [OEKIIN](#)
 - Don't Leave - [Seven Lions](https://rateyourmusic.com/artist/seven-lions) feat. [Ellie Goulding](https://rateyourmusic.com/artist/ellie-goulding)
-- Pulse - REAPER
+- Pulse - [REAPER](https://rateyourmusic.com/artist/reaper-5)
 - Follow Me _([Blanke](https://rateyourmusic.com/artist/blanke) Remix)_ - [Blanke](https://rateyourmusic.com/artist/blanke) & [ShockOne](https://rateyourmusic.com/artist/shockone)
 
 ### 2021-05-05: Ophelia's Odyssey #13, "[AMIDY]"
@@ -107,13 +107,13 @@
 - Castles in the Sky - [Kaimo K](https://rateyourmusic.com/artist/kaimo-k), [Mariske Hekkenberg](#) & [Trance Classics](#)
 - Worlds Apart _([Seven Lions](https://rateyourmusic.com/artist/seven-lions) 1999 Remix)_ - [Seven Lions](https://rateyourmusic.com/artist/seven-lions) feat. [Kerli](https://rateyourmusic.com/artist/kerli)
 - Need to Feel Loved (Higher Love) - [UnClubbed](https://rateyourmusic.com/artist/unclubbed), [Seven Lions](https://rateyourmusic.com/artist/seven-lions) & [Jason Ross](https://rateyourmusic.com/artist/jason-ross) feat. [Zoe Durrant](https://rateyourmusic.com/artist/zoe-durrant) & [Paul Meany](https://rateyourmusic.com/artist/paul_meany)
-- Power of Acid - Ranji
+- Power of Acid - [Ranji](https://rateyourmusic.com/artist/ranji-1)
 
 ### 2021-06-09: Ophelia's Odyssey #15, "[STAR SEED]"
 
 > 🟧 3/10 | ~1h | 36 tracks
 
-- Atrea - Heimanu
+- Atrea - [Heimanu](https://rateyourmusic.com/artist/heimanu)
 
 ### 2021-07-21: Ophelia's Odyssey #16, "[Au5]"
 
@@ -131,7 +131,7 @@
 
 > 🟧 3/10 | ~1h | 15 tracks
 
-- Ghost Voices _([ALPHA 9](https://rateyourmusic.com/artist/alpha-9) Remix)_ - Virtual Self
+- Ghost Voices _([ALPHA 9](https://rateyourmusic.com/artist/alpha-9) Remix)_ - [Virtual Self](https://rateyourmusic.com/artist/virtual-self)
 
 ### 2021-10-27: Ophelia's Odyssey #19, "[Xavi]"
 
@@ -142,8 +142,8 @@
 > 🟩 7/10 | ~1h | 27 tracks
 
 - Jackknife / ID - [RIOT](https://rateyourmusic.com/artist/riot-3) & ID
-- Juggernaut - RIOT
-- Overkill - RIOT
+- Juggernaut - [RIOT](https://rateyourmusic.com/artist/riot-3)
+- Overkill - [RIOT](https://rateyourmusic.com/artist/riot-3)
 
 ### 2022-01-19: Ophelia's Odyssey #21, "[Codeko]"
 
@@ -160,7 +160,7 @@
 - Marea (We've Lost Dancing) - [Fred again..](https://rateyourmusic.com/artist/fred-again) & [The Blessed Madonna](https://rateyourmusic.com/artist/the-blessed-madonna)
 - Rush over Me _([Seven Lions](https://rateyourmusic.com/artist/seven-lions) 1999 Remix)_ - [Seven Lions](https://rateyourmusic.com/artist/seven-lions) feat. [HALIENE](https://rateyourmusic.com/artist/haliene)
 - Tell Me / Horizon / Tell Me _([Rudebrat](https://rateyourmusic.com/artist/rudebrat) Refix)_ - [RL Grime](https://rateyourmusic.com/artist/rl-grime), [What So Not](https://rateyourmusic.com/artist/what-so-not), [Slippy](https://rateyourmusic.com/artist/slippy-1), [Blosso](https://rateyourmusic.com/artist/blosso) & [GLNNA](https://rateyourmusic.com/artist/glnna)
-- ID - ID
+- ID - [ID](#)
 - Down Under - [Luude](https://rateyourmusic.com/artist/luude) feat. [Colin Hay](https://rateyourmusic.com/artist/colin-hay)
 
 ### 2022-03-16: Ophelia's Odyssey #23, "[KEPIK]"
@@ -213,7 +213,7 @@
 
 - Castrum Mortis - [Ironheart](https://rateyourmusic.com/artist/ironheart-1) feat. [Celestial Void](https://rateyourmusic.com/artist/celestial-void)
 - Aerials - [Sarah de Warren](https://rateyourmusic.com/artist/sarah-de-warren) & [Shadow Cliq](https://rateyourmusic.com/artist/shadow-cliq)
-- Sanjar - Ironheart
+- Sanjar - [Ironheart](https://rateyourmusic.com/artist/ironheart-1)
 
 ### 2023-04-25: Ophelia's Odyssey #32, "[Gem & Tauri]"
 

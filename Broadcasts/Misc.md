@@ -2,9 +2,9 @@
 
 <!-- toc:start -->
 
-**23 mixes, 32h47m**
+**24 mixes, 34h41m**
 
-- [Cercle](#cercle) (2 mixes, 3h13m)
+- [Cercle](#cercle) (3 mixes, 5h07m)
 - [Fear N Loathing](#fear-n-loathing) (2 mixes, 4h)
 - [FeelMyBicep](#feelmybicep) (6 mixes, 5h50m)
 - [Future Sound of Egypt](#future-sound-of-egypt) (1 mix, 2h)
@@ -20,13 +20,20 @@
 
 ## Cercle
 
-### 2020-08-31: Cercle, "[Ben Böhmer]": Cappadocia, Turkey
+### 2020-08-31: Cercle, "Ben Böhmer": Cappadocia, Turkey
 
-> 🟪 10/10 | 1h24m
+> 🟪 10/10 | 1h24m | [Ben Böhmer](https://rateyourmusic.com/artist/ben-bohmer)
+> | [YouTube](https://www.youtube.com/watch?v=RvRhUHTV_8k)
 
-### 2022-04-18: Cercle, "[Boris Brejcha]": Arènes de Nîmes, France
+### 2022-04-07: Cercle, "Bedouin": Petra, Jordan
 
-> 🟩 7/10 | 1h49m
+> 1h54m | [Bedouin](https://rateyourmusic.com/artist/bedouin-1)
+> | [YouTube](https://www.youtube.com/watch?v=xQCLf9T_M7Q)
+
+### 2022-04-18: Cercle, "Boris Brejcha": Arènes de Nîmes, France
+
+> 🟩 7/10 | 1h49m | [Boris Brejcha](https://rateyourmusic.com/artist/boris-brejcha)
+> | [YouTube](https://www.youtube.com/watch?v=1MobY_vR7-g)
 
 ## Fear N Loathing
 
@@ -70,78 +77,78 @@
 
 > 🟧 4/10 | ~2h | 27 tracks
 
-- Existence - Paul Denton
+- Existence - [Paul Denton](https://rateyourmusic.com/artist/paul-denton)
 - Running - [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila), [Skypatrol](https://rateyourmusic.com/artist/skypatrol) & [Sue McLaren](https://rateyourmusic.com/artist/sue-mclaren)
 - You & I - [Ciaran McAuley](https://rateyourmusic.com/artist/ciaran-mcauley), [Roger Shah](https://rateyourmusic.com/artist/roger_shah) & [Hannah Brine](#)
 
 ## Group Therapy
 
-### 2021-12-10: Group Therapy #464, "[Manila Killa]"
+### 2021-12-10: Group Therapy #464, "Manila Killa"
 
-> 🟧 4/10 | ~2h | 28 tracks
+> 🟧 4/10 | ~2h | 28 tracks | [Manila Killa](https://rateyourmusic.com/artist/manila_killa)
 
-- Follow Me - DT8 Project
+- Follow Me - [DT8 Project](https://rateyourmusic.com/artist/dt8_project)
 - Sun & Moon _([ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone) Remix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
 - On & On - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Louise Rademakers](https://rateyourmusic.com/artist/louise-rademakers)
 
-### 2021-12-17: Group Therapy #465, "[THEMBA]"
+### 2021-12-17: Group Therapy #465, "THEMBA"
 
-> 🟧 3/10 | ~2h | 25 tracks
+> 🟧 3/10 | ~2h | 25 tracks | [THEMBA](https://rateyourmusic.com/artist/themba-1)
 
 - The Other Side - [DT8 Project](https://rateyourmusic.com/artist/dt8_project), [Tephra](https://rateyourmusic.com/artist/tephra)
-- Seeking Blue - Fatum
+- Seeking Blue - [Fatum](https://rateyourmusic.com/artist/fatum-2)
 
-### 2022-01-07: Group Therapy #466, "[Bexxie]"
+### 2022-01-07: Group Therapy #466, "Bexxie"
 
-> 🟥 1/10 | ~2h | 29 tracks
+> 🟥 1/10 | ~2h | 29 tracks | [Bexxie](https://rateyourmusic.com/artist/bexxie)
 
 ## HARD Summer 2022
 
-### 2022-07-29: HARD Summer 2022, "[Montell2099]"
+### 2022-07-29: HARD Summer 2022, "Montell2099"
 
-> 🟩 8/10 | ~1h
+> 🟩 8/10 | ~1h | [Montell2099](https://rateyourmusic.com/artist/montell2099)
 > | [1001tracklists](https://1001.tl/10z7nfjt)
 
 ## Lane 8's Mixtape
 
-### 2021-09-15: [Lane 8], "Fall 2021 Mixtape"
+### 2021-09-15: Lane 8, "Fall 2021 Mixtape"
 
-> 🟩 7/10 | ~1h
+> 🟩 7/10 | ~1h | [Lane 8](https://rateyourmusic.com/artist/lane-8)
 > | [1001tracklists](https://1001.tl/1fy61y0k)
 
 ## Misc
 
-### 2023-12-01: [Chillosophy], "Essential Dance Set": TBA Brooklyn, NY, USA
+### 2023-12-01: Chillosophy, "Essential Dance Set": TBA Brooklyn, NY, USA
 
-> 🟩 7/10 | 1h43m
+> 🟩 7/10 | 1h43m | [Chillosophy](#)
 
 ## RA
 
-### 2024-01-07: RA #918, "[Soul Summit]"
+### 2024-01-07: RA #918, "Soul Summit"
 
-> 🟥 1/10 | ~1h | 9 tracks
+> 🟥 1/10 | ~1h | 9 tracks | [Soul Summit](https://rateyourmusic.com/artist/soul-summit)
 
 ## The Anjuna Mix
 
-### 2022-04-28: The Anjuna Mix, "[ilan Bluestone]"
+### 2022-04-28: The Anjuna Mix, "ilan Bluestone"
 
-> 🟩 7/10 | ~1h
+> 🟩 7/10 | ~1h | [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone)
 > | [1001tracklists](https://1001.tl/14phjgz9)
 
-### 2022-07-22: The Anjuna Mix, "[Tinlicker]"
+### 2022-07-22: The Anjuna Mix, "Tinlicker"
 
-> 🟩 7/10 | ~1h
+> 🟩 7/10 | ~1h | [Tinlicker](https://rateyourmusic.com/artist/tinlicker)
 > | [1001tracklists](https://1001.tl/2swt1pqk)
 
 ## The Anjunadeep Edition
 
-### 2024-07-18: The Anjunadeep Edition #509, "[Klur]"
+### 2024-07-18: The Anjunadeep Edition #509, "Klur"
 
-> 🟥 2/10 | 1h01m
+> 🟥 2/10 | 1h01m | [Klur](https://rateyourmusic.com/artist/klur)
 > | [1001tracklists](https://1001.tl/2s0vdm89)
 
 - You're Not Alone _([James Carter](https://rateyourmusic.com/artist/james-carter-1) Remix)_ - [Punctual](https://rateyourmusic.com/artist/punctual) & [Ry X](https://rateyourmusic.com/artist/ry-x)
-- Eclipse - Klur
+- Eclipse - [Klur](https://rateyourmusic.com/artist/klur)
 
 ## VONYC Sessions
 
@@ -150,8 +157,8 @@
 > 🟧 4/10 | ~2h | 24 tracks
 > | [1001tracklists](https://1001.tl/1d1gq29k)
 
-- Deep State - Jardin
-- Inspiration - Eclipse
+- Deep State - [Jardin](https://rateyourmusic.com/artist/jardin-2)
+- Inspiration - [Eclipse](https://rateyourmusic.com/artist/eclipse-12)
 - Square One - [Madwave](https://rateyourmusic.com/artist/madwave), [Drivel](#)
 
 ### 2021-03-16: VONYC Sessions #750
@@ -159,5 +166,5 @@
 > 🟧 3/10 | ~2h | 24 tracks
 > | [1001tracklists](https://1001.tl/15jxt2n9)
 
-- Raindrops - Duran & Aytek
-- Digital Odyssey - Евгений Лебедев
+- Raindrops - [Duran & Aytek](https://rateyourmusic.com/artist/duran_and_aytek)
+- Digital Odyssey - [Евгений Лебедев](https://rateyourmusic.com/artist/евгений_лебедев_f2)

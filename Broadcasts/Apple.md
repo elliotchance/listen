@@ -18,14 +18,14 @@
 > 🟧 3/10 | 1h17m | 15 tracks
 > | [1001tracklists](https://1001.tl/2cqbz041)
 
-- ID - ID
+- ID - [ID](#)
 
 ### 2020-12-23: Apple NYE 2021, "[Channel Tres]"
 
 > 🟧 3/10 | 1h | 18 tracks
 > | [1001tracklists](https://1001.tl/2bskwc31)
 
-- Controller _([Walker & Royce](https://rateyourmusic.com/artist/walker-and-royce) Remix)_ - Channel Tres
+- Controller _([Walker & Royce](https://rateyourmusic.com/artist/walker-and-royce) Remix)_ - [Channel Tres](https://rateyourmusic.com/artist/channel-tres)
 
 ### 2020-12-23: Apple NYE 2021, "[Charlotte de Witte]"
 
@@ -52,7 +52,7 @@
 > 🟧 3/10 | 1h | 16 tracks
 > | [1001tracklists](https://1001.tl/2p0cprxk)
 
-- Paris - Pierre Rousseau
+- Paris - [Pierre Rousseau](https://rateyourmusic.com/artist/pierre-rousseau)
 
 ### 2020-12-23: Apple NYE 2021, "[FJAAK]"
 
@@ -64,9 +64,9 @@
 > 🟦 9/10 | 57m | 18 tracks
 > | [1001tracklists](https://1001.tl/2dq770gk)
 
-- Roze (Forgive) - Fred again..
+- Roze (Forgive) - [Fred again..](https://rateyourmusic.com/artist/fred-again)
 - Kahan (Last Year) - [Fred again..](https://rateyourmusic.com/artist/fred-again) feat. [Kodak Black](https://rateyourmusic.com/artist/kodak-black)
-- Faisal (Envelops Me) - Fred again..
+- Faisal (Envelops Me) - [Fred again..](https://rateyourmusic.com/artist/fred-again)
 - Marea (We've Lost Dancing) - [Fred again..](https://rateyourmusic.com/artist/fred-again) & [The Blessed Madonna](https://rateyourmusic.com/artist/the-blessed-madonna)
 
 ### 2020-12-23: Apple NYE 2021, "[Honey Dijon]"
@@ -84,21 +84,21 @@
 > 🟧 3/10 | 1h03m | 18 tracks
 > | [1001tracklists](https://1001.tl/23b3wsnt)
 
-- Apricots - Bicep
+- Apricots - [Bicep](https://rateyourmusic.com/artist/bicep)
 
 ### 2020-12-23: Apple NYE 2021, "[Logic1000]"
 
 > 🟧 3/10 | 59m | 19 tracks
 > | [1001tracklists](https://1001.tl/ns0ss4k)
 
-- Bodak Yellow _([ID](#) Remix)_ - Cardi B
+- Bodak Yellow _([ID](#) Remix)_ - [Cardi B](https://rateyourmusic.com/artist/cardi-b)
 
 ### 2020-12-23: Apple NYE 2021, "[Madeon]"
 
 > 🟨 5/10 | 1h03m | 61 tracks
 > | [1001tracklists](https://1001.tl/15jg8kyt)
 
-- The Prince - Madeon
+- The Prince - [Madeon](https://rateyourmusic.com/artist/madeon)
 - Feedback - [Dr. Fresch](https://rateyourmusic.com/artist/dr-fresch) feat. [Mina Knock](https://rateyourmusic.com/artist/mina-knock)
 
 ### 2020-12-23: Apple NYE 2021, "[Peggy Gou]"
