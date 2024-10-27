@@ -30,7 +30,7 @@ class ArtistRepo:
     artists: List[Artist]
 
     def __init__(self) -> None:
-        with open("artists.yaml") as artists_file:
+        with open("data/artists.yaml") as artists_file:
             artist_details = yaml.safe_load(artists_file)
             self.artists = [Artist(a) for a in artist_details['artists']]
 
