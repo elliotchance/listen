@@ -85,7 +85,7 @@ for name in sorted(os.listdir(dir)):
      continue
 
   path = "%s/%s" % (dir, name)
-  primary_toc[name] = {'mix_count': 0, 'duration': 0}
+  primary_toc[name] = {'mix_count': 0, 'duration': 0, 'rating': 0}
 
   header = ''
   mixes = {}
@@ -161,16 +161,19 @@ for name in sorted(os.listdir(dir)):
   toc = ''
   total_duration = 0
   total_mixes = 0
+  total_rating = 0
   for h2 in sorted(mixes):
     for mix in mixes[h2]['mixes']:
       total_duration += mixes[h2]['mixes'][mix]['duration']
+      total_rating += mixes[h2]['mixes'][mix]['rating']
+      primary_toc[name]['rating'] += mixes[h2]['mixes'][mix]['rating']
       final_duration += mixes[h2]['mixes'][mix]['duration']
       primary_toc[name]['duration'] += mixes[h2]['mixes'][mix]['duration']
     total_mixes += len(mixes[h2]['mixes'])
     final_mixes += len(mixes[h2]['mixes'])
     primary_toc[name]['mix_count'] += len(mixes[h2]['mixes'])
 
-  toc = '**%s, %s**' % (plural('mix', total_mixes), format_duration(total_duration)) + '\n\n'
+  toc = '**%s, %s, %.2f/10**' % (plural('mix', total_mixes), format_duration(total_duration), total_rating / total_mixes) + '\n\n'
 
   def tohref(s):
      return s.lower().replace(' ', '-')
@@ -184,9 +187,11 @@ for name in sorted(os.listdir(dir)):
 
   for h2 in sorted(mixes):
     duration = 0
+    rating = 0
     for mix in mixes[h2]['mixes']:
       duration += mixes[h2]['mixes'][mix]['duration']
-    toc += '- [%s](#%s) (%s, %s)' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration)) + '\n'
+      rating += mixes[h2]['mixes'][mix]['rating']
+    toc += '- [%s](#%s) (%s, %s, %.2f/10)' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration), rating / len(mixes[h2]['mixes'])) + '\n'
 
   with open(path) as fd:
     content = fd.read()
@@ -212,4 +217,4 @@ with open('README.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
   f.write('[All Mixes](All.md)\n\n')
   for path in sorted(primary_toc):
-    f.write('- [%s](%s/%s) (%s, %s)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration'])))
+    f.write('- [%s](%s/%s) (%s, %s, %.2f/10)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))

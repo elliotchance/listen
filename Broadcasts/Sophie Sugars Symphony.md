@@ -2,9 +2,9 @@
 
 <!-- toc:start -->
 
-**13 mixes, 13h**
+**13 mixes, 13h, 4.54/10**
 
-- [All](#all) (13 mixes, 13h)
+- [All](#all) (13 mixes, 13h, 4.54/10)
 <!-- toc:end -->
 
 ## All

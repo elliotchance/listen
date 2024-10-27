@@ -2,13 +2,13 @@
 
 <!-- toc:start -->
 
-**19 mixes, 19h**
+**19 mixes, 19h, 17.58/10**
 
-- [31.12.2020](#31.12.2020) (1 mix, 1h)
-- [Around the World 2020](#around-the-world-2020) (4 mixes, 4h)
-- [Around the World 2021](#around-the-world-2021) (5 mixes, 5h)
-- [Tomorrowland 2022](#tomorrowland-2022) (4 mixes, 4h)
-- [Winter 2022](#winter-2022) (5 mixes, 5h)
+- [31.12.2020](#31.12.2020) (1 mix, 1h, 8.00/10)
+- [Around the World 2020](#around-the-world-2020) (4 mixes, 4h, 6.00/10)
+- [Around the World 2021](#around-the-world-2021) (5 mixes, 5h, 7.20/10)
+- [Tomorrowland 2022](#tomorrowland-2022) (4 mixes, 4h, 26.75/10)
+- [Winter 2022](#winter-2022) (5 mixes, 5h, 31.80/10)
 <!-- toc:end -->
 
 ## 31.12.2020
