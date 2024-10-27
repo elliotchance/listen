@@ -1108,9 +1108,9 @@
 - Collapse _([Cesar Lugo](https://rateyourmusic.com/artist/cesar-lugo) Remix)_ - [Robert Burian](https://rateyourmusic.com/artist/robert-burian)
 - Never Be Alone _([Nitrous Oxide](https://rateyourmusic.com/artist/nitrous_oxide) Remix)_ - [System Bot vs. 33](#) feat. [Costa](https://rateyourmusic.com/artist/costa-2)
 
-### 2009-04-16: A State of Trance #400, "72 Hours Radio: [Simon Patterson]"
+### 2009-04-16: A State of Trance #400, "72 Hours Radio: Simon Patterson"
 
-> 🟪 10/10 | 29m
+> 🟪 10/10 | 29m | [Simon Patterson](https://rateyourmusic.com/artist/simon_patterson)
 
 - Affrimation _([Tom Colontonio](https://rateyourmusic.com/artist/tom_colontonio) Remix)_ - [Activa](https://rateyourmusic.com/artist/activa)
 - Distant Destiny - [Reverse](https://rateyourmusic.com/artist/reverse-1)
@@ -1394,9 +1394,9 @@
 - ID - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 - Love Theme Dusk - [Mike Foyle](https://rateyourmusic.com/artist/mike_foyle) vs [Signalrunners](https://rateyourmusic.com/artist/signalrunners)
 
-### 2011-04-09: A State of Trance #500, "A State of Blue: [Above & Beyond]": Brabanthallen, Den Bosch, The Netherlands
+### 2011-04-09: A State of Trance #500, "A State of Blue: Above & Beyond": Brabanthallen, Den Bosch, The Netherlands
 
-> 🟪 10/10 | 1h25m | 16 tracks
+> 🟪 10/10 | 1h25m | 16 tracks | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 
 - Everything From Me (Promises) _([Myon & Shane 54](https://rateyourmusic.com/artist/myon_and_shane_54) Demo Remix)_ - [Andain](https://rateyourmusic.com/artist/andain)
 - Thing Called Love _([Mat Zo](https://rateyourmusic.com/artist/mat-zo) Remix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
@@ -1407,9 +1407,9 @@
 - My Enemy _(club mix)_ - [Super8 & Tab](https://rateyourmusic.com/artist/super8_and_tab) feat. [Julie Thompson](https://rateyourmusic.com/artist/julie_thompson)
 - Sun in Your Eyes - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 
-### 2011-04-09: A State of Trance #500, "A State of Blue: [Mat Zo]": Brabanthallen, Den Bosch, The Netherlands
+### 2011-04-09: A State of Trance #500, "A State of Blue: Mat Zo": Brabanthallen, Den Bosch, The Netherlands
 
-> 🟧 3/10 | 54m | 11 tracks
+> 🟧 3/10 | 54m | 11 tracks | [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
 
 - Superman - [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
 
@@ -1663,29 +1663,29 @@
 - Kinetic - [Abstract Vision & Elite Electronic](https://rateyourmusic.com/artist/abstract_vision_and_elite_electronic)
 - Premonition - [A.R.D.I.](https://rateyourmusic.com/artist/a_r_d_i_)
 
-### 2012-03-31: A State of Trance #550, "A State of Red: [Mark Sixma]": Brabanthallen, Den Bosch, The Netherlands
+### 2012-03-31: A State of Trance #550, "A State of Red: Mark Sixma": Brabanthallen, Den Bosch, The Netherlands
 
-> 🟧 3/10 | 56m | 16 tracks
+> 🟧 3/10 | 56m | 16 tracks | [Mark Sixma](https://rateyourmusic.com/artist/mark_sixma)
 
 - As the Quasar Comes _([Tekno](https://rateyourmusic.com/artist/tekno-2) Mashup)_ - [Hard Rock Sofa](https://rateyourmusic.com/artist/hard-rock-sofa) vs. [Motorcycle](https://rateyourmusic.com/artist/motorcycle)
 
-### 2012-03-31: A State of Trance #550, "A State of Red: [The Blizzard]": Brabanthallen, Den Bosch, The Netherlands
+### 2012-03-31: A State of Trance #550, "A State of Red: The Blizzard": Brabanthallen, Den Bosch, The Netherlands
 
-> 🟩 7/10 | 1h | 15 tracks
+> 🟩 7/10 | 1h | 15 tracks | [The Blizzard](https://rateyourmusic.com/artist/the-blizzard)
 
 - ID - [ID](#)
 - <10> Kalopsia Pressure _([The Blizzard](https://rateyourmusic.com/artist/the-blizzard) Mashup)_ - [Nadia Ali](https://rateyourmusic.com/artist/nadia-ali), [Starkillers](https://rateyourmusic.com/artist/starkillers) & [Alex Kenji](https://rateyourmusic.com/artist/alex_kenji) vs. [Alesso](https://rateyourmusic.com/artist/alesso) vs. [The Blizzard](https://rateyourmusic.com/artist/the-blizzard)
 - Walking Alone _([ARTY](https://rateyourmusic.com/artist/arty) Remix)_ - [Dirty South](https://rateyourmusic.com/artist/dirty_south) & [Those Usual Suspects](https://rateyourmusic.com/artist/those-usual-suspects) feat. [Erik Hecht](#)
 
-### 2012-03-31: A State of Trance #550, "A State of Yellow: [Bobina]": Brabanthallen, Den Bosch, The Netherlands
+### 2012-03-31: A State of Trance #550, "A State of Yellow: Bobina": Brabanthallen, Den Bosch, The Netherlands
 
-> 🟧 3/10 | 1h | 14 tracks
+> 🟧 3/10 | 1h | 14 tracks | [Bobina](https://rateyourmusic.com/artist/bobina)
 
 - Quattro 372 - [Bobina](https://rateyourmusic.com/artist/bobina)
 
-### 2012-03-31: A State of Trance #550, "A State of Yellow: [Protoculture]": Brabanthallen, Den Bosch, The Netherlands
+### 2012-03-31: A State of Trance #550, "A State of Yellow: Protoculture": Brabanthallen, Den Bosch, The Netherlands
 
-> 🟪 10/10 | 59m | 10 tracks
+> 🟪 10/10 | 59m | 10 tracks | [Protoculture](https://rateyourmusic.com/artist/protoculture)
 
 - Waking Up the Stars vs. Sun Gone Down _(a cappella)_ _([Protoculture](https://rateyourmusic.com/artist/protoculture) Mashup)_ - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) vs. [Protoculture](https://rateyourmusic.com/artist/protoculture) feat. [Shannon Hurley](https://rateyourmusic.com/artist/shannon_hurley)
 - J'Ai Envie de Toi _([Protoculture](https://rateyourmusic.com/artist/protoculture) Remix)_ - [Gaia](https://rateyourmusic.com/artist/gaia-3)
@@ -2064,39 +2064,39 @@
 
 > 🟥 1/10 | ~2h | 28 tracks
 
-### 2013-04-06: A State of Trance #600, "Expedition Stage: [Estiva]": Den Bosch, The Netherlands
+### 2013-04-06: A State of Trance #600, "Expedition Stage: Estiva": Den Bosch, The Netherlands
 
-> 🟨 6/10 | 51m | 17 tracks
+> 🟨 6/10 | 51m | 17 tracks | [Estiva](https://rateyourmusic.com/artist/estiva)
 
 - Vision vs. Children vs. Nothing Else Matters vs. The Fusion _([Estiva](https://rateyourmusic.com/artist/estiva) Mashup)_ - [Ashley Wallbridge](https://rateyourmusic.com/artist/ashley-wallbridge) vs. [Robert Miles](https://rateyourmusic.com/artist/robert-miles) vs. [Max Graham](https://rateyourmusic.com/artist/max_graham) vs. [Omnia](https://rateyourmusic.com/artist/omnia_f2) & [Ira](https://rateyourmusic.com/artist/ira-2)
 - Wait Forever _([Estiva](https://rateyourmusic.com/artist/estiva) Remix)_ - [Estiva](https://rateyourmusic.com/artist/estiva) & [Cardinal](#) feat. [Arielle Maren](https://rateyourmusic.com/artist/arielle-maren)
 
-### 2013-04-06: A State of Trance #600, "Main Stage: [Omnia]": Den Bosch, The Netherlands
+### 2013-04-06: A State of Trance #600, "Main Stage: Omnia": Den Bosch, The Netherlands
 
-> 🟧 3/10 | 1h14m | 23 tracks
+> 🟧 3/10 | 1h14m | 23 tracks | [Omnia](https://rateyourmusic.com/artist/omnia_f2)
 
 - Yin-Yang - [Ashley Wallbridge](https://rateyourmusic.com/artist/ashley-wallbridge)
 
-### 2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor: [Heatbeat]": Den Bosch, The Netherlands
+### 2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor: Heatbeat": Den Bosch, The Netherlands
 
-> 🟨 6/10 | 1h15m | 18 tracks
+> 🟨 6/10 | 1h15m | 18 tracks | [Heatbeat](https://rateyourmusic.com/artist/heatbeat)
 
 - ID - [ID](#)
 - ID - [ID](#)
 - Hurricane - [Daddy's Groove](https://rateyourmusic.com/artist/daddys-groove)
 
-### 2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor: [Tenishia]": Den Bosch, The Netherlands
+### 2013-04-06: A State of Trance #600, "Turn the World Into a Dance Floor: Tenishia": Den Bosch, The Netherlands
 
-> 🟩 8/10 | 1h13m | 13 tracks
+> 🟩 8/10 | 1h13m | 13 tracks | [Tenishia](https://rateyourmusic.com/artist/tenishia)
 
 - The Saga vs. This Moment - [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery) vs. [Nic Chagall](https://rateyourmusic.com/artist/nic_chagall) feat. [Jonathan Mendelsohn](https://rateyourmusic.com/artist/jonathan_mendelsohn)
 - Jaguar - [Tenishia](https://rateyourmusic.com/artist/tenishia)
 - ID vs. Yet Another Day - ID vs. [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Ray Wilson](https://rateyourmusic.com/artist/ray-wilson-2)
 - Sun in Your Eyes _([Mark Sherry](https://rateyourmusic.com/artist/mark_sherry) Argentinian Sun Edit)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 
-### 2013-04-06: A State of Trance #600, "Who's Afraid of 138?!: [Arctic Moon]": Den Bosch, The Netherlands
+### 2013-04-06: A State of Trance #600, "Who's Afraid of 138?!: Arctic Moon": Den Bosch, The Netherlands
 
-> 🟩 7/10 | 1h15m | 16 tracks
+> 🟩 7/10 | 1h15m | 16 tracks | [Arctic Moon](https://rateyourmusic.com/artist/arctic_moon)
 
 - Queensland _([Arctic Moon](https://rateyourmusic.com/artist/arctic_moon) Remix)_ vs. Clarity _(a cappella)_ - [Dimension](https://rateyourmusic.com/artist/dimension_f2) vs. [Zedd](https://rateyourmusic.com/artist/zedd) feat. [Foxes](https://rateyourmusic.com/artist/foxes_f1)
 - Miss Atomic Bomb _([Arctic Moon](https://rateyourmusic.com/artist/arctic_moon) Remix)_ - [The Killers](https://rateyourmusic.com/artist/the_killers)
@@ -2214,16 +2214,16 @@
 - ID - [ID](#)
 - ID - [ID](#)
 
-### 2014-02-15: A State of Trance #650, "Invites Stage: [Ben Gold]": Utrecht, The Netherlands
+### 2014-02-15: A State of Trance #650, "Invites Stage: Ben Gold": Utrecht, The Netherlands
 
-> 🟧 4/10 | 1h15m | 19 tracks
+> 🟧 4/10 | 1h15m | 19 tracks | [Ben Gold](https://rateyourmusic.com/artist/ben_gold)
 
 - Sectioned - [Solis](https://rateyourmusic.com/artist/solis_f1) & [Sean Truby](https://rateyourmusic.com/artist/sean_truby)
 - Where Life Takes Us - [Ben Gold](https://rateyourmusic.com/artist/ben_gold)
 
-### 2014-02-15: A State of Trance #650, "Invites Stage: [Protoculture]": Utrecht, The Netherlands
+### 2014-02-15: A State of Trance #650, "Invites Stage: Protoculture": Utrecht, The Netherlands
 
-> 🟪 10/10 | 1h15m | 17 tracks
+> 🟪 10/10 | 1h15m | 17 tracks | [Protoculture](https://rateyourmusic.com/artist/protoculture)
 
 - Beautiful Life _([Protoculture](https://rateyourmusic.com/artist/protoculture) & [Mikkas](https://rateyourmusic.com/artist/mikkas) Remix Mashup)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Cindy Alma](https://rateyourmusic.com/artist/cindy_alma)
 - Waking Up The Stars _([Skytech](https://rateyourmusic.com/artist/skytech) Remix)_ - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) & [Protoculture](https://rateyourmusic.com/artist/protoculture)
