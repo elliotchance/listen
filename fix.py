@@ -204,7 +204,7 @@ for name in sorted(os.listdir(dir)):
 with open('All.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
   for path in sorted(primary_toc):
-    f.write('- [%s](%s/%s) (%s, %s)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration'])))
+    f.write('- [%s](%s/%s) (%s, %s, %.2f/10)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
   f.write('\n---\n\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
