@@ -191,13 +191,13 @@
 
 ### 2014-01-27: Tritonia #36
 
-> 🟥 2/10 | 1h
+> 🟧 3/10 | 1h
 
 - @35:00
 
 ### 2014-02-03: Tritonia #37
 
-> 🟨 6/10 | 1h3m
+> 🟩 7/10 | 1h3m
 
 - @10:13
 - @42:07
@@ -1465,7 +1465,7 @@
 
 ### 2024-99-99: Tritonia #477
 
-> 🟨 6/10 | ~1h
+> 🟩 7/10 | ~1h
 
 - Falling Free _([Jordin Post](https://rateyourmusic.com/artist/jordin-post) Remix)_ - [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde) feat. [AunA](#)
 - Never Felt Like This - [Kaiyan](https://rateyourmusic.com/artist/kaiyan)
@@ -1477,13 +1477,13 @@
 
 ### 2024-99-99: Tritonia #479
 
-> 🟥 2/10 | ~1h
+> 🟧 3/10 | ~1h
 
 - Innervision - [Elliot West](#)
 
 ### 2024-99-99: Tritonia #480
 
-> 🟥 2/10 | ~1h
+> 🟧 3/10 | ~1h
 
 - Save Your Tears - [Luxe Agoris](https://rateyourmusic.com/artist/luxe-agoris) & [Kryoman](https://rateyourmusic.com/artist/kryoman)
 
@@ -1493,21 +1493,21 @@
 
 ### 2024-99-99: Tritonia #482
 
-> 🟧 4/10 | ~1h
+> 🟨 5/10 | ~1h
 
 - Melody for the Misfits - [Robby East](https://rateyourmusic.com/artist/robby_east)
 - Dominoes - [Modera](https://rateyourmusic.com/artist/modera), [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
 
 ### 2024-99-99: Tritonia #483
 
-> 🟧 4/10 | ~1h
+> 🟨 5/10 | ~1h
 
 - Dominoes - [Modera](https://rateyourmusic.com/artist/modera), [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
 - Keep My Dreams Alive ([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix) - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
 
 ### 2024-99-99: Tritonia #484
 
-> 🟥 2/10 | ~1h
+> 🟧 3/10 | ~1h
 
 - Get to Fly - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison), [Ash Nova](https://rateyourmusic.com/artist/ash-nova) & [HILYTE](https://rateyourmusic.com/artist/hilyte)
 
@@ -1517,7 +1517,7 @@
 
 ### 2024-99-99: Tritonia #486
 
-> 🟧 4/10 | ~1h
+> 🟨 5/10 | ~1h
 
 - High Above - [Klur](https://rateyourmusic.com/artist/klur)
 - When It's Easy - [Modera](https://rateyourmusic.com/artist/modera) & [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) feat. [Kazmyn](https://rateyourmusic.com/artist/kazmyn)

@@ -56,10 +56,10 @@ def score(liked, duration):
   
   hours = duration / 60
   final = round(float(liked) / hours * 2)
-  if final > 10:
-      final = 10
-  
-  return final
+  if final > 9:
+      final = 9
+
+  return final + 1
 
 def rating_emoji(rating):
   if rating <= 2:
