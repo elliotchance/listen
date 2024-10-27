@@ -157,6 +157,9 @@ for name in sorted(os.listdir(dir)):
         elif 'rating' not in mixes[h2]['mixes'][h3]:
           rating = score(len(mixes[h2]['mixes'][h3]['liked']), mixes[h2]['mixes'][h3]['duration'])
           print('missing rating: ' + h3 + ': ' + rating_emoji(rating) + ' ' + str(rating) + '/10')
+        else:
+          if rating_emoji(mixes[h2]['mixes'][h3]['rating']) != mixes[h2]['mixes'][h3]['emoji']:
+            print('wrong emoji: ' + h3 + ': ' + rating_emoji(mixes[h2]['mixes'][h3]['rating']))
 
   toc = ''
   total_duration = 0
