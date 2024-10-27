@@ -50,6 +50,30 @@ def format_duration(d):
       return '%dh' % h
   return '%dh%02dm' % (h, m)
 
+def score(liked, duration):
+  if liked == 0:
+      return 1
+  
+  hours = duration / 60
+  final = round(float(liked) / hours * 2)
+  if final > 10:
+      final = 10
+  
+  return final
+
+def rating_emoji(rating):
+  if rating <= 2:
+    return '🟥'
+  if rating <= 4:
+    return '🟧'
+  if rating <= 6:
+    return '🟨'
+  if rating <= 8:
+    return '🟩'
+  if rating == 9:
+    return '🟦'
+  return '🟪'
+
 artist_repo = ArtistRepo()
 
 all_mixes = {}
@@ -127,6 +151,12 @@ for name in sorted(os.listdir(dir)):
         content = mixes[h2]['mixes'][h3]['content']
         content = re.sub(r"\[(.*?)\]\((.*?)\)", lookup_artist, content, 0, re.MULTILINE)
         f.write('### ' + h3 + '\n' + content)
+
+        if 'duration' not in mixes[h2]['mixes'][h3]:
+          print('missing duration: ' + h3)
+        elif 'rating' not in mixes[h2]['mixes'][h3]:
+          rating = score(len(mixes[h2]['mixes'][h3]['liked']), mixes[h2]['mixes'][h3]['duration'])
+          print('missing rating: ' + h3 + ': ' + rating_emoji(rating) + ' ' + str(rating) + '/10')
 
   toc = ''
   total_duration = 0

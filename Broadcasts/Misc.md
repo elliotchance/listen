@@ -27,7 +27,7 @@
 
 ### 2022-04-07: Cercle, "Bedouin": Petra, Jordan
 
-> 1h54m | [Bedouin](https://rateyourmusic.com/artist/bedouin-1)
+> 🟩 7/10 | 1h54m | [Bedouin](https://rateyourmusic.com/artist/bedouin-1)
 > | [YouTube](https://www.youtube.com/watch?v=xQCLf9T_M7Q)
 
 ### 2022-04-18: Cercle, "Boris Brejcha": Arènes de Nîmes, France
