@@ -2,7 +2,7 @@
 
 <!-- toc:start -->
 
-**233 mixes, 233h04m**
+**240 mixes, 240h04m**
 
 - [2013](#2013) (34 mixes, 34h)
 - [2014](#2014) (5 mixes, 5h04m)
@@ -10,7 +10,7 @@
 - [2021](#2021) (37 mixes, 37h)
 - [2022](#2022) (44 mixes, 44h)
 - [2023](#2023) (49 mixes, 49h)
-- [2024](#2024) (21 mixes, 21h)
+- [2024](#2024) (28 mixes, 28h)
 <!-- toc:end -->
 
 ## 2013
@@ -1480,3 +1480,44 @@
 > ~1h
 
 - Innervision - [Elliot West](#)
+
+### 2024-99-99: Tritonia 480
+
+> ~1h
+
+- Save Your Tears - [Luxe Agoris](https://rateyourmusic.com/artist/luxe-agoris) & [Kryoman](https://rateyourmusic.com/artist/kryoman)
+
+### 2024-99-99: Tritonia Tritonia 481
+
+> ~1h
+
+### 2024-99-99: Tritonia Tritonia 482
+
+> ~1h
+
+- Melody for the Misfits - [Robby East](https://rateyourmusic.com/artist/robby_east)
+- Dominoes - [Modera](https://rateyourmusic.com/artist/modera), [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
+
+### 2024-99-99: Tritonia Tritonia 483
+
+> ~1h
+
+- Dominoes - [Modera](https://rateyourmusic.com/artist/modera), [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
+- Keep My Dreams Alive ([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix) - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
+
+### 2024-99-99: Tritonia Tritonia 484
+
+> ~1h
+
+- Get to Fly - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison), [Ash Nova](https://rateyourmusic.com/artist/ash-nova) & [HILYTE](https://rateyourmusic.com/artist/hilyte)
+
+### 2024-99-99: Tritonia Tritonia 485
+
+> ~1h
+
+### 2024-99-99: Tritonia Tritonia 486
+
+> ~1h
+
+- High Above - [Klur](https://rateyourmusic.com/artist/klur)
+- When It's Easy - [Modera](https://rateyourmusic.com/artist/modera) & [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) feat. [Kazmyn](https://rateyourmusic.com/artist/kazmyn)

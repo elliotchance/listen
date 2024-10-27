@@ -1,6 +1,6 @@
-**963 mixes, 1476h14m**
+**972 mixes, 1487h14m**
 
-- [A State of Trance](Broadcasts/A%20State%20of%20Trance.md) (515 mixes, 1015h45m)
+- [A State of Trance](Broadcasts/A%20State%20of%20Trance.md) (517 mixes, 1019h45m)
 - [Apple](Broadcasts/Apple.md) (21 mixes, 23h38m)
 - [Boiler Room](Broadcasts/Boiler%20Room.md) (19 mixes, 19h)
 - [Electric Daisy Carnival](Broadcasts/Electric%20Daisy%20Carnival.md) (19 mixes, 19h)
@@ -10,7 +10,7 @@
 - [Phoenix Radio](Broadcasts/Phoenix%20Radio.md) (20 mixes, 20h)
 - [Sophie Sugars Symphony](Broadcasts/Sophie%20Sugars%20Symphony.md) (13 mixes, 13h)
 - [Tomorrowland](Broadcasts/Tomorrowland.md) (19 mixes, 19h)
-- [Tritonia](Broadcasts/Tritonia.md) (233 mixes, 233h04m)
+- [Tritonia](Broadcasts/Tritonia.md) (240 mixes, 240h04m)
 
 ---
 
@@ -974,6 +974,15 @@
 1. ⬜ `2024-08-15: A State of Trance #1186` (2h)
 1. ⬜ `2024-08-22: A State of Trance #1187` (2h)
 1. ⬜ `2024-08-29: A State of Trance #1188` (2h)
+1. ⬜ `2024-99-99: A State of Trance #1189` (2h)
+1. ⬜ `2024-99-99: A State of Trance #1190` (2h)
 1. ⬜ `2024-99-99: Tritonia #477` (1h)
 1. ⬜ `2024-99-99: Tritonia #478` (1h)
 1. ⬜ `2024-99-99: Tritonia #479` (1h)
+1. ⬜ `2024-99-99: Tritonia 480` (1h)
+1. ⬜ `2024-99-99: Tritonia Tritonia 481` (1h)
+1. ⬜ `2024-99-99: Tritonia Tritonia 482` (1h)
+1. ⬜ `2024-99-99: Tritonia Tritonia 483` (1h)
+1. ⬜ `2024-99-99: Tritonia Tritonia 484` (1h)
+1. ⬜ `2024-99-99: Tritonia Tritonia 485` (1h)
+1. ⬜ `2024-99-99: Tritonia Tritonia 486` (1h)

@@ -2,7 +2,7 @@
 
 <!-- toc:start -->
 
-**515 mixes, 1015h45m**
+**517 mixes, 1019h45m**
 
 - [2001](#2001) (29 mixes, 56h24m)
 - [2002](#2002) (50 mixes, 103h45m)
@@ -27,7 +27,7 @@
 - [2021](#2021) (52 mixes, 115h47m)
 - [2022](#2022) (52 mixes, 112h51m)
 - [2023](#2023) (52 mixes, 104h)
-- [2024](#2024) (37 mixes, 74h)
+- [2024](#2024) (39 mixes, 78h)
 <!-- toc:end -->
 
 ## 2001
@@ -4102,5 +4102,15 @@
 - I Love You _([Karney](https://rateyourmusic.com/artist/bryan_kearney_f1) Dark Dub)_ - [Key4050](https://rateyourmusic.com/artist/key4050) & [Plumb](#)
 
 ### 2024-08-29: A State of Trance #1188
+
+> ~2h
+
+### 2024-99-99: A State of Trance #1189
+
+> ~2h
+
+- Sanctuary (Club Mix) - [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery) & [Lucy Saunders](https://rateyourmusic.com/artist/lucy_saunders)
+
+### 2024-99-99: A State of Trance #1190
 
 > ~2h
