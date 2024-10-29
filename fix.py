@@ -221,3 +221,6 @@ with open('README.md', "w") as f:
   f.write('[All Mixes](All.md)\n\n')
   for path in sorted(primary_toc):
     f.write('- [%s](%s/%s) (%s, %s, %.2f/10)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
+
+for minutes in range(30, 4*60, 15):
+  print(format_duration(minutes))
