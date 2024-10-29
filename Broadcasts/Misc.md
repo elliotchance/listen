@@ -2,20 +2,13 @@
 
 <!-- toc:start -->
 
-**24 mixes, 34h41m, 5.46/10**
+**16 mixes, 24h56m, 5.81/10**
 
 - [Cercle](#cercle) (3 mixes, 5h07m, 8.00/10)
 - [Fear N Loathing](#fear-n-loathing) (2 mixes, 4h, 7.00/10)
 - [FeelMyBicep](#feelmybicep) (6 mixes, 5h50m, 5.83/10)
 - [Future Sound of Egypt](#future-sound-of-egypt) (1 mix, 2h, 4.00/10)
-- [Group Therapy](#group-therapy) (3 mixes, 6h, 2.67/10)
-- [HARD Summer 2022](#hard-summer-2022) (1 mix, 1h, 8.00/10)
-- [Lane 8's Mixtape](#lane-8's-mixtape) (1 mix, 1h, 7.00/10)
-- [Misc](#misc) (1 mix, 1h43m, 7.00/10)
-- [RA](#ra) (1 mix, 1h, 1.00/10)
-- [The Anjuna Mix](#the-anjuna-mix) (2 mixes, 2h, 7.00/10)
-- [The Anjunadeep Edition](#the-anjunadeep-edition) (1 mix, 1h01m, 2.00/10)
-- [VONYC Sessions](#vonyc-sessions) (2 mixes, 4h, 3.50/10)
+- [Group Therapy](#group-therapy) (4 mixes, 7h59m, 4.00/10)
 <!-- toc:end -->
 
 ## Cercle
@@ -102,69 +95,16 @@
 
 > 🟥 1/10 | ~2h | 29 tracks | [Bexxie](https://rateyourmusic.com/artist/bexxie)
 
-## HARD Summer 2022
+### 2024-10-19: Group THerapy #600: Hipódromo de las Américas, Mexico City, Mexico
 
-### 2022-07-29: HARD Summer 2022, "Montell2099"
+> 🟩 8/10 | 1h59m | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
+> | [1001tracklists](https://1001.tl/1ywqkugk)
+> | [YouTube](https://youtu.be/886D7uuD4sY)
 
-> 🟩 8/10 | ~1h | [Montell2099](https://rateyourmusic.com/artist/montell2099)
-> | [1001tracklists](https://1001.tl/10z7nfjt)
-
-## Lane 8's Mixtape
-
-### 2021-09-15: Lane 8, "Fall 2021 Mixtape"
-
-> 🟩 7/10 | ~1h | [Lane 8](https://rateyourmusic.com/artist/lane-8)
-> | [1001tracklists](https://1001.tl/1fy61y0k)
-
-## Misc
-
-### 2023-12-01: Chillosophy, "Essential Dance Set": TBA Brooklyn, NY, USA
-
-> 🟩 7/10 | 1h43m | [Chillosophy](#)
-
-## RA
-
-### 2024-01-07: RA #918, "Soul Summit"
-
-> 🟥 1/10 | ~1h | 9 tracks | [Soul Summit](https://rateyourmusic.com/artist/soul-summit)
-
-## The Anjuna Mix
-
-### 2022-04-28: The Anjuna Mix, "ilan Bluestone"
-
-> 🟩 7/10 | ~1h | [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone)
-> | [1001tracklists](https://1001.tl/14phjgz9)
-
-### 2022-07-22: The Anjuna Mix, "Tinlicker"
-
-> 🟩 7/10 | ~1h | [Tinlicker](https://rateyourmusic.com/artist/tinlicker)
-> | [1001tracklists](https://1001.tl/2swt1pqk)
-
-## The Anjunadeep Edition
-
-### 2024-07-18: The Anjunadeep Edition #509, "Klur"
-
-> 🟥 2/10 | 1h01m | [Klur](https://rateyourmusic.com/artist/klur)
-> | [1001tracklists](https://1001.tl/2s0vdm89)
-
-- You're Not Alone _([James Carter](https://rateyourmusic.com/artist/james-carter-1) Remix)_ - [Punctual](https://rateyourmusic.com/artist/punctual) & [Ry X](https://rateyourmusic.com/artist/ry-x)
-- Eclipse - [Klur](https://rateyourmusic.com/artist/klur)
-
-## VONYC Sessions
-
-### 2021-03-02: VONYC Sessions #748
-
-> 🟧 4/10 | ~2h | 24 tracks
-> | [1001tracklists](https://1001.tl/1d1gq29k)
-
-- Deep State - [Jardin](https://rateyourmusic.com/artist/jardin-2)
-- Inspiration - [Eclipse](https://rateyourmusic.com/artist/eclipse-12)
-- Square One - [Madwave](https://rateyourmusic.com/artist/madwave), [Drivel](#)
-
-### 2021-03-16: VONYC Sessions #750
-
-> 🟧 3/10 | ~2h | 24 tracks
-> | [1001tracklists](https://1001.tl/15jxt2n9)
-
-- Raindrops - [Duran & Aytek](https://rateyourmusic.com/artist/duran_and_aytek)
-- Digital Odyssey - [Евгений Лебедев](https://rateyourmusic.com/artist/евгений_лебедев_f2)
+- Feel the Vibe _([Alex Sonata](https://rateyourmusic.com/artist/alex-sonata) & [TheRio](#) Remix)_ - Axwell
+- @56:30 - ID - [ID](#)
+- Quicksand (Don't Go) - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat [Zoë Johnston](https://rateyourmusic.com/artist/zoe_johnston)
+- ID - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
+- Rush _(2AM Club Mix)_ - [Sønin](https://rateyourmusic.com/artist/sonin-2) & [BLR](https://rateyourmusic.com/artist/blr-1) feat [Brieanna Grace](https://rateyourmusic.com/artist/brieanna-grace)
+- Sirens of the Sea _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) Club Mix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
+- Good For Me _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) ABGT600 Respray)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat [Zoë Johnston](https://rateyourmusic.com/artist/zoe_johnston)

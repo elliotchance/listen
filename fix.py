@@ -5,7 +5,6 @@ from typing import List, Set, Dict
 
 dir = "Broadcasts"
 
-
 def plural(word, n):
   if word == 'mix':
     if n == 1:
@@ -100,7 +99,7 @@ for name in sorted(os.listdir(dir)):
         mixes[h2] = {'mixes': {}, 'content': ''}
       elif line.startswith('### '):
         h3 = line[4:].strip()
-        mixes[h2]['mixes'][h3] = {'quote': '', 'liked': [], 'content': ''}
+        mixes[h2]['mixes'][h3] = {'quote': '', 'liked': [], 'content': '', 'rating': 0, 'emoji': '⬜'}
       elif line.startswith('> ') and h2 != '':
         mixes[h2]['mixes'][h3]['quote'] += line
         mixes[h2]['mixes'][h3]['content'] += line
@@ -154,7 +153,7 @@ for name in sorted(os.listdir(dir)):
 
         if 'duration' not in mixes[h2]['mixes'][h3]:
           print('missing duration: ' + h3)
-        elif 'rating' not in mixes[h2]['mixes'][h3]:
+        elif mixes[h2]['mixes'][h3]['rating'] == 0:
           rating = score(len(mixes[h2]['mixes'][h3]['liked']), mixes[h2]['mixes'][h3]['duration'])
           print('missing rating: ' + h3 + ': ' + rating_emoji(rating) + ' ' + str(rating) + '/10')
         else:
@@ -211,16 +210,10 @@ with open('All.md', "w") as f:
   f.write('\n---\n\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
-    emoji = '⬜'
-    if 'emoji' in mix:
-       emoji = mix['emoji']
-    f.write('1. %s `%s` (%s)\n' % (emoji, title, format_duration(mix['duration'])))
+    f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
 
 with open('README.md', "w") as f:
   f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
   f.write('[All Mixes](All.md)\n\n')
   for path in sorted(primary_toc):
     f.write('- [%s](%s/%s) (%s, %s, %.2f/10)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
-
-for minutes in range(30, 4*60, 15):
-  print(format_duration(minutes))

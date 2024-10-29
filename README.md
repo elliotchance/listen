@@ -1,4 +1,4 @@
-**973 mixes, 1489h08m**
+**965 mixes, 1479h23m**
 
 [All Mixes](All.md)
 
@@ -7,7 +7,7 @@
 - [Boiler Room](Broadcasts/Boiler%20Room.md) (19 mixes, 19h, 6.21/10)
 - [Electric Daisy Carnival](Broadcasts/Electric%20Daisy%20Carnival.md) (19 mixes, 19h, 7.26/10)
 - [Lost Lands](Broadcasts/Lost%20Lands.md) (43 mixes, 43h, 4.40/10)
-- [Misc](Broadcasts/Misc.md) (24 mixes, 34h41m, 5.46/10)
+- [Misc](Broadcasts/Misc.md) (16 mixes, 24h56m, 5.81/10)
 - [Ophelias Odyssey](Broadcasts/Ophelias%20Odyssey.md) (38 mixes, 38h, 4.03/10)
 - [Phoenix Radio](Broadcasts/Phoenix%20Radio.md) (20 mixes, 20h, 3.15/10)
 - [Sophie Sugars Symphony](Broadcasts/Sophie%20Sugars%20Symphony.md) (13 mixes, 13h, 4.54/10)
