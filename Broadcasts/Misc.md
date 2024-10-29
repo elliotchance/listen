@@ -95,7 +95,7 @@
 
 > 🟥 1/10 | ~2h | 29 tracks | [Bexxie](https://rateyourmusic.com/artist/bexxie)
 
-### 2024-10-19: Group THerapy #600: Hipódromo de las Américas, Mexico City, Mexico
+### 2024-10-19: Group Therapy #600: Hipódromo de las Américas, Mexico City, Mexico
 
 > 🟩 8/10 | 1h59m | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 > | [1001tracklists](https://1001.tl/1ywqkugk)
