@@ -54,6 +54,9 @@ def score(liked, duration):
       return 1
   
   hours = duration / 60
+  if hours == 0:
+     return 0
+
   final = round(float(liked) / hours * 2)
   if final > 9:
       final = 9
@@ -99,7 +102,7 @@ for name in sorted(os.listdir(dir)):
         mixes[h2] = {'mixes': {}, 'content': ''}
       elif line.startswith('### '):
         h3 = line[4:].strip()
-        mixes[h2]['mixes'][h3] = {'quote': '', 'liked': [], 'content': '', 'rating': 0, 'emoji': '⬜'}
+        mixes[h2]['mixes'][h3] = {'quote': '', 'liked': [], 'content': '', 'rating': 0, 'emoji': '⬜', 'duration': 0}
       elif line.startswith('> ') and h2 != '':
         mixes[h2]['mixes'][h3]['quote'] += line
         mixes[h2]['mixes'][h3]['content'] += line
@@ -107,7 +110,7 @@ for name in sorted(os.listdir(dir)):
         if s is not None:
           mixes[h2]['mixes'][h3]['emoji'] = s.group(1)
           mixes[h2]['mixes'][h3]['rating'] = int(s.group(2))
-        if 'duration' not in mixes[h2]['mixes'][h3]:
+        if mixes[h2]['mixes'][h3]['duration'] == 0:
           mixes[h2]['mixes'][h3]['duration'] = 0
           duration = re.search(r"(\d+)h(\d+)m", line)
           if duration is not None:

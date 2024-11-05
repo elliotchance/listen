@@ -2,15 +2,15 @@
 
 <!-- toc:start -->
 
-**240 mixes, 240h04m, 3.25/10**
+**255 mixes, 256h06m, 3.20/10**
 
 - [2013](#2013) (34 mixes, 34h, 2.06/10)
-- [2014](#2014) (5 mixes, 5h04m, 2.60/10)
+- [2014](#2014) (15 mixes, 16h06m, 2.13/10)
 - [2020](#2020) (43 mixes, 43h, 3.81/10)
 - [2021](#2021) (37 mixes, 37h, 3.86/10)
 - [2022](#2022) (44 mixes, 44h, 3.52/10)
 - [2023](#2023) (49 mixes, 49h, 3.29/10)
-- [2024](#2024) (28 mixes, 28h, 2.64/10)
+- [2024](#2024) (33 mixes, 33h, 2.76/10)
 <!-- toc:end -->
 
 ## 2013
@@ -210,6 +210,55 @@
 ### 2014-02-24: Tritonia #39
 
 > 🟥 1/10 | 1h1m
+
+### 2014-99-99: Tritonia #40
+
+> 🟥 1/10 | 1h
+
+### 2014-99-99: Tritonia #41
+
+> 🟥 1/10 | 59m
+
+### 2014-99-99: Tritonia #42
+
+> 🟥 1/10 | 1h
+
+### 2014-99-99: Tritonia #43
+
+> 🟥 1/10 | 1h2m
+
+### 2014-99-99: Tritonia #44
+
+> 🟥 1/10 | 1h1m
+
+### 2014-99-99: Tritonia #45
+
+> 🟨 5/10 | 1h
+
+- @21:34
+- @56:45
+
+### 2014-99-99: Tritonia #46
+
+> 🟧 3/10 | 1h
+
+- @1:40
+
+### 2014-99-99: Tritonia #47
+
+> 🟥 1/10 | 1h
+
+### 2014-99-99: Tritonia #48
+
+> 🟥 1/10 | 1h
+
+### 2014-99-99: Tritonia #49
+
+> 🟧 4/10 | 2h
+
+- @18:00
+- @35:00
+- @1:21:30
 
 ## 2020
 
@@ -1521,3 +1570,33 @@
 
 - High Above - [Klur](https://rateyourmusic.com/artist/klur)
 - When It's Easy - [Modera](https://rateyourmusic.com/artist/modera) & [Andrew Burrow](https://rateyourmusic.com/artist/andrew-burrow) feat. [Kazmyn](https://rateyourmusic.com/artist/kazmyn)
+
+### 2024-99-99: Tritonia #487
+
+> 🟧 3/10 | ~1h
+
+- Mystery _([coiro](#) Remix)_ - [Klur](https://rateyourmusic.com/artist/klur) & [Julian Schwarz](https://rateyourmusic.com/artist/julian-schwarz) feat. [Tailor](https://rateyourmusic.com/artist/tailor-1)
+
+### 2024-99-99: Tritonia #488
+
+> 🟩 7/10 | ~1h
+
+- Mystery _([coiro](#) Remix)_ - [Klur](https://rateyourmusic.com/artist/klur) & [Julian Schwarz](https://rateyourmusic.com/artist/julian-schwarz) feat. [Tailor](https://rateyourmusic.com/artist/tailor-1)
+- Peter's Theme - [MYRNE](https://rateyourmusic.com/artist/myrne)
+- Born Yesterday _([East & Atlas](https://rateyourmusic.com/artist/east-and-atlas) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Brigetta](https://rateyourmusic.com/artist/brigetta)
+
+### 2024-99-99: Tritonia #489
+
+> 🟥 1/10 | ~1h
+
+### 2024-99-99: Tritonia #490
+
+> 🟧 3/10 | ~1h
+
+- Bitter Love - [TRU Concept](https://rateyourmusic.com/artist/tru-concept) & [Wilhelmina](https://rateyourmusic.com/artist/wilhelmina-2)
+
+### 2024-99-99: Tritonia #491
+
+> 🟧 3/10 | ~1h
+
+- Waterfall - [Klur](https://rateyourmusic.com/artist/klur)

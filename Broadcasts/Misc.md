@@ -2,13 +2,14 @@
 
 <!-- toc:start -->
 
-**16 mixes, 24h56m, 5.81/10**
+**20 mixes, 28h56m, 5.10/10**
 
 - [Cercle](#cercle) (3 mixes, 5h07m, 8.00/10)
+- [Colorcast](#colorcast) (2 mixes, 1h, 2.00/10)
 - [Fear N Loathing](#fear-n-loathing) (2 mixes, 4h, 7.00/10)
 - [FeelMyBicep](#feelmybicep) (6 mixes, 5h50m, 5.83/10)
 - [Future Sound of Egypt](#future-sound-of-egypt) (1 mix, 2h, 4.00/10)
-- [Group Therapy](#group-therapy) (4 mixes, 7h59m, 4.00/10)
+- [Group Therapy](#group-therapy) (6 mixes, 10h59m, 3.50/10)
 <!-- toc:end -->
 
 ## Cercle
@@ -27,6 +28,18 @@
 
 > 🟩 7/10 | 1h49m | [Boris Brejcha](https://rateyourmusic.com/artist/boris-brejcha)
 > | [YouTube](https://www.youtube.com/watch?v=1MobY_vR7-g)
+
+## Colorcast
+
+### 2024-99-99: Colorcast #214
+
+> 🟥 1/10
+
+### 2024-99-99: Colorcast #216
+
+> 🟧 3/10 | ~1h | [Kaiyan](https://rateyourmusic.com/artist/kaiyan)
+
+- @54:00
 
 ## Fear N Loathing
 
@@ -95,6 +108,12 @@
 
 > 🟥 1/10 | ~2h | 29 tracks | [Bexxie](https://rateyourmusic.com/artist/bexxie)
 
+### 2024-10-19: Group Therapy #600, "Deep Warmup Set": Mexico
+
+> 🟧 3/10 | ~1h
+
+- @48:22
+
 ### 2024-10-19: Group Therapy #600: Hipódromo de las Américas, Mexico City, Mexico
 
 > 🟩 8/10 | 1h59m | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
@@ -108,3 +127,9 @@
 - Rush _(2AM Club Mix)_ - [Sønin](https://rateyourmusic.com/artist/sonin-2) & [BLR](https://rateyourmusic.com/artist/blr-1) feat [Brieanna Grace](https://rateyourmusic.com/artist/brieanna-grace)
 - Sirens of the Sea _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) Club Mix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Good For Me _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) ABGT600 Respray)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat [Zoë Johnston](https://rateyourmusic.com/artist/zoe_johnston)
+
+### 2024-10-19: Group Therapy #601
+
+> 🟥 2/10 | ~2h
+
+- @1:27:42 - tinlicker
