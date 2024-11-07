@@ -140,7 +140,7 @@ for name in sorted(os.listdir(dir)):
       f.write('## ' + h2 + '\n' + mixes[h2]['content'])
       for h3 in sorted(mixes[h2]['mixes']):
         def lookup_artist(m):
-          if m.group(1) == '1001tracklists' or m.group(1) == 'MusicBrainz' or m.group(1) == 'YouTube':
+          if m.group(1) == '1001tracklists' or m.group(1) == 'MusicBrainz' or m.group(1) == 'YouTube' or m.group(1) == 'SoundCloud':
             return '[%s](%s)' % (m.group(1), m.group(2))
           artist = artist_repo.get_artist(m.group(1))
           if artist is None:
