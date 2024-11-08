@@ -2,10 +2,10 @@
 
 <!-- toc:start -->
 
-**19 mixes, 19h, 6.21/10**
-
-- [All](#all) (18 mixes, 18h, 6.22/10)
-- [Streaming in Isolation](#streaming-in-isolation) (1 mix, 1h, 6.00/10)
+| | 19 mixes | 19h | 6.21/10 |
+| - | - | - | - |
+| [All](#all) | 18 mixes | 18h | 6.22/10 |
+| [Streaming in Isolation](#streaming-in-isolation) | 1 mix | 1h | 6.00/10 |
 <!-- toc:end -->
 
 ## All

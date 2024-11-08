@@ -2,9 +2,9 @@
 
 <!-- toc:start -->
 
-**21 mixes, 23h38m, 2.05/10**
-
-- [Apple NYE 2021](#apple-nye-2021) (21 mixes, 23h38m, 2.05/10)
+| | 21 mixes | 23h38m | 2.05/10 |
+| - | - | - | - |
+| [Apple NYE 2021](#apple-nye-2021) | 21 mixes | 23h38m | 2.05/10 |
 <!-- toc:end -->
 
 ## Apple NYE 2021

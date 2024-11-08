@@ -2,9 +2,9 @@
 
 <!-- toc:start -->
 
-**38 mixes, 38h, 4.03/10**
-
-- [All](#all) (38 mixes, 38h, 4.03/10)
+| | 38 mixes | 38h | 4.03/10 |
+| - | - | - | - |
+| [All](#all) | 38 mixes | 38h | 4.03/10 |
 <!-- toc:end -->
 
 ## All

@@ -1,7 +1,7 @@
 import yaml
 import re
 import os
-from typing import List, Set, Dict
+from typing import List, Dict
 
 dir = "Broadcasts"
 
@@ -178,7 +178,8 @@ for name in sorted(os.listdir(dir)):
     final_mixes += len(mixes[h2]['mixes'])
     primary_toc[name]['mix_count'] += len(mixes[h2]['mixes'])
 
-  toc = '**%s, %s, %.2f/10**' % (plural('mix', total_mixes), format_duration(total_duration), total_rating / total_mixes) + '\n\n'
+  toc = '| | %s | %s | %.2f/10 |\n' % (plural('mix', total_mixes), format_duration(total_duration), total_rating / total_mixes)
+  toc += '| - | - | - | - |\n'
 
   def tohref(s):
      return s.lower().replace(' ', '-')
@@ -196,7 +197,7 @@ for name in sorted(os.listdir(dir)):
     for mix in mixes[h2]['mixes']:
       duration += mixes[h2]['mixes'][mix]['duration']
       rating += mixes[h2]['mixes'][mix]['rating']
-    toc += '- [%s](#%s) (%s, %s, %.2f/10)' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration), rating / len(mixes[h2]['mixes'])) + '\n'
+    toc += '| [%s](#%s) | %s | %s | %.2f/10 |' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration), rating / len(mixes[h2]['mixes'])) + '\n'
 
   with open(path) as fd:
     content = fd.read()
@@ -207,16 +208,18 @@ for name in sorted(os.listdir(dir)):
     f.write(content)
 
 with open('All.md', "w") as f:
-  f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
+  f.write('| | %s mixes | %s | |\n' % (final_mixes, format_duration(final_duration)))
+  f.write('| - | - | - | - |\n')
   for path in sorted(primary_toc):
-    f.write('- [%s](%s/%s) (%s, %s, %.2f/10)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
+    f.write('| [%s](%s/%s) | %s | %s | %.2f/10 |\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
   f.write('\n---\n\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
     f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
 
 with open('README.md', "w") as f:
-  f.write('**%d mixes, %s**\n\n' % (final_mixes, format_duration(final_duration)))
   f.write('[All Mixes](All.md)\n\n')
+  f.write('| | %s mixes | %s | |\n' % (final_mixes, format_duration(final_duration)))
+  f.write('| ---------- | ----- | -------- | ---------- |\n')
   for path in sorted(primary_toc):
-    f.write('- [%s](%s/%s) (%s, %s, %.2f/10)\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
+    f.write('| [%s](%s/%s) | %s | %s | %.2f/10 |\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
