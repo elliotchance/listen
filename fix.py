@@ -99,11 +99,11 @@ for name in sorted(os.listdir(dir)):
       if line.startswith('## '):
         h2 = line[3:].strip()
         h3 = ''
-        mixes[h2] = {'mixes': {}, 'content': ''}
+        mixes[h2] = {'mixes': {}, 'content': '', 'quote': ''}
       elif line.startswith('### '):
         h3 = line[4:].strip()
         mixes[h2]['mixes'][h3] = {'quote': '', 'liked': [], 'content': '', 'rating': 0, 'emoji': '⬜', 'duration': 0}
-      elif line.startswith('> ') and h2 != '':
+      elif line.startswith('> ') and h3 != '':
         mixes[h2]['mixes'][h3]['quote'] += line
         mixes[h2]['mixes'][h3]['content'] += line
         s = re.search(r"(.) (\d+)/10", line)
@@ -130,6 +130,8 @@ for name in sorted(os.listdir(dir)):
         if h3 != '':
           mixes[h2]['mixes'][h3]['content'] += line
         elif h2 != '':
+          if line.startswith('> '):
+            mixes[h2]['quote'] += line[2:-1]
           mixes[h2]['content'] += line
         else:
           header += line
@@ -178,8 +180,8 @@ for name in sorted(os.listdir(dir)):
     final_mixes += len(mixes[h2]['mixes'])
     primary_toc[name]['mix_count'] += len(mixes[h2]['mixes'])
 
-  toc = '| | %s | %s | %.2f/10 |\n' % (plural('mix', total_mixes), format_duration(total_duration), total_rating / total_mixes)
-  toc += '| - | - | - | - |\n'
+  toc = '| | %s | %s | %.2f/10 | Notes |\n' % (plural('mix', total_mixes), format_duration(total_duration), total_rating / total_mixes)
+  toc += '| - | - | - | - | - |\n'
 
   def tohref(s):
      return s.lower().replace(' ', '-')
@@ -197,7 +199,10 @@ for name in sorted(os.listdir(dir)):
     for mix in mixes[h2]['mixes']:
       duration += mixes[h2]['mixes'][mix]['duration']
       rating += mixes[h2]['mixes'][mix]['rating']
-    toc += '| [%s](#%s) | %s | %s | %.2f/10 |' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration), rating / len(mixes[h2]['mixes'])) + '\n'
+    avg_rating = 0
+    if len(mixes[h2]['mixes']) > 0:
+      rating / len(mixes[h2]['mixes'])
+    toc += '| [%s](#%s) | %s | %s | %.2f/10 | %s |' % (h2, tohref(h2), plural('mix', len(mixes[h2]['mixes'])), format_duration(duration), avg_rating, mixes[h2]['quote']) + '\n'
 
   with open(path) as fd:
     content = fd.read()

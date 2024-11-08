@@ -2,21 +2,21 @@
 
 <!-- toc:start -->
 
-| | 29 mixes | 40h40m | 5.10/10 |
-| - | - | - | - |
-| [Cercle](#cercle) | 3 mixes | 5h07m | 8.00/10 |
-| [Colorcast](#colorcast) | 2 mixes | 1h | 2.00/10 |
-| [Fear N Loathing](#fear-n-loathing) | 2 mixes | 4h | 7.00/10 |
-| [FeelMyBicep](#feelmybicep) | 6 mixes | 5h50m | 5.83/10 |
-| [Future Sound of Egypt](#future-sound-of-egypt) | 1 mix | 2h | 4.00/10 |
-| [Group Therapy](#group-therapy) | 6 mixes | 10h59m | 3.50/10 |
-| [HARD Summer 2022](#hard-summer-2022) | 1 mix | 1h | 8.00/10 |
-| [Lane 8 Mixtape](#lane-8-mixtape) | 1 mix | 1h | 7.00/10 |
-| [No Program](#no-program) | 1 mix | 1h43m | 7.00/10 |
-| [RA](#ra) | 1 mix | 1h | 1.00/10 |
-| [The Anjuna Mix](#the-anjuna-mix) | 2 mixes | 2h | 7.00/10 |
-| [The Anjunadeep Edition](#the-anjunadeep-edition) | 1 mix | 1h01m | 2.00/10 |
-| [VONYC Sessions](#vonyc-sessions) | 2 mixes | 4h | 3.50/10 |
+| | 29 mixes | 40h40m | 5.10/10 | Notes |
+| - | - | - | - | - |
+| [Cercle](#cercle) | 3 mixes | 5h07m | 0.00/10 |  |
+| [Colorcast](#colorcast) | 2 mixes | 1h | 0.00/10 |  |
+| [Fear N Loathing](#fear-n-loathing) | 2 mixes | 4h | 0.00/10 |  |
+| [FeelMyBicep](#feelmybicep) | 6 mixes | 5h50m | 0.00/10 |  |
+| [Future Sound of Egypt](#future-sound-of-egypt) | 1 mix | 2h | 0.00/10 |  |
+| [Group Therapy](#group-therapy) | 6 mixes | 10h59m | 0.00/10 |  |
+| [HARD Summer 2022](#hard-summer-2022) | 1 mix | 1h | 0.00/10 |  |
+| [Lane 8 Mixtape](#lane-8-mixtape) | 1 mix | 1h | 0.00/10 |  |
+| [No Program](#no-program) | 1 mix | 1h43m | 0.00/10 |  |
+| [RA](#ra) | 1 mix | 1h | 0.00/10 |  |
+| [The Anjuna Mix](#the-anjuna-mix) | 2 mixes | 2h | 0.00/10 |  |
+| [The Anjunadeep Edition](#the-anjunadeep-edition) | 1 mix | 1h01m | 0.00/10 |  |
+| [VONYC Sessions](#vonyc-sessions) | 2 mixes | 4h | 0.00/10 |  |
 <!-- toc:end -->
 
 ## Cercle
