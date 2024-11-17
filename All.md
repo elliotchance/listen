@@ -1,10 +1,10 @@
-| | 1000 mixes | 1524h08m | |
+| | 1001 mixes | 1526h08m | |
 | - | - | - | - |
 | [A State of Trance](Broadcasts/A%20State%20of%20Trance.md) | 517 mixes | 1019h45m | 3.86/10 |
 | [Apple](Broadcasts/Apple.md) | 21 mixes | 23h38m | 2.05/10 |
 | [Boiler Room](Broadcasts/Boiler%20Room.md) | 19 mixes | 19h | 6.21/10 |
 | [Electric Daisy Carnival](Broadcasts/Electric%20Daisy%20Carnival.md) | 19 mixes | 19h | 7.26/10 |
-| [Group Therapy](Broadcasts/Group%20Therapy.md) | 6 mixes | 10h59m | 3.50/10 |
+| [Group Therapy](Broadcasts/Group%20Therapy.md) | 7 mixes | 12h59m | 3.57/10 |
 | [Lost Lands](Broadcasts/Lost%20Lands.md) | 43 mixes | 43h | 4.40/10 |
 | [Misc](Broadcasts/Misc.md) | 29 mixes | 40h40m | 5.10/10 |
 | [Ophelias Odyssey](Broadcasts/Ophelias%20Odyssey.md) | 38 mixes | 38h | 4.03/10 |
@@ -639,14 +639,17 @@
 1. 🟧 `2021-11-25: Tritonia #363` (1h)
 1. 🟧 `2021-12-02: A State of Trance #1045` (1h59m)
 1. 🟥 `2021-12-09: A State of Trance #1046` (2h)
+1. 🟧 `2021-12-10 Above & Beyond & Manila Killa - Group Therapy Radio 464` (2h)
 1. 🟧 `2021-12-10: Group Therapy #464, "Manila Killa"` (2h)
 1. 🟧 `2021-12-10: Tritonia #364` (1h)
 1. 🟥 `2021-12-16: A State of Trance #1047` (2h02m)
+1. 🟧 `2021-12-17 Above & Beyond & Themba - Group Therapy Radio 465` (2h)
 1. 🟧 `2021-12-17: Group Therapy #465, "THEMBA"` (2h)
 1. 🟧 `2021-12-23: A State of Trance #1048` (4h03m)
 1. 🟦 `2021-12-23: Tritonia #365` (1h)
 1. 🟥 `2021-12-30: A State of Trance #1049, "Yearmix"` (2h)
 1. 🟥 `2022-01-06: A State of Trance #1050` (2h)
+1. 🟥 `2022-01-07 Above & Beyond & Bexxie - Group Therapy Radio 466` (2h)
 1. 🟥 `2022-01-07: Group Therapy #466, "Bexxie"` (2h)
 1. 🟨 `2022-01-13: A State of Trance #1051` (2h01m)
 1. 🟩 `2022-01-19: Ophelia's Odyssey #21, "Codeko"` (1h)
@@ -987,9 +990,13 @@
 1. 🟥 `2024-08-15: A State of Trance #1186` (2h)
 1. 🟧 `2024-08-22: A State of Trance #1187` (2h)
 1. 🟥 `2024-08-29: A State of Trance #1188` (2h)
+1. 🟩 `2024-10-19 Above & Beyond @ ABGT 600 (Hipódromo de las Américas Mexico City, Mexico)` (1h59m)
+1. 🟧 `2024-10-19 Above & Beyond @ ABGT 600 Deep Warm Up Set, Lago de Xochimilco Mexico City, Mexico` (1h)
 1. 🟧 `2024-10-19: Group Therapy #600, "Deep Warmup Set": Mexico` (1h)
 1. 🟩 `2024-10-19: Group Therapy #600: Hipódromo de las Américas, Mexico City, Mexico` (1h59m)
 1. 🟥 `2024-10-19: Group Therapy #601` (2h)
+1. 🟥 `2024-10-25 Above & Beyond & Shingo Nakamura - Group Therapy Radio 601` (2h)
+1. 🟧 `2024-11-08 Above & Beyond & TDJ - Group Therapy Radio 603` (2h)
 1. 🟥 `2024-99-99: A State of Trance #1189` (2h)
 1. 🟥 `2024-99-99: A State of Trance #1190` (2h)
 1. 🟥 `2024-99-99: Colorcast #214` (0m)
