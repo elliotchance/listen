@@ -12,9 +12,11 @@
 
 ## 2011
 
-### 2011-04-09: A State of Trance #500, "A State of Blue: Above & Beyond": Brabanthallen, Den Bosch, The Netherlands
+### 2011-04-09 Above & Beyond @ A State Of Trance Festival 500, Brabanthallen Den Bosch, Netherlands
 
-> 🟪 10/10 | 1h25m | 16 tracks | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
+> 🟪 10/10 | 1h25m | 16 tracks
+> | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
+> | https://1001.tl/9cr221
 
 - Everything From Me (Promises) _([Myon & Shane 54](https://rateyourmusic.com/artist/myon_and_shane_54) Demo Remix)_ - [Andain](https://rateyourmusic.com/artist/andain)
 - Thing Called Love _([Mat Zo](https://rateyourmusic.com/artist/mat-zo) Remix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
@@ -25,58 +27,74 @@
 - My Enemy _(club mix)_ - [Super8 & Tab](https://rateyourmusic.com/artist/super8_and_tab) feat. [Julie Thompson](https://rateyourmusic.com/artist/julie_thompson)
 - Sun in Your Eyes - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 
-### 2011-04-09: A State of Trance #500, "A State of Blue: Mat Zo": Brabanthallen, Den Bosch, The Netherlands
+### 2011-04-09 Mat Zo @ A State Of Trance Festival 500, Brabanthallen Den Bosch, Netherlands
 
-> 🟧 3/10 | 54m | 11 tracks | [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
+> 🟧 3/10 | 54m | 11 tracks
+> | [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
+> | https://1001.tl/w4kc8t
 
 - Superman - [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
 
-### 2011-04-16: A State of Trance #500, "Alex M.O.R.P.H.": Acer Arena, Sydney, NSW, Australia
+### 2011-04-16 Alex M.O.R.P.H. @ Acer Arena Sydney, Australia, A State Of Trance Festival 500
 
-> 🟧 3/10 | 1h15m | 12 tracks | [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h)
-
-- ID - [ID](#)
-
-### 2011-04-16: A State of Trance #500, "Aly & Fila": Acer Arena, Sydney, NSW, Australia
-
-> 🟧 4/10 | 1h15m | 17 tracks | [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila)
+> 🟧 3/10 | 1h15m | 12 tracks
+> | [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h)
+> | https://1001.tl/t57lj1
 
 - ID - [ID](#)
-- ID - [ID](#)
 
-### 2011-04-16: A State of Trance #500, "Armin van Buuren": Acer Arena, Sydney, NSW, Australia
+### 2011-04-16 Aly & Fila @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
 
-> 🟧 4/10 | ~2h59m | 34 tracks | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
-
-- ID - [ID](#)
-- ID - [ID](#)
-- ID - [ID](#)
-- ID - [ID](#)
-
-### 2011-04-16: A State of Trance #500, "Menno De Jong": Acer Arena, Sydney, NSW, Australia
-
-> 🟧 4/10 | 1h12m | 13 tracks | [Menno De Jong](https://rateyourmusic.com/artist/menno_de_jong)
+> 🟧 4/10 | 1h15m | 17 tracks
+> | [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila)
+> | https://1001.tl/vv1rgk
 
 - ID - [ID](#)
 - ID - [ID](#)
 
-### 2011-04-16: A State of Trance #500, "Shogun": Acer Arena, Sydney, NSW, Australia
+### 2011-04-16 Armin van Buuren @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
 
-> 🟩 7/10 | 1h | 10 tracks | [Shogun](https://rateyourmusic.com/artist/shogun_f3)
+> 🟧 4/10 | ~2h59m | 34 tracks
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> | https://1001.tl/m6hmc9
 
 - ID - [ID](#)
 - ID - [ID](#)
 - ID - [ID](#)
+- ID - [ID](#)
 
-### 2011-04-16: A State of Trance #500, "Warm up": Acer Arena, Sydney, NSW, Australia
+### 2011-04-16 Armin van Buuren @ Warm-Up Set, A State Of Trance Festival, Acer Arena Sydney, Australia
 
 > 🟧 3/10 | 56m | 9 tracks
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> | https://1001.tl/239l79xk
 
 - ID - [ID](#)
 
-### 2011-04-16: A State of Trance #500, "tyDi": Acer Arena, Sydney, NSW, Australia
+### 2011-04-16 Menno De Jong @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
 
-> 🟧 4/10 | 1h15m | 13 tracks | [tyDi](https://rateyourmusic.com/artist/tydi)
+> 🟧 4/10 | 1h12m | 13 tracks
+> | [Menno De Jong](https://rateyourmusic.com/artist/menno_de_jong)
+> | https://1001.tl/svqfv9
+
+- ID - [ID](#)
+- ID - [ID](#)
+
+### 2011-04-16 Shogun @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+
+> 🟩 7/10 | 1h | 10 tracks
+> | [Shogun](https://rateyourmusic.com/artist/shogun_f3)
+> | https://1001.tl/p98d9t
+
+- ID - [ID](#)
+- ID - [ID](#)
+- ID - [ID](#)
+
+### 2011-04-16 tyDi @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+
+> 🟧 4/10 | 1h15m | 13 tracks
+> | [tyDi](https://rateyourmusic.com/artist/tydi)
+> | https://1001.tl/hn20gk
 
 - ID - [ID](#)
 - ID - [ID](#)
