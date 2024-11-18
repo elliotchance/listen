@@ -222,7 +222,7 @@ with open('All.md', "w") as f:
     mix = all_mixes[title]
     if '1001.tl' in mix['quote']:
       url = re.search(r"https://1001.tl/[^\s]+", mix['quote'])
-      f.write('1. %s [`%s`](%s) (%s)\n' % (mix['emoji'], title, url[0], format_duration(mix['duration'])))
+      f.write('1. %s `%s` (%s, [1001.tl](%s))\n' % (mix['emoji'], title, format_duration(mix['duration']), url[0]))
     else:
       f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
 
