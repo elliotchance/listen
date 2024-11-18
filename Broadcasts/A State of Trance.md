@@ -37,40 +37,39 @@
 ### 2001-05-18: A State of Trance #0
 
 > 🟥 2/10 | 1h46m | 18 tracks
-> | [MusicBrainz](https://musicbrainz.org/recording/3aa15651-819c-48b6-9c3b-f55e6be77e40)
-> | [1001tracklists](https://1001.tl/2xbh9b9)
+> | https://1001.tl/2xbh9b9
 
 - ID - [ID](#)
 
 ### 2001-06-01: A State of Trance #1
 
 > 🟥 1/10 | 2h02m | 19 tracks
-> | [1001tracklists](https://1001.tl/38zxw8k)
+> | https://1001.tl/38zxw8k
 
 ### 2001-06-08: A State of Trance #2
 
 > 🟥 1/10 | 2h03m | 18 tracks
-> | [1001tracklists](https://1001.tl/6d4sbw1)
+> | https://1001.tl/6d4sbw1
 
 ### 2001-06-15: A State of Trance #3
 
 > 🟥 1/10 | 1h56m | 19 tracks
-> | [1001tracklists](https://1001.tl/2kyq9m9)
+> | https://1001.tl/2kyq9m9
 
 ### 2001-06-22: A State of Trance #4
 
 > 🟥 1/10 | 1h59m | 20 tracks
-> | [1001tracklists](https://1001.tl/2gzblbk)
+> | https://1001.tl/2gzblbk
 
 ### 2001-06-29: A State of Trance #5
 
 > 🟥 1/10 | 1h50m | 23 tracks
-> | [1001tracklists](https://1001.tl/1g698kt)
+> | https://1001.tl/1g698kt
 
 ### 2001-07-20: A State of Trance #6
 
 > 🟧 3/10 | 1h48m | 23 tracks
-> | [1001tracklists](https://1001.tl/1r4r82k)
+> | https://1001.tl/1r4r82k
 
 - Into The Night - [4 Strings](https://rateyourmusic.com/artist/4-strings)
 - The Legacy - [Push](https://rateyourmusic.com/artist/push)
@@ -78,75 +77,75 @@
 ### 2001-07-27: A State of Trance #7
 
 > 🟥 1/10 | 1h50m | 22 tracks
-> | [1001tracklists](https://1001.tl/6y1b1tk)
+> | https://1001.tl/6y1b1tk
 
 ### 2001-08-03: A State of Trance #8
 
 > 🟥 1/10 | 1h48m | 21 tracks
-> | [1001tracklists](https://1001.tl/qk214j1)
+> | https://1001.tl/qk214j1
 
 ### 2001-08-10: A State of Trance #9
 
 > 🟥 1/10 | 1h52m | 22 tracks
-> | [1001tracklists](https://1001.tl/2ukblgl1)
+> | https://1001.tl/2ukblgl1
 
 ### 2001-08-17: A State of Trance #10
 
 > 🟥 1/10 | 2h03m | 21 tracks
-> | [1001tracklists](https://1001.tl/qkscbzt)
+> | https://1001.tl/qkscbzt
 
 ### 2001-08-24: A State of Trance #11
 
 > 🟥 2/10 | 2h06m | 18 tracks
-> | [1001tracklists](https://1001.tl/1mfn8hbk)
+> | https://1001.tl/1mfn8hbk
 
 - Ibeatza - [Poison Club](#)
 
 ### 2001-09-07: A State of Trance #12
 
 > 🟥 1/10 | 1h58m | 21 tracks
-> | [1001tracklists](https://1001.tl/9jjz4k9)
+> | https://1001.tl/9jjz4k9
 
 ### 2001-09-14: A State of Trance #13
 
 > 🟥 1/10 | 1h51m | 21 tracks
-> | [1001tracklists](https://1001.tl/2pwbbsuk)
+> | https://1001.tl/2pwbbsuk
 
 ### 2001-09-21: A State of Trance #14
 
 > 🟥 1/10 | 1h51m | 21 tracks
-> | [1001tracklists](https://1001.tl/22bh95mk)
+> | https://1001.tl/22bh95mk
 
 ### 2001-09-28: A State of Trance #15
 
 > 🟥 2/10 | 1h56m | 20 tracks
-> | [1001tracklists](https://1001.tl/28v30b19)
+> | https://1001.tl/28v30b19
 
 - Razorfish _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) Progressive Mix)_ - [Tranquility Base](https://rateyourmusic.com/artist/tranquility_base)
 
 ### 2001-10-05: A State of Trance #16
 
 > 🟥 1/10 | 1h59m | 21 tracks
-> | [1001tracklists](https://1001.tl/jyypws9)
+> | https://1001.tl/jyypws9
 
 ### 2001-10-11: A State of Trance #17
 
 > 🟥 2/10 | 2h03m | 20 tracks
-> | [1001tracklists](https://1001.tl/11rducqt)
+> | https://1001.tl/11rducqt
 
 - Rapture _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [iiO](https://rateyourmusic.com/artist/iio)
 
 ### 2001-10-18: A State of Trance #18
 
 > 🟥 2/10 | 2h03m | 22 tracks
-> | [1001tracklists](https://1001.tl/f7ssvc9)
+> | https://1001.tl/f7ssvc9
 
 - Rapture _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [iiO](https://rateyourmusic.com/artist/iio)
 
 ### 2001-10-25: A State of Trance #19
 
 > 🟧 3/10 | 1h59m | 21 tracks
-> | [1001tracklists](https://1001.tl/2dlbn79t)
+> | https://1001.tl/2dlbn79t
 
 - Clear Blue Water _([Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Resurection _(Space Club Mix)_ - [ППК](https://rateyourmusic.com/artist/ппк)
@@ -154,12 +153,12 @@
 ### 2001-11-01: A State of Trance #20
 
 > 🟥 1/10 | 1h57m | 9 tracks
-> | [1001tracklists](https://1001.tl/1mfpfsq1)
+> | https://1001.tl/1mfpfsq1
 
 ### 2001-11-08: A State of Trance #21
 
 > 🟧 3/10 | 2h02m | 18 tracks
-> | [1001tracklists](https://1001.tl/1lhvs759)
+> | https://1001.tl/1lhvs759
 
 - Clear Blue Water _([Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Resurection - [ППК](https://rateyourmusic.com/artist/ппк)
@@ -167,12 +166,12 @@
 ### 2001-11-15: A State of Trance #22
 
 > 🟥 1/10 | 2h01m | 19 tracks
-> | [1001tracklists](https://1001.tl/nq65t3t)
+> | https://1001.tl/nq65t3t
 
 ### 2001-11-22: A State of Trance #23
 
 > 🟧 3/10 | 1h53m | 20 tracks
-> | [1001tracklists](https://1001.tl/2nykqqm1)
+> | https://1001.tl/2nykqqm1
 
 - Clear Blue Water _([Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Resurection _(Space Club Mix)_ - [ППК](https://rateyourmusic.com/artist/ппк)
@@ -180,31 +179,31 @@
 ### 2001-11-29: A State of Trance #24
 
 > 🟥 1/10 | 1h52m | 18 tracks
-> | [1001tracklists](https://1001.tl/2n0s1529)
+> | https://1001.tl/2n0s1529
 
 ### 2001-12-06: A State of Trance #25
 
 > 🟥 1/10 | 1h57m | 20 tracks
-> | [1001tracklists](https://1001.tl/1zk36j0t)
+> | https://1001.tl/1zk36j0t
 
 ### 2001-12-13: A State of Trance #26
 
 > 🟥 2/10 | 1h58m | 21 tracks
-> | [1001tracklists](https://1001.tl/u90qp91)
+> | https://1001.tl/u90qp91
 
 - Drifting Away - [Lange](https://rateyourmusic.com/artist/lange) feat. [Skye](https://rateyourmusic.com/artist/skye-2)
 
 ### 2001-12-20: A State of Trance #27
 
 > 🟥 2/10 | 2h | 20 tracks
-> | [1001tracklists](https://1001.tl/1ymb07s9)
+> | https://1001.tl/1ymb07s9
 
 - Moments Are Forever - [Moon Project](https://rateyourmusic.com/artist/moon_project)
 
 ### 2001-12-27: A State of Trance #28, "Top 20 of 2001"
 
 > 🟧 4/10 | 2h01m | 20 tracks
-> | [1001tracklists](https://1001.tl/5wtkfzt)
+> | https://1001.tl/5wtkfzt
 
 - Clear Blue Water _([Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Rapture _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [iiO](https://rateyourmusic.com/artist/iio)
@@ -288,28 +287,28 @@
 ### 2002-03-21: A State of Trance #40
 
 > 🟥 2/10 | 2h04m | 22 tracks
-> | [1001tracklists](https://1001.tl/2spt107t)
+> | https://1001.tl/2spt107t
 
 - Sky Falls Down - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 
 ### 2002-03-28: A State of Trance #41
 
 > 🟥 2/10 | 2h01m | 21 tracks
-> | [1001tracklists](https://1001.tl/2dlchp7k)
+> | https://1001.tl/2dlchp7k
 
 - Sky Falls Down - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 
 ### 2002-04-04: A State of Trance #42
 
 > 🟥 2/10 | 2h06m | 21 tracks
-> | [1001tracklists](https://1001.tl/1s2qp061)
+> | https://1001.tl/1s2qp061
 
 - Sky Falls Down - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 
 ### 2002-04-11: A State of Trance #43
 
 > 🟧 3/10 | 1h55m | 21 tracks
-> | [1001tracklists](https://1001.tl/20gxr7p9)
+> | https://1001.tl/20gxr7p9
 
 - Into The Night _([Coast 2 Coast](https://rateyourmusic.com/artist/coast-2-coast) Remix)_ - [4 Strings](https://rateyourmusic.com/artist/4-strings)
 - Reachin' Out - M-Diva
@@ -317,52 +316,52 @@
 ### 2002-04-18: A State of Trance #44
 
 > 🟥 2/10 | 2h03m | 21 tracks
-> | [1001tracklists](https://1001.tl/2tmlxw4k)
+> | https://1001.tl/2tmlxw4k
 
 - Janeiro _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [Solid Sessions](https://rateyourmusic.com/artist/solid_sessions)
 
 ### 2002-04-25: A State of Trance #45
 
 > 🟥 2/10 | 1h57m | 19 tracks
-> | [1001tracklists](https://1001.tl/1mfq96mt)
+> | https://1001.tl/1mfq96mt
 
 - Janeiro _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [Solid Sessions](https://rateyourmusic.com/artist/solid_sessions)
 
 ### 2002-05-02: A State of Trance #46
 
 > 🟥 2/10 | 2h03m | 20 tracks
-> | [1001tracklists](https://1001.tl/kwu1239)
+> | https://1001.tl/kwu1239
 
 - Sky Falls Down - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 
 ### 2002-05-09: A State of Trance #47
 
 > 🟥 1/10 | 1h57m | 20 tracks
-> | [1001tracklists](https://1001.tl/2vh69slk)
+> | https://1001.tl/2vh69slk
 
 ### 2002-05-16: A State of Trance #48
 
 > 🟥 2/10 | 1h56m | 20 tracks
-> | [1001tracklists](https://1001.tl/2k7cwg1t)
+> | https://1001.tl/2k7cwg1t
 
 - Janeiro _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [Solid Sessions](https://rateyourmusic.com/artist/solid_sessions)
 
 ### 2002-05-23: A State of Trance #49
 
 > 🟥 1/10 | 2h04m | 21 tracks
-> | [1001tracklists](https://1001.tl/zvv4whk)
+> | https://1001.tl/zvv4whk
 
 ### 2002-05-30: A State of Trance #50
 
 > 🟥 2/10 | 2h01m | 19 tracks
-> | [1001tracklists](https://1001.tl/2464ggyt)
+> | https://1001.tl/2464ggyt
 
 - Yet Another Day - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Ray Wilson](https://rateyourmusic.com/artist/ray-wilson-2)
 
 ### 2002-06-06: A State of Trance #51
 
 > 🟧 3/10 | 1h56m | 19 tracks
-> | [1001tracklists](https://1001.tl/2qu67301)
+> | https://1001.tl/2qu67301
 
 - Dreaming of You _([Svenson & Gielen](https://rateyourmusic.com/artist/svenson-and-gielen) Remix)_ - [The Thrillseekers](https://rateyourmusic.com/artist/the_thrillseekers)
 - Riva - Time Is The Healer ([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Vocal Remix)
@@ -370,17 +369,17 @@
 ### 2002-06-13: A State of Trance #52
 
 > 🟥 1/10 | 2h26m | 19 tracks
-> | [1001tracklists](https://1001.tl/17b8unh9)
+> | https://1001.tl/17b8unh9
 
 ### 2002-06-27: A State of Trance #53
 
 > 🟥 1/10 | 3h47m | 10 tracks
-> | [1001tracklists](https://1001.tl/1uwpqydk)
+> | https://1001.tl/1uwpqydk
 
 ### 2002-07-04: A State of Trance #54
 
 > 🟧 3/10 | 2h06m | 19 tracks
-> | [1001tracklists](https://1001.tl/15gphkft)
+> | https://1001.tl/15gphkft
 
 - Silver Bath - [Plastic Boy](https://rateyourmusic.com/artist/plastic_boy)
 - Yet Another Day - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Ray Wilson](https://rateyourmusic.com/artist/ray-wilson-2)
@@ -388,34 +387,34 @@
 ### 2002-07-11: A State of Trance #55
 
 > 🟥 2/10 | 1h36m | 18 tracks
-> | [1001tracklists](https://1001.tl/27xcfyx1)
+> | https://1001.tl/27xcfyx1
 
 - <10> Synaesthesia - [The Thrillseekers](https://rateyourmusic.com/artist/the_thrillseekers)
 
 ### 2002-07-18: A State of Trance #56
 
 > 🟥 1/10 | 1h57m | 18 tracks
-> | [1001tracklists](https://1001.tl/2j9lj6d9)
+> | https://1001.tl/2j9lj6d9
 
 ### 2002-08-01: A State of Trance #57
 
 > 🟥 1/10 | 2h21m | 21 tracks
-> | [1001tracklists](https://1001.tl/2sptlfvk)
+> | https://1001.tl/2sptlfvk
 
 ### 2002-08-08: A State of Trance #58
 
 > 🟥 1/10 | 3h46m
-> | [1001tracklists](https://1001.tl/2gfz53bt)
+> | https://1001.tl/2gfz53bt
 
 ### 2002-08-15: A State of Trance #59
 
 > 🟥 1/10 | 2h01m
-> | [1001tracklists](https://1001.tl/pn10vu1)
+> | https://1001.tl/pn10vu1
 
 ### 2002-08-22: A State of Trance #60
 
 > 🟧 3/10 | 1h59m
-> | [1001tracklists](https://1001.tl/2dlcu099)
+> | https://1001.tl/2dlcu099
 
 - Sky Falls Down _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Yet Another Day _([Rising Star](https://rateyourmusic.com/artist/rising-star) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) feat. [Ray Wilson](https://rateyourmusic.com/artist/ray-wilson-2)
@@ -423,19 +422,19 @@
 ### 2002-08-29: A State of Trance #61
 
 > 🟥 1/10 | 1h59m
-> | [1001tracklists](https://1001.tl/x2gfksk)
+> | https://1001.tl/x2gfksk
 
 ### 2002-09-05: A State of Trance #62
 
 > 🟥 2/10 | 1h37m
-> | [1001tracklists](https://1001.tl/15gpht7t)
+> | https://1001.tl/15gpht7t
 
 - Sky Falls Down _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 
 ### 2002-09-12: A State of Trance #63
 
 > 🟧 3/10 | 1h58m
-> | [1001tracklists](https://1001.tl/14jvu7r1)
+> | https://1001.tl/14jvu7r1
 
 - Visible Noise - [Hybrid](https://rateyourmusic.com/artist/hybrid)
 - Sky Falls Down _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Dub Mix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
@@ -443,7 +442,7 @@
 ### 2002-09-19: A State of Trance #64
 
 > 🟥 2/10 | 2h56m
-> | [1001tracklists](https://1001.tl/2l57mr31)
+> | https://1001.tl/2l57mr31
 
 - Let the Light Shine in - [Darren Tate](https://rateyourmusic.com/artist/darren_tate_f1) & [Jono Grant](https://rateyourmusic.com/artist/jono-grant)
 - Sky Falls Down _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Vocal Remix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
@@ -451,7 +450,7 @@
 ### 2002-09-26: A State of Trance #65
 
 > 🟧 3/10 | 1h56m
-> | [1001tracklists](https://1001.tl/12pb78l9)
+> | https://1001.tl/12pb78l9
 
 - Let the Light Shine in - [Darren Tate](https://rateyourmusic.com/artist/darren_tate_f1) & [Jono Grant](https://rateyourmusic.com/artist/jono-grant)
 - Open Your Eyes _([Goldenscan](https://rateyourmusic.com/artist/goldenscan) Remix)_ - [Insigma](https://rateyourmusic.com/artist/insigma)
@@ -459,27 +458,27 @@
 ### 2002-10-03: A State of Trance #66
 
 > 🟥 1/10 | 1h58m
-> | [1001tracklists](https://1001.tl/25405q1k)
+> | https://1001.tl/25405q1k
 
 ### 2002-10-10: A State of Trance #67
 
 > 🟥 1/10 | 1h53m
-> | [1001tracklists](https://1001.tl/2qu7zqjt)
+> | https://1001.tl/2qu7zqjt
 
 ### 2002-10-17: A State of Trance #68
 
 > 🟥 1/10 | 1h52m
-> | [1001tracklists](https://1001.tl/1tyd2u01)
+> | https://1001.tl/1tyd2u01
 
 ### 2002-10-24: A State of Trance #69
 
 > 🟥 1/10 | 2h
-> | [1001tracklists](https://1001.tl/9jp0tyk)
+> | https://1001.tl/9jp0tyk
 
 ### 2002-10-31: A State of Trance #70
 
 > 🟥 1/10 | 1h56m
-> | [1001tracklists](https://1001.tl/20gztyft)
+> | https://1001.tl/20gztyft
 
 ### 2002-11-07: A State of Trance #71
 
@@ -868,7 +867,7 @@
 ### 2007-01-04: A State of Trance #282
 
 > 🟨 5/10 | 2h04m | 22 tracks
-> | [1001tracklists](https://1001.tl/1c2l3vd1)
+> | https://1001.tl/1c2l3vd1
 
 - Driftations _([Marninx](#) Dedicated Remix)_ - [ATP](https://rateyourmusic.com/artist/atp-3)
 - Good For Me _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)'s Club Mix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Zoe Johnston](#)
@@ -878,7 +877,7 @@
 ### 2007-01-11: A State of Trance #283
 
 > 🟧 4/10 | 2h01m | 20 tracks
-> | [1001tracklists](https://1001.tl/1ndlvw61)
+> | https://1001.tl/1ndlvw61
 
 - Ascent - [Michael Dow](https://rateyourmusic.com/artist/michael_dow)
 - Whatever _([Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila) Remix)_ - [Lost Witness](https://rateyourmusic.com/artist/lost_witness) vs. [Sassot](#)
@@ -887,7 +886,7 @@
 ### 2007-01-18: A State of Trance #284
 
 > 🟧 4/10 | 2h | 20 tracks
-> | [1001tracklists](https://1001.tl/262upwp9)
+> | https://1001.tl/262upwp9
 
 - I Am _([Markus Schulz](https://rateyourmusic.com/artist/markus-schulz) Remix)_ - [Chakra](https://rateyourmusic.com/artist/chakra_f2)
 - Louder _([Jon O'Bir](https://rateyourmusic.com/artist/jon_obir) Bootleg Mix)_ - [Jose Amnesia](https://rateyourmusic.com/artist/jose-amnesia) feat. [Jennifer Rene](https://rateyourmusic.com/artist/jennifer_rene)
@@ -4007,7 +4006,7 @@
 
 > 🟥 2/10 | ~2h | 27 tracks
 > | [Silva City](https://rateyourmusic.com/artist/silva-city)
-> | [1001tracklists](https://1001.tl/11zy9vl1)
+> | https://1001.tl/11zy9vl1
 
 - ID - [Silva City](https://rateyourmusic.com/artist/silva-city)
 
@@ -4015,7 +4014,7 @@
 
 > 🟧 3/10 | ~2h | 29 tracks
 > | [Matt Fax](https://rateyourmusic.com/artist/matt_fax)
-> | [1001tracklists](https://1001.tl/2vrr84lk)
+> | https://1001.tl/2vrr84lk
 
 - By Now _(VIP Mix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [D.O.D](https://rateyourmusic.com/artist/d_o_d-1) feat. [Laura Welsh](https://rateyourmusic.com/artist/laura_welsh)
 - Kalopsia _([Matt Fax](https://rateyourmusic.com/artist/matt_fax) Remix)_ - [The Blizzard](https://rateyourmusic.com/artist/the-blizzard)
@@ -4024,13 +4023,13 @@
 
 > 🟥 1/10 | ~2h | 29 tracks
 > | [Giorgia Angiuli](https://rateyourmusic.com/artist/giorgia-angiuli)
-> | [1001tracklists](https://1001.tl/1u6w7tj1)
+> | https://1001.tl/1u6w7tj1
 
 ### 2024-05-30: A State of Trance #1175, "Laura van Dam"
 
 > 🟥 2/10 | ~2h | 32 tracks
 > | [Laura van Dam](https://rateyourmusic.com/artist/laura-van-dam)
-> | [1001tracklists](https://1001.tl/quft7sk)
+> | https://1001.tl/quft7sk
 
 - Into the Night - [Audorn](#) & [Sarah de Warren](https://rateyourmusic.com/artist/sarah-de-warren)
 
@@ -4038,13 +4037,13 @@
 
 > 🟥 1/10 | ~2h | 31 tracks
 > | [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
-> | [1001tracklists](https://1001.tl/9t7pbd1)
+> | https://1001.tl/9t7pbd1
 
 ### 2024-06-13: A State of Trance #1177, "MRPHLNDR"
 
 > 🟥 2/10 | ~2h | 29 tracks
 > | [MRPHLNDR](#)
-> | [1001tracklists](https://1001.tl/1hz5ju2t)
+> | https://1001.tl/1hz5ju2t
 
 - Castles in the Sky - [P.O.U](#) & [Scott Forshaw](#)
 
@@ -4052,7 +4051,7 @@
 
 > 🟥 2/10 | ~2h | 32 tracks
 > | [UUFO](https://rateyourmusic.com/artist/uufo)
-> | [1001tracklists](https://1001.tl/2vrxc0x1)
+> | https://1001.tl/2vrxc0x1
 
 - Out There _([Uufo](#) Remix)_ - [Masters & Nickson](#) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 
@@ -4060,7 +4059,7 @@
 
 > 🟧 4/10 | ~2h
 > | [Maarten de Jong](https://rateyourmusic.com/artist/maarten_de_jong)
-> | [1001tracklists](https://1001.tl/1pl1wuuk)
+> | https://1001.tl/1pl1wuuk
 
 - Take My Breath - [0Gravity](https://rateyourmusic.com/artist/0gravity)
 - I Don't Deserve You _([John O'Callaghan](https://rateyourmusic.com/artist/john_ocallaghan) Remix)_ - [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk) feat. [Plumb](#)
@@ -4070,7 +4069,7 @@
 
 > 🟩 7/10 | ~2h
 > | [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
-> | [1001tracklists](https://1001.tl/z6v2dh9)
+> | https://1001.tl/z6v2dh9
 
 - Feel Alive - [Eugenio Tokarev](https://rateyourmusic.com/artist/eugenio-tokarev) & [Bruno Oloviani](https://rateyourmusic.com/artist/bruno-oloviani)
 - Like You - [Richard Durand](https://rateyourmusic.com/artist/richard_durand) & [Sarah de Warren](https://rateyourmusic.com/artist/sarah-de-warren)
@@ -4083,7 +4082,7 @@
 
 > 🟧 4/10 | ~2h
 > | [York](https://rateyourmusic.com/artist/york)
-> | [1001tracklists](https://1001.tl/hd7s0z1)
+> | https://1001.tl/hd7s0z1
 
 - 1984 - [ReOrder](https://rateyourmusic.com/artist/reorder)
 - Interstellar _([York](https://rateyourmusic.com/artist/york)'s Back in the Past Mix)_ - [Torsten Stenzel](https://rateyourmusic.com/artist/torsten-stenzel)
@@ -4093,20 +4092,20 @@
 
 > 🟥 1/10 | ~2h
 > | [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison)
-> | [1001tracklists](https://1001.tl/y93ntq1)
+> | https://1001.tl/y93ntq1
 
 ### 2024-07-18: A State of Trance #1183, "Juliet Fox"
 
 > 🟥 2/10 | ~2h
 > | [Juliet Fox](https://rateyourmusic.com/artist/juliet-fox)
-> | [1001tracklists](https://1001.tl/y93ntq1)
+> | https://1001.tl/y93ntq1
 
 - Survive It - [Ben Nicky](https://rateyourmusic.com/artist/ben-nicky) & [Creeds](https://rateyourmusic.com/artist/creeds)
 
 ### 2024-07-25: A State of Trance #1183
 
 > 🟥 2/10 | ~2h
-> | [1001tracklists](https://1001.tl/15rlcbj9)
+> | https://1001.tl/15rlcbj9
 
 - Survive It - [Ben Nicky](https://rateyourmusic.com/artist/ben-nicky) & [Creeds](https://rateyourmusic.com/artist/creeds)
 
@@ -4114,7 +4113,7 @@
 
 > 🟧 4/10 | ~2h
 > | [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
-> | [1001tracklists](https://1001.tl/15rlcbj9)
+> | https://1001.tl/15rlcbj9
 
 - The Journey - [Silva City](https://rateyourmusic.com/artist/silva-city)
 - Bioluminescent - [Asteroid](#) & [Transaphonic](https://rateyourmusic.com/artist/transphonic)
@@ -4123,7 +4122,7 @@
 ### 2024-08-01: A State of Trance #1184
 
 > 🟧 4/10 | ~2h
-> | [1001tracklists](https://1001.tl/fjry5y9)
+> | https://1001.tl/fjry5y9
 
 - The Journey - [Silva City](https://rateyourmusic.com/artist/silva-city)
 - Bioluminescent - [Asteroid](#) & [Transaphonic](https://rateyourmusic.com/artist/transphonic)
@@ -4132,7 +4131,7 @@
 ### 2024-08-08: A State of Trance #1185
 
 > 🟧 4/10 | ~2h
-> | [1001tracklists](https://1001.tl/1lsw2m9t)
+> | https://1001.tl/1lsw2m9t
 
 - High on the Low - [Will Atkinson](https://rateyourmusic.com/artist/will-atkinson)
 - Just Breathe - [Alan Fullmer](#) feat. [Alina Renae](https://rateyourmusic.com/artist/alina_renae)

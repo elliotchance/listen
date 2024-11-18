@@ -220,7 +220,11 @@ with open('All.md', "w") as f:
   f.write('\n---\n\n')
   for title in sorted(all_mixes):
     mix = all_mixes[title]
-    f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
+    if '1001.tl' in mix['quote']:
+      url = re.search(r"https://1001.tl/[^\s]+", mix['quote'])
+      f.write('1. %s [`%s`](%s) (%s)\n' % (mix['emoji'], title, url[0], format_duration(mix['duration'])))
+    else:
+      f.write('1. %s `%s` (%s)\n' % (mix['emoji'], title, format_duration(mix['duration'])))
 
 with open('README.md', "w") as f:
   f.write('[All Mixes](All.md)\n\n')

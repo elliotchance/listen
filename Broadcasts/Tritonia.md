@@ -564,7 +564,7 @@
 ### 2020-12-31: Tritonia #328, "Yearmix"
 
 > 🟨 5/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/1dyx1b29)
+> | https://1001.tl/1dyx1b29
 
 - Born Yesterday - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Brigetta](https://rateyourmusic.com/artist/brigetta)
 - Happy Where We Are - [Tritonal](https://rateyourmusic.com/artist/tritonal), [Dylan Matthew](https://rateyourmusic.com/artist/dylan-matthew) & [Au5](https://rateyourmusic.com/artist/au5)
@@ -576,7 +576,7 @@
 ### 2021-01-21: Tritonia #329
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/2k99kuht)
+> | https://1001.tl/2k99kuht
 
 - Settle _([Le Youth](https://rateyourmusic.com/artist/le_youth) Remix)_ - [Dezza](https://rateyourmusic.com/artist/dezza_f1) & [Lauren L'aimant](https://rateyourmusic.com/artist/lauren-laimant)
 - Four Rocks - [Tommy Baynen](https://rateyourmusic.com/artist/tommy-baynen)
@@ -584,7 +584,7 @@
 ### 2021-01-29: Tritonia #330
 
 > 🟩 7/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/zxufdp9)
+> | https://1001.tl/zxufdp9
 
 - The Lights - [Capa](https://rateyourmusic.com/artist/capa-1) & [Diana Miro](https://rateyourmusic.com/artist/diana-miro)
 - Hold On - [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone), [Maor Levi](https://rateyourmusic.com/artist/maor-levi) & [Alex Clare](https://rateyourmusic.com/artist/alex-clare)
@@ -593,12 +593,12 @@
 ### 2021-02-07: Tritonia #331
 
 > 🟥 1/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/uc246g9)
+> | https://1001.tl/uc246g9
 
 ### 2021-02-12: Tritonia #332
 
 > 🟨 5/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/1wtt75v1)
+> | https://1001.tl/1wtt75v1
 
 - Feels Like Home - [Solanca](https://rateyourmusic.com/artist/solanca)
 - Happy Where We Are _([Kaidro](https://rateyourmusic.com/artist/kaidro) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal), [Dylan Matthew](https://rateyourmusic.com/artist/dylan-matthew) & [Au5](https://rateyourmusic.com/artist/au5)
@@ -606,14 +606,14 @@
 ### 2021-02-18: Tritonia #333
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1zm79v91)
+> | https://1001.tl/1zm79v91
 
 - Sun in Your Eyes _([Spencer Brown](https://rateyourmusic.com/artist/spencer-brown) Club Mix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 
 ### 2021-03-04: Tritonia #334
 
 > 🟩 7/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/27zk9j0k)
+> | https://1001.tl/27zk9j0k
 
 - Alone - [Maarten de Jong](https://rateyourmusic.com/artist/maarten_de_jong)
 - Don't Wanna Fall _([Xavi](https://rateyourmusic.com/artist/xavi) Remix)_ - [Seven Lions](https://rateyourmusic.com/artist/seven-lions), [Last Heroes](https://rateyourmusic.com/artist/last-heroes) & [HALIENE](https://rateyourmusic.com/artist/haliene)
@@ -622,12 +622,12 @@
 ### 2021-03-11: Tritonia #335
 
 > 🟥 1/10 | ~1h | 18 tracks
-> | [1001tracklists](https://1001.tl/12rhpmtt)
+> | https://1001.tl/12rhpmtt
 
 ### 2021-03-18: Tritonia #336
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/22du21w1)
+> | https://1001.tl/22du21w1
 
 - To Get to You _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Steve Brian](https://rateyourmusic.com/artist/steve_brian), [Nathan Rux](https://rateyourmusic.com/artist/nathan-rux) & [Rachael Nemiroff](#)
 - Lucky Penny _([XiJaro & Pitch](https://rateyourmusic.com/artist/xijaro-and-pitch) Remix)_ - [Elevven](https://rateyourmusic.com/artist/elevven) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
@@ -635,7 +635,7 @@
 ### 2021-03-25: Tritonia #337
 
 > 🟨 5/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/shs4gj1)
+> | https://1001.tl/shs4gj1
 
 - Assassin - [Sultan + Shepard](https://rateyourmusic.com/artist/sultan-shepard)
 - To Get to You _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Steve Brian](https://rateyourmusic.com/artist/steve_brian), [Nathan Rux](https://rateyourmusic.com/artist/nathan-rux) & [Rachael Nemiroff](#)
@@ -643,7 +643,7 @@
 ### 2021-04-01: Tritonia #338
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1987nh09)
+> | https://1001.tl/1987nh09
 
 - Bloodstream - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 - Paeonia - [M.O.S.](https://rateyourmusic.com/artist/m_o_s)
@@ -651,7 +651,7 @@
 ### 2021-04-15: Tritonia #339
 
 > 🟩 7/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1ypsykkt)
+> | https://1001.tl/1ypsykkt
 
 - Fall In - [Nomra](https://rateyourmusic.com/artist/nomra) & [Moone](#)
 - One More Day - [Jason Ross](https://rateyourmusic.com/artist/jason-ross), [Blanke](https://rateyourmusic.com/artist/blanke) & [Chandler Leighton](https://rateyourmusic.com/artist/chandler-leighton)
@@ -660,12 +660,12 @@
 ### 2021-04-22: Tritonia #340
 
 > 🟥 1/10 | ~1h | 16 tracks
-> | [1001tracklists](https://1001.tl/1b66m4nk)
+> | https://1001.tl/1b66m4nk
 
 ### 2021-04-30: Tritonia #341
 
 > 🟨 5/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1b6846yk)
+> | https://1001.tl/1b6846yk
 
 - As One - [Luke Bond](https://rateyourmusic.com/artist/luke_bond) & [Paul Aiden](https://rateyourmusic.com/artist/paul_aiden)
 - Stardust & Madness - [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone) & [Giuseppe De Luca](https://rateyourmusic.com/artist/giuseppe_de_luca)
@@ -673,7 +673,7 @@
 ### 2021-05-06: Tritonia #342
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1dzp4xh9)
+> | https://1001.tl/1dzp4xh9
 
 - Beat of My Heart - [R3spawn](https://rateyourmusic.com/artist/r3spawn)
 - In Motion _(Club Mix)_ - [Olan & Nourey](#)
@@ -681,43 +681,43 @@
 ### 2021-05-20: Tritonia #343
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/14mjntxt)
+> | https://1001.tl/14mjntxt
 
 - Orients - [Kaiyan](https://rateyourmusic.com/artist/kaiyan)
 
 ### 2021-05-28: Tritonia #344
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/11u51pf9)
+> | https://1001.tl/11u51pf9
 
 - Let Go - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Tom Staar](https://rateyourmusic.com/artist/tom-staar) feat. [Josha Daniel](https://rateyourmusic.com/artist/josha-daniel)
 
 ### 2021-06-04: Tritonia #345
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2tqbx5zk)
+> | https://1001.tl/2tqbx5zk
 
 - Miraje - [Le Youth](https://rateyourmusic.com/artist/le_youth)
 
 ### 2021-06-10: Tritonia #346
 
 > 🟥 1/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/23c3x6w1)
+> | https://1001.tl/23c3x6w1
 
 ### 2021-06-25: Tritonia #347
 
 > 🟥 1/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/10wjsndt)
+> | https://1001.tl/10wjsndt
 
 ### 2021-07-01: Tritonia #348
 
 > 🟥 1/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1kp042fk)
+> | https://1001.tl/1kp042fk
 
 ### 2021-07-08: Tritonia #349
 
 > 🟨 5/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/2m5xstq9)
+> | https://1001.tl/2m5xstq9
 
 - Don't Let Me Go - [David Broaders](https://rateyourmusic.com/artist/david-broaders)
 - Olympia - [Vivid](https://rateyourmusic.com/artist/vivid-7)
@@ -725,7 +725,7 @@
 ### 2021-07-23: Tritonia #350
 
 > 🟩 7/10 | ~1h | 19 tracks
-> | [1001tracklists](https://1001.tl/2pzfdkg9)
+> | https://1001.tl/2pzfdkg9
 
 - That's Life - [Scorz](https://rateyourmusic.com/artist/scorz)
 - Assassin - [Sultan + Shepard](https://rateyourmusic.com/artist/sultan-shepard)
@@ -734,35 +734,35 @@
 ### 2021-07-29: Tritonia #351
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/2n3v2g21)
+> | https://1001.tl/2n3v2g21
 
 - Analigital - [Andy Duguid](https://rateyourmusic.com/artist/andy_duguid)
 
 ### 2021-08-12: Tritonia #352
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2498yb61)
+> | https://1001.tl/2498yb61
 
 - Piercing Quiet _([Au5](https://rateyourmusic.com/artist/au5) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Cristina Soto](https://rateyourmusic.com/artist/cristina-soto)
 
 ### 2021-08-27: Tritonia #353
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1htqbmnt)
+> | https://1001.tl/1htqbmnt
 
 - Running With the Wind - [Chris Giuliano](https://rateyourmusic.com/artist/chris-giuliano) feat. [Natalie Major](https://rateyourmusic.com/artist/natalie-major)
 
 ### 2021-09-03: Tritonia #354
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/fc1gcxk)
+> | https://1001.tl/fc1gcxk
 
 - Reach - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison) & [Motives](https://rateyourmusic.com/artist/motives-2)
 
 ### 2021-09-09: Tritonia #355
 
 > 🟨 5/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1b6yb8n9)
+> | https://1001.tl/1b6yb8n9
 
 - Sinuous - [Warung](https://rateyourmusic.com/artist/warung)
 - Still With Me _([Elevven](https://rateyourmusic.com/artist/elevven) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Cristina Soto](https://rateyourmusic.com/artist/cristina-soto)
@@ -770,14 +770,14 @@
 ### 2021-09-17: Tritonia #356
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2qxj4xmk)
+> | https://1001.tl/2qxj4xmk
 
 - Let Go - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Tom Staar](https://rateyourmusic.com/artist/tom-staar) feat. [Josha Daniel](https://rateyourmusic.com/artist/josha-daniel)
 
 ### 2021-09-24: Tritonia #357
 
 > 🟨 5/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/zz6ksyk)
+> | https://1001.tl/zz6ksyk
 
 - Everafter _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Cristina Soto](https://rateyourmusic.com/artist/cristina-soto)
 - Glass Heart _([Last Heroes](https://rateyourmusic.com/artist/last-heroes) Remix)_ - [HALIENE](https://rateyourmusic.com/artist/haliene)
@@ -785,14 +785,14 @@
 ### 2021-10-07: Tritonia #358
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/g90vz31)
+> | https://1001.tl/g90vz31
 
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 
 ### 2021-10-15: Tritonia #359
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1uzlkly1)
+> | https://1001.tl/1uzlkly1
 
 - Glass Heart _([Sunny Lax](https://rateyourmusic.com/artist/sunny_lax) Remix)_ - [HALIENE](https://rateyourmusic.com/artist/haliene)
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
@@ -800,42 +800,42 @@
 ### 2021-10-21: Tritonia #360
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/x5zdqbt)
+> | https://1001.tl/x5zdqbt
 
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 
 ### 2021-11-04: Tritonia #361
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/11v18ut1)
+> | https://1001.tl/11v18ut1
 
 - Vida - [Sebastian Weikum](https://rateyourmusic.com/artist/sebastian_weikum)
 
 ### 2021-11-11: Tritonia #362
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1u1xuplt)
+> | https://1001.tl/1u1xuplt
 
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 
 ### 2021-11-25: Tritonia #363
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/mw3r1u1)
+> | https://1001.tl/mw3r1u1
 
 - Out of the Dark _([Fatum](https://rateyourmusic.com/artist/fatum-2) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 
 ### 2021-12-10: Tritonia #364
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1c5896r9)
+> | https://1001.tl/1c5896r9
 
 - Waterfall - [PRAANA](https://rateyourmusic.com/artist/praana) & [Liel Kolet](https://rateyourmusic.com/artist/liel-kolet)
 
 ### 2021-12-23: Tritonia #365
 
 > 🟦 9/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1r8szvxk)
+> | https://1001.tl/1r8szvxk
 
 - Superhuman - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [Codeko](https://rateyourmusic.com/artist/codeko)
 - Ascend _([Maywave](https://rateyourmusic.com/artist/maywave) Remix)_ - [Suncatcher](https://rateyourmusic.com/artist/suncatcher_f1) & [Exolight](#)
@@ -849,7 +849,7 @@
 ### 2022-01-21: Tritonia #366
 
 > 🟩 7/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/273ln6b9)
+> | https://1001.tl/273ln6b9
 
 - Waterboiler - [Tritonal](https://rateyourmusic.com/artist/tritonal)
 - Where Did All the Years Go? - [Kyau & Albert](https://rateyourmusic.com/artist/kyau-and-albert)
@@ -858,12 +858,12 @@
 ### 2022-01-27: Tritonia #367
 
 > 🟥 1/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1vxzltl1)
+> | https://1001.tl/1vxzltl1
 
 ### 2022-02-05: Tritonia #368
 
 > 🟪 10/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/y4cs6n1)
+> | https://1001.tl/y4cs6n1
 
 - No Turning Back - [Corey James](https://rateyourmusic.com/artist/corey-james) & [ALLKNIGHT](https://rateyourmusic.com/artist/allknight)
 - Hide U - [Roger Shah](https://rateyourmusic.com/artist/roger_shah), [Siân Evans](https://rateyourmusic.com/artist/sian_evans) & [Jerome Isma-Ae](https://rateyourmusic.com/artist/jerome-isma-ae)
@@ -875,26 +875,26 @@
 ### 2022-02-14: Tritonia #369
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1gwvl0mk)
+> | https://1001.tl/1gwvl0mk
 
 - Into the Light - [RIKO & GUGGA](https://rateyourmusic.com/artist/riko-and-gugga)
 
 ### 2022-02-18: Tritonia #370
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2vmdvlqt)
+> | https://1001.tl/2vmdvlqt
 
 - Need You - [GLN](https://rateyourmusic.com/artist/gln)
 
 ### 2022-02-28: Tritonia #371
 
 > 🟥 1/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/2l9g26t1)
+> | https://1001.tl/2l9g26t1
 
 ### 2022-03-03: Tritonia #372
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/w8xj989)
+> | https://1001.tl/w8xj989
 
 - Undone _([Kozua](#) Remix)_ - [Dreweybear](https://rateyourmusic.com/artist/dreweybear) & [Hildur Ottilia](#)
 - Something I Can Dream About - [Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) & [April Bender](https://rateyourmusic.com/artist/april-bender)
@@ -902,48 +902,48 @@
 ### 2022-03-10: Tritonia #373
 
 > 🟥 1/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/20m85db1)
+> | https://1001.tl/20m85db1
 
 ### 2022-03-24: Tritonia #374
 
 > 🟥 1/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/14p8rfp9)
+> | https://1001.tl/14p8rfp9
 
 ### 2022-03-31: Tritonia #375
 
 > 🟥 1/10 | ~1h | 16 tracks
-> | [1001tracklists](https://1001.tl/dggc2ht)
+> | https://1001.tl/dggc2ht
 
 ### 2022-04-08: Tritonia #376
 
 > 🟥 1/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1r9dulh1)
+> | https://1001.tl/1r9dulh1
 
 ### 2022-04-14: Tritonia #377
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1ml75mv9)
+> | https://1001.tl/1ml75mv9
 
 - The Longest Road _([Vivid](https://rateyourmusic.com/artist/vivid-7) Remix)_ - [Morgan Page](https://rateyourmusic.com/artist/morgan_page) feat. [Lissie](https://rateyourmusic.com/artist/lissie)
 
 ### 2022-04-22: Tritonia #378
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2sucklfk)
+> | https://1001.tl/2sucklfk
 
 - Stay With Me - [Far Out](https://rateyourmusic.com/artist/far-out-2), [Nikhil Prakash](https://rateyourmusic.com/artist/nikhil-prakash) & [Cece Mix](#)
 
 ### 2022-04-29: Tritonia #379
 
 > 🟧 3/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/vcg6hy9)
+> | https://1001.tl/vcg6hy9
 
 - You Take My Hand _([Reinier Zonneveld](https://rateyourmusic.com/artist/reinier-zonneveld) Remix)_ - [Tinlicker](https://rateyourmusic.com/artist/tinlicker) feat. [Jamie Irrepressible](#)
 
 ### 2022-05-06: Tritonia #380
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1v0skp01)
+> | https://1001.tl/1v0skp01
 
 - Circles - [Titus1](https://rateyourmusic.com/artist/titus1) & [Jennifer Rene](https://rateyourmusic.com/artist/jennifer_rene)
 - Safe & Sound _([Awakend](https://rateyourmusic.com/artist/awakend) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [Last Heroes](https://rateyourmusic.com/artist/last-heroes) with [Lizzy Land](https://rateyourmusic.com/artist/lizzy-land)
@@ -951,7 +951,7 @@
 ### 2022-05-13: Tritonia #381
 
 > 🟨 5/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/2uq2ms0k)
+> | https://1001.tl/2uq2ms0k
 
 - Enough - [Yvvan Back](https://rateyourmusic.com/artist/yvvan-back) & [Bignoise](#)
 - On My Mind - [Farius](https://rateyourmusic.com/artist/farius) & [Cristina Soto](https://rateyourmusic.com/artist/cristina-soto)
@@ -959,7 +959,7 @@
 ### 2022-05-20: Tritonia #382
 
 > 🟨 5/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1d407vz1)
+> | https://1001.tl/1d407vz1
 
 - Sweet Illusion - [Morgan Page](https://rateyourmusic.com/artist/morgan_page) & [Maggie Szabo](https://rateyourmusic.com/artist/maggie-szabo)
 - On My Mind - [Farius](https://rateyourmusic.com/artist/farius) & [Cristina Soto](https://rateyourmusic.com/artist/cristina-soto)
@@ -967,53 +967,53 @@
 ### 2022-05-27: Tritonia #383
 
 > 🟥 1/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/2bvjs5lk)
+> | https://1001.tl/2bvjs5lk
 
 ### 2022-06-09: Tritonia #384
 
 > 🟧 3/10 | ~1h | 11 tracks
-> | [1001tracklists](https://1001.tl/1zqj0c39)
+> | https://1001.tl/1zqj0c39
 
 - Piece of Art - [Kryder](https://rateyourmusic.com/artist/kryder)
 
 ### 2022-06-17: Tritonia #385
 
 > 🟥 1/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/2p3gru9t)
+> | https://1001.tl/2p3gru9t
 
 ### 2022-06-24: Tritonia #386
 
 > 🟥 1/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2828m3jt)
+> | https://1001.tl/2828m3jt
 
 ### 2022-07-01: Tritonia #387
 
 > 🟥 1/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/fdsgb91)
+> | https://1001.tl/fdsgb91
 
 ### 2022-07-08: Tritonia #388
 
 > 🟥 1/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1hvhp8n9)
+> | https://1001.tl/1hvhp8n9
 
 ### 2022-07-15: Tritonia #389
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1zq5l9nt)
+> | https://1001.tl/1zq5l9nt
 
 - Shimoda - [Derek Ryan](https://rateyourmusic.com/artist/derek-ryan)
 
 ### 2022-07-22: Tritonia #390
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1lnzld61)
+> | https://1001.tl/1lnzld61
 
 - Out of the Dark _([Fatum](https://rateyourmusic.com/artist/fatum-2) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 
 ### 2022-07-29: Tritonia #391
 
 > 🟨 5/10 | ~1h | 16 tracks
-> | [1001tracklists](https://1001.tl/2jgqm5n9)
+> | https://1001.tl/2jgqm5n9
 
 - Tempus - [Luminn](https://rateyourmusic.com/artist/luminn)
 - Get Down - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) & [Roman Messer](https://rateyourmusic.com/artist/roman_messer)
@@ -1021,7 +1021,7 @@
 ### 2022-08-05: Tritonia #392
 
 > 🟨 5/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2qzcpluk)
+> | https://1001.tl/2qzcpluk
 
 - Feel Around You _([OCULA](https://rateyourmusic.com/artist/ocula) Remix)_ - [Le Youth](https://rateyourmusic.com/artist/le_youth) feat. [LeyeT](https://rateyourmusic.com/artist/leyet)
 - Oxygen _([Rafaël Frost](https://rateyourmusic.com/artist/rafael-frost) Remix)_ - [Taylor Torrence](https://rateyourmusic.com/artist/taylor-torrence) & [Ava Silver](https://rateyourmusic.com/artist/ava-silver)
@@ -1029,42 +1029,42 @@
 ### 2022-08-11: Tritonia #393
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1s7xgts9)
+> | https://1001.tl/1s7xgts9
 
 - Calling San Francisco - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h)
 
 ### 2022-08-19: Tritonia #394
 
 > 🟧 3/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/1jtkm089)
+> | https://1001.tl/1jtkm089
 
 - Fusion - [Nitrous Oxide](https://rateyourmusic.com/artist/nitrous_oxide) & [Simon Gregory](#)
 
 ### 2022-08-26: Tritonia #395
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/ff5m069)
+> | https://1001.tl/ff5m069
 
 - Always a Fool _([Jope](https://rateyourmusic.com/artist/jope-1) Remix)_ - [Kyau & Albert](https://rateyourmusic.com/artist/kyau-and-albert)
 
 ### 2022-09-02: Tritonia #396
 
 > 🟧 3/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/1krfnldt)
+> | https://1001.tl/1krfnldt
 
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 
 ### 2022-09-09: Tritonia #397
 
 > 🟧 3/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/1d4nz1nt)
+> | https://1001.tl/1d4nz1nt
 
 - Adelphi '88 - [Tritonal](https://rateyourmusic.com/artist/tritonal)
 
 ### 2022-09-30: Tritonia #398
 
 > 🟨 5/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/12urqj71)
+> | https://1001.tl/12urqj71
 
 - Seismic - [PRAANA](https://rateyourmusic.com/artist/praana)
 - Adelphi '88 - [Tritonal](https://rateyourmusic.com/artist/tritonal)
@@ -1072,7 +1072,7 @@
 ### 2022-10-07: Tritonia #399
 
 > 🟨 5/10 | ~1h | 15 tracks
-> | [1001tracklists](https://1001.tl/qrc0bc9)
+> | https://1001.tl/qrc0bc9
 
 - Gold - [D'Angello](https://rateyourmusic.com/artist/dangelo) & [Francis](https://rateyourmusic.com/artist/francis-5) & [Belle Humble](https://rateyourmusic.com/artist/belle-humble)
 - Adelphi '88 - [Tritonal](https://rateyourmusic.com/artist/tritonal)
@@ -1080,7 +1080,7 @@
 ### 2022-10-21: Tritonia #400
 
 > 🟩 7/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1pgwq26k)
+> | https://1001.tl/1pgwq26k
 
 - Out of the Dark - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [EMME](https://rateyourmusic.com/artist/emme-2)
 - Waterboiler - [Tritonal](https://rateyourmusic.com/artist/tritonal)
@@ -1089,14 +1089,14 @@
 ### 2022-10-28: Tritonia #401
 
 > 🟧 3/10 | ~1h | 12 tracks
-> | [1001tracklists](https://1001.tl/j6uqxnk)
+> | https://1001.tl/j6uqxnk
 
 - Perception - [PRAANA](https://rateyourmusic.com/artist/praana)
 
 ### 2022-11-04: Tritonia #402
 
 > 🟦 9/10 | ~1h | 14 tracks
-> | [1001tracklists](https://1001.tl/2m8n8zr9)
+> | https://1001.tl/2m8n8zr9
 
 - Sleep - [Boye & Sigvardt](https://rateyourmusic.com/artist/boye-and-sigvardt)
 - Turbulence - [Taylor Torrence](https://rateyourmusic.com/artist/taylor-torrence) & [EKE](https://rateyourmusic.com/artist/eke-1)
@@ -1106,14 +1106,14 @@
 ### 2022-11-11: Tritonia #403
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1v1urupk)
+> | https://1001.tl/1v1urupk
 
 - With You - [Klur](https://rateyourmusic.com/artist/klur)
 
 ### 2022-11-18: Tritonia #404
 
 > 🟨 5/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/tjyh4lk)
+> | https://1001.tl/tjyh4lk
 
 - Bloodstream _([Cubicore](https://rateyourmusic.com/artist/cubicore) Remix)_ - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) & [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 - Kingdom _([KhoMha](https://rateyourmusic.com/artist/khomha) Remix)_ - [Shane 54](https://rateyourmusic.com/artist/shane-54) & [London Thor](https://rateyourmusic.com/artist/london-thor)
@@ -1121,7 +1121,7 @@
 ### 2022-11-23: Tritonia #405
 
 > 🟩 7/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1wxgvum1)
+> | https://1001.tl/1wxgvum1
 
 - Temptation - [Eli & Fur](https://rateyourmusic.com/artist/eli-and-fur)
 - Emerald - [Sunny Lax](https://rateyourmusic.com/artist/sunny_lax)
@@ -1130,14 +1130,14 @@
 ### 2022-12-02: Tritonia #406
 
 > 🟧 3/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/sm6u2k1)
+> | https://1001.tl/sm6u2k1
 
 - Keep My Dreams Alive _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) & [Susie Ledge](https://rateyourmusic.com/artist/susie-ledge)
 
 ### 2022-12-09: Tritonia #407
 
 > 🟨 5/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2q2690w9)
+> | https://1001.tl/2q2690w9
 
 - Here With Me _([Angara](https://rateyourmusic.com/artist/angara) Remix)_ - [Matt Fax](https://rateyourmusic.com/artist/matt_fax) & [Richard Walters](https://rateyourmusic.com/artist/richard-walters-2)
 - Halcyon - [Matt Fax](https://rateyourmusic.com/artist/matt_fax)
@@ -1145,7 +1145,7 @@
 ### 2022-12-16: Tritonia #408
 
 > 🟨 5/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/2gmtxbm1)
+> | https://1001.tl/2gmtxbm1
 
 - Company - [Chris Schweizer](https://rateyourmusic.com/artist/chris-schweizer) feat. [Sarah Howells](https://rateyourmusic.com/artist/sarah_howells)
 - Falling _([Craig Connelly](https://rateyourmusic.com/artist/craig-connelly) Remix)_ - [First State](https://rateyourmusic.com/artist/first_state) feat. [Anita Kelsey](https://rateyourmusic.com/artist/anita-kelsey)
@@ -1153,7 +1153,7 @@
 ### 2022-12-23: Tritonia #409
 
 > 🟥 1/10 | ~1h | 13 tracks
-> | [1001tracklists](https://1001.tl/1rbt38gk)
+> | https://1001.tl/1rbt38gk
 
 ## 2023
 
@@ -1453,50 +1453,50 @@
 ### 2024-01-11: Tritonia #459
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/2n8m66mt)
+> | https://1001.tl/2n8m66mt
 
 ### 2024-01-17: Tritonia #460
 
 > 🟧 3/10 | 1h
-> | [1001tracklists](https://1001.tl/2b0tntnt)
+> | https://1001.tl/2b0tntnt
 
 - Love in Slow Motion - [Robby East](https://rateyourmusic.com/artist/robby_east) & [Kuala](https://rateyourmusic.com/artist/kuala)
 
 ### 2024-01-25: Tritonia #461
 
 > 🟧 3/10 | 1h
-> | [1001tracklists](https://1001.tl/m2j2p71)
+> | https://1001.tl/m2j2p71
 
 - Pull Me Through - [Klur](https://rateyourmusic.com/artist/klur) & [Diana Miro](https://rateyourmusic.com/artist/diana-miro)
 
 ### 2024-01-31: Tritonia #462
 
 > 🟧 3/10 | 1h
-> | [1001tracklists](https://1001.tl/22lgjuv1)
+> | https://1001.tl/22lgjuv1
 
 - Everything - [Oliver Smith](https://rateyourmusic.com/artist/oliver-smith) & [Tom Bailey](https://rateyourmusic.com/artist/tom-bailey)
 
 ### 2024-02-08: Tritonia #463
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/1g2v6ug1)
+> | https://1001.tl/1g2v6ug1
 
 ### 2024-02-15: Tritonia #464
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/1jw9s1q9)
+> | https://1001.tl/1jw9s1q9
 
 ### 2024-02-22: Tritonia #465
 
 > 🟧 3/10 | 1h
-> | [1001tracklists](https://1001.tl/2dufh8xk)
+> | https://1001.tl/2dufh8xk
 
 - Lullaby _([Bound to Divide](https://rateyourmusic.com/artist/bound-to-divide) Remix)_ - [PRAANA](https://rateyourmusic.com/artist/praana) & [Julia Church](https://rateyourmusic.com/artist/julia-church)
 
 ### 2024-02-28: Tritonia #466
 
 > 🟨 5/10 | 1h
-> | [1001tracklists](https://1001.tl/2937z8j9)
+> | https://1001.tl/2937z8j9
 
 - Lullaby _([Bound to Divide](https://rateyourmusic.com/artist/bound-to-divide) Remix)_ - [PRAANA](https://rateyourmusic.com/artist/praana) & [Julia Church](https://rateyourmusic.com/artist/julia-church)
 - Radiant _([Daniel Kandi](https://rateyourmusic.com/artist/daniel_kandi)'s Bangin' Mix)_ - [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde) & [Farius](https://rateyourmusic.com/artist/farius) feat. [David Frank](https://rateyourmusic.com/artist/david_frank)
@@ -1504,56 +1504,56 @@
 ### 2024-03-07: Tritonia #467
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/fhyg1rk)
+> | https://1001.tl/fhyg1rk
 
 ### 2024-03-20: Tritonia #468
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/spnqbhk)
+> | https://1001.tl/spnqbhk
 
 ### 2024-03-28: Tritonia #469
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/1bcy301t)
+> | https://1001.tl/1bcy301t
 
 ### 2024-04-04: Tritonia #470
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/2s09cw5t)
+> | https://1001.tl/2s09cw5t
 
 ### 2024-04-10: Tritonia #471
 
 > 🟧 3/10 | 1h
-> | [1001tracklists](https://1001.tl/277w9c59)
+> | https://1001.tl/277w9c59
 
 - Fantasy - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison)
 
 ### 2024-04-18: Tritonia #472
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/18jgcp3k)
+> | https://1001.tl/18jgcp3k
 
 ### 2024-04-25: Tritonia #473
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/2cwz2x0k)
+> | https://1001.tl/2cwz2x0k
 
 ### 2024-05-02: Tritonia #474
 
 > 🟥 1/10 | 1h
-> | [1001tracklists](https://1001.tl/1d7rjdw1)
+> | https://1001.tl/1d7rjdw1
 
 ### 2024-05-16: Tritonia #475
 
 > 🟧 3/10 | 1h
-> | [1001tracklists](https://1001.tl/25dh444t)
+> | https://1001.tl/25dh444t
 
 - Piece of Art _([Darren Porter](https://rateyourmusic.com/artist/darren_porter) Remix)_ - [Kryder](https://rateyourmusic.com/artist/kryder)
 
 ### 2024-05-23: Tritonia #476
 
 > 🟩 7/10 | 1h
-> | [1001tracklists](https://1001.tl/rs6c0s9)
+> | https://1001.tl/rs6c0s9
 
 - Piercing the Fog _([Flaor](#) & [The Blizzard](https://rateyourmusic.com/artist/the-blizzard) Remix)_ - [The Blizzard](https://rateyourmusic.com/artist/the-blizzard)
 - Don't Look Back - [Morgin Madison](https://rateyourmusic.com/artist/morgin-madison), [HILYTE](https://rateyourmusic.com/artist/hilyte) & [Kayrae](https://rateyourmusic.com/artist/kayrae)
