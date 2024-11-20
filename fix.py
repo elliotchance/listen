@@ -78,7 +78,7 @@ def rating_emoji(rating):
 
 def sort_title(s):
   if match := re.search('[-\d]{10}', s):
-    return match.group(1) + title
+    return match.group(0) + s
 
   return s
 
@@ -144,9 +144,9 @@ for name in sorted(os.listdir(dir)):
 
   with open(path, "w") as f:
     f.write(header)
-    for h2 in sorted(mixes):
+    for h2 in sorted(mixes, key=sort_title):
       f.write('## ' + h2 + '\n' + mixes[h2]['content'])
-      for h3 in sorted(mixes[h2]['mixes']):
+      for h3 in sorted(mixes[h2]['mixes'], key=sort_title):
         def lookup_artist(m):
           if m.group(1) == '1001tracklists' or m.group(1) == 'MusicBrainz' or m.group(1) == 'YouTube' or m.group(1) == 'SoundCloud':
             return '[%s](%s)' % (m.group(1), m.group(2))
@@ -175,7 +175,7 @@ for name in sorted(os.listdir(dir)):
   total_duration = 0
   total_mixes = 0
   total_rating = 0
-  for h2 in sorted(mixes):
+  for h2 in sorted(mixes, key=sort_title):
     for mix in mixes[h2]['mixes']:
       total_duration += mixes[h2]['mixes'][mix]['duration']
       total_rating += mixes[h2]['mixes'][mix]['rating']
@@ -195,11 +195,11 @@ for name in sorted(os.listdir(dir)):
   def to_url(s):
      return s.replace(' ', '%20')
   
-  for h2 in sorted(mixes):
+  for h2 in sorted(mixes, key=sort_title):
      for mix in mixes[h2]['mixes']:
         all_mixes[mix] = mixes[h2]['mixes'][mix]
 
-  for h2 in sorted(mixes):
+  for h2 in sorted(mixes, key=sort_title):
     duration = 0
     rating = 0
     for mix in mixes[h2]['mixes']:
@@ -224,7 +224,7 @@ with open('All.md', "w") as f:
   for path in sorted(primary_toc):
     f.write('| [%s](%s/%s) | %s | %s | %.2f/10 |\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
   f.write('\n---\n\n')
-  for title in sorted(all_mixes):
+  for title in sorted(all_mixes, key=sort_title):
     mix = all_mixes[title]
     if '1001.tl' in mix['quote']:
       url = re.search(r"https://1001.tl/[^\s]+", mix['quote'])
