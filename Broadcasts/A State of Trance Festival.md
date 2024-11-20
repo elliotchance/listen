@@ -12,7 +12,7 @@
 
 ## 2011
 
-### 2011-04-09 Above & Beyond @ A State Of Trance Festival 500, Brabanthallen Den Bosch, Netherlands
+### Above & Beyond @ A State Of Trance Festival 500, Brabanthallen Den Bosch, Netherlands 2011-04-09
 
 > 🟪 10/10 | 1h25m | 16 tracks
 > | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
@@ -27,7 +27,7 @@
 - My Enemy _(club mix)_ - [Super8 & Tab](https://rateyourmusic.com/artist/super8_and_tab) feat. [Julie Thompson](https://rateyourmusic.com/artist/julie_thompson)
 - Sun in Your Eyes - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 
-### 2011-04-09 Mat Zo @ A State Of Trance Festival 500, Brabanthallen Den Bosch, Netherlands
+### Mat Zo @ A State Of Trance Festival 500, Brabanthallen Den Bosch, Netherlands 2011-04-09
 
 > 🟧 3/10 | 54m | 11 tracks
 > | [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
@@ -35,7 +35,7 @@
 
 - Superman - [Mat Zo](https://rateyourmusic.com/artist/mat-zo)
 
-### 2011-04-16 Alex M.O.R.P.H. @ Acer Arena Sydney, Australia, A State Of Trance Festival 500
+### Alex M.O.R.P.H. @ Acer Arena Sydney, Australia, A State Of Trance Festival 500 2011-04-16
 
 > 🟧 3/10 | 1h15m | 12 tracks
 > | [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h)
@@ -43,7 +43,7 @@
 
 - ID - [ID](#)
 
-### 2011-04-16 Aly & Fila @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+### Aly & Fila @ A State Of Trance Festival 500, Acer Arena Sydney, Australia 2011-04-16
 
 > 🟧 4/10 | 1h15m | 17 tracks
 > | [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila)
@@ -52,7 +52,7 @@
 - ID - [ID](#)
 - ID - [ID](#)
 
-### 2011-04-16 Armin van Buuren @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+### Armin van Buuren @ A State Of Trance Festival 500, Acer Arena Sydney, Australia 2011-04-16
 
 > 🟧 4/10 | ~2h59m | 34 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
@@ -63,7 +63,7 @@
 - ID - [ID](#)
 - ID - [ID](#)
 
-### 2011-04-16 Armin van Buuren @ Warm-Up Set, A State Of Trance Festival, Acer Arena Sydney, Australia
+### Armin van Buuren @ Warm-Up Set, A State Of Trance Festival, Acer Arena Sydney, Australia 2011-04-16
 
 > 🟧 3/10 | 56m | 9 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
@@ -71,7 +71,7 @@
 
 - ID - [ID](#)
 
-### 2011-04-16 Menno De Jong @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+### Menno De Jong @ A State Of Trance Festival 500, Acer Arena Sydney, Australia 2011-04-16
 
 > 🟧 4/10 | 1h12m | 13 tracks
 > | [Menno De Jong](https://rateyourmusic.com/artist/menno_de_jong)
@@ -80,7 +80,7 @@
 - ID - [ID](#)
 - ID - [ID](#)
 
-### 2011-04-16 Shogun @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+### Shogun @ A State Of Trance Festival 500, Acer Arena Sydney, Australia 2011-04-16
 
 > 🟩 7/10 | 1h | 10 tracks
 > | [Shogun](https://rateyourmusic.com/artist/shogun_f3)
@@ -90,7 +90,7 @@
 - ID - [ID](#)
 - ID - [ID](#)
 
-### 2011-04-16 tyDi @ A State Of Trance Festival 500, Acer Arena Sydney, Australia
+### tyDi @ A State Of Trance Festival 500, Acer Arena Sydney, Australia 2011-04-16
 
 > 🟧 4/10 | 1h15m | 13 tracks
 > | [tyDi](https://rateyourmusic.com/artist/tydi)
@@ -101,7 +101,7 @@
 
 ## 2012
 
-### 2012-03-07 ATB @ 550 Invasion Tour, A State Of Trance Festival, Expocentre Moscow, Russia
+### ATB @ 550 Invasion Tour, A State Of Trance Festival, Expocentre Moscow, Russia 2012-03-07
 
 > 🟧 4/10 | 1h17m | 13 tracks
 > | [ATB](https://rateyourmusic.com/artist/atb)
@@ -110,7 +110,7 @@
 - Summerlives - [SAINT X](https://rateyourmusic.com/artist/saint-x) feat. [Sandel](#)
 - Enjoy the Silence _(reinterpreted by [Mike Shinoda](https://rateyourmusic.com/artist/mike-shinoda))_ - [Depeche Mode](https://rateyourmusic.com/artist/depeche-mode)
 
-### 2012-03-07 Ruben de Ronde @ 550 Invasion Tour, A State Of Trance Festival, Expocentre Moscow, Russia
+### Ruben de Ronde @ 550 Invasion Tour, A State Of Trance Festival, Expocentre Moscow, Russia 2012-03-07
 
 > 🟧 3/10 | 1h | 11 tracks
 > | [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
@@ -118,7 +118,7 @@
 
 - She's Already Gone - [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde) feat. [Aelyn](https://rateyourmusic.com/artist/aelyn)
 
-### 2012-03-10 Markus Schulz @ 550 Invasion Tour, A State Of Trance Festival, International Exhibition Center Kiev, Ukraine
+### Markus Schulz @ 550 Invasion Tour, A State Of Trance Festival, International Exhibition Center Kiev, Ukraine 2012-03-10
 
 > 🟧 3/10 | 1h15m | 16 tracks
 > | [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz)
@@ -126,7 +126,7 @@
 
 - Cheesecake - [4 Strings](https://rateyourmusic.com/artist/4-strings)
 
-### 2012-03-10 Omnia @ 550 Invasion Tour, A State Of Trance Festival, International Exhibition Center Kiev, Ukraine
+### Omnia @ 550 Invasion Tour, A State Of Trance Festival, International Exhibition Center Kiev, Ukraine 2012-03-10
 
 > 🟧 3/10 | 57m | 13 tracks
 > | [Omnia](https://rateyourmusic.com/artist/omnia_f2)
@@ -134,7 +134,7 @@
 
 - Tokyo - [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery)
 
-### 2012-03-10 tyDi @ 550 Invasion Tour, A State Of Trance Festival, International Exhibition Center Kiev, Ukraine
+### tyDi @ 550 Invasion Tour, A State Of Trance Festival, International Exhibition Center Kiev, Ukraine 2012-03-10
 
 > 🟨 5/10 | 59m | 12 tracks
 > | [tyDi](https://rateyourmusic.com/artist/tydi)
@@ -143,7 +143,7 @@
 - Talking to Myself _([Maison & Dragen](https://rateyourmusic.com/artist/maison_and_dragen) Remix)_ - [tyDi](https://rateyourmusic.com/artist/tydi) feat. [DJ Rap](https://rateyourmusic.com/artist/dj-rap)
 - Greater Heights _([ID](#) Remix)_ - [tyDi](https://rateyourmusic.com/artist/tydi) feat. [Jennifer Rene](https://rateyourmusic.com/artist/jennifer_rene) & [Tenishia](https://rateyourmusic.com/artist/tenishia)
 
-### 2012-03-17 Aly & Fila @ 550 Invasion Tour, A State Of Trance Festival, Beyond Wonderland, United States
+### Aly & Fila @ 550 Invasion Tour, A State Of Trance Festival, Beyond Wonderland, United States 2012-03-17
 
 > 🟧 3/10 | 1h15m | 15 tracks
 > | [Aly & Fila](https://rateyourmusic.com/artist/aly_and_fila)
@@ -151,7 +151,7 @@
 
 - Need To Feel Loved _([Adam K & Soha](https://rateyourmusic.com/artist/adam_k_and_soha) Remix)_ - [Reflekt](https://rateyourmusic.com/artist/reflekt) feat. [Delline Bass](https://rateyourmusic.com/artist/delline_bass)
 
-### 2012-03-17 Gareth Emery @ 550 Invasion Tour, A State Of Trance Festival, Beyond Wonderland, United States
+### Gareth Emery @ 550 Invasion Tour, A State Of Trance Festival, Beyond Wonderland, United States 2012-03-17
 
 > 🟨 6/10 | 1h15m | 18 tracks
 > | [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery)
@@ -161,7 +161,7 @@
 - Together - [Mark Eteson](https://rateyourmusic.com/artist/mark-eteson) feat. [Meredith Call](https://rateyourmusic.com/artist/meredith-call)
 - World to Turn _(Inner Me Mix)_ - [Ashley Wallbridge](https://rateyourmusic.com/artist/ashley-wallbridge) & [Andy Moor](https://rateyourmusic.com/artist/andy-moor-2) feat. [Gabriela](https://rateyourmusic.com/artist/gabriela)
 
-### 2012-03-25 Dash Berlin @ 550 Invasion Tour, A State Of Trance Festival, Ultra Music Festival Miami, Miami Winter Music Conference, United States
+### Dash Berlin @ 550 Invasion Tour, A State Of Trance Festival, Ultra Music Festival Miami, Miami Winter Music Conference, United States 2012-03-25
 
 > 🟧 3/10 | 58m | 13 tracks
 > | [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin)
@@ -169,7 +169,7 @@
 
 - Callisto - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) & [Shogun](https://rateyourmusic.com/artist/shogun_f3)
 
-### 2012-03-31 Armin van Buuren @ 550 Invasion Tour, A State Of Trance Festival, Blue Stage, Brabanthallen Den Bosch, Netherlands
+### Armin van Buuren @ 550 Invasion Tour, A State Of Trance Festival, Blue Stage, Brabanthallen Den Bosch, Netherlands 2012-03-31
 
 > 🟨 6/10 | 1h10m | 16 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/
@@ -180,7 +180,7 @@
 - Kinetic - [Abstract Vision & Elite Electronic](https://rateyourmusic.com/artist/abstract_vision_and_elite_electronic)
 - Premonition - [A.R.D.I.](https://rateyourmusic.com/artist/a_r_d_i_)
 
-### 2012-03-31 Bobina @ 550 Invasion Tour, A State Of Trance Festival, Yellow Stage, Brabanthallen Den Bosch, Netherlands
+### Bobina @ 550 Invasion Tour, A State Of Trance Festival, Yellow Stage, Brabanthallen Den Bosch, Netherlands 2012-03-31
 
 > 🟧 3/10 | 1h | 14 tracks
 > | [Bobina](https://rateyourmusic.com/artist/bobina)
@@ -188,7 +188,7 @@
 
 - Quattro 372 - [Bobina](https://rateyourmusic.com/artist/bobina)
 
-### 2012-03-31 Mark Sixma @ 550 Invasion Tour, A State Of Trance Festival, Red Stage, Brabanthallen Den Bosch, Netherlands
+### Mark Sixma @ 550 Invasion Tour, A State Of Trance Festival, Red Stage, Brabanthallen Den Bosch, Netherlands 2012-03-31
 
 > 🟧 3/10 | 56m | 16 tracks
 > | [Mark Sixma](https://rateyourmusic.com/artist/mark_sixma)
@@ -196,7 +196,7 @@
 
 - As the Quasar Comes _([Tekno](https://rateyourmusic.com/artist/tekno-2) Mashup)_ - [Hard Rock Sofa](https://rateyourmusic.com/artist/hard-rock-sofa) vs. [Motorcycle](https://rateyourmusic.com/artist/motorcycle)
 
-### 2012-03-31 Protoculture @ 550 Invasion Tour, A State Of Trance Festival, Yellow Stage, Brabanthallen Den Bosch, Netherlands
+### Protoculture @ 550 Invasion Tour, A State Of Trance Festival, Yellow Stage, Brabanthallen Den Bosch, Netherlands 2012-03-31
 
 > 🟪 10/10 | 59m | 10 tracks
 > | [Protoculture](https://rateyourmusic.com/artist/protoculture)
@@ -209,7 +209,7 @@
 - Full Moon Party _([Thomas Datt](https://rateyourmusic.com/artist/thomas_datt) Remix)_ - [Paul Oakenfold](https://rateyourmusic.com/artist/paul-oakenfold)
 - Ode to the Oceans - [Protoculture](https://rateyourmusic.com/artist/protoculture)
 
-### 2012-03-31 The Blizzard @ 550 Invasion Tour, A State Of Trance Festival, Red Stage, Brabanthallen Den Bosch, Netherlands
+### The Blizzard @ 550 Invasion Tour, A State Of Trance Festival, Red Stage, Brabanthallen Den Bosch, Netherlands 2012-03-31
 
 > 🟩 7/10 | 1h | 15 tracks
 > | [The Blizzard](https://rateyourmusic.com/artist/the-blizzard)
@@ -221,7 +221,7 @@
 
 ## 2013
 
-### 2013-02-14 Alexander Popov @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain
+### Alexander Popov @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain 2013-02-14
 
 > 🟦 9/10 | 1h01m | 13 tracks
 > | [Alexander Popov](https://rateyourmusic.com/artist/alexander_popov)
@@ -232,7 +232,7 @@
 - Love Again _([Alexander Popov](https://rateyourmusic.com/artist/alexander_popov) Remix)_ - [Andy Moor](https://rateyourmusic.com/artist/andy-moor-2) feat. [Betsie Larkin](https://rateyourmusic.com/artist/betsie_larkin)
 - ID - [Eximinds](https://rateyourmusic.com/artist/eximinds) vs. [Alexander Popov](https://rateyourmusic.com/artist/alexander_popov)
 
-### 2013-02-14 Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain
+### Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain 2013-02-14
 
 > 🟦 9/10 | ~2h | 27 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
@@ -247,7 +247,7 @@
 - Elektra _([Solis & Sean Truby](https://rateyourmusic.com/artist/solis-and-sean-truby) Remix)_ - [Super8 & Tab](https://rateyourmusic.com/artist/super8_and_tab)
 - Jewel _([Daniel Kandi](https://rateyourmusic.com/artist/daniel_kandi)'s Emotive mix)_ - [Solarstone](https://rateyourmusic.com/artist/solarstone) & [Clare Stagg](https://rateyourmusic.com/artist/clare_stagg)
 
-### 2013-02-14 Armin van Buuren @ A State Of Trance Festival 600 The Expedition Pre-Party, Netherlands, New Garamond Madrid, Spain
+### Armin van Buuren @ A State Of Trance Festival 600 The Expedition Pre-Party, Netherlands, New Garamond Madrid, Spain 2013-02-14
 
 > 🟩 8/10 | 54m | 22 tracks
 > | https://1001.tl/68dn93k
@@ -256,7 +256,7 @@
 - Humming the Lights - [Gaia](https://rateyourmusic.com/artist/gaia-3)
 - The Expedition _([Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) Remix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz)
 
-### 2013-02-14 Giuseppe Ottaviani @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain
+### Giuseppe Ottaviani @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain 2013-02-14
 
 > 🟦 9/10 | 59m | 12 tracks
 > | [Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani)
@@ -267,7 +267,7 @@
 - I Don't Deserve You _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk) feat. [Plumb](#)
 - ID - [ID](#)
 
-### 2013-02-14 Lange @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain
+### Lange @ 600 The Expedition, A State Of Trance Festival, Florida Park Madrid, Spain 2013-02-14
 
 > 🟩 7/10 | 59m | 13 tracks
 > | [Lange](https://rateyourmusic.com/artist/lange)
@@ -277,7 +277,7 @@
 - Evolution - [Antillas](https://rateyourmusic.com/artist/antillas) & [Dankann](https://rateyourmusic.com/artist/dankann)
 - Neptune's Siren - [Darren Porter](https://rateyourmusic.com/artist/darren_porter) & [Ferry Tayle](https://rateyourmusic.com/artist/ferry_tayle)
 
-### 2013-02-16 Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico
+### Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico 2013-02-16
 
 > 🟦 9/10 | 1h58m | 26 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
@@ -292,7 +292,7 @@
 - ID - [Beat Service](https://rateyourmusic.com/artist/beat_service)
 - Game Over - [Heatbeat](https://rateyourmusic.com/artist/heatbeat)
 
-### 2013-02-16 Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico
+### Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico 2013-02-16
 
 > 🟪 10/10 | 1h19m | 18 tracks
 > | [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin)
@@ -307,7 +307,7 @@
 - When You Were Around _(Ferry Fix)_ - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Kate Walsh](https://rateyourmusic.com/artist/kate-walsh)
 - The Funeral - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Band of Horses](https://rateyourmusic.com/artist/band-of-horses)
 
-### 2013-02-16 Markus Schulz @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico
+### Markus Schulz @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico 2013-02-16
 
 > 🟦 9/10 | 1h15m | 18 tracks
 > | [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz)
@@ -319,7 +319,7 @@
 - The Spiritual Gateway - [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz)
 - Loops & Tings - [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz) & [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten)
 
-### 2013-02-16 Max Graham & Protoculture @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico
+### Max Graham & Protoculture @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico 2013-02-16
 
 > 🟪 10/10 | 1h12m | 20 tracks
 > | [Max Graham](https://rateyourmusic.com/artist/max_graham)
@@ -334,7 +334,7 @@
 - In a Moment _([Eco](https://rateyourmusic.com/artist/eco-1) Remix)_ - [Tucandeo](https://rateyourmusic.com/artist/tucandeo)
 - Sol - [Björn Åkesson](https://rateyourmusic.com/artist/bjorn_akesson)
 
-### 2013-02-16 W&W @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico
+### W&W @ 600 The Expedition, A State Of Trance Festival, Arena Ciudad De Mexico City, Mexico 2013-02-16
 
 > 🟪 10/10 | 1h15m | 19 tracks
 > | [W&W](https://rateyourmusic.com/artist/wandw)
@@ -347,7 +347,7 @@
 - D# Fat - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [W&W](https://rateyourmusic.com/artist/wandw)
 - The Code - [W&W](https://rateyourmusic.com/artist/wandw) & [Ummet Ozcan](https://rateyourmusic.com/artist/ummet-ozcan)
 
-### 2013-03-01 Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil
+### Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil 2013-03-01
 
 > 🟨 5/10 | 1h59m | 27 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
@@ -358,7 +358,7 @@
 - D# Fat - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [W&W](https://rateyourmusic.com/artist/wandw)
 - Humming the Lights - [Gaia](https://rateyourmusic.com/artist/gaia-3)
 
-### 2013-03-01 Jorn van Deynhoven @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil
+### Jorn van Deynhoven @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil 2013-03-01
 
 > 🟪 10/10 | 59m | 210 tracks
 > | [Jorn van Deynhoven](https://rateyourmusic.com/artist/jorn_van_deynhoven)
@@ -371,7 +371,7 @@
 - Superfly - [Jorn van Deynhoven](https://rateyourmusic.com/artist/jorn_van_deynhoven)
 - In Her Eyes - [Temple One](https://rateyourmusic.com/artist/temple_one)
 
-### 2013-03-01 Markus Schulz @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil
+### Markus Schulz @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil 2013-03-01
 
 > 🟨 5/10 | 1h29m | 21 tracks
 > | [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz)
@@ -381,7 +381,7 @@
 - Perception _([Rafaël Frost](https://rateyourmusic.com/artist/rafael-frost) Remix)_ - [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz) feat. [Justine Suissa](https://rateyourmusic.com/artist/justine_suissa)
 - Out of My Mind vs. Spaceman vs. The Fusion - [Bingo Players](https://rateyourmusic.com/artist/bingo-players) vs. [Hardwell](https://rateyourmusic.com/artist/hardwell) vs. [Omnia](https://rateyourmusic.com/artist/omnia_f2) & [Ira](https://rateyourmusic.com/artist/ira-2)
 
-### 2013-03-01 Ruben de Ronde @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil
+### Ruben de Ronde @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil 2013-03-01
 
 > 🟨 5/10 | 56m | 11 tracks
 > | [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
@@ -390,7 +390,7 @@
 - Sinai - [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone)
 - Timide _([Craving](https://rateyourmusic.com/artist/craving_f2) Remix)_ - [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 
-### 2013-03-01 Tomas Heredia @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil
+### Tomas Heredia @ 600 The Expedition, A State Of Trance Festival, Espaco Das Americas Sao Paulo, Brazil 2013-03-01
 
 > 🟧 3/10 | 1h16m | 15 tracks
 > | [Tomas Heredia](https://rateyourmusic.com/artist/tomas-heredia)
@@ -398,7 +398,16 @@
 
 - Liquid Love vs. Lost _([Tomas Heredia](https://rateyourmusic.com/artist/tomas-heredia) Mashup)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford) vs. [Tomas Heredia](https://rateyourmusic.com/artist/tomas-heredia)
 
-### 2013-03-07 Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus
+### 2013-03-07Sied van Riel @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus
+
+> 🟧 4/10 | 1h30m | 20 tracks
+> | [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
+> | https://1001.tl/8px99ht
+
+- ID - [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
+- Fallen Angel _([Lange](https://rateyourmusic.com/artist/lange) Remix)_ - [Dennis Sheperd](https://rateyourmusic.com/artist/dennis-sheperd) & [Cold Blue](https://rateyourmusic.com/artist/cold_blue) feat. [Ana Criado](https://rateyourmusic.com/artist/ana_criado)
+
+### Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus 2013-03-07
 
 > 🟪 10/10 | 1h28m | 21 tracks
 > | [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin)
@@ -413,7 +422,7 @@
 - Better Half of Me - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Jonathan Mendelsohn](https://rateyourmusic.com/artist/jonathan_mendelsohn)
 - Ticking Clocks _([Dash Berlin](https://rateyourmusic.com/artist/dash-berlin)'s Essential 'Warmplay' Rework)_ - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) vs. [Coldplay](https://rateyourmusic.com/artist/coldplay)
 
-### 2013-03-07 Eximinds @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus
+### Eximinds @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus 2013-03-07
 
 > 🟦 9/10 | 1h13m | 15 tracks
 > | [Eximinds](https://rateyourmusic.com/artist/eximinds)
@@ -425,7 +434,7 @@
 - Game Over - [Heatbeat](https://rateyourmusic.com/artist/heatbeat)
 - Something New _([Rafaël Frost](https://rateyourmusic.com/artist/rafael-frost) Remix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Jenry R](#)
 
-### 2013-03-07 Sean Tyas @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus
+### Sean Tyas @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus 2013-03-07
 
 > 🟧 4/10 | 1h30m | 15 tracks
 > | [Sean Tyas](https://rateyourmusic.com/artist/sean-tyas)
@@ -434,16 +443,7 @@
 - Sound of Goodbye _([Abstract Vision & Elite Electronic](https://rateyourmusic.com/artist/abstract_vision_and_elite_electronic) Bootleg Mix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 - Lost in Berlin _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk) feat. [Michelle Leonard](https://rateyourmusic.com/artist/michelle_leonard)
 
-### 2013-03-07Sied van Riel @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus
-
-> 🟧 4/10 | 1h30m | 20 tracks
-> | [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
-> | https://1001.tl/8px99ht
-
-- ID - [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
-- Fallen Angel _([Lange](https://rateyourmusic.com/artist/lange) Remix)_ - [Dennis Sheperd](https://rateyourmusic.com/artist/dennis-sheperd) & [Cold Blue](https://rateyourmusic.com/artist/cold_blue) feat. [Ana Criado](https://rateyourmusic.com/artist/ana_criado)
-
-### 2013-03-08 Myon & Shane 54 @ 600 The Expedition, A State Of Trance Festival, Arena Armeec Sofia, Bulgaria
+### Myon & Shane 54 @ 600 The Expedition, A State Of Trance Festival, Arena Armeec Sofia, Bulgaria 2013-03-08
 
 > 🟧 3/10 | 1h15m | 15 tracks
 > | [Myon & Shane 54](https://rateyourmusic.com/artist/myon_and_shane_54)
@@ -451,7 +451,7 @@
 
 - Surrender Sweet Disposition _([Myon & Shane 54](https://rateyourmusic.com/artist/myon_and_shane_54) Mashup)_ - [Paul Oakenfold](https://rateyourmusic.com/artist/paul-oakenfold) vs. [The Temper Trap](https://rateyourmusic.com/artist/the_temper_trap)
 
-### 2013-03-09 Antillas @ 600 The Expedition, A State Of Trance Festival, Forum De Beirut, Lebanon
+### Antillas @ 600 The Expedition, A State Of Trance Festival, Forum De Beirut, Lebanon 2013-03-09
 
 > 🟨 5/10 | 59m | 14 tracks
 > | [Antillas](https://rateyourmusic.com/artist/antillas)
@@ -460,7 +460,7 @@
 - Silence in Your Heart _([Antillas](https://rateyourmusic.com/artist/antillas) Remix)_ - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Chris Madin](https://rateyourmusic.com/artist/chris_madin)
 - Rewind _([Mikkas](https://rateyourmusic.com/artist/mikkas) Remix)_ - [Emma Hewitt](https://rateyourmusic.com/artist/emma-hewitt)
 
-### 2013-03-09 Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Forum De Beirut, Lebanon
+### Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Forum De Beirut, Lebanon 2013-03-09
 
 > 🟪 10/10 | 1h12m | 17 tracks
 > | [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin)
@@ -473,7 +473,7 @@
 - The Funeral - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) feat. [Band of Horses](https://rateyourmusic.com/artist/band-of-horses)
 - Man on the Run - [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin) with [Cerf, Mitiska & Jaren](https://rateyourmusic.com/artist/cerf__mitiska_and_jaren)
 
-### 2013-03-09 MaRLo @ 600 The Expedition, A State Of Trance Festival, Forum De Beirut, Lebanon
+### MaRLo @ 600 The Expedition, A State Of Trance Festival, Forum De Beirut, Lebanon 2013-03-09
 
 > 🟧 3/10 | 1h15m | 22 tracks
 > | [MaRLo](https://rateyourmusic.com/artist/marlo-2)
@@ -481,7 +481,7 @@
 
 - You Belong to Megalodon _([Xabi Only](#) Mashup)_ - [Bobina](https://rateyourmusic.com/artist/bobina) & [Betsie Larkin](https://rateyourmusic.com/artist/betsie_larkin) vs. [MaRLo](https://rateyourmusic.com/artist/marlo-2)
 
-### 2013-03-15 Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia
+### Armin van Buuren @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia 2013-03-15
 
 > 🟨 6/10 | ~2h | 27 tracks
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
@@ -493,7 +493,7 @@
 - Ashes Are Beautiful Things _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Mashup)_ - [Sebastian Brandt](https://rateyourmusic.com/artist/sebastian-brandt) vs. [Andain](https://rateyourmusic.com/artist/andain)
 - Are Am Eye Stresstest _([John Askew](https://rateyourmusic.com/artist/john_askew) Remix)_ _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Mashup)_ - [John O'Callaghan](https://rateyourmusic.com/artist/john_ocallaghan) vs. [Commander Tom](https://rateyourmusic.com/artist/commander-tom)
 
-### 2013-03-15 Ben Gold @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia
+### Ben Gold @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia 2013-03-15
 
 > 🟨 6/10 | 1h19m | 16 tracks
 > | [Ben Gold](https://rateyourmusic.com/artist/ben_gold)
@@ -503,7 +503,7 @@
 - Brute vs. Concrete Angel - [Ferry Corsten](https://rateyourmusic.com/artist/ferry_corsten) vs. [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) vs. [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery) feat. [Christina Novelli](https://rateyourmusic.com/artist/christina_novelli)
 - Platinum _([Ben Gold](https://rateyourmusic.com/artist/ben_gold) Remix)_ - [Nenez](#) & [Pascal Feliz](https://rateyourmusic.com/artist/pascal-feliz)
 
-### 2013-03-15 Cosmic Gate @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia
+### Cosmic Gate @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia 2013-03-15
 
 > 🟧 4/10 | 1h09m | 16 tracks
 > | [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate)
@@ -512,7 +512,7 @@
 - Wake Your Mind vs. Easy - [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate) vs. [Mat Zo](https://rateyourmusic.com/artist/mat-zo) & [Porter Robinson](https://rateyourmusic.com/artist/porter-robinson)
 - Over the Rainbow _([W&W](https://rateyourmusic.com/artist/wandw) Remix)_ - [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate) & [J'Something](#)
 
-### 2013-03-15 Super8 & Tab @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia
+### Super8 & Tab @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia 2013-03-15
 
 > 🟪 10/10 | 1h03m | 14 tracks
 > | [Super8 & Tab](https://rateyourmusic.com/artist/super8_and_tab)
@@ -524,7 +524,7 @@
 - Awakenings vs. Satellite _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) Remix)_ - [Super8 & Tab](https://rateyourmusic.com/artist/super8_and_tab) vs. [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Sinai - [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone)
 
-### 2013-03-15 W&W @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia
+### W&W @ 600 The Expedition, A State Of Trance Festival, Sepang International Circuit Kuala Lumpur, Malaysia 2013-03-15
 
 > 🟪 10/10 | 1h07m | 18 tracks
 > | [W&W](https://rateyourmusic.com/artist/wandw)
@@ -538,7 +538,7 @@
 - Silence _([W&W](https://rateyourmusic.com/artist/wandw) vs. [Jonas Stenberg](https://rateyourmusic.com/artist/jonas-stenberg) Remix)_ - [Delerium](https://rateyourmusic.com/artist/delerium) feat. [Sarah McLachlan](https://rateyourmusic.com/artist/sarah-mclachlan)
 - Sinai - [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone)
 
-### 2013-03-16 Rank 1 @ 600 The Expedition, A State Of Trance Festival, Royal Western Turf Club Mumbai, India
+### Rank 1 @ 600 The Expedition, A State Of Trance Festival, Royal Western Turf Club Mumbai, India 2013-03-16
 
 > 🟨 5/10 | 1h | 12 tracks
 > | [Rank 1](https://rateyourmusic.com/artist/rank_1)
@@ -547,7 +547,7 @@
 - Elements of Nature - [Rank 1](https://rateyourmusic.com/artist/rank_1) vs. [M.I.K.E.](https://rateyourmusic.com/artist/m_i_k_e_)
 - Wild and Perfect Day - [Rank 1](https://rateyourmusic.com/artist/rank_1) & [Jochen Miller](https://rateyourmusic.com/artist/jochen-miller) feat. [Sarah Bettens](#)
 
-### 2013-03-24 Cosmic Gate @ 600 The Expedition, A State Of Trance Festival, Ultra Music Festival Miami, United States
+### Cosmic Gate @ 600 The Expedition, A State Of Trance Festival, Ultra Music Festival Miami, United States 2013-03-24
 
 > 🟧 3/10 | 1h01m | 14 tracks
 > | [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate)
@@ -555,7 +555,7 @@
 
 - Wake Your Mind vs. Easy - [Cosmic Gate](https://rateyourmusic.com/artist/cosmic_gate) feat. [Cary Brothers](#) vs. [Mat Zo](https://rateyourmusic.com/artist/mat-zo) & [Porter Robinson](https://rateyourmusic.com/artist/porter-robinson)
 
-### 2013-03-24 Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States
+### Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States 2013-03-24
 
 > 🟦 9/10 | 58m | 16 tracks
 > | [Dash Berlin](https://rateyourmusic.com/artist/dash-berlin)
@@ -566,7 +566,7 @@
 - This Miami Is Nice _(Dashup)_ - [Sander Kleinenberg](https://rateyourmusic.com/artist/sander-kleinenberg) vs. [Rapha](https://rateyourmusic.com/artist/rapha_f1) & [Maarten de Jong](https://rateyourmusic.com/artist/maarten_de_jong)
 - Better Off Alone _(Dash Berlin Rework)_ - [Alice Deejay](https://rateyourmusic.com/artist/alice-deejay)
 
-### 2013-03-24 Markus Schulz @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States
+### Markus Schulz @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States 2013-03-24
 
 > 🟧 3/10 | 1h01m | 15 tracks
 > | [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz)
@@ -574,7 +574,7 @@
 
 - Love Rain Down _([4 Strings](https://rateyourmusic.com/artist/4-strings) Remix)_ - [Markus Schulz](https://rateyourmusic.com/artist/markus-schulz) feat. [Seri](https://rateyourmusic.com/artist/seri_f1)
 
-### 2013-03-24 Paul van Dyk @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States
+### Paul van Dyk @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States 2013-03-24
 
 > 🟪 10/10 | 1h03m | 17 tracks
 > | [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk)
@@ -587,7 +587,7 @@
 - I Don't Deserve You _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk) feat. [Plumb](#)
 - ID - [ID](#)
 
-### 2013-03-24 Tritonal @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States
+### Tritonal @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States 2013-03-24
 
 > 🟪 10/10 | 1h | 15 tracks
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
@@ -603,7 +603,7 @@
 - Bullet That Saved Me _([Tritonal](https://rateyourmusic.com/artist/tritonal) Festival Mix)_ - [Tritonal](https://rateyourmusic.com/artist/tritonal) feat. [Underdown](#)
 - ID - [Estiva](https://rateyourmusic.com/artist/estiva)
 
-### 2013-03-24 W&W @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States
+### W&W @ 600 The Expedition, A State Of Trance Festival, Mega Structure Stage, Ultra Music Festival Miami, United States 2013-03-24
 
 > 🟦 9/10 | 59m | 17 tracks
 > | [W&W](https://rateyourmusic.com/artist/wandw)
@@ -614,7 +614,7 @@
 - D# Fat - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [W&W](https://rateyourmusic.com/artist/wandw)
 - ID - [ID](#)
 
-### 2013-03-27 Eco @ 600 The Expedition, A State Of Trance Festival, Super 24 Puerto San Jose, Guatemala
+### Eco @ 600 The Expedition, A State Of Trance Festival, Super 24 Puerto San Jose, Guatemala 2013-03-27
 
 > 🟧 4/10 | 1h30m | 18 tracks
 > | [Eco](https://rateyourmusic.com/artist/eco-1)
@@ -623,7 +623,7 @@
 - Alonism - [DJ Eco](https://rateyourmusic.com/artist/dj-eco)
 - As the Desert Rush Comes _([Bilal El Aly](https://rateyourmusic.com/artist/bilal-el-aly) & [Vince Aoun](https://rateyourmusic.com/artist/vince-aoun) Mashup)_ - [DJ Eco](https://rateyourmusic.com/artist/dj-eco) vs. [Motorcycle](https://rateyourmusic.com/artist/motorcycle)
 
-### 2013-04-06 Arctic Moon @ Who's Afraid Of 138?! Stage, A State Of Trance Festival 600 The Expedition, Brabanthallen Den Bosch, Netherlands
+### Arctic Moon @ Who's Afraid Of 138?! Stage, A State Of Trance Festival 600 The Expedition, Brabanthallen Den Bosch, Netherlands 2013-04-06
 
 > 🟩 7/10 | 1h15m | 16 tracks
 > | [Arctic Moon](https://rateyourmusic.com/artist/arctic_moon)
@@ -634,7 +634,7 @@
 - Whatever Happens _([Arctic Moon](https://rateyourmusic.com/artist/arctic_moon) Remix)_ vs. We Are the People _(a cappella)_ - [Mark Leanings](https://rateyourmusic.com/artist/mark-leanings) vs. [Empire of the Sun](https://rateyourmusic.com/artist/empire_of_the_sun)
 - Valhalla - [Arctic Moon](https://rateyourmusic.com/artist/arctic_moon) & [Paul Webster](https://rateyourmusic.com/artist/paul_webster_f2)
 
-### 2013-04-06 Estiva @ 600 The Expedition, A State Of Trance Festival, The Expedition Stage, Brabanthallen Den Bosch, Netherlands
+### Estiva @ 600 The Expedition, A State Of Trance Festival, The Expedition Stage, Brabanthallen Den Bosch, Netherlands 2013-04-06
 
 > 🟨 6/10 | 51m | 17 tracks
 > | [Estiva](https://rateyourmusic.com/artist/estiva)
@@ -643,7 +643,7 @@
 - Vision vs. Children vs. Nothing Else Matters vs. The Fusion _([Estiva](https://rateyourmusic.com/artist/estiva) Mashup)_ - [Ashley Wallbridge](https://rateyourmusic.com/artist/ashley-wallbridge) vs. [Robert Miles](https://rateyourmusic.com/artist/robert-miles) vs. [Max Graham](https://rateyourmusic.com/artist/max_graham) vs. [Omnia](https://rateyourmusic.com/artist/omnia_f2) & [Ira](https://rateyourmusic.com/artist/ira-2)
 - Wait Forever _([Estiva](https://rateyourmusic.com/artist/estiva) Remix)_ - [Estiva](https://rateyourmusic.com/artist/estiva) & [Cardinal](#) feat. [Arielle Maren](https://rateyourmusic.com/artist/arielle-maren)
 
-### 2013-04-06 Heatbeat @ 600 The Expedition, A State Of Trance Festival, Let's Turn The World Into A Dancefloor Stage, Brabanthallen Den Bosch, Netherlands
+### Heatbeat @ 600 The Expedition, A State Of Trance Festival, Let's Turn The World Into A Dancefloor Stage, Brabanthallen Den Bosch, Netherlands 2013-04-06
 
 > 🟨 6/10 | 1h15m | 18 tracks
 > | [Heatbeat](https://rateyourmusic.com/artist/heatbeat)
@@ -653,7 +653,7 @@
 - ID - [ID](#)
 - Hurricane - [Daddy's Groove](https://rateyourmusic.com/artist/daddys-groove)
 
-### 2013-04-06 Omnia @ 600 The Expedition, A State Of Trance Festival, Mainstage, Brabanthallen Den Bosch, Netherlands
+### Omnia @ 600 The Expedition, A State Of Trance Festival, Mainstage, Brabanthallen Den Bosch, Netherlands 2013-04-06
 
 > 🟧 3/10 | 1h14m | 23 tracks
 > | [Omnia](https://rateyourmusic.com/artist/omnia_f2)
@@ -661,7 +661,7 @@
 
 - Yin-Yang - [Ashley Wallbridge](https://rateyourmusic.com/artist/ashley-wallbridge)
 
-### 2013-04-06 Tenishia @ 600 The Expedition, A State Of Trance Festival, Let's Turn The World Into A Dancefloor Stage, Brabanthallen Den Bosch, Netherlands
+### Tenishia @ 600 The Expedition, A State Of Trance Festival, Let's Turn The World Into A Dancefloor Stage, Brabanthallen Den Bosch, Netherlands 2013-04-06
 
 > 🟩 8/10 | 1h13m | 13 tracks
 > | [Tenishia](https://rateyourmusic.com/artist/tenishia)
@@ -674,7 +674,7 @@
 
 ## 2014
 
-### 2014-02-15 Ben Gold @ 650 New Horizons, A State Of Trance Festival, ASOT Invites Stage, Jaarbeurs Utrecht, Netherlands
+### Ben Gold @ 650 New Horizons, A State Of Trance Festival, ASOT Invites Stage, Jaarbeurs Utrecht, Netherlands 2014-02-15
 
 > 🟧 4/10 | 1h15m | 19 tracks
 > | [Ben Gold](https://rateyourmusic.com/artist/ben_gold)
@@ -683,7 +683,7 @@
 - Sectioned - [Solis](https://rateyourmusic.com/artist/solis_f1) & [Sean Truby](https://rateyourmusic.com/artist/sean_truby)
 - Where Life Takes Us - [Ben Gold](https://rateyourmusic.com/artist/ben_gold)
 
-### 2014-02-15 Protoculture @ 650 New Horizons, A State Of Trance Festival, ASOT Invites Stage, Jaarbeurs Utrecht, Netherlands
+### Protoculture @ 650 New Horizons, A State Of Trance Festival, ASOT Invites Stage, Jaarbeurs Utrecht, Netherlands 2014-02-15
 
 > 🟪 10/10 | 1h15m | 17 tracks
 > | [Protoculture](https://rateyourmusic.com/artist/protoculture)

@@ -224,7 +224,7 @@ with open('All.md', "w") as f:
   for path in sorted(primary_toc):
     f.write('| [%s](%s/%s) | %s | %s | %.2f/10 |\n' % (path[:-3], dir, to_url(path), plural('mix', primary_toc[path]['mix_count']), format_duration(primary_toc[path]['duration']), primary_toc[path]['rating'] / primary_toc[path]['mix_count']))
   f.write('\n---\n\n')
-  for title in sorted(all_mixes, key=sort_title):
+  for title in sorted(all_mixes, key=sort_title, reverse=True):
     mix = all_mixes[title]
     if '1001.tl' in mix['quote']:
       url = re.search(r"https://1001.tl/[^\s]+", mix['quote'])

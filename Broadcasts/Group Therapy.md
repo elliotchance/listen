@@ -11,7 +11,7 @@
 
 ## 2021
 
-### 2021-12-10 Above & Beyond & Manila Killa - Group Therapy Radio 464
+### Above & Beyond & Manila Killa - Group Therapy Radio 464 2021-12-10
 
 > 🟧 4/10 | ~2h | 28 tracks | [Manila Killa](https://rateyourmusic.com/artist/manila_killa)
 > | https://1001.tl/nu0578t
@@ -20,7 +20,7 @@
 - Sun & Moon _([ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone) Remix)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford)
 - On & On - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Louise Rademakers](https://rateyourmusic.com/artist/louise-rademakers)
 
-### 2021-12-17 Above & Beyond & Themba - Group Therapy Radio 465
+### Above & Beyond & Themba - Group Therapy Radio 465 2021-12-17
 
 > 🟧 3/10 | ~2h | 25 tracks | [THEMBA](https://rateyourmusic.com/artist/themba-1)
 > | https://1001.tl/2q06s911
@@ -30,14 +30,14 @@
 
 ## 2022
 
-### 2022-01-07 Above & Beyond & Bexxie - Group Therapy Radio 466
+### Above & Beyond & Bexxie - Group Therapy Radio 466 2022-01-07
 
 > 🟥 1/10 | ~2h | 29 tracks | [Bexxie](https://rateyourmusic.com/artist/bexxie)
 > | https://1001.tl/29wx2zs1
 
 ## 2024
 
-### 2024-10-19 Above & Beyond @ ABGT 600 (Hipódromo de las Américas Mexico City, Mexico)
+### Above & Beyond @ ABGT 600 (Hipódromo de las Américas Mexico City, Mexico) 2024-10-19
 
 > 🟩 8/10 | 1h59m | [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond)
 > | https://1001.tl/1ywqkugk
@@ -51,21 +51,21 @@
 - Sirens of the Sea _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) Club Mix)_ - [OceanLab](https://rateyourmusic.com/artist/oceanlab)
 - Good For Me _([Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) ABGT600 Respray)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat [Zoë Johnston](https://rateyourmusic.com/artist/zoe_johnston)
 
-### 2024-10-19 Above & Beyond @ ABGT 600 Deep Warm Up Set, Lago de Xochimilco Mexico City, Mexico
+### Above & Beyond @ ABGT 600 Deep Warm Up Set, Lago de Xochimilco Mexico City, Mexico 2024-10-19
 
 > 🟧 3/10 | ~1h
 > | https://1001.tl/1t9whk2t
 
 - @48:22
 
-### 2024-10-25 Above & Beyond & Shingo Nakamura - Group Therapy Radio 601
+### Above & Beyond & Shingo Nakamura - Group Therapy Radio 601 2024-10-25
 
 > 🟥 2/10 | ~2h
 > | https://1001.tl/2r3m4gnt
 
 - @1:27:42 - tinlicker
 
-### 2024-11-08 Above & Beyond & TDJ - Group Therapy Radio 603
+### Above & Beyond & TDJ - Group Therapy Radio 603 2024-11-08
 
 > 🟧 4/10 | 2h | https://1001.tl/2grgq3rt
 

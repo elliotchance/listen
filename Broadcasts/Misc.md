@@ -95,14 +95,14 @@
 
 ## HARD Summer 2022
 
-### 2022-07-29 Montell2099 @ Green Stage, HARD Summer Festival, United States
+### Montell2099 @ Green Stage, HARD Summer Festival, United States 2022-07-29
 
 > 🟩 8/10 | ~1h | [Montell2099](https://rateyourmusic.com/artist/montell2099)
 > | https://1001.tl/10z7nfjt
 
 ## Lane 8 Mixtape
 
-### 2021-09-15 Lane 8 - Fall 2021 Mixtape
+### Lane 8 - Fall 2021 Mixtape 2021-09-15
 
 > 🟩 7/10 | ~1h
 > | https://1001.tl/1fy61y0k
@@ -123,19 +123,19 @@
 
 ## The Anjuna Mix
 
-### 2022-04-28 Ilan Bluestone - Apple Music Mixes The Anjuna Mix
+### Ilan Bluestone - Apple Music Mixes The Anjuna Mix 2022-04-28
 
 > 🟩 7/10 | ~1h | [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone)
 > | https://1001.tl/14phjgz9
 
-### 2022-07-22 Tinlicker - Apple Music Mixes The Anjuna Mix
+### Tinlicker - Apple Music Mixes The Anjuna Mix 2022-07-22
 
 > 🟩 7/10 | ~1h | [Tinlicker](https://rateyourmusic.com/artist/tinlicker)
 > | https://1001.tl/2swt1pqk
 
 ## The Anjunadeep Edition
 
-### 2024-07-18 Klur - The Anjunadeep Edition 509
+### Klur - The Anjunadeep Edition 509 2024-07-18
 
 > 🟥 2/10 | 1h1m | [Klur](https://rateyourmusic.com/artist/klur)
 > | https://1001.tl/2s0vdm89
@@ -145,7 +145,7 @@
 
 ## VONYC Sessions
 
-### 2021-03-02 Paul van Dyk - VONYC Sessions 748
+### Paul van Dyk - VONYC Sessions 748 2021-03-02
 
 > 🟧 4/10 | ~2h | 24 tracks
 > | https://1001.tl/1d1gq29k
@@ -154,7 +154,7 @@
 - Inspiration - [Eclipse](https://rateyourmusic.com/artist/eclipse-12)
 - Square One - [Madwave](https://rateyourmusic.com/artist/madwave), [Drivel](#)
 
-### 2021-03-16 Paul van Dyk - VONYC Sessions 750
+### Paul van Dyk - VONYC Sessions 750 2021-03-16
 
 > 🟧 3/10 | ~2h | 24 tracks
 > | https://1001.tl/15jxt2n9
