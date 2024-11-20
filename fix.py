@@ -76,6 +76,12 @@ def rating_emoji(rating):
     return '🟦'
   return '🟪'
 
+def sort_title(s):
+  if match := re.search('[-\d]{10}', s):
+    return match.group(1) + title
+
+  return s
+
 artist_repo = ArtistRepo()
 
 all_mixes = {}
