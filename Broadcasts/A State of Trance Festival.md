@@ -172,8 +172,7 @@
 ### Armin van Buuren @ 550 Invasion Tour, A State Of Trance Festival, Blue Stage, Brabanthallen Den Bosch, Netherlands 2012-03-31
 
 > 🟨 6/10 | 1h10m | 16 tracks
-> | [Armin van Buuren](https://rateyourmusic.com/artist/
-> armin-van-buuren)
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 > | https://1001.tl/24x3r21
 
 - Epic Hyperfocus _([Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) Mashup)_ - [Sandro Silva](https://rateyourmusic.com/artist/sandro_silva) & [Quintino](https://rateyourmusic.com/artist/quintino) vs. [Mark Otten](https://rateyourmusic.com/artist/mark_otten)
@@ -250,6 +249,7 @@
 ### Armin van Buuren @ A State Of Trance Festival 600 The Expedition Pre-Party, Netherlands, New Garamond Madrid, Spain 2013-02-14
 
 > 🟩 8/10 | 54m | 22 tracks
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 > | https://1001.tl/68dn93k
 
 - D# Fat - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) & [W&W](https://rateyourmusic.com/artist/wandw)
@@ -398,15 +398,6 @@
 
 - Liquid Love vs. Lost _([Tomas Heredia](https://rateyourmusic.com/artist/tomas-heredia) Mashup)_ - [Above & Beyond](https://rateyourmusic.com/artist/above-and-beyond) feat. [Richard Bedford](https://rateyourmusic.com/artist/richard_bedford) vs. [Tomas Heredia](https://rateyourmusic.com/artist/tomas-heredia)
 
-### 2013-03-07Sied van Riel @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus
-
-> 🟧 4/10 | 1h30m | 20 tracks
-> | [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
-> | https://1001.tl/8px99ht
-
-- ID - [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
-- Fallen Angel _([Lange](https://rateyourmusic.com/artist/lange) Remix)_ - [Dennis Sheperd](https://rateyourmusic.com/artist/dennis-sheperd) & [Cold Blue](https://rateyourmusic.com/artist/cold_blue) feat. [Ana Criado](https://rateyourmusic.com/artist/ana_criado)
-
 ### Dash Berlin @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus 2013-03-07
 
 > 🟪 10/10 | 1h28m | 21 tracks
@@ -442,6 +433,15 @@
 
 - Sound of Goodbye _([Abstract Vision & Elite Electronic](https://rateyourmusic.com/artist/abstract_vision_and_elite_electronic) Bootleg Mix)_ - [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 - Lost in Berlin _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [Paul van Dyk](https://rateyourmusic.com/artist/paul-van-dyk) feat. [Michelle Leonard](https://rateyourmusic.com/artist/michelle_leonard)
+
+### Sied van Riel @ 600 The Expedition, A State Of Trance Festival, Minsk Arena, Belarus 2013-03-07
+
+> 🟧 4/10 | 1h30m | 20 tracks
+> | [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
+> | https://1001.tl/8px99ht
+
+- ID - [Sied van Riel](https://rateyourmusic.com/artist/sied-van-riel)
+- Fallen Angel _([Lange](https://rateyourmusic.com/artist/lange) Remix)_ - [Dennis Sheperd](https://rateyourmusic.com/artist/dennis-sheperd) & [Cold Blue](https://rateyourmusic.com/artist/cold_blue) feat. [Ana Criado](https://rateyourmusic.com/artist/ana_criado)
 
 ### Myon & Shane 54 @ 600 The Expedition, A State Of Trance Festival, Arena Armeec Sofia, Bulgaria 2013-03-08
 
