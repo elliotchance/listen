@@ -10,80 +10,111 @@
 
 ## All
 
-### 2015-01-12: Boiler Room, "Acid Pauli"
+### Acid Pauli @ Boiler Room Tulum 2015-01-12
 
-> 🟩 7/10 | ~1h | 33 tracks | [Acid Pauli](https://rateyourmusic.com/artist/acid-pauli)
+> 🟩 7/10 | ~1h | 33 tracks
+> | [Acid Pauli](https://rateyourmusic.com/artist/acid-pauli)
+> | https://1001.tl/2n8b8yq1
 
-### 2015-01-14: Boiler Room, "Adriatique"
+### Adriatique @ Tulum Diynamic Takeover, Boiler Room, The BPM Festival Mexico 2015-01-14
 
-> 🟩 7/10 | ~1h | 11 tracks | [Adriatique](https://rateyourmusic.com/artist/adriatique)
+> 🟩 7/10 | ~1h | 11 tracks
+> | [Adriatique](https://rateyourmusic.com/artist/adriatique)
+> | https://1001.tl/502u0rt
 
-### 2015-01-29: Boiler Room, "ENA": Tokyo, Japan
+### Boiler Room, "ENA": Tokyo, Japan 2015-01-29
 
-> 🟧 4/10 | ~1h | 23 tracks | [ENA](https://rateyourmusic.com/artist/ena_f2)
+> 🟧 4/10 | ~1h | 23 tracks
+> | [ENA](https://rateyourmusic.com/artist/ena_f2)
 
-### 2015-03-30: Boiler Room, "Gene Farris": Chicago, IL, USA
+### Boiler Room, "Gene Farris": Chicago, IL, USA 2015-03-30
 
-> 🟨 6/10 | ~1h | 14 tracks | [Gene Farris](https://rateyourmusic.com/artist/gene-farris)
+> 🟨 6/10 | ~1h | 14 tracks
+> | [Gene Farris](https://rateyourmusic.com/artist/gene-farris)
 
-### 2015-05-30: Boiler Room, "Bicep": AVA, Belfast, Ireland, UK
+### Bicep @ AVA Festival, Boiler Room 2015-06-17
 
-> 🟨 6/10 | ~1h | 14 tracks | [Bicep](https://rateyourmusic.com/artist/bicep)
+> 🟨 6/10 | ~1h | 14 tracks
+> | [Bicep](https://rateyourmusic.com/artist/bicep)
+> | https://1001.tl/2nv91dvk
 
-### 2015-08-12: Boiler Room, "Stephan Bodzin": Berlin, Germany
+### Stephan Bodzin @ Berlin Live Set, Boiler Room 2015-10-08
 
-> 🟩 7/10 | ~1h | 17 tracks | [Stephan Bodzin](https://rateyourmusic.com/artist/stephan-bodzin)
+> 🟩 7/10 | ~1h | 17 tracks
+> | [Stephan Bodzin](https://rateyourmusic.com/artist/stephan-bodzin)
+> | https://1001.tl/v3k7mu1
 
-### 2015-11-05: Boiler Room, "Tale of Us": Berlin, Germany
+### Tale Of Us @ 5 Years Of Boiler Room 2015-11-05
 
-> 🟨 6/10 | ~1h | 13 tracks | [Tale of Us](https://rateyourmusic.com/artist/tale_of_us)
+> 🟨 6/10 | ~1h | 13 tracks
+> | [Tale of Us](https://rateyourmusic.com/artist/tale_of_us)
+> | https://1001.tl/93tlfrk
 
-### 2016-02-11: Boiler Room, "dBridge": Berlin, Germany
+### Boiler Room, "dBridge": Berlin, Germany 2016-02-11
 
-> 🟨 6/10 | ~1h | 29 tracks | [dBridge](https://rateyourmusic.com/artist/dbridge)
+> 🟨 6/10 | ~1h | 29 tracks
+> | [dBridge](https://rateyourmusic.com/artist/dbridge)
 
-### 2016-07-04: Boiler Room, "DJ Marky": Lisbon, Portugal
+### Boiler Room, "DJ Marky": Lisbon, Portugal 2016-07-04
 
-> 🟨 5/10 | ~1h | 26 tracks | [DJ Marky](https://rateyourmusic.com/artist/dj-marky)
+> 🟨 5/10 | ~1h | 26 tracks
+> | [DJ Marky](https://rateyourmusic.com/artist/dj-marky)
 
-### 2016-08-18: Boiler Room, "Bicep": London, England, UK
+### Bicep @ Boiler Room, Ray-Ban 017 Unplug Party, London, United Kingdom 2016-08-18
 
-> 🟨 6/10 | ~1h | 12 tracks | [Bicep](https://rateyourmusic.com/artist/bicep)
+> 🟨 6/10 | ~1h | 12 tracks
+> | [Bicep](https://rateyourmusic.com/artist/bicep)
+> | https://1001.tl/29puzlkk
 
-### 2017-03-28: Boiler Room, "DJ Craze": London, England, UK
+### Craze @ Boiler Room London, United Kingdom 2017-03-28
 
-> 🟧 4/10 | ~1h | 57 tracks | [DJ Craze](https://rateyourmusic.com/artist/dj-craze)
+> 🟧 4/10 | ~1h | 57 tracks
+> | [DJ Craze](https://rateyourmusic.com/artist/dj-craze)
+> | https://1001.tl/2bndn221
 
-### 2017-04-14: Boiler Room, "Christian Löffler"
+### Christian Löffler @ Boiler Room Berlin, Germany 2017-04-14
 
-> 🟨 6/10 | ~1h | 10 tracks | [Christian Löffler](https://rateyourmusic.com/artist/christian-loffler)
+> 🟨 6/10 | ~1h | 10 tracks
+> | [Christian Löffler](https://rateyourmusic.com/artist/christian-loffler)
+> | https://1001.tl/25zt4hwt
 
-### 2018-03-25: Boiler Room, "Basenji": Melbourne, VIC, Australia
+### Basenji @ Boiler Room 2018-04-20
 
-> 🟩 8/10 | ~1h | 19 tracks | [Basenji](https://rateyourmusic.com/artist/basenji)
+> 🟩 8/10 | ~1h | 19 tracks
+> | [Basenji](https://rateyourmusic.com/artist/basenji)
+> | https://1001.tl/1xmwj9w1
 
-### 2018-07-12: Boiler Room, "Sven Väth": Marseille, France
+### Sven Väth @ Boiler Room x Eristoff Into The Night, Marseille 2018-07-12
 
-> 🟨 5/10 | ~1h | 22 tracks | [Sven Väth](https://rateyourmusic.com/artist/sven-vath)
+> 🟨 5/10 | ~1h | 22 tracks
+> | [Sven Väth](https://rateyourmusic.com/artist/sven-vath)
+> | https://1001.tl/2k5z0msk
 
-### 2019-03-15: Boiler Room, "DJ Bus Replacement Service": London, England, UK
+### Boiler Room, "DJ Bus Replacement Service": London, England, UK 2019-03-15
 
-> 🟨 6/10 | ~1h | 20 tracks | [DJ Bus Replacement Service](https://rateyourmusic.com/artist/dj-bus-replacement-service)
+> 🟨 6/10 | ~1h | 20 tracks
+> | [DJ Bus Replacement Service](https://rateyourmusic.com/artist/dj-bus-replacement-service)
 
-### 2019-04-05: Boiler Room, "Casual Gabberz Army": Paris, France
+### Boiler Room, "Casual Gabberz Army": Paris, France 2019-04-05
 
-> 🟧 4/10 | ~1h | 31 tracks | [Casual Gabberz Army](https://rateyourmusic.com/artist/casual-gabberz-army)
+> 🟧 4/10 | ~1h | 31 tracks
+> | [Casual Gabberz Army](https://rateyourmusic.com/artist/casual-gabberz-army)
 
-### 2020-02-06: Boiler Room, "Trance Wax": Igloofest, Montreal, Canada
+### Trance Wax @ Montreal: Igloofest, Boiler Room 2020-02-06
 
-> 🟦 9/10 | ~1h | 14 tracks | [Trance Wax](https://rateyourmusic.com/artist/trance-wax)
+> 🟦 9/10 | ~1h | 14 tracks
+> | [Trance Wax](https://rateyourmusic.com/artist/trance-wax)
+> | https://1001.tl/dbbryn9
 
-### 2022-07-29: Boiler Room, "Fred again..": London, England, UK
+### Fred again.. @ Boiler Room London, United Kingdom 2022-06-22
 
-> 🟪 10/10 | ~1h | 22 tracks | [Fred again..](https://rateyourmusic.com/artist/fred-again)
+> 🟪 10/10 | ~1h | 22 tracks
+> | [Fred again..](https://rateyourmusic.com/artist/fred-again)
+> | https://1001.tl/h8kfrut
 
 ## Streaming in Isolation
 
 ### 2020-07-09: Boiler Room, "Dito"
 
-> 🟨 6/10 | ~1h | 15 tracks | [Dito](https://rateyourmusic.com/artist/dito)
+> 🟨 6/10 | ~1h | 15 tracks
+> | [Dito](https://rateyourmusic.com/artist/dito)

@@ -13,86 +13,122 @@
 
 ## 31.12.2020
 
-### 2020-12-31: Tomorrowland, "31.12.2020: Netsky"
+### Netsky @ Planaxis Stage, Tomorrowland NYE Edition 2020-12-31
 
-> 🟩 8/10 | ~1h | 30 tracks | [Netsky](https://rateyourmusic.com/artist/netsky)
+> 🟩 8/10 | ~1h | 30 tracks
+> | [Netsky](https://rateyourmusic.com/artist/netsky)
+> | https://1001.tl/1nfbg7ut
 
 ## Around the World 2020
 
 ### 2020-07-25: Tomorrowland, "Around the World 2020: Cellini"
 
-> 🟨 5/10 | ~1h | 10 tracks | [Cellini](https://rateyourmusic.com/artist/cellini)
+> 🟨 5/10 | ~1h | 10 tracks
+> | [Cellini](https://rateyourmusic.com/artist/cellini)
 
 ### 2020-07-25: Tomorrowland, "Around the World 2020: Mr. E"
 
-> 🟨 6/10 | ~1h | 37 tracks | [Mr. E](https://rateyourmusic.com/artist/mr-e-1)
+> 🟨 6/10 | ~1h | 37 tracks
+> | [Mr. E](https://rateyourmusic.com/artist/mr-e-1)
 
-### 2020-07-25: Tomorrowland, "Around the World 2020: Netsky"
+### Robin Schulz @ Elixir Club Stage, Tomorrowland Around The World 2020-07-25
 
-> 🟩 7/10 | ~1h | 24 tracks | [Netsky](https://rateyourmusic.com/artist/netsky)
+> 🟨 6/10 | ~1h | 28 tracks
+> | [Robin Schulz](https://rateyourmusic.com/artist/robin-schulz)
+> | https://1001.tl/2ulhh2ut
 
-### 2020-07-25: Tomorrowland, "Around the World 2020: Robin Schulz"
+### Netsky @ Cave, Tomorrowland Around The World 2020-07-26
 
-> 🟨 6/10 | ~1h | 28 tracks | [Robin Schulz](https://rateyourmusic.com/artist/robin-schulz)
+> 🟩 7/10 | ~1h | 24 tracks
+> | [Netsky](https://rateyourmusic.com/artist/netsky)
+> | https://1001.tl/28w79h8k
 
 ## Around the World 2021
 
-### 2021-07-16: Tomorrowland, "Around the World 2021: Angerfist"
+### Angerfist @ The Wall, Tomorrowland Around The World 2021-07-17
 
-> 🟩 8/10 | ~1h | 22 tracks | [Angerfist](https://rateyourmusic.com/artist/angerfist)
+> 🟩 8/10 | ~1h | 22 tracks
+> | [Angerfist](https://rateyourmusic.com/artist/angerfist)
+> | https://1001.tl/29vysxs9
 
-### 2021-07-16: Tomorrowland, "Around the World 2021: Fox Stevenson"
+### Fox Stevenson @ Cave, Tomorrowland Around The World 2021-07-17
 
-> 🟩 7/10 | ~1h | 33 tracks | [Fox Stevenson](https://rateyourmusic.com/artist/fox-stevenson)
+> 🟩 7/10 | ~1h | 33 tracks
+> | [Fox Stevenson](https://rateyourmusic.com/artist/fox-stevenson)
+> | https://1001.tl/1b6pruf1
 
-### 2021-07-16: Tomorrowland, "Around the World 2021: Koven"
+### Koven @ Cave, Tomorrowland Around The World 2021-07-17
 
-> 🟨 6/10 | ~1h | 29 tracks | [Koven](https://rateyourmusic.com/artist/koven-1)
+> 🟨 6/10 | ~1h | 29 tracks
+> | [Koven](https://rateyourmusic.com/artist/koven-1)
+> | https://1001.tl/2vl6jwtt
 
-### 2021-07-16: Tomorrowland, "Around the World 2021: Sam Feldt"
+### Sam Feldt @ Mainstage, Tomorrowland Around The World 2021-07-17
 
-> 🟩 7/10 | ~1h | 25 tracks | [Sam Feldt](https://rateyourmusic.com/artist/sam-feldt)
+> 🟩 7/10 | ~1h | 25 tracks
+> | [Sam Feldt](https://rateyourmusic.com/artist/sam-feldt)
+> | https://1001.tl/29vymmut
 
-### 2021-07-16: Tomorrowland, "Around the World 2021: Sound Rush"
+### Sound Rush @ The Wall, Tomorrowland Around The World 2021-07-17
 
-> 🟩 8/10 | ~1h | 16 tracks | [Sound Rush](https://rateyourmusic.com/artist/sound-rush)
+> 🟩 8/10 | ~1h | 16 tracks
+> | [Sound Rush](https://rateyourmusic.com/artist/sound-rush)
+> | https://1001.tl/1hthtp41
 
 ## Tomorrowland 2022
 
-### 2022-07-15: Tomorrowland, "Atmosphere, Weekend 1: Charlotte de Witte"
+### Paris Hilton @ Smash The House Stage, Tomorrowland Weekend 1, Belgium 2019-07-21
 
-> 🟩 7/10 | ~1h | [Charlotte de Witte](https://rateyourmusic.com/artist/charlotte-de-witte)
+> 🟨 6/10 | ~1h
+> | [Paris Hilton](https://rateyourmusic.com/artist/paris-hilton)
+> | https://1001.tl/sf6uvjt
 
-### 2022-07-15: Tomorrowland, "Library, Weekend 1: Paris Hilton"
+### Charlotte de Witte @ Atmosphere Stage, Tomorrowland Weekend 1, Belgium 2022-07-15
 
-> 🟨 6/10 | ~1h | [Paris Hilton](https://rateyourmusic.com/artist/paris-hilton)
+> 🟩 7/10 | ~1h
+> | [Charlotte de Witte](https://rateyourmusic.com/artist/charlotte-de-witte)
+> | https://1001.tl/1u3cmhmk
 
-### 2022-07-15: Tomorrowland, "Mainstage, Weekend 2: Alan Walker"
+### Alan Walker @ Mainstage, Tomorrowland Weekend 2, Belgium 2022-07-22
 
-> 🟨 5/10 | ~1h | [Alan Walker](https://rateyourmusic.com/artist/alan-walker)
+> 🟨 5/10 | ~1h
+> | [Alan Walker](https://rateyourmusic.com/artist/alan-walker)
+> | https://1001.tl/ug451c9
 
-### 2022-07-15: Tomorrowland, "Mainstage, Weekend 2: Armin van Buuren"
+### Armin van Buuren @ Mainstage, Tomorrowland Weekend 2, Belgium 2022-07-22
 
-> 🟧 4/10 | ~1h | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> 🟧 4/10 | ~1h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> | https://1001.tl/1f25m2jt
 
 ## Winter 2022
 
-### 2022-03-19: Tomorrowland, "Winter 2022: Cage: Netsky"
+### Netsky @ The Cage, Tomorrowland Winter, France 2022-03-20
 
-> 🟩 8/10 | ~1h | [Netsky](https://rateyourmusic.com/artist/netsky)
+> 🟩 8/10 | ~1h
+> | [Netsky](https://rateyourmusic.com/artist/netsky)
+> | https://1001.tl/15m2ubxk
 
-### 2022-03-19: Tomorrowland, "Winter 2022: Cage: Sub Zero Project"
+### Armin van Buuren @ Mainstage, Tomorrowland Winter, France 2022-03-23
 
-> 🟩 8/10 | ~1h | [Sub Zero Project](https://rateyourmusic.com/artist/sub-zero-project)
+> 🟨 6/10 | ~1h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> | https://1001.tl/2vmmg12t
 
-### 2022-03-19: Tomorrowland, "Winter 2022: Crystal Garden: Netsky"
+### Sub Zero Project @ The Cage, Tomorrowland Winter, France 2022-03-23
 
-> 🟩 7/10 | ~1h | [Netsky](https://rateyourmusic.com/artist/netsky)
+> 🟩 8/10 | ~1h
+> | [Sub Zero Project](https://rateyourmusic.com/artist/sub-zero-project)
+> | https://1001.tl/21l8pw81
 
-### 2022-03-19: Tomorrowland, "Winter 2022: Mainstage: Armin van Buuren"
+### Netsky @ Crystal Garden, Tomorrowland Winter, France 2022-03-25
 
-> 🟨 6/10 | ~1h | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> 🟩 7/10 | ~1h
+> | [Netsky](https://rateyourmusic.com/artist/netsky)
+> | https://1001.tl/1v0k40j9
 
-### 2022-03-19: Tomorrowland, "Winter 2022: Mainstage: Mike Williams"
+### Mike Williams @ Mainstage, Tomorrowland Weekend 2, Belgium 2022-07-22
 
-> 🟩 7/10 | ~1h | [Mike Williams](https://rateyourmusic.com/artist/mike-williams)
+> 🟩 7/10 | ~1h
+> | [Mike Williams](https://rateyourmusic.com/artist/mike-williams)
+> | https://1001.tl/266urzbt

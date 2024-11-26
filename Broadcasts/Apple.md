@@ -13,6 +13,7 @@
 
 > 🟥 1/10 | 1h11m | 20 tracks
 > | [AceMoMa](https://rateyourmusic.com/artist/acemoma)
+
 ### CamelPhat - Apple Music Mixes NYE 2021 DJ Mix 2020-12-23
 
 > 🟧 3/10 | 1h17m | 15 tracks
@@ -87,7 +88,7 @@
 ### Jamie Jones - Apple Music Mixes NYE 2021 DJ Mix 2020-12-23
 
 > 🟥 1/10 | 1h01m | 19 tracks
-> [Jamie Jones](https://rateyourmusic.com/artist/jamie_jones_f1)
+> | [Jamie Jones](https://rateyourmusic.com/artist/jamie_jones_f1)
 > | https://1001.tl/14lnnt2k
 
 ### LOGIC1000 - Apple Music Mixes NYE 2021 DJ Mix 2020-12-23
@@ -150,4 +151,3 @@
 > 🟥 1/10 | 1h44m | 17 tracks
 > | [Âme](https://rateyourmusic.com/artist/ame)
 > | https://1001.tl/247xl2ck
-

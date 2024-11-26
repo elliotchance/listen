@@ -9,80 +9,111 @@
 
 ## 2021
 
-### 2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: 12th Planet Throwback Set"
+### KAYZO & Knife Party @ bassPOD, EDC Las Vegas, United States 2021-10-22
 
-> 🟥 2/10 | ~1h | [12th Planet](https://rateyourmusic.com/artist/12th-planet)
+> 🟦 9/10 | ~1h
+> | [Kayzo](https://rateyourmusic.com/artist/kayzo)
+> | [Knife Party](https://rateyourmusic.com/artist/knife-party)
+> | https://1001.tl/2gkh8l59
 
-### 2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: Kayzo b2b Knife Party"
+### 12th Planet @ bassPOD, EDC Las Vegas Throwback Set, United States 2021-10-23
 
-> 🟦 9/10 | ~1h | [Kayzo](https://rateyourmusic.com/artist/kayzo); [Knife Party](https://rateyourmusic.com/artist/knife-party)
+> 🟥 2/10 | ~1h
+> | [12th Planet](https://rateyourmusic.com/artist/12th-planet)
+> | https://1001.tl/2n49wjyt
 
-### 2021-10-26: Electric Daisy Carnival, "Bass Pod Stage: Pendulum"
+### Dr. Fresch @ stereoBLOOM, EDC Las Vegas, United States 2021-10-23
 
-> 🟩 8/10 | ~1h | [Pendulum](https://rateyourmusic.com/artist/pendulum)
+> 🟩 7/10 | ~1h
+> | [Dr. Fresch](https://rateyourmusic.com/artist/dr-fresch)
+> | https://1001.tl/1nh0hlqk
 
-### 2021-10-26: Electric Daisy Carnival, "Cosmic Meadow Stage: Knife Party"
+### Jason Ross @ kineticFIELD, EDC Las Vegas, United States 2021-10-23
 
-> 🟦 9/10 | ~1h | [Knife Party](https://rateyourmusic.com/artist/knife-party)
+> 🟩 8/10 | ~1h
+> | [Jason Ross](https://rateyourmusic.com/artist/jason-ross)
+> | https://1001.tl/1u1uk5mk
 
-### 2021-10-26: Electric Daisy Carnival, "Cosmic Meadow Stage: William Black"
+### Pendulum @ bassPOD, EDC Las Vegas, United States 2021-10-23
 
-> 🟩 8/10 | ~1h | [William Black](https://rateyourmusic.com/artist/william-black)
+> 🟩 8/10 | ~1h
+> | [Pendulum](https://rateyourmusic.com/artist/pendulum)
+> | https://1001.tl/1d2thnh1
 
-### 2021-10-26: Electric Daisy Carnival, "Kinetic Field Stage: Jason Ross"
+### SAYMYNAME @ wasteLAND, EDC Las Vegas, United States 2021-10-23
 
-> 🟩 8/10 | ~1h | [Jason Ross](https://rateyourmusic.com/artist/jason-ross)
-
-### 2021-10-26: Electric Daisy Carnival, "Kinetic Field Stage: Kygo"
-
-> 🟨 6/10 | ~1h | [Kygo](https://rateyourmusic.com/artist/kygo)
-
-### 2021-10-26: Electric Daisy Carnival, "Quantum Valley Stage: ALPHA 9"
-
-> 🟩 7/10 | ~1h | [ALPHA 9](https://rateyourmusic.com/artist/alpha-9)
-
-### 2021-10-26: Electric Daisy Carnival, "Stereo Bloom Stage: Dr. Fresch"
-
-> 🟩 7/10 | ~1h | [Dr. Fresch](https://rateyourmusic.com/artist/dr-fresch)
-
-### 2021-10-26: Electric Daisy Carnival, "Stereo Bloom Stage: Qrion"
-
-> 🟨 6/10 | ~1h | [Qrion](https://rateyourmusic.com/artist/qrion)
-
-### 2021-10-26: Electric Daisy Carnival, "Waste Land Stage: SAYMYNAME Hardstyle Set"
-
-> 🟩 7/10 | ~1h | [SAYMYNAME](https://rateyourmusic.com/artist/saymyname)
+> 🟩 7/10 | ~1h
+> | [SAYMYNAME](https://rateyourmusic.com/artist/saymyname)
+> | https://1001.tl/29whd5s9
 
 # 2022
 
-### 2022-06-29: Electric Daisy Carnival, "Circuit Grounds Stage: Jason Ross"
+### ALPHA 9 @ quantumVALLEY, EDC Las Vegas, United States 2021-10-24
 
-> 🟩 7/10 | ~1h | [Jason Ross](https://rateyourmusic.com/artist/jason-ross)
+> 🟩 7/10 | ~1h
+> | [ALPHA 9](https://rateyourmusic.com/artist/alpha-9)
+> | https://1001.tl/dfjn3uk
 
-### 2022-06-29: Electric Daisy Carnival, "Circuit Grounds Stage: Tinlicker"
+### Knife Party @ cosmicMEADOW, EDC Las Vegas, United States 2021-10-24
 
-> 🟩 8/10 | ~1h | [Tinlicker](https://rateyourmusic.com/artist/tinlicker)
+> 🟦 9/10 | ~1h
+> | [Knife Party](https://rateyourmusic.com/artist/knife-party)
+> | https://1001.tl/1b767tx9
 
-### 2022-06-29: Electric Daisy Carnival, "Cosmic Meadow Stage: MitiS"
+### Kygo @ kineticFIELD, EDC Las Vegas, United States 2021-10-24
 
-> 🟪 10/10 | ~1h | [MitiS](https://rateyourmusic.com/artist/mitis)
+> 🟨 6/10 | ~1h
+> | [Kygo](https://rateyourmusic.com/artist/kygo)
+> | https://1001.tl/14nd5hl9
 
-### 2022-06-29: Electric Daisy Carnival, "Cosmic Meadow Stage: Qrion"
+### Qrion @ stereoBLOOM, EDC Las Vegas, United States 2021-10-24
 
-> 🟨 6/10 | ~1h | [Qrion](https://rateyourmusic.com/artist/qrion)
+> 🟨 6/10 | ~1h
+> | [Qrion](https://rateyourmusic.com/artist/qrion)
+> | https://1001.tl/1qbnbbr9
 
-### 2022-06-29: Electric Daisy Carnival, "Kinetic Field Stage: Illenium"
+### William Black @ cosmicMEADOW, EDC Las Vegas, United States 2021-10-24
 
-> 🟦 9/10 | ~1h | [Illenium](https://rateyourmusic.com/artist/illenium)
+> 🟩 8/10 | ~1h
+> | [William Black](https://rateyourmusic.com/artist/william-black)
+> | https://1001.tl/28yrcsft
 
-### 2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: Andrew Rayel"
+### Andrew Rayel @ quantumVALLEY, EDC Las Vegas, United States 2022-06-29
 
-> 🟨 6/10 | ~1h | [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel)
+> 🟨 6/10 | ~1h
+> | [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel)
 
-### 2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: Matt Fax"
+### Illenium @ kineticFIELD, EDC Las Vegas, United States 2022-06-29
 
-> 🟩 7/10 | ~1h | [Matt Fax](https://rateyourmusic.com/artist/matt_fax)
+> 🟦 9/10 | ~1h
+> | [Illenium](https://rateyourmusic.com/artist/illenium)
 
-### 2022-06-29: Electric Daisy Carnival, "Quantum Valley Stage: Tritonal"
+### Jason Ross @ circuitGROUNDS, EDC Las Vegas, United States 2022-06-29
 
-> 🟩 8/10 | ~1h | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> 🟩 7/10 | ~1h
+> | [Jason Ross](https://rateyourmusic.com/artist/jason-ross)
+
+### Matt Fax @ quantumVALLEY, EDC Las Vegas, United States 2022-06-29
+
+> 🟩 7/10 | ~1h
+> | [Matt Fax](https://rateyourmusic.com/artist/matt_fax)
+
+### MitiS @ cosmicMEADOW, EDC Las Vegas, United States 2022-06-29
+
+> 🟪 10/10 | ~1h
+> | [MitiS](https://rateyourmusic.com/artist/mitis)
+
+### Qrion @ cosmicMEADOW, EDC Las Vegas, United States 2022-06-29
+
+> 🟨 6/10 | ~1h
+> | [Qrion](https://rateyourmusic.com/artist/qrion)
+
+### Tinlicker @ circuitGROUNDS, EDC Las Vegas, United States 2022-06-29
+
+> 🟩 8/10 | ~1h
+> | [Tinlicker](https://rateyourmusic.com/artist/tinlicker)
+
+### Tritonal @ quantumVALLEY, EDC Las Vegas, United States 2022-06-29
+
+> 🟩 8/10 | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
