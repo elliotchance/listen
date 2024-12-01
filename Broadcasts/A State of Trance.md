@@ -2,33 +2,32 @@
 
 <!-- toc:start -->
 
-|               | 458 mixes | 953h43m | 3.52/10 | Notes                |
-| ------------- | --------- | ------- | ------- | -------------------- |
-| [2001](#2001) | 29 mixes  | 56h24m  | 0.00/10 | #0 - #28 (Complete)  |
-| [2002](#2002) | 50 mixes  | 103h45m | 0.00/10 | #29 - #78 (Complete) |
-| [2003](#2003) | 14 mixes  | 30h05m  | 0.00/10 | #79 - #129           |
-| [2004](#2004) | 7 mixes   | 18h52m  | 0.00/10 | #130 - #181          |
-| [2005](#2005) | 17 mixes  | 34h45m  | 0.00/10 | #182 - #229          |
-| [2006](#2006) | 4 mixes   | 8h01m   | 0.00/10 | #230 - #281          |
-| [2007](#2007) | 19 mixes  | 38h38m  | 0.00/10 | #282 - #332          |
-| [2008](#2008) | 2 mixes   | 4h01m   | 0.00/10 | #333 - #384          |
-| [2009](#2009) | 19 mixes  | 38h17m  | 0.00/10 | #385 - #437          |
-| [2010](#2010) | 9 mixes   | 18h14m  | 0.00/10 | #438 - #489          |
-| [2011](#2011) | 14 mixes  | 28h02m  | 0.00/10 | #490 - #541          |
-| [2012](#2012) | 4 mixes   | 8h02m   | 0.00/10 | #542 - #593          |
-| [2013](#2013) | 12 mixes  | 24h12m  | 0.00/10 | #594 - #645          |
-| [2014](#2014) | 3 mixes   | 6h03m   | 0.00/10 | #646 - #695          |
-| [2015](#2015) | 13 mixes  | 26h05m  | 0.00/10 | #696 - #746          |
-| [2016](#2016) | 6 mixes   | 12h01m  | 0.00/10 | #747 - #796          |
-| [2017](#2017) | 13 mixes  | 28h05m  | 0.00/10 | #797 - #846          |
-| [2018](#2018) | 11 mixes  | 24h08m  | 0.00/10 | #847 - #896          |
-| [2019](#2019) | 11 mixes  | 23h18m  | 0.00/10 | #897 - #946          |
-| [2020](#2020) | 8 mixes   | 16h07m  | 0.00/10 | #947 - #997          |
-| [2021](#2021) | 52 mixes  | 115h47m | 0.00/10 | #998 - #1049         |
-| [2022](#2022) | 52 mixes  | 112h51m | 0.00/10 | #1050 - #1101        |
-| [2023](#2023) | 52 mixes  | 104h    | 0.00/10 | #1102 - #1153        |
-| [2024](#2024) | 37 mixes  | 74h     | 0.00/10 | #1154 -              |
-
+| | 458 mixes | 953h43m | 3.52/10 | Notes |
+| - | - | - | - | - |
+| [2001](#2001) | 29 mixes | 56h24m | 0.00/10 | #0 - #28 (Complete) |
+| [2002](#2002) | 50 mixes | 103h45m | 0.00/10 | #29 - #78 (Complete) |
+| [2003](#2003) | 14 mixes | 30h05m | 0.00/10 | #79 - #129 |
+| [2004](#2004) | 7 mixes | 18h52m | 0.00/10 | #130 - #181 |
+| [2005](#2005) | 17 mixes | 34h45m | 0.00/10 | #182 - #229 |
+| [2006](#2006) | 4 mixes | 8h01m | 0.00/10 | #230 - #281 |
+| [2007](#2007) | 19 mixes | 38h38m | 0.00/10 | #282 - #332 |
+| [2008](#2008) | 2 mixes | 4h01m | 0.00/10 | #333 - #384 |
+| [2009](#2009) | 19 mixes | 38h17m | 0.00/10 | #385 - #437 |
+| [2010](#2010) | 9 mixes | 18h14m | 0.00/10 | #438 - #489 |
+| [2011](#2011) | 14 mixes | 28h02m | 0.00/10 | #490 - #541 |
+| [2012](#2012) | 4 mixes | 8h02m | 0.00/10 | #542 - #593 |
+| [2013](#2013) | 12 mixes | 24h12m | 0.00/10 | #594 - #645 |
+| [2014](#2014) | 3 mixes | 6h03m | 0.00/10 | #646 - #695 |
+| [2015](#2015) | 13 mixes | 26h05m | 0.00/10 | #696 - #746 |
+| [2016](#2016) | 6 mixes | 12h01m | 0.00/10 | #747 - #796 |
+| [2017](#2017) | 13 mixes | 28h05m | 0.00/10 | #797 - #846 |
+| [2018](#2018) | 11 mixes | 24h08m | 0.00/10 | #847 - #896 |
+| [2019](#2019) | 11 mixes | 23h18m | 0.00/10 | #897 - #946 |
+| [2020](#2020) | 8 mixes | 16h07m | 0.00/10 | #947 - #997 |
+| [2021](#2021) | 52 mixes | 115h47m | 0.00/10 | #998 - #1049 (Complete) |
+| [2022](#2022) | 52 mixes | 112h51m | 0.00/10 | #1050 - #1101 (Complete) |
+| [2023](#2023) | 52 mixes | 104h | 0.00/10 | #1102 - #1153 (Complete) |
+| [2024](#2024) | 37 mixes | 74h | 0.00/10 | #1154 - |
 <!-- toc:end -->
 
 ## 2001
@@ -2792,7 +2791,7 @@
 
 ## 2021
 
-> #998 - #1049
+> #998 - #1049 (Complete)
 
 ### Armin van Buuren & Ruben de Ronde & Dennis Sheperd - A State Of Trance 998 2021-01-07
 
@@ -2942,6 +2941,16 @@
 > | [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
 > | [Robbie Seed](https://rateyourmusic.com/artist/robbie-seed)
 > | https://1001.tl/nspnfd1
+
+### Armin van Buuren & Ruben de Ronde & Chicane - A State Of Trance 1013 2021-04-22
+
+> 🟥 2/10 | ~2h01m | 31 tracks
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
+> | [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
+> | [Chicane](https://rateyourmusic.com/artist/chicane)
+> | https://1001.tl/1fxd7wfk
+
+- Change the World - [Ben Gold](https://rateyourmusic.com/artist/ben_gold) & [Allen Watts](https://rateyourmusic.com/artist/allen_watts)
 
 ### Armin van Buuren & Ruben de Ronde & Purple Haze & John Askew - A State Of Trance 1014 2021-04-29
 
@@ -3331,19 +3340,9 @@
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 > | https://1001.tl/1zp0tr89
 
-### Armin van Buuren & Ruben de Ronde & Chicane - A State Of Trance 1013
-
-> 🟥 2/10 | ~2h01m | 31 tracks
-> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
-> | [Ruben de Ronde](https://rateyourmusic.com/artist/ruben_de_ronde)
-> | [Chicane](https://rateyourmusic.com/artist/chicane)
-> | https://1001.tl/1fxd7wfk
-
-- Change the World - [Ben Gold](https://rateyourmusic.com/artist/ben_gold) & [Allen Watts](https://rateyourmusic.com/artist/allen_watts)
-
 ## 2022
 
-> #1050 - #1101
+> #1050 - #1101 (Complete)
 
 ### Armin van Buuren & Ruben de Ronde & Ferry Corsten - A State Of Trance 1050 2022-01-06
 
@@ -3928,7 +3927,7 @@
 
 ## 2023
 
-> #1102 - #1153
+> #1102 - #1153 (Complete)
 
 ### Armin van Buuren & Ruben de Ronde & Ferry Corsten - A State Of Trance 1102 2023-01-05
 
