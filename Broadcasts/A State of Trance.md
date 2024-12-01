@@ -2,7 +2,7 @@
 
 <!-- toc:start -->
 
-| | 449 mixes | 935h43m | 3.52/10 | Notes |
+| | 458 mixes | 953h43m | 3.52/10 | Notes |
 | - | - | - | - | - |
 | [2001](#2001) | 29 mixes | 56h24m | 0.00/10 | #0 - #28 (Complete) |
 | [2002](#2002) | 50 mixes | 103h45m | 0.00/10 | #29 - #78 (Complete) |
@@ -20,7 +20,7 @@
 | [2014](#2014) | 3 mixes | 6h03m | 0.00/10 | #646 - #695 |
 | [2015](#2015) | 13 mixes | 26h05m | 0.00/10 | #696 - #746 |
 | [2016](#2016) | 6 mixes | 12h01m | 0.00/10 | #747 - #796 |
-| [2017](#2017) | 4 mixes | 10h05m | 0.00/10 | #797 - #846 |
+| [2017](#2017) | 13 mixes | 28h05m | 0.00/10 | #797 - #846 |
 | [2018](#2018) | 11 mixes | 24h08m | 0.00/10 | #847 - #896 |
 | [2019](#2019) | 11 mixes | 23h18m | 0.00/10 | #897 - #946 |
 | [2020](#2020) | 8 mixes | 16h07m | 0.00/10 | #947 - #997 |
@@ -2387,6 +2387,89 @@
 - Exalted - [gerome](#)
 - Fly Away _([M6](https://rateyourmusic.com/artist/m6) Remix)_ - [Vincent de Moor](https://rateyourmusic.com/artist/vincent_de_moor)
 
+### Armin van Buuren - A State Of Trance 802 2017-02-23
+
+> 🟨 5/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/bcq4zj9
+
+- Spectrum - [James Dymond](https://rateyourmusic.com/artist/james_dymond) & [Chris Schweizer](https://rateyourmusic.com/artist/chris-schweizer)
+- Saving Light - [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery) & [STANDERWICK](https://rateyourmusic.com/artist/standerwick) feat. [HALIENE](https://rateyourmusic.com/artist/haliene)
+- Home - [Craig Connelly](https://rateyourmusic.com/artist/craig-connelly) feat. [Sue McLaren](https://rateyourmusic.com/artist/sue-mclaren)
+- Elevate - [Craig Connelly](https://rateyourmusic.com/artist/craig-connelly) feat. [Renny Carroll](#)
+
+### Armin van Buuren - A State Of Trance 803 2017-03-02
+
+> 🟧 3/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/jwbg621
+
+- Forever and a Day _([Giuseppe Ottaviani](https://rateyourmusic.com/artist/giuseppe_ottaviani) Remix)_ - [RAM](https://rateyourmusic.com/artist/ram_f11) feat. [Stine Grove](https://rateyourmusic.com/artist/stine-grove)
+- Saving Light - [Gareth Emery](https://rateyourmusic.com/artist/gareth-emery) & [STANDERWICK](https://rateyourmusic.com/artist/standerwick) feat. [HALIENE](https://rateyourmusic.com/artist/haliene)
+
+### Armin van Buuren - A State Of Trance 804 2017-03-09
+
+> 🟧 3/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/243h1hw9
+
+- Coming Home - [Alex M.O.R.P.H.](https://rateyourmusic.com/artist/alex-m_o_r_p_h) feat. [Kim Kiona](https://rateyourmusic.com/artist/kim-kiona)
+- Bring It Back - [Sholan](https://rateyourmusic.com/artist/sholan)
+
+### Armin van Buuren - A State Of Trance 805 2017-03-16
+
+> 🟥 2/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/d7c1mjk
+
+- Futura - [Waio](https://rateyourmusic.com/artist/waio) & [Bryan Kearney](https://rateyourmusic.com/artist/bryan_kearney_f1)
+
+### Armin van Buuren - A State Of Trance 806 2017-03-23
+
+> 🟩 7/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/1yjpzdt9
+
+- Skylarking - [BT](https://rateyourmusic.com/artist/bt)
+- What Is Loneliness _([Skylex](https://rateyourmusic.com/artist/skylex) Remix)_ - [Airborn](#) & [Bogdan Vix](https://rateyourmusic.com/artist/bogdan-vix) & [KeyPlayer](https://rateyourmusic.com/artist/keyplayer) feat. [Danny Claire](#)
+- Vona - [Ferry Tayle](https://rateyourmusic.com/artist/ferry_tayle) & [Dan Stone](https://rateyourmusic.com/artist/dan_stone)
+- Eclipse - [André Visior](https://rateyourmusic.com/artist/andre_visior) & [Mind X](#)
+- Sunbreaker - [Davey Asprey](https://rateyourmusic.com/artist/davey-asprey)
+- Heliopause - [Robert Nickson](https://rateyourmusic.com/artist/robert_nickson)
+
+### Armin van Buuren - A State Of Trance 807 2017-03-30
+
+> 🟥 2/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/2ffkbc69
+
+- Gravitational Waves _([Second Sine](https://rateyourmusic.com/artist/second-sine) Remix)_ - [Mark Sherry](https://rateyourmusic.com/artist/mark_sherry)
+
+### Armin van Buuren - A State Of Trance 808 2017-04-06
+
+> 🟥 2/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/2l2l7hgk
+
+- How Do I Know - [Andrew Rayel](https://rateyourmusic.com/artist/andrew_rayel) feat. [Jano](https://rateyourmusic.com/artist/jano-3)
+
+### Armin van Buuren - A State Of Trance 809 2017-04-13
+
+> 🟧 3/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/15d2b2g1
+
+- Frozen Grounds - [ilan Bluestone](https://rateyourmusic.com/artist/ilan-bluestone) & [Giuseppe De Luca](https://rateyourmusic.com/artist/giuseppe_de_luca)
+- Escalate - [Will Rees](https://rateyourmusic.com/artist/will-rees)
+
+### Armin van Buuren - A State Of Trance 810 2017-04-20
+
+> 🟥 2/10
+> | ~2h
+> | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren) > https://1001.tl/2vdmwynt
+
+- Children - [David Gravell](https://rateyourmusic.com/artist/david-gravell)
+
 ### Armin van Buuren & Steve Allen - A State Of Trance 844 2017-12-14
 
 > 🟥 2/10 | ~2h03m | 32 tracks
@@ -2408,7 +2491,8 @@
 
 ### Armin van Buuren - A State Of Trance 846 (Yearmix) 2017-12-28
 
-> 🟥 1/10 | 1h59m
+> 🟥 1/10
+> | 1h59m
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 > | https://1001.tl/14gxtj01
 
