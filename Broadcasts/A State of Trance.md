@@ -79,8 +79,8 @@
 > | [Armin van Buuren](https://rateyourmusic.com/artist/armin-van-buuren)
 > | https://1001.tl/1r4r82k
 
-- Into The Night - [4 Strings](https://rateyourmusic.com/artist/4-strings) https://1001.tl/1kn9tf95
-- The Legacy - [Push](https://rateyourmusic.com/artist/push) https://1001.tl/5g7b55
+- Into The Night - [4 Strings](https://rateyourmusic.com/artist/4-strings)
+- The Legacy - [Push](https://rateyourmusic.com/artist/push)
 
 ### Armin van Buuren - A State Of Trance 007 2001-07-27
 
