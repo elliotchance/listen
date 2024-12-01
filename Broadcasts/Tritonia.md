@@ -2,10 +2,10 @@
 
 <!-- toc:start -->
 
-| | 256 mixes | 258h06m | 3.20/10 | Notes |
+| | 267 mixes | 268h06m | 3.15/10 | Notes |
 | - | - | - | - | - |
 | [2013](#2013) | 34 mixes | 34h | 0.00/10 | #1 - #34 (Complete) |
-| [2014](#2014) | 16 mixes | 18h06m | 0.00/10 | #35 - #78 |
+| [2014](#2014) | 27 mixes | 28h06m | 0.00/10 | #35 - #78 |
 | [2015](#2015) | 0 mixes | 0m | 0.00/10 | #79 - #113 |
 | [2016](#2016) | 0 mixes | 0m | 0.00/10 | #114 - #154 |
 | [2017](#2017) | 0 mixes | 0m | 0.00/10 | #155 - #197 |
@@ -262,73 +262,170 @@
 > 🟥 1/10 | 1h1m
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
 
-### Tritonal - Tritonia 040 2014-99-99
+### Tritonal - Tritonia 040 2014-03-03
 
 > 🟥 1/10 | 1h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/2gup069
 
-### Tritonal - Tritonia 041 2014-99-99
+### Tritonal - Tritonia 041 2014-03-10
 
 > 🟥 1/10 | 59m
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/84nhbdk
 
-### Tritonal - Tritonia 042 2014-99-99
+### Tritonal - Tritonia 042 2014-03-17
 
 > 🟥 1/10 | 1h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/8tjdslt
 
-### Tritonal - Tritonia 043 2014-99-99
+### Tritonal - Tritonia 043 2014-03-24
 
 > 🟥 1/10 | 1h2m
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/8zhkupt
 
-### Tritonal - Tritonia 044 2014-99-99
+### Tritonal - Tritonia 044 2014-03-31
 
 > 🟥 1/10 | 1h1m
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/4zc8q9k
 
-### Tritonal - Tritonia 045 2014-99-99
+### Tritonal - Tritonia 045 2014-04-07
 
 > 🟨 5/10 | 1h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/98gnhbt
 
 - @21:34
 - @56:45
 
-### Tritonal - Tritonia 046 2014-99-99
+### Tritonal - Tritonia 046 2014-04-14
 
 > 🟧 3/10 | 1h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/1n3389t
 
 - @1:40
 
-### Tritonal - Tritonia 047 2014-99-99
+### Tritonal - Tritonia 047 2014-04-21
 
 > 🟥 1/10 | 1h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/5u7346t
 
-### Tritonal - Tritonia 048 2014-99-99
+### Tritonal - Tritonia 048 2014-04-28
 
 > 🟥 1/10 | 1h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/5u7j849
 
-### Tritonal - Tritonia 049 2014-99-99
+### Tritonal - Tritonia 049 2014-05-01
 
 > 🟧 4/10 | 2h
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/8mnx0dt
 
 - @18:00
 - @35:00
 - @1:21:30
 
-### Tritonal - Tritonia 050 2014-99-99
+### Paris Blohm @ Tritonal's Tritonia 050 (The Wiltern Los Angeles, United States) 2014-05-02
 
-> 🟧 4/10 | 2h
+> 🟩 7/10
+> | ~1h
+> | [Paris Blohm](https://rateyourmusic.com/artist/paris_blohm)
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/4wgd849
 
 - @43:00 - bullet that saved me
 - @1:22:00 - bastiel
 - @1:48:45 - bruno mars
+
+### Tritonal - Tritonia 051 2014-05-26
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/7lxjuu9
+
+### Tritonal - Tritonia 052 2014-06-02
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/8tprr99
+
+### Tritonal - Tritonia 053 2014-06-09
+
+> 🟧 3/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/6976l31
+
+- @38:46 - nero
+
+### Tritonal - Tritonia 054 2014-06-16
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/7ywfvj1
+
+### Tritonal - Tritonia 055 2014-06-30
+
+> 🟨 5/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/5xc7q3k
+
+- @23:20
+- @48:37 - oceanlab
+
+### Tritonal - Tritonia 056 2014-07-07
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/1cc5zht
+
+### Tritonal - Tritonia 057 2014-07-14
+
+> 🟧 3/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/3sus1qt
+
+- @5:30
+
+### Tritonal - Tritonia 058 2014-07-21
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/5rg0t8t
+
+### Tritonal - Tritonia 059 2014-07-28
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/8wt44r9
+
+### Tritonal - Tritonia 060 2014-08-04
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/8tu8j39
+
+### Tritonal - Tritonia 061 2014-08-09
+
+> 🟥 1/10
+> | ~1h
+> | [Tritonal](https://rateyourmusic.com/artist/tritonal)
+> | https://1001.tl/370lw09
 
 ## 2015
 
@@ -1906,3 +2003,10 @@
 > | [Tritonal](https://rateyourmusic.com/artist/tritonal)
 
 - Waterfall - [Klur](https://rateyourmusic.com/artist/klur)
+
+tritonia 492
+When It's Easy (Tritonia 492) [feat. Kazmyn] [Mixed] 2:41 Modera & Andrew Burrow Tritonia 492 House 2
+done
+
+tritonia 493
+done

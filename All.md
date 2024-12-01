@@ -1,4 +1,4 @@
-| | 1007 mixes | 1540h40m | |
+| | 1018 mixes | 1550h40m | |
 | - | - | - | - |
 | [A State of Trance Festival](Broadcasts/A%20State%20of%20Trance%20Festival.md) | 65 mixes | 79h33m | 6.15/10 |
 | [A State of Trance](Broadcasts/A%20State%20of%20Trance.md) | 464 mixes | 965h43m | 3.51/10 |
@@ -12,7 +12,7 @@
 | [Phoenix Radio](Broadcasts/Phoenix%20Radio.md) | 20 mixes | 20h | 3.15/10 |
 | [Sophie Sugars Symphony](Broadcasts/Sophie%20Sugars%20Symphony.md) | 13 mixes | 13h | 4.54/10 |
 | [Tomorrowland](Broadcasts/Tomorrowland.md) | 19 mixes | 19h | 6.63/10 |
-| [Tritonia](Broadcasts/Tritonia.md) | 256 mixes | 258h06m | 3.20/10 |
+| [Tritonia](Broadcasts/Tritonia.md) | 267 mixes | 268h06m | 3.15/10 |
 
 ---
 
@@ -692,20 +692,31 @@
 1. 🟧 `Boiler Room, "ENA": Tokyo, Japan 2015-01-29` (1h)
 1. 🟩 `Adriatique @ Tulum Diynamic Takeover, Boiler Room, The BPM Festival Mexico 2015-01-14` (1h, [1001.tl](https://1001.tl/502u0rt))
 1. 🟩 `Acid Pauli @ Boiler Room Tulum 2015-01-12` (1h, [1001.tl](https://1001.tl/2n8b8yq1))
-1. 🟧 `Tritonal - Tritonia 050 2014-99-99` (2h)
-1. 🟧 `Tritonal - Tritonia 049 2014-99-99` (2h)
-1. 🟥 `Tritonal - Tritonia 048 2014-99-99` (1h)
-1. 🟥 `Tritonal - Tritonia 047 2014-99-99` (1h)
-1. 🟧 `Tritonal - Tritonia 046 2014-99-99` (1h)
-1. 🟨 `Tritonal - Tritonia 045 2014-99-99` (1h)
-1. 🟥 `Tritonal - Tritonia 044 2014-99-99` (1h01m)
-1. 🟥 `Tritonal - Tritonia 043 2014-99-99` (1h02m)
-1. 🟥 `Tritonal - Tritonia 042 2014-99-99` (1h)
-1. 🟥 `Tritonal - Tritonia 041 2014-99-99` (59m)
-1. 🟥 `Tritonal - Tritonia 040 2014-99-99` (1h)
 1. 🟥 `Armin van Buuren - A State Of Trance 695 (Year Mix 2014) 2014-12-19` (2h03m, [1001.tl](https://1001.tl/7fdn941))
 1. 🟥 `Armin van Buuren - A State of Trance 681 2014-09-18` (1h58m, [1001.tl](https://1001.tl/5ukkr7t))
+1. 🟥 `Tritonal - Tritonia 061 2014-08-09` (1h, [1001.tl](https://1001.tl/370lw09))
+1. 🟥 `Tritonal - Tritonia 060 2014-08-04` (1h, [1001.tl](https://1001.tl/8tu8j39))
+1. 🟥 `Tritonal - Tritonia 059 2014-07-28` (1h, [1001.tl](https://1001.tl/8wt44r9))
+1. 🟥 `Tritonal - Tritonia 058 2014-07-21` (1h, [1001.tl](https://1001.tl/5rg0t8t))
+1. 🟧 `Tritonal - Tritonia 057 2014-07-14` (1h, [1001.tl](https://1001.tl/3sus1qt))
+1. 🟥 `Tritonal - Tritonia 056 2014-07-07` (1h, [1001.tl](https://1001.tl/1cc5zht))
+1. 🟨 `Tritonal - Tritonia 055 2014-06-30` (1h, [1001.tl](https://1001.tl/5xc7q3k))
+1. 🟥 `Tritonal - Tritonia 054 2014-06-16` (1h, [1001.tl](https://1001.tl/7ywfvj1))
+1. 🟧 `Tritonal - Tritonia 053 2014-06-09` (1h, [1001.tl](https://1001.tl/6976l31))
+1. 🟥 `Tritonal - Tritonia 052 2014-06-02` (1h, [1001.tl](https://1001.tl/8tprr99))
+1. 🟥 `Tritonal - Tritonia 051 2014-05-26` (1h, [1001.tl](https://1001.tl/7lxjuu9))
+1. 🟩 `Paris Blohm @ Tritonal's Tritonia 050 (The Wiltern Los Angeles, United States) 2014-05-02` (1h, [1001.tl](https://1001.tl/4wgd849))
+1. 🟧 `Tritonal - Tritonia 049 2014-05-01` (2h, [1001.tl](https://1001.tl/8mnx0dt))
+1. 🟥 `Tritonal - Tritonia 048 2014-04-28` (1h, [1001.tl](https://1001.tl/5u7j849))
+1. 🟥 `Tritonal - Tritonia 047 2014-04-21` (1h, [1001.tl](https://1001.tl/5u7346t))
+1. 🟧 `Tritonal - Tritonia 046 2014-04-14` (1h, [1001.tl](https://1001.tl/1n3389t))
+1. 🟨 `Tritonal - Tritonia 045 2014-04-07` (1h, [1001.tl](https://1001.tl/98gnhbt))
+1. 🟥 `Tritonal - Tritonia 044 2014-03-31` (1h01m, [1001.tl](https://1001.tl/4zc8q9k))
+1. 🟥 `Tritonal - Tritonia 043 2014-03-24` (1h02m, [1001.tl](https://1001.tl/8zhkupt))
+1. 🟥 `Tritonal - Tritonia 042 2014-03-17` (1h, [1001.tl](https://1001.tl/8tjdslt))
 1. 🟥 `2014-03-12: Sophie Sugar's Symphony #27` (1h)
+1. 🟥 `Tritonal - Tritonia 041 2014-03-10` (59m, [1001.tl](https://1001.tl/84nhbdk))
+1. 🟥 `Tritonal - Tritonia 040 2014-03-03` (1h, [1001.tl](https://1001.tl/2gup069))
 1. 🟥 `Tritonal - Tritonia 039 2014-02-24` (1h01m)
 1. 🟥 `Tritonal - Tritonia 038 2014-02-17` (1h)
 1. 🟪 `Protoculture @ 650 New Horizons, A State Of Trance Festival, ASOT Invites Stage, Jaarbeurs Utrecht, Netherlands 2014-02-15` (1h15m, [1001.tl](https://1001.tl/6rwl701))
