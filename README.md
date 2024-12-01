@@ -1,9 +1,9 @@
 [All Mixes](All.md)
 
-| | 1001 mixes | 1528h40m | |
+| | 1007 mixes | 1540h40m | |
 | ---------- | ----- | -------- | ---------- |
 | [A State of Trance Festival](Broadcasts/A%20State%20of%20Trance%20Festival.md) | 65 mixes | 79h33m | 6.15/10 |
-| [A State of Trance](Broadcasts/A%20State%20of%20Trance.md) | 458 mixes | 953h43m | 3.52/10 |
+| [A State of Trance](Broadcasts/A%20State%20of%20Trance.md) | 464 mixes | 965h43m | 3.51/10 |
 | [Apple](Broadcasts/Apple.md) | 21 mixes | 23h38m | 2.05/10 |
 | [Boiler Room](Broadcasts/Boiler%20Room.md) | 19 mixes | 19h | 6.21/10 |
 | [Electric Daisy Carnival](Broadcasts/Electric%20Daisy%20Carnival.md) | 19 mixes | 19h | 7.26/10 |
